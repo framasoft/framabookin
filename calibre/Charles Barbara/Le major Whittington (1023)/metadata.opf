@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1023</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1644a8e5-8493-47f2-ab55-015b80ed7175</dc:identifier>
+        <dc:title>Le major Whittington</dc:title>
+        <dc:creator opf:file-as="Barbara, Charles" opf:role="aut">Charles Barbara</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1860-03-05T23:00:00+00:00</dc:date>
+        <dc:description>Extrait : La porte s'ouvrit d'elle-même. A peine le magistrat et les deux secrétaires qu'il avait emmenés avec lui furent-ils entrés, que la porte se referma comme elle s'était ouverte, par un mécanisme invisible. Tout ce qu'ils embrassèrent d'un coup d'œil était étrange, la maison, le jardin, jusqu'au terrain qu'ils avaient sous les pieds. Un domestique venait à eux. Leur surprise fut extrême : ce domestique, revêtu d'un ample pardessus de couleur noisette, droit et roide comme un poteau, ne marchait pas, il glissait sur des rails ; ses yeux, du plus bel émail, manquaient d'expression ; il ne semblait pas que du sang coulât dans ses veines, et ses lèvres dessinaient une ligne sèche et inflexible. Il s'arrêta. Un bruit de rouage se fit entendre.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1185-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1185-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">barbara_charles_-_le_major_whittington</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Charles Barbara&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:16.401076+00:00" name="calibre:timestamp"/>
+        <meta content="major Whittington, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

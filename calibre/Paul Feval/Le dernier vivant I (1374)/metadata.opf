@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1374</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a0d8afc8-bc5f-426c-babf-1c9230a3db04</dc:identifier>
+        <dc:title>Le dernier vivant I</dc:title>
+        <dc:creator opf:file-as="Féval, Paul" opf:role="aut">Paul Féval</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1871-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Ces vieux hommes, tout en étant des exceptions ne sont pas rares. On en trouve partout et partout ils sont les mêmes. Le trait principal de leur physionomie est de ne pouvoir vivre avec ceux de leur âge. Ils se font tutoyer successivement par cinq ou six générations de jeunes gens. C'est leur gloire. Ils sont heureux et fiers quand les échappés de collège les appellent par leur petit nom. Généralement on regarde cette manie comme assez innocente. Les uns pensent qu'elle est la marque d'un bon cœur, quelque peu banal et doublé d'une intelligence frivole. D'autres, plus sévères, prétendent qu'il y a vice, ici, ou tout au moins faiblesse ridicule. Le baron avait des mœurs peu régulières, ce n'est pas à toi qu'on peut cacher cela. Il n'était ni ridicule ni méchant. Le cœur, chez lui, battait à sa manière. Il se repentait souvent du mal qu'il avait fait, mais il recommençait toujours.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1452-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1452-3</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1453-0</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">feval_paul_-_le_dernier_vivant_i</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Paul Féval&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:28.333266+00:00" name="calibre:timestamp"/>
+        <meta content="dernier vivant I, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

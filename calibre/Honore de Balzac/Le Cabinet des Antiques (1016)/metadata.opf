@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1016</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d4281fe3-26de-4833-88a1-be10a6d6e20c</dc:identifier>
+        <dc:title>Le Cabinet des Antiques</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études de moeurs. Deuxième livre, Scènes de la vie de province - Tome III. Septième volume de l'édition Furne 1842. Extrait : Chesnel fut au désespoir de s’être laissé séduire par le sieur du Croisier. Depuis ce jour, il ne retrouva plus dans les manières ni dans les paroles du marquis d’Esgrignon cette caressante bienveillance qui pouvait passer pour de l’amitié. Désormais, le marquis eut pour lui de la reconnaissance. Cette reconnaissance noble et vraie causait de perpétuelles douleurs au notaire. Il est des cœurs sublimes auxquels la gratitude semble un payement énorme, et qui préfèrent la douce égalité de sentiment que donnent l’harmonie des pensées et la fusion volontaire des âmes. Maître Chesnel avait goûté le plaisir de cette honorable amitié ; le marquis l’avait élevé jusqu’à lui. Pour le vieux noble, ce bonhomme était moins qu’un enfant et plus qu’un serviteur, il était l’homme-lige volontaire, le serf attaché par tous les liens du cœur à son suzerain. On ne comptait plus avec le notaire, tout se balançait par les continuels échanges d’une affection vraie. Aux yeux du marquis, le caractère officiel que le notariat donnait à Chesnel ne signifiait rien, son serviteur lui semblait déguisé en notaire. Aux yeux de Chesnel, le marquis était un être qui appartenait toujours à une race divine ; il croyait à la Noblesse, il se souvenait sans honte que son père ouvrait les portes du salon et disait : Monsieur le marquis est servi. Son dévouement à la noble maison ruinée ne procédait pas d’une foi mais d’un égoïsme, il se considérait comme faisant partie de la famille. Son chagrin fut profond. Quand il osa parler de son erreur au marquis malgré la défense du marquis : ― Chesnel, lui répondit le vieux noble d’un ton grave, tu ne te serais pas permis de si injurieuses suppositions avant les Troubles. Que sont donc les nouvelles doctrines si elles t’ont gâté ?</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0999-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0999-4</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1009-9</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_le_cabinet_des_antiques</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:15.021313+00:00" name="calibre:timestamp"/>
+        <meta content="Cabinet des Antiques, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1407</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f245e9e9-3311-4922-9191-782368fba3e9</dc:identifier>
+        <dc:title>Les années de collège de maître Nablot</dc:title>
+        <dc:creator opf:file-as="Erckmann-Chatrian" opf:role="aut">Erckmann-Chatrian</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Enfin les effets essayés, payés et mis en ordre dans la vieille malle, le père, la mère et M. le curé, la veille du départ après souper, me firent un long sermon, me recommandant de bien travailler, de remplir toujours mes devoirs religieux, de ne pas oublier mes prières et d'écrire à la maison au moins deux fois par mois ; et, le lendemain matin, 5 octobre 1834, au milieu de la moitié du village rassemblé pour me voir partir, mes anciens camarades déguenillés et pieds nus parmi la foule, notre vieille Grisette attelée au char à bancs, mon père et moi assis devant, la malle derrière dans la paille, le fouet se mit à claquer. La mère pleurait ; les petits frères et sœurs, les bras levés autour de la voiture, voulaient encore m'embrasser ; la vieille servante Babelô, qui m'avait vu venir au monde, accourait le tablier sur les yeux ; et moi je trouvais cela bien extraordinaire, puisque je partais pour mon bonheur.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1443-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1443-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">erckmann-chatrian_-_les_annees_de_college_de_maitre_nablot</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Erckmann-Chatrian&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:35.006047+00:00" name="calibre:timestamp"/>
+        <meta content="années de collège de maître Nablot, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

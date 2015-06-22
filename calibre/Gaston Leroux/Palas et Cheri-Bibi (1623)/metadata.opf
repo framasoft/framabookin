@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1623</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">87d7d7b5-977a-4906-8043-cad7bcebb94b</dc:identifier>
+        <dc:title>Palas et Chéri-Bibi</dc:title>
+        <dc:creator opf:file-as="Leroux, Gaston" opf:role="aut">Gaston Leroux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1919-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Chéri-Bibi réussit à s'évader du bagne de Cayenne en compagnie d'un autre condamné, Palas. Ce dernier prend l'identité de Raoul de Saint Dalmas pour regagner l'Europe. Là, il épouse Françoise de la Boulays. Un certain Casimir veille sur le couple qui n'est autre que Chéri-Bibi... Extrait : C'était une figure effroyable que celle de Chéri-Bibi. D'exceptionnelles aventures, de longues années de bagne, coupées d'évasions sans nombre, des passions farouches, la torture de la chair et jusqu'à la flamme ardente du vitriol avaient ravagé cette face formidable qu'on ne pouvait voir sans terreur. Cependant de temps à autre -- quand il regardait Palas par exemple -- une lueur de bonté étrange éclairait cette tête d'enfer. Toute sa personne, du reste, était redoutable. Ses poings énormes, sa carrure, ses épaules qui semblaient faites pour soulever de prodigieux fardeaux, tout en lui donnait une impression de force irrésistible. Lorsqu'il fournissait un effort, les muscles dessinaient sous sa blouse de forçat un relief saisissant. Cette blouse le couvrait toujours. On ne l'avait jamais vu, comme ses compagnons, travailler ou se promener le torse nu. On disait que la chair de sa poitrine portait, imprimé, le secret de sa vie et que certains tatouages exprimaient en toutes lettres celui de son cœur. Or, Chéri-Bibi avait une grande pudeur pour les choses de l'amour. Cet homme, dont on ne comptait plus les crimes, avait toujours eu, comme on dit, des mœurs irréprochables. Chéri-Bibi et Palas se croyaient seuls. Ils n'avaient pas vu Fric-Frac revenir sournoisement sur ses pas pour, à l'abri d'un rocher, les guetter et les écouter.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0287-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0287-2</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0260-5</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leroux_gaston_-_palas_et_cheri-bibi</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gaston Leroux&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:19.052075+00:00" name="calibre:timestamp"/>
+        <meta content="Palas et Chéri-Bibi" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

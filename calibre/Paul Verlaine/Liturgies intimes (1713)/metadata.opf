@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1713</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e98a7cc8-929f-4631-a726-b7c5bb4f19a7</dc:identifier>
+        <dc:title>Liturgies intimes</dc:title>
+        <dc:creator opf:file-as="Verlaine, Paul" opf:role="aut">Paul Verlaine</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Moi qui ne suis qu'un brin d'hysope dans la main - Du Seigneur tout-puissant qui m'octroya la grâce, - Je puis, si mon dessein est pur devant sa face, - Purifier autrui passant sur mon chemin. - Je puis, si ma prière est de celles qu'allège - L'Humilité du poids d'un désir languissant - Comme un païen peut baptiser en cas pressant, - Laver mon prochain, le blanchir plus que la neige. - Prenez pitié de moi, Seigneur, suivant l'effet - Miséricordieux de vos mansuétudes, - Veuillez bander mon cœur, cœur aux épreuves rudes. - Que le zèle pour votre maison soulevait. - Faites-moi prospérer dans mes vœux charitables, - Et pour cela, suivant le rite respecté, - Gloire à la Trinité durant l'éternité, - Gloire à Dieu dans les cieux les plus inabordables, - Gloire au Père, fauteur et gouverneur de tout, - Au Fils, créateur et sauveur, juge et partie, - Au Saint-Esprit, de qui la lumière est sortie - Par quel rayon ? -- ainsi qu'une eau lustrale, mon sang bout,  - Moi qui ne suis qu'un brin d'hysope dans la main...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1167-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1167-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">verlaine_paul_-_liturgies_intimes</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>poesie</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Paul Verlaine&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:37.381640+00:00" name="calibre:timestamp"/>
+        <meta content="Liturgies intimes" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

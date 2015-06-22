@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1622</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ef63b191-b7ee-4fd3-801e-cc5df96f78f9</dc:identifier>
+        <dc:title>Quelques nouvelles terrifiantes</dc:title>
+        <dc:creator opf:file-as="Leroux, Gaston" opf:role="aut">Gaston Leroux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Un homme est convié au dîner d'un groupe d'anciens naufragés qui ont de curieuses habitudes alimentaires... Une jeune femme découvre avec effroi la profession de son mari... Une auberge sinistre où ont lieu d'horribles crimes... Des parents ruinés simulent leur cambriolage et leur assassinat pour assurer un avenir meilleur à leur fils... Une jeune femme aux nombreux prétendants - 12 - est tenue pour responsable de la mort de plusieurs d'entre eux... Un mari trompé, un collier de velours qui empêche une tête coupée de tomber... Extrait : « Je rentrai chez moi et me mis à surveiller mes voisins. Ils ne se montrèrent point, et, bien avant la nuit, j'apercevais les volets fermés et, dans leurs interstices, des lumières, des lueurs, comme j'en avais vues lors de la très singulière nuit, un an auparavant. Seulement je n'entendais pas encore le prodigieux bruit de tonnerre de tambour de bois. À sept heures, me rappelant la toilette de soirée de la dame à la lampe, je m'habillai. Les dernières paroles de Mme Gérard n'avaient fait que m'ancrer dans ma résolution. Beauvisage recevait ce soir des amis ; il n'oserait pas me mettre à la porte. Ayant passé mon habit, j'eus un instant l'idée, avant de descendre, d'emporter avec moi mon revolver, et puis, finalement, le laissai à sa place, me trouvant stupide. « Stupide, j'étais, de ne l'avoir point pris.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0288-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0288-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leroux_gaston_-_quelques_nouvelles_terrifiantes</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gaston Leroux&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:18.853869+00:00" name="calibre:timestamp"/>
+        <meta content="Quelques nouvelles terrifiantes" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

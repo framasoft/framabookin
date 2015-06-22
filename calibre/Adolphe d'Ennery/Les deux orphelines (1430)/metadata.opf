@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1430</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3654068d-4a25-4088-8ee6-5357e499bc52</dc:identifier>
+        <dc:title>Les deux orphelines</dc:title>
+        <dc:creator opf:file-as="Ennery, Adolphe d'" opf:role="aut">Adolphe d'Ennery</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Adolphe Dennery ou d’Ennery, ou Adolphe Philippe d'Ennery, de son nom de naissance Adolphe Philippe, est un romancier et auteur dramatique français, né le 17 juin 1811 à Paris, où il est mort le 26 janvier 1899. Auteur extrêmement prolifique, Dennery écrivit (presque toujours en collaboration) plus de deux cents œuvres dramatiques entre 1831 et 1887. Sa pièce la plus populaire reste Les Deux Orphelines, drame en 5 actes écrit avec Eugène Cormon et créé le 20 janvier 1874 au théâtre de la Porte-Saint-Martin. Il fut adapté par les auteurs en roman en 1877, publié en feuilleton dans la Nation en 1892 et publié aux éditions Rouff en 1894. Au XVIIIe siècle, peu avant la Révolution française, l’orpheline Henriette Gérard accompagne Louise, sa sœur adoptive aveugle, à Paris. Les deux jeunes filles espèrent bien trouver un médecin qui guérira Louise de sa cécité. Hélas, Henriette est enlevée par le marquis de Presles, un roué qui a décidé d'en faire son jouet. Louise n'a pas plus de chance que sa sœur : livrée à elle-même, elle tombe dans les mains de la Frochard, une mégère alcoolique qui ne cessera de l'humilier et de la tourmenter pour la forcer à mendier. Extrait : Tout à coup, il s'élança vers le berceau, comme s'il était poussé par une force irrésistible. Et là, penché sur l'enfant qui vagissait, il essaya de la calmer, en lui prodiguant des caresses, en la couvrant de baisers... Et le malheureux sentait bien que l'attendrissement le gagnait, que, s'il hésitait encore, il ne pourrait plus accomplir le sacrifice qu'il imposait à son cœur. Chaque seconde qui s'écoulait le laissait plus irrésolu.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1342-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1342-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">ennery_adolphe_d_-_les_deux_orphelines</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Adolphe d'Ennery&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:39.629354+00:00" name="calibre:timestamp"/>
+        <meta content="deux orphelines, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

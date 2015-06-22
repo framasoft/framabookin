@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1233</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a2b595ac-4185-4518-8aa2-2461d031dc93</dc:identifier>
+        <dc:title>Niétotchka Nezvanova</dc:title>
+        <dc:creator opf:file-as="Dostoïevski, Fiodor" opf:role="aut">Fiodor Dostoïevski</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Nétotchka Nezvanova est un roman inachevé de l'écrivain russe Fiodor Dostoïevski écrit entre 1847 et 1849. Bien que le roman de Dostoievski, Niétotchka Nezvanova, occupe une place importante dans l'œuvre du génial écrivain russe, il était resté jusqu'à présent inédit en langue française. Il est vrai que si l'on cherche parmi les ouvrages de Dostoievski, parus en français, on découvre trois romans, attribués à cet auteur, traduits par M. Halpérine-Kaminsky, et dans chacun desquels se retrouvent certains des personnages et des faits qui appartiennent au roman de Dostoievski Niétotchka Nezvanova. Ces trois traductions, publiées chez trois éditeurs différents, sont, dans l'ordre de leur parution : Dostoievsky : Âme d'enfant ; Dostoievsky : Les Étapes de la Folie ; Dostoievsky : Netotchka. Chez les antiquaires, il existe un procédé très répandu pour fabriquer de faux meubles. On prend, par exemple, un canapé du plus authentique Louis XVI, et on le coupe en trois parties : le dossier, les pieds, le siège. En complétant chacune de ces parties par du moderne, parfaite imitation de l'ancien, on obtient trois faux canapés de style Louis XVI, qu'il est facile de vendre comme pièces authentiques. C'est à peu près le procédé qu'a employé le traducteur à l'égard du roman de Dostoievski Niétotchka Nezvanova. Dans les six premiers chapitres il a taillé un roman : Les étapes de la folie. Avec le reste il a composé un second roman : Âme d'enfant. Enfin réunissant ces deux pseudo-romans de Dostoievski, il en a fait paraître un troisième : Netotchka. Extrait : Mon père me paraissait si pitoyable, si persécuté, si opprimé, si douloureux, que j'eusse trouvé affreux, inhumain, de ne pas l'aimer infiniment, de ne pas le consoler, le cajoler, de ne pas m'attacher à lui de toutes mes forces. Mais jusqu'à aujourd'hui je ne comprends pas d'où pouvait m'être venu en tête que mon père était un pareil martyr, un être pareillement malheureux. Qui avait bien pu m'inspirer cela ? Comment moi, une enfant, pouvais-je comprendre quelque chose à ses malheurs personnels ? Et je les comprenais, bien qu'interprétant tout dans mon imagination et à ma façon. Mais aujourd'hui même je ne puis concevoir comment une pareille impression s'était formée en moi...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1357-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1357-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dostoieski_fiodor_-_nietotchka_nezvanova</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Russie</dc:subject>
+        <meta content="{&quot;Fiodor Dostoïevski&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:59.799798+00:00" name="calibre:timestamp"/>
+        <meta content="Niétotchka Nezvanova" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

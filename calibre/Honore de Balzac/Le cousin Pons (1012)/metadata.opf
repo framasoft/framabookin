@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1012</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">613f3e2e-893e-4bda-a30e-658934691e79</dc:identifier>
+        <dc:title>Le cousin Pons</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie Humaine Etudes de moeurs. Scènes de la vie parisienne. Tome XVII - Houssiaux, 1848. Extrait : Cette hyène était d’autant plus furieuse contre ce chérubin, fils de la belle madame Brunner, que, malgré des efforts dignes d’une locomotive, elle ne pouvait pas avoir d’enfant. Mue par une pensée diabolique, cette criminelle Allemande lança le jeune Fritz, à l’âge de vingt et un ans, dans des dissipations anti-germaniques. Elle espéra que le cheval anglais, le vinaigre du Rhin et les Marguerites de Gœthe dévoreraient l’enfant de la juive et sa fortune ; car l’oncle Virlaz avait laissé un bel héritage à son petit Fritz au moment où celui-ci devint majeur. Mais si les roulettes des Eaux et les amis du Vin, au nombre desquels était Wilhem Schwab, achevèrent le capital Virlaz, le jeune enfant prodigue demeura pour servir, selon les vœux du Seigneur, d’exemple aux puînés de la ville de Francfort-sur-Mein, où toutes les familles l’emploient comme un épouvantail pour garder leurs enfants sages et effrayés dans leurs comptoirs de fer doublés de marcs banco.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1003-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1003-7</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1042-6</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_le_cousin_pons</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:14.205757+00:00" name="calibre:timestamp"/>
+        <meta content="cousin Pons, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

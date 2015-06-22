@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1684</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">faa0d15c-4327-4bb4-ad15-f68fd117dd7a</dc:identifier>
+        <dc:title>À la recherche du temps perdu II</dc:title>
+        <dc:creator opf:file-as="Proust, Marcel" opf:role="aut">Marcel Proust</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1913-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Alors que le premier tome est publié à compte d’auteur chez Grasset en 1913 grâce à René Blum (Proust en conserve la propriété littéraire), la guerre stoppe la publication du deuxième tome et permet à Proust de remodeler son œuvre, cette dernière prenant de l'ampleur au fil des nuits de travail épuisant. L'auteur retravaille sans cesse ses dactylographies autant que ses brouillons et ses manuscrits, et souhaite interrompre sa collaboration avec l'éditeur. La Nouvelle Revue française, dirigée par Gaston Gallimard, est en pleine bataille éditoriale avec Grasset depuis 1914 mais a commis l'erreur de refuser en 1913 de publier Du côté de chez Swann par l'entremise d'André Gide, figure dominante du comité éditorial de la NRF qui juge que c'est un livre de snob dédié à Gaston Calmette, directeur du Figaro. Extrait : De tous les modes de production de l'amour, de tous les agents de dissémination du mal sacré, il est bien l'un des plus efficaces, ce grand souffle d'agitation qui parfois passe sur nous. Alors l'être avec qui nous nous plaisons à ce moment-là, le sort en est jeté, c'est lui que nous aimerons. Il n'est même pas besoin qu'il nous plût jusque-là plus ou même autant que d'autres. Ce qu'il fallait, c'est que notre goût pour lui devînt exclusif. Et cette condition-là est réalisée quand -- à ce moment où il nous a fait défaut -- à la recherche des plaisirs que son agrément nous donnait, s'est brusquement substitué en nous un besoin anxieux qui a pour objet cet être même, un besoin absurde que les lois de ce monde rendent impossible à satisfaire et difficile à guérir -- le besoin insensé et douloureux de le posséder.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1573-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1573-5</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0880-5</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">proust_marcel_-_a_la_recherche_du_temps_perdu_ii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Marcel Proust&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:31.293695+00:00" name="calibre:timestamp"/>
+        <meta content="À la recherche du temps perdu II" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

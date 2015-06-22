@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1682</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">06d8ac95-99ca-4900-ad4b-53ce915af058</dc:identifier>
+        <dc:title>À la recherche du temps perdu IV</dc:title>
+        <dc:creator opf:file-as="Proust, Marcel" opf:role="aut">Marcel Proust</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1919-06-02T22:00:00+00:00</dc:date>
+        <dc:description>À l'ombre des jeunes filles en fleurs est le second tome d'À la recherche du temps perdu de Marcel Proust publié en 1919 chez Gallimard. Il reçoit la même année le prix Goncourt. Extrait : Seulement, quand le milieu du mois de janvier approcha, une fois déçues mes espérances d'une lettre pour le jour de l'an et la douleur supplémentaire qui avait accompagné leur déception une fois calmée, ce fut mon chagrin d'avant «~les Fêtes~» qui recommença. Ce qu'il y avait peut-être encore en lui de plus cruel, c'est que j'en fusse moi-même l'artisan inconscient, volontaire, impitoyable et patient. La seule chose à laquelle je tinsse, mes relations avec Gilberte, c'est moi qui travaillais à les rendre impossibles en créant peu à peu, par la séparation prolongée d'avec mon amie, non pas son indifférence, mais ce qui reviendrait finalement au même, la mienne. C'était à un long et cruel suicide du moi qui en moi-même aimait Gilberte que je m'acharnais avec continuité, avec la clairvoyance non seulement de ce que je faisais dans le présent, mais de ce qui en résulterait pour l'avenir~; je savais non pas seulement que dans un certain temps je n'aimerais plus Gilberte, mais encore qu'elle-même le regretterait, et que les tentatives qu'elle ferait alors pour me voir seraient aussi vaines que celles d'aujourd'hui, non plus parce que je l'aimerais trop, mais parce que j'aimerais certainement une autre femme que je resterais à désirer, à attendre, pendant des heures dont je n'oserais pas distraire une parcelle pour Gilberte qui ne me serait plus rien.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1570-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1570-4</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1571-1</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">proust_marcel_-_a_la_recherche_du_temps_perdu_iv</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Marcel Proust&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:30.887894+00:00" name="calibre:timestamp"/>
+        <meta content="À la recherche du temps perdu IV" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1721</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">48201783-026b-4679-b8b0-8d273aecb2be</dc:identifier>
+        <dc:title>Dialogue de Sylla et d’Eucrate</dc:title>
+        <dc:creator opf:file-as="Montesquieu, Charles-Louis de Secondat" opf:role="aut">Montesquieu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Tout le dialogue tourne autour des motifs qui ont déterminé Sylla à usurper le pouvoir suprême, en répandant le sang de ses concitoyens par les proscriptions et les crimes, et à quitter ce même pouvoir au mépris du danger que cette décision audacieuse lui faisait courir. Extrait : Et c’est tout le sang que j’ai versé qui m’a mis en état de faire la plus grande de toutes mes actions. Si j’avais gouverné les Romains avec douceur, quelle merveille, que l’ennui, que le dégoût, qu’un caprice m’eussent fait quitter le gouvernement ! Mais je me suis démis de la dictature dans le temps qu’il n’y avait pas un seul homme dans l’univers qui ne crût que la dictature était mon seul asile.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1118-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1118-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">montesquieu_charles-louis_de_secondat_-_dialogue_de_sylla_et_d_eucrate</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Montesquieu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:38.970363+00:00" name="calibre:timestamp"/>
+        <meta content="Dialogue de Sylla et d’Eucrate" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

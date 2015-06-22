@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1289</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b1429704-e3c9-48aa-a9c2-284195a0bfc9</dc:identifier>
+        <dc:title>Robin Hood le proscrit</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Le retour d'Allan vaut à Robin de s'occuper d'empêcher l'union de Christabel avec un vieux mais riche ami de son père et de sauver de la pendaison Will, un de ses amis ayant quitté brutalement l'armée. Après les mariages de Christabel et Allan, de Robin et Marianne, et de Will et Maude, Robin et ses joyeux compagnons continuent de plus belle à dépouiller les riches Normands et le clergé de leurs richesses afin de soulager la misère des pauvres, augmentant encore le ressentiment du sheriff qui mourra sans avoir eu la joie de capturer Robin ni par la force ni par la ruse. Extrait : Je trouve qu'un combat à l'épée est une chose fort peu agréable ; parlez-moi du bâton : ses coups, moins dangereux, offrent quelque intérêt ; l'épée a quelque chose de rude et de cruel. Ma fatigue, toute réelle qu'elle soit, ajouta Robin en examinant le visage de l'inconnu, dont la tête était couverte d'un bonnet qui lui cachait une partie du front, n'est pas tout à fait la cause qui m'a fait demander une suspension d'armes. Depuis que je me trouve en face de toi, il m'est venu à l'esprit des souvenirs d'enfance, le regard de tes grands yeux bleus ne m'est pas inconnu. Ta voix me rappelle la voix d'un ami, mon cœur se sent pris pour toi d'un entraînement irrésistible ; dis-moi ton nom ; si tu es celui que j'aime et que j'attends avec toute l'impatience de la plus tendre amitié, sois mille fois le bienvenu. Si tu es un étranger, n'importe, tu seras encore heureusement arrivé. Je t'aimerai pour toi et pour les chers souvenirs que ta vue me rappelle.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0066-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0066-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_robin_hood_le_proscrit</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture avancée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:10.937345+00:00" name="calibre:timestamp"/>
+        <meta content="Robin Hood le proscrit" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

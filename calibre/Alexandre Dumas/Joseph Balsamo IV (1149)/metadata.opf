@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1149</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">648d5fc4-b2c7-49b9-b07a-6050a6a4d20f</dc:identifier>
+        <dc:title>Joseph Balsamo IV</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Les «Mémoires d'un médecin» est une suite romanesque qui a pour cadre la Révolution Française et qui comprend «Joseph Balsamo», «le Collier de la reine», «Ange Pitou» et la «Comtesse de Charny». Joseph Balsamo veut apporter le bonheur aux hommes en sapant les monarchies du monde pour instaurer des gouvernements basés sur la souveraineté populaire, et cela en commençant par la monarchie française. Ses moyens sont colossaux: sorcier, magnétiseur, il est à la tête de puissantes sociétés secrètes s'étendant à tous les continents et dont les membres appartiennent à toutes les couches sociales. Extrait : Il écarta donc le peignoir d'Andrée, mit à nu sa poitrine virginale, et, de sa main craintive et cynique à la fois, il interrogea le cœur muet sous cette chair glacée comme l'albâtre dont elle avait la blanche et ferme rondeur. Gilbert se glissa à demi hors de la porte, son couteau à la main, l'œil étincelant, les dents serrées, résolu, si le roi continuait ses entreprises à le poignarder et à se poignarder lui-même. Tout à coup, un effroyable coup de tonnerre fit trembler chaque meuble de la chambre et jusqu'au sofa devant lequel Louis XV était agenouillé ; un nouvel éclair violet et soufré jeta sur le visage d'Andrée une flamme si livide et si vive, que Louis XV, effrayé de cette pâleur, de cette immobilité et de ce silence, recula en murmurant : - Mais, en vérité, cette fille est morte !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0013-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0013-7</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0040-3</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_joseph_balsamo_iv</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:42.155584+00:00" name="calibre:timestamp"/>
+        <meta content="Joseph Balsamo IV" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

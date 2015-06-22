@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1338</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d740fb46-b23d-4f13-931f-8846b245a19d</dc:identifier>
+        <dc:title>Les mariages du père Olifus</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Dumas part, en compagnie de son ami Biard et de son fils, pour la Hollande assister au couronnement du prince d'Orange. En route, il fait le tour des curiosités locales et va admirer une sirène naturalisée au musée de La Haye; le gardien lui conseille de se rentre à Monnikendam pour y rencontrer Olifus qui a épousé une femme marine. Olifus ne se fait pas prier et accepte de raconter ses aventures. Marin célibataire, il trouve une sirène au milieu des algues et la ramène à terre. La créature est baptisée et vêtue. Les villageois la nomment Marie Buchold (femme marine). Olifus, persuadé qu'elle est muette, se décide à l'épouser. Or pour son malheur, la Buchold sait parfaitement parler et est particulièrement jalouse. De plus, elle a le pouvoir maléfique de le suivre à distance et de connaître toutes ses infidélités. Extrait : Il ne faut pas me demander si je voulus faire un bond en arrière ; mais, ouiche ! collé sur la muraille du bâtiment, collé comme une morue sèche, impossible de m'en aller de là. Tout au contraire, en se jouant dans l'eau, en piquant des têtes, en tirant des coupes, en faisant la planche, c'étaient des signes, c'étaient des agaceries, c'étaient des sourires, que je sentais mes pieds qui quittaient la terre, mon ventre qui glissait ; ça m'attirait comme un vertige ; je voulais me retenir, je ne trouvais rien ; je voulais crier, plus de voix ; ça m'attirait toujours. Ah ! maudite sirène ! Je sentais mes cheveux se dresser ; il y avait une goutte d'eau à chaque poil, et je glissais, je glissais, et la tête emportait le derrière, et je sentais que je m'en allais, que je m'en allais. Maudite sirène ! va.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1394-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1394-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_les_mariages_du_pere_olifus</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:21.071949+00:00" name="calibre:timestamp"/>
+        <meta content="mariages du père Olifus, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1704</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5741bd1e-ab40-46c4-8edf-41630c7654b6</dc:identifier>
+        <dc:title>Tibère et Louis XI</dc:title>
+        <dc:creator opf:file-as="Montesquieu, Charles-Louis de Secondat" opf:role="aut">Montesquieu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Tibère et Louis XI s'exilèrent de leur pays avant de parvenir à la suprême puissance. Ils furent tous deux braves dans les combats et timides dans la vie privée. Ils mirent leur gloire dans l'art de dissimuler. Ils établirent une puissance arbitraire. Ils passèrent leur vie dans le trouble et dans les remords, et la finirent dans le secret, le silence et la haine publique. Mais si l’on examine bien ces deux princes, on sentira d’abord combien l’un était supérieur à l’autre. Tibère cherchait à gouverner les hommes, Louis ne songeait qu’à les tromper. Tibère ne laissa sortir ses vices qu’à mesure qu’il le pouvait faire impunément ; l’autre ne fut jamais le maître des siens. Tibère sut paraître vertueux lorsqu’il fallut qu’il se montrât tel; celui-ci se discrédita dès le premier jour de son règne.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1129-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1129-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">montesquieu_charles-louis_de_secondat_-_tibere_et_louis_xi</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Montesquieu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:35.445263+00:00" name="calibre:timestamp"/>
+        <meta content="Tibère et Louis XI" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

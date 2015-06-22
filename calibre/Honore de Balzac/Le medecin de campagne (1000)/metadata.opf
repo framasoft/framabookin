@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1000</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6fc1e279-9f47-4247-b1b1-421a3a380ff2</dc:identifier>
+        <dc:title>Le médecin de campagne</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études de moeurs. Cinquième livre, Scènes de la vie de campagne. Treizième volume de l'édition Furne 1842. Extrait : Malgré les innombrables spectacles de sa vie militaire, le vieux cavalier ressentit un mouvement de surprise accompagné d’horreur en apercevant une face humaine où la pensée ne devait jamais avoir brillé, face livide où la souffrance apparaissait naïve et silencieuse, comme sur le visage d’un enfant qui ne sait pas encore parler et qui ne peut plus crier, enfin la face tout animale d’un vieux crétin mourant. Le crétin était la seule variété de l’espèce humaine que le chef d’escadron n’eût pas encore vue. A l’aspect d’un front dont la peau formait un gros pli rond, de deux yeux semblables à ceux d’un poisson cuit, d’une tête couverte de petits cheveux rabougris auxquels la nourriture manquait, tête toute déprimée et dénuée d’organes sensitifs, qui n’eût pas éprouvé, comme Genestas, un sentiment de dégoût involontaire pour une créature qui n’avait ni les grâces de l’animal ni les priviléges de l’homme, qui n’avait jamais eu ni raison ni instinct, et n’avait jamais entendu ni parlé aucune espèce de langage. En voyant arriver ce pauvre être au terme d’une carrière qui n’était point la vie, il semblait difficile de lui accorder un regret ; cependant la vieille femme le contemplait avec une touchante inquiétude, et passait ses mains sur la partie des jambes que l’eau brûlante n’avait pas baignée, avec autant d’affection que si c’eût été son mari. Benassis lui-même, après avoir étudié cette face morte et ces yeux sans lumière, vint prendre doucement la main du crétin et lui tâta le pouls.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1010-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1010-5</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1006-8</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_le_medecin_de_campagne</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:11.791853+00:00" name="calibre:timestamp"/>
+        <meta content="médecin de campagne, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

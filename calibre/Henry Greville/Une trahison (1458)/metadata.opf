@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1458</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2ec2606b-53ec-43e0-beff-362dc2d57589</dc:identifier>
+        <dc:title>Une trahison</dc:title>
+        <dc:creator opf:file-as="Gréville, Henry" opf:role="aut">Henry Gréville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1884-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Henry Gréville, pseudonyme de Alice Marie Céleste Durand née Fleury (1842-1902), a publié de nombreux romans, des nouvelles, des pièces, de la poésie ; elle a été à son époque un écrivain à succès. Extrait : Je ne sais, monsieur, lui dit-elle, quel motif vous pousse à me rechercher après une séparation dont la durée m'autorisait à croire que tous les liens étaient rompus entre nous. Pour ma part, je dois vous déclarer que vous m'êtes totalement étranger, et que rien ne saurait modifier sur ce point ma manière de voir et d'agir. Je vous prie donc, au nom des convenances, de me laisser la liberté dont j'ai joui jusqu'à présent et dont je n'ai pas abusé. L'existence que je mène, modeste et sans fracas, n'attire sur moi l'attention de personne ; je désire n'en point changer, et vous prie de faire droit à ce désir.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1530-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1530-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">greville_henry_-_une_trahison</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Henry Gréville&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:45.893187+00:00" name="calibre:timestamp"/>
+        <meta content="trahison, Une" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

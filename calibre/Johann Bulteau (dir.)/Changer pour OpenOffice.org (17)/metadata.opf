@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">45d5e27d-f1ab-4cc4-98fb-cff178be21a9</dc:identifier>
+        <dc:title>Changer pour OpenOffice.org</dc:title>
+        <dc:creator opf:file-as="Bulteau, Johann" opf:role="aut">Johann Bulteau (dir.)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-01T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Soutenue par des grands noms de l’informatique (Sun, IBM…) et toute une 
+communauté, la suite bureautique libre OpenOffice.org propose un 
+traitement de texte, un tableur, un gestionnaire de base de données, un 
+module de présentation, un éditeur de dessin et de formules 
+mathématiques.&lt;/p&gt;
+&lt;p&gt;Pour de nombreuses raisons qui tiennent à la fois du coût, des formats 
+de fichiers (et donc de la pérennité de ses documents), de l’indépendance numérique, de l’adhésion à la philosophie du logiciel 
+libre et des qualités intrinsèques du programme, de plus en plus de 
+monde souhaite aujourd’hui utiliser OpenOffice.org en lieu et place de 
+la suite de Microsoft.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Framasoft</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9782352091042</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Framabook</dc:subject>
+        <dc:subject>openoffice</dc:subject>
+        <dc:subject>manuel</dc:subject>
+        <dc:subject>migration</dc:subject>
+        <meta content="{&quot;Johann Bulteau (dir.)&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-05-26T16:27:53+00:00" name="calibre:timestamp"/>
+        <meta content="Changer pour OpenOffice.org" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

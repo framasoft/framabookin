@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">43936f19-ce03-4b47-9902-99354459e61e</dc:identifier>
+        <dc:title>Avant de dormir</dc:title>
+        <dc:creator opf:file-as="Bouriot, Lilly" opf:role="aut">Bouriot, Lilly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-02-09T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Andrei, treize ans, emménage dans une nouvelle ville avec ses parents. Il découvre vite que ses voisins sont atteints d’un mal mystérieux qui les tue par dizaines. Quand il trouve un portail sous son propre lit, Andrei entreprend de partir à la recherche de celle qu’il pense être à l’origine de leurs malheurs : la Vouivre, mère de tous les monstres.&lt;/p&gt;
+&lt;p&gt;Une quête sombre, aux accents gothiques, dans un monde désolé.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Framasoft</dc:publisher>
+        <dc:language>fra</dc:language>
+        <dc:subject>Framabook</dc:subject>
+        <dc:subject>roman</dc:subject>
+        <dc:subject>gothique</dc:subject>
+        <meta content="{&quot;Bouriot, Lilly&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-02-10T09:56:28.141000+00:00" name="calibre:timestamp"/>
+        <meta content="Avant de dormir" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

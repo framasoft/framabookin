@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1699</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a0c3b3d3-7fe8-480d-8b51-32dd530684f6</dc:identifier>
+        <dc:title>Romances sans paroles</dc:title>
+        <dc:creator opf:file-as="Verlaine, Paul" opf:role="aut">Paul Verlaine</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Il faut, voyez-vous, nous pardonner les choses. - De cette façon nous serons bien heureuses, - Et si notre vie a des instants moroses, - Du moins nous serons, n'est-ce pas ? deux pleureuses. - O que nous mêlions, âmes sœurs que nous sommes, - A nos vœux confus la douceur puérile - De cheminer loin des femmes et des hommes, - Dans le frais oubli de ce qui nous exile. - Soyons deux enfants, soyons deux jeunes filles - Éprises de rien et de tout étonnées, - Qui s'en vont pâlir sous les chastes charmilles - Sans même savoir qu'elles sont pardonnées.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1172-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1172-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">verlaine_paul_-_romances_sans_paroles</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Paul Verlaine&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:34.403406+00:00" name="calibre:timestamp"/>
+        <meta content="Romances sans paroles" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

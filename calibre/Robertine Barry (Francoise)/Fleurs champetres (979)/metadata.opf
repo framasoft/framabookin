@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">979</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">89164e8d-3165-413d-9469-83a674bf5cc6</dc:identifier>
+        <dc:title>Fleurs champêtres</dc:title>
+        <dc:creator opf:file-as="Barry, Robertine" opf:role="aut">Robertine Barry (Françoise)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1895-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Robertine Barry, mieux connue sous le pseudonyme de Françoise, a été l'une des premières femmes journalistes au Québec. Elle a collaboré notamment à "La Patrie", où elle était chargée de la première page féminine. Elle a fondé son propre magazine, une revue bimensuelle, "Le Journal de Françoise", qui paraîtra jusqu'en 1909, et sera toujours très populaire. Grande conférencière, elle a collaboré à plusieurs publications. Les nombreuses chroniques qu'elle a écrites ont été réunies en recueil dès 1895. Un prix de journalisme a été créé en son honneur par l'Institut canadien de recherches sur les femmes. Première œuvre publiée de Françoise, les Fleurs champêtres, après avoir été encensées par la presse, enclenchent une polémique mémorable entre Robertine Barry, Joséphine Dandurand et Louis Fréchette d’une part, et Jules-Paul Tardivel d’autre part. Ce dernier, qui est le redoutable directeur de la Vérité, de Québec, trouve que la chroniqueuse subit la mauvaise influence de ses collègues de travail, journalistes à la Patrie, et il accuse Françoise d’abuser de la superstition, de brosser un portrait peu reluisant des paysannes et des paysans, d’oublier « la note religieuse » et de pasticher Jean-Jacques Rousseau. Extrait : Déjà le crépuscule commence à couvrir la terre~; de ma fenêtre ouverte monte jusqu'à moi le bruit des rames, car, depuis l'heure où le fils du pêcheur a disparu sous les flots, ces braves coeurs sont là, constants et infatigables, sondant les profondeurs des eaux, espérant toujours en retirer le corps inanimé de leur malheureux compagnon, le remettre à sa mère et lui donner une sépulture chrétienne dans la terre sainte.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1445-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1445-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">barry_robertine_-_fleurs_champetres</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>nouvelle</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Robertine Barry (Françoise)&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:07.590447+00:00" name="calibre:timestamp"/>
+        <meta content="Fleurs champêtres" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

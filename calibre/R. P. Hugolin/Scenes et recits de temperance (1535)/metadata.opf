@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1535</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e3256ed3-bc44-4355-9cb0-44f07eb4bacb</dc:identifier>
+        <dc:title>Scènes et récits de tempérance</dc:title>
+        <dc:creator opf:file-as="Hugolin, R. P." opf:role="aut">R. P. Hugolin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>LEMAY, HUGOLIN (baptisé Stanislas) (à son entrée en religion, il prit le nom d’Hugolin-Marie, mais il signait le plus souvent père Hugolin et parfois père Hugolin Lemay), franciscain, prédicateur, auteur, bibliographe et bibliothécaire, né le 20 septembre 1877 dans la paroisse Saint-Édouard, à Knowlton (Lac-Brome, Québec). Extrait :On raconte qu'un roi de l'antiquité voulant refréner les penchants belliqueux de son jeune fils, imagina de faire peindre dans une galerie de son palais une série de tableaux, dont chacun représentait un aspect nouveau des misères engendrées par la guerre. Il y avait le spectacle sanglant et terrifiant d'une bataille, où des hommes aux prises s'entr'égorgeaient ; un champ de carnage après une mêlée : des milliers de malheureux gisaient ça et là, morts ou agonisants, pêle-mêle, têtes fendues, poitrines ouvertes, du sang partout ; une maison incendiée, et sur les ruines une femme pleurant, entourée de ses petits enfants ; une épouse en deuil avec de pauvres petits orphelins ; des villes dévastées, incendiées, des hommes mourant de faim, etc. Au bas de chacun des tableaux le peintre avait tracé ces mots : voilà les fruits de la guerre. On assure que le jeune prince, inexpérimenté mais de nature généreuse, frappé d'horreur par ces visions successives, s'appliqua à refréner ses penchants belliqueux et devint dans la suite un roi pacifique.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1550-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1550-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">hugolin_r_p_-_scenes_et_recits_de_temperance</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;R. P. Hugolin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:01.269635+00:00" name="calibre:timestamp"/>
+        <meta content="Scènes et récits de tempérance" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1294</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b8e3776b-e57c-4918-9553-e1b281bbbca8</dc:identifier>
+        <dc:title>Olympe de Clèves II</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Bannière, jeune novice chez les jésuites, passionné de théâtre, voit l'actrice Olympe de Clèves par la fenêtre de son couvent. Il en tombe amoureux, s'enfuit et se rend au théâtre, où il se retrouve sur les planches, remplaçant Champmeslé, acteur pieux honteux d'être comédien. Ce dernier vole les habits de Bannière et se fait jésuite à sa place. Bannière est contraint de fuir, ayant rompu son noviciat. Olympe, qui vient de se faire éconduire par son amant, M. de Mailly, s'éprend de Bannière, et ils fuient vers Lyon. Extrait : Cette jambe de Marion avait produit un singulier effet sur Bannière ; elle lui avait rappelé la jambe d'Olympe. À ce souvenir, le pauvre Bannière avait oublié tout ce qui n'était pas ce souvenir lui-même, et la marquise, et ses mépris et ses deux convives ; il avait bu le vin et oublié le vin ; il avait vendu son habit de dragon et oublié non seulement l'habit, mais l'enrôlement qui lui avait mis cet habit sur le dos. Sur la nappe rougie, au milieu des cires allumées, un gracieux fantôme voltigeait, se perdant parfois dans les angles obscurs de la chambre, puis reparaissant à l'improviste et animant tout d'une vie mystérieuse. Dans le feu, dans le vin, dans l'amour, dans l'avenir, Bannière ne voyait rien qu'Olympe.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1414-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1414-1</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1415-8</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_olympe_de_cleves_ii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:11.930717+00:00" name="calibre:timestamp"/>
+        <meta content="Olympe de Clèves II" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

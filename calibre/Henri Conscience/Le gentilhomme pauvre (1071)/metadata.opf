@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1071</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f0442b86-bd73-4550-b052-aba3dadbba78</dc:identifier>
+        <dc:title>Le gentilhomme pauvre</dc:title>
+        <dc:creator opf:file-as="Conscience, Henri" opf:role="aut">Henri Conscience</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>1842 près d'Anvers. M. de Vlierbecke est un gentilhomme ruiné. Il élève seul sa fille Lénora dans leur propriété du Grinselhof mais ses dettes sont telles que la vente de ses biens suffirait à peine à les couvrir. Sa fierté lui commande de taire son immense dénuement à son entourage qui le croit de la plus vile radinerie. Un espoir pourtant : l'idylle naissante de sa fille avec Gustave le neveu d'un riche bourgeois. La promesse faite à sa femme sur son lit de mort de la rendre heureuse va pouvoir se réaliser. Mais l'oncle de Gustave ne consent pas au mariage... Voici un conte bouleversant pour ceux qui aiment les beaux sentiments et les mélodrames. Et l'amour finalement triomphera... Hendrik Conscience, né Henri Conscience le 3 décembre 1812 à Anvers, mort le 10 septembre 1883 (à 70 ans) à Ixelles, est un écrivain belge d'expression néerlandaise. En 1855 les premières traductions commencèrent à paraître. Extrait : Gustave ! elle rêve de Gustave ! Son cœur est d'accord avec mes vœux. Puissions-nous réussir ! Puisse Dieu nous être propice !... Oh ! oui, mon enfant, ouvre ton âme aux enivrantes émotions de l'espérance... Rêve, rêve... car qui sait ? Mais, non, n'empoisonnons pas ces bienheureux instants par la froide image de la réalité !... Dors, dors, laisse savourer à ton âme les célestes enchantements de l'amour qui s'éveille ! M. de Vlierbecke demeura quelques instants encore en contemplation. Il se leva enfin, passa derrière la jeune fille et posa sur son front un long baiser.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0745-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0745-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">conscience_henri_-_le_gentilhomme_pauvre</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Belgique</dc:subject>
+        <meta content="{&quot;Henri Conscience&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:26.005989+00:00" name="calibre:timestamp"/>
+        <meta content="gentilhomme pauvre, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

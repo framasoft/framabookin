@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1260</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eadeb99a-f063-4c8f-864a-d0df9dab0bb5</dc:identifier>
+        <dc:title>Le Peuple de la Mer</dc:title>
+        <dc:creator opf:file-as="Elder, Marc" opf:role="aut">Marc Elder</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1913-12-14T23:00:00+00:00</dc:date>
+        <dc:description>"Le Peuple de la Mer" de Marc Elder valut au jeune auteur (29 ans à l'époque) le Prix Goncourt 1913, aux dépends d'Alain Fournier et de Marcel Proust. C'est un ensemble de 3 chroniques : La Barque, la Femme, la Mer, qui racontent la vie des habitants du village de l'Herbaudière, sur l'île de Noirmoutier. L'auteur y décrit les destins qui s'entrecroisent de marins, de pêcheurs ou de gardiens de Phares... Extrait : Coup sur coup, il lui avait fait trois enfants, parce qu’il faut des bras pour manœuvrer les barques et qu’un mousse de plus dans la famille c’est un étranger de moins à entretenir à bord. Car les pêcheurs procréent surtout par intérêt, comme les bourgeois s’en gardent pour la même cause, et non pas tant, selon la commune croyance, à cause des ivresses qui les culbutent, dans une poussée de rut, sur leurs femmes maîtrisées.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1064-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1064-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">elder_marc_-_le_peuple_de_la_mer</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Marc Elder&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:05.195565+00:00" name="calibre:timestamp"/>
+        <meta content="Peuple de la Mer, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

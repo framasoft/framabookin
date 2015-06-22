@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1428</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">003b4ab2-e2b9-4a3e-b8a1-f38b0646074f</dc:identifier>
+        <dc:title>L'affaire Lerouge</dc:title>
+        <dc:creator opf:file-as="Gaboriau, Émile" opf:role="aut">Émile Gaboriau</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1866-06-02T23:00:00+00:00</dc:date>
+        <dc:description>D’abord publié en feuilleton en 1863 dans le journal Le Pays, où il passa inaperçu, il est repris en 1866 par le journal Le Soleil et remporte un immense succès. Ce roman s'inspire du meurtre, à la fin du Second Empire, de la veuve Célestin Lerouge, égorgée dans le quartier de la place d'Italie et dont l'assassin n'a jamais été retrouvé. Émile Gaboriau, enquêtant pour le compte de son journal Le Soleil, va durant des semaines tenir en haleine un public toujours plus nombreux avec un art déroutant qui va tout de suite en faire un maître de l'angoisse, et l'inventeur du roman policier. Gaboriau excelle à dérouter son lecteur. Extrait: Mais l'enfant ! murmurait-il ; l'enfant, qu'est-il devenu ? L'aurait-on tué ? Non, car la veuve Lerouge, complice d'un infanticide, n'était presque plus redoutable. L'amant a voulu qu'il vécût ; et on l'a confié à notre veuve, qui l'a élevé. On a pu lui retirer l'enfant, mais non les preuves de sa naissance et de son existence. Voilà le joint.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0227-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0227-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">gaboriau_emile_-_l_affaire_lerouge</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture avancée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Émile Gaboriau&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:39.225248+00:00" name="calibre:timestamp"/>
+        <meta content="affaire Lerouge, L'" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

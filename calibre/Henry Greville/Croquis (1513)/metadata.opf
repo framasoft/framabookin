@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1513</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a5e3fe33-ac99-436b-8886-a69539c86826</dc:identifier>
+        <dc:title>Croquis</dc:title>
+        <dc:creator opf:file-as="Gréville, Henry" opf:role="aut">Henry Gréville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1880-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Henry Gréville, pseudonyme de Alice Marie Céleste Durand née Fleury (1842-1902), a publié de nombreux romans, des nouvelles, des pièces, de la poésie ; elle a été à son époque un écrivain à succès. Extrait : Le diable emporte les gens qui vous mettent martel en tête ! me disais-je en revenant à pied de la ville voisine à travers les blés jaunissants sur lesquels le soleil jetait une large nappe d'or rouge : il fait un temps magnifique, je rentre chez moi ; ne devrais-je pas être joyeux et entendre toutes les douces chansons du foyer chanter dans mon cœur ? Au lieu de cette bonne musique, c'est la voix aigre de la tante Caroline qui me tinte aux oreilles : « Mon neveu, prenez garde à votre femme, vous vous apercevrez trop tard que j'avais raison de vous prévenir. »</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1503-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1503-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">greville_henry_-_croquis</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Henry Gréville&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:56.913658+00:00" name="calibre:timestamp"/>
+        <meta content="Croquis" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

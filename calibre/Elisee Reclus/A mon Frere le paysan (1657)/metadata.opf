@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1657</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e49c300c-1e9f-4071-b62f-28593927012a</dc:identifier>
+        <dc:title>A mon Frère le paysan</dc:title>
+        <dc:creator opf:file-as="Reclus, Élisée" opf:role="aut">Élisée Reclus</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1925-12-14T23:00:00+00:00</dc:date>
+        <dc:description>Élisée Reclus, de son nom complet Jacques Élisée Reclus, est un géographe, militant et penseur de l’anarchisme français. Il fut un écrivain prolifique, aussi bien dans son domaine professionnel de la géographie terrestre, que sur les thèmes de la vie humaine et de l'anarchisme. Le bannissement politique d’Élisée Reclus pour ses idées anarchistes a certainement été à l’origine de l’oubli relatif dans lequel il est aujourd’hui. Extrait : ... cet autre seigneur né pauvre, sans parchemin, que nul flatteur ne vint admirer dans la cabane ou la mansarde maternelle, mais qui eut la chance de s'enrichir par son travail probe ou improbe ? Il n'avait pas une motte de terre où reposer sa tête, mais il a su, par des spéculations ou des économies, par les faveurs des maîtres ou du sort, acquérir d'immenses étendues qu'il enclôt maintenant de murs et de barrières : il récolte où il n'a point semé, il mange et grappille le pain qu'un autre a gagné par son travail. Respecterons-nous cette deuxième propriété, celle de l'enrichi qui ne travaille point sa terre, mais qui la fait labourer par des mains esclaves et qui la dit sienne ? Non, cette deuxième propriété, nous ne la respecterons pas plus que la première. Ici encore, quand nous en aurons la force, nous viendrons mettre la main sur ces domaines ...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1136-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1136-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">reclus_elisee_-_a_mon_frere_le_paysan</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Élisée Reclus&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:25.848182+00:00" name="calibre:timestamp"/>
+        <meta content="A mon Frère le paysan" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

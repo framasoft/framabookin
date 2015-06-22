@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1150</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">736b80f2-f000-4d94-a394-dfd8cfbd2d47</dc:identifier>
+        <dc:title>Joseph Balsamo III</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Les «Mémoires d'un médecin» est une suite romanesque qui a pour cadre la Révolution Française et qui comprend «Joseph Balsamo», «le Collier de la reine», «Ange Pitou» et la «Comtesse de Charny». Joseph Balsamo veut apporter le bonheur aux hommes en sapant les monarchies du monde pour instaurer des gouvernements basés sur la souveraineté populaire, et cela en commençant par la monarchie française. Ses moyens sont colossaux: sorcier, magnétiseur, il est à la tête de puissantes sociétés secrètes s'étendant à tous les continents et dont les membres appartiennent à toutes les couches sociales. Extrait : - Voilà, dit-il en montrant le duc et la comtesse ; ces gens-là vont s'amuser à la chasse, tandis que moi, je galope à Paris ; ils verront de jolis cavaliers et de jolies femmes ; moi, je vais contempler les hideuses faces des gratte-papier. Décidément, je suis le chien de la maison. - Notez, duc, fit la comtesse, qu'il ne va pas s'occuper de nous le moins du monde ; il va donner la moitié de mes billets à quelque drôlesse, et jouer le reste dans quelque tripot ; voilà ce qu'il va faire, et il pousse des hurlements, le misérable ! Tenez, allez-vous-en, Jean, vous me faites horreur. Jean dévalisa trois bonbonnières, qu'il vida dans ses poches, vola sur l'étagère une Chinoise qui avait des yeux de diamants, et partit en faisant le gros dos, poursuivi par les cris nerveux de la comtesse.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0012-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0012-0</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0013-7</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_joseph_balsamo_iii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:42.355490+00:00" name="calibre:timestamp"/>
+        <meta content="Joseph Balsamo III" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">968</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">888c834d-7d2b-4dd8-a8d2-6620f567dd9b</dc:identifier>
+        <dc:title>Baltus le Lorrain</dc:title>
+        <dc:creator opf:file-as="Bazin, René" opf:role="aut">René Bazin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Jacques BALTUS, dit Baltus le Lorrain, est instituteur. Son fils a disparu pendant la grande guerre, ce qui a rendu sa femme un peu «folle». Elle le croit encore vivant et met des morceaux de pain à tous les carrefours des chemins, pour nourrir ce fils qui ne vit que dans son esprit. Le père fait le voyage à Verdun en compagnie de sa fille Orane, pour essayer de retrouver la dépouille du fils... Extrait : Quand deux jeunes gens s'en vont ainsi, ne se regardant pas l'un l'autre, mais graves, le visage levé, disant aux étoiles, à voix basse, des mots que n'entendent point les parents qui les suivent, on peut être assuré que l'amour est entre eux. La mère, épuisée, possédée d'autres songes, avait perdu, depuis longtemps, ce don qu'ont les mères d'interroger sans cesse, en esprit, leurs filles un peu grandes et en danger d'amour. Marie Baltus ne voyait que ceci : par la nuit sans lune, elle avait, pour la mieux guider sur le chemin, le chef de culture de la Horgne, un homme qui avait la confiance du maître, et auquel celui-ci avait dit : « Reconduis-les jusqu'à la route. »</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0292-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0292-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">bazin_rene_-_baltus_le_lorrain</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;René Bazin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:05.426119+00:00" name="calibre:timestamp"/>
+        <meta content="Baltus le Lorrain" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

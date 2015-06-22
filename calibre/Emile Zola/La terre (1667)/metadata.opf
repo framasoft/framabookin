@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1667</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8c6c920a-4294-4943-993f-509cf09157b0</dc:identifier>
+        <dc:title>La terre</dc:title>
+        <dc:creator opf:file-as="Zola, Émile" opf:role="aut">Émile Zola</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1895-12-14T23:00:00+00:00</dc:date>
+        <dc:description>La Terre est le quinzième volume de la série des Rougon-Macquart. Sans doute l’un des plus violents, Zola y dresse en effet un portrait féroce du monde paysan de la fin du xixe siècle, âpre au gain, dévoré d’une passion pour la terre qui peut aller jusqu’au crime. Tout l’ouvrage est empreint d’une bestialité propre à choquer les lecteurs de l’époque, les accouplements d’animaux alternant avec ceux des humains, eux-mêmes marqués par une grande précocité et par une brutalité allant fréquemment jusqu’au viol. Dès sa parution, la Terre a soulevé de violentes controverses, illustrées notamment par le Manifeste des cinq, article publié dans le Figaro par cinq jeunes romanciers qui conseillaient à Zola de consulter Charcot pour soigner ses obsessions morbides. Extrait : Ce dernier venait de rejoindre les deux autres, qui hurlaient aux trousses de l'infirme. Essoufflé, ahuri, Hilarion entra, en se déhanchant sur ses jambes torses. Son bec-de-lièvre le faisait saliver, il bégayait sans pouvoir expliquer les choses, l'air caduc pour ses vingt-quatre ans, d'une hideur bestiale de crétin. Il était devenu très méchant, enragé de ce qu'il ne pouvait attraper à la course et calotter les gamins qui le poursuivaient. Cette fois encore, c'était lui qui avait reçu une volée de boules de neige.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0248-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0248-3</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0250-6</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">zola_emile_-_la_terre</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Émile Zola&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:27.859187+00:00" name="calibre:timestamp"/>
+        <meta content="terre, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

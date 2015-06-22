@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1322</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">49e3a6ba-0013-409d-9eab-0ac38f2c932e</dc:identifier>
+        <dc:title>Les trois mousquetaires III</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Premier volume de la trilogie comprenant également Vingt ans après et Le vicomte de Bragelonne. Le roman raconte les aventures d'un Gascon désargenté de 18 ans, d'Artagnan, monté à Paris faire carrière. Il se lie d'amitié avec Athos, Porthos et Aramis, mousquetaires du roi Louis XIII. Ces quatre hommes vont s'opposer au premier ministre, le Cardinal de Richelieu et à ses agents, dont la belle et mystérieuse Milady de Winter, pour sauver l'honneur de la reine de France Anne d'Autriche. Avec ses nombreux combats et ses rebondissements romanesques, Les Trois mousquetaires est l'exemple type du roman de cape et d'épée. Extrait : C'était sur le cardinal que pesait toute la responsabilité, car on n'est pas ministre absolu sans être responsable ; aussi toutes les ressources de son vaste génie étaient-elles tendues nuit et jour, et occupées à écouter le moindre bruit qui s'élevait dans un des grands royaumes de l'Europe. Le cardinal connaissait l'activité et surtout la haine de Buckingham ; si la ligue qui menaçait la France triomphait, toute son influence était perdue : la politique espagnole et la politique autrichienne avaient leurs représentants dans le cabinet du Louvre, où elles n'avaient encore que des partisans ; lui Richelieu, le ministre français, le ministre national par excellence, était perdu. Le roi, qui, tout en lui obéissant comme un enfant, le haïssait comme un enfant hait son maître, l'abandonnait aux vengeances réunies de Monsieur et de la reine ; il était donc perdu, et peut-être la France avec lui. Il fallait parer à tout cela.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1403-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1403-5</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0068-7</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_les_trois_mousquetaires_iii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture avancée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:17.537059+00:00" name="calibre:timestamp"/>
+        <meta content="trois mousquetaires III, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

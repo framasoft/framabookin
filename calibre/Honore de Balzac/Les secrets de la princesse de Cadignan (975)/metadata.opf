@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">975</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d1233772-71d9-484d-afb5-235c9932d266</dc:identifier>
+        <dc:title>Les secrets de la princesse de Cadignan</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études de moeurs. Troisième livre, Scènes de la vie parisienne - Tome XI (sic, erreur pour le tome III). Onzième volume de l'édition Furne 1842. Extrait : ― De Marsay a joué avec moi comme avec une poupée. J’étais si jeune ! Nous n’aimons jamais les hommes qui se font nos instituteurs, ils froissent trop nos petites vanités. Voici bientôt trois années que je passe dans une solitude entière, eh ! bien, ce calme n’a rien eu de pénible. A vous seule, j’oserai dire qu’ici je me suis sentie heureuse. J’étais blasée d’adorations, fatiguée sans plaisir, émue à la superficie sans que l’émotion me traversât le cœur. J’ai trouvé tous les hommes que j’ai connus petits, mesquins, superficiels ; aucun d’eux ne m’a causé la plus légère surprise, ils étaient sans innocence, sans grandeur, sans délicatesse. J’aurais voulu rencontrer quelqu’un qui m’eût imposé.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1023-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1023-5</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1019-8</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_les_secrets_de_la_princesse_de_cadignan</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:06.791546+00:00" name="calibre:timestamp"/>
+        <meta content="secrets de la princesse de Cadignan, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

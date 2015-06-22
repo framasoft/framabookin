@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1448</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d0d0b6a1-b178-4477-9306-9bfe7f17b11f</dc:identifier>
+        <dc:title>Battling Malone, pugiliste</dc:title>
+        <dc:creator opf:file-as="Hémon, Louis" opf:role="aut">Louis Hémon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1926-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Louis Hémon n'a fait paraître de son vivant que quelques textes de fiction, dont une nouvelle, Lizzie Blakeston, en 1908. Son roman le plus connu, Maria Chapdelaine, parut d'abord en feuilleton dans le journal parisien Le Temps (1914), puis en volume à Montréal (1916). Mais c'est une édition parisienne (1922) qui permettra au roman de connaître un succès extraordinaire ; ce sera même pendant longtemps le roman français ayant connu le plus grand tirage. Il fut traduit en des dizaines de langues et se vendit à des millions d'exemplaires. Cependant, d'autres ouvrages de Louis Hémon ont paru par la suite : la Belle que voilà (1923) ; Colin-Maillard (1924) ; Battling Malone, pugiliste(1926) ; Monsieur Ripois et la Némésis (1950). Louis Hémon reste l'écrivain emblématique du Canada francophone par son évocation mythique du début du XXe siècle et de la terre québécoise. Il est d'ailleurs très régulièrement intégré aux listes des écrivains canadiens français, mais un peu abusivement puisque Louis Hémon a vécu moins de deux ans au Canada. Extrait : Il y a ici des gentlemen, fit-il d'un air important et mystérieux, qui sont venus du West End remplir dans Whitechapel une mission, une vraie mission qui intéresse tous les sportsmen britanniques, de quelque rang qu'ils soient. Hommes de Whitechapel, montrez-leur votre respect de l'ordre et votre amour du sport, et souhaitons tous, lords et roturiers, que cette soirée nous révèle un champion !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1538-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1538-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">hemon_louis_-_battling_malone_pugiliste</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Louis Hémon&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:43.230205+00:00" name="calibre:timestamp"/>
+        <meta content="Battling Malone, pugiliste" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

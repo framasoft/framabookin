@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1575</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">57e68a36-7355-4b96-9d4a-1f5895344d0e</dc:identifier>
+        <dc:title>Un épisode de la vie d'un faux dévot</dc:title>
+        <dc:creator opf:file-as="L'Écuyer, Eugène" opf:role="aut">Eugène L'Écuyer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1844-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Un épisode de la vie d'un faux dévot et autres textes. Notaire, Eugène L'Écuyer a aussi publié des nouvelles, de la poésie, des romans. Il a ainsi écrit, lorsqu'il était étudiant, un roman, publié en 1844 : La fille du brigand. L'Écuyer aurait publié plus de cinquante récits dans des journaux ou des revues. L'essentiel de son œuvre parut entre 1844 et 1854, date à laquelle il délaissa la littérature pour plus de vingt ans. Extrait : Il ne faut pas que j'oublie de mentionner un fait qui n'a pas peu contribué à asseoir sur des bases indestructibles ma réputation de saint homme : Passant pour un saint, il fallait, pour bien faire, m'illustrer davantage par un miracle ! Je pouvais impunément me servir du mensonge ; j'ai donc prétendu que la sainte vierge m'avait apparu. J'ai su choisir mon monde pour en faire la première confidence ; et j'ai bien choisi ; car l'affaire est déjà loin !... Quand ça n'amuserait que les commères, c'est une engeance qu'il faut ménager ! Mon cher Marcel, si jamais le hasard t'amène en Canada et jusque dans la paroisse St..., n'oublie pas de me voir. Bien qu'ermite pour le monde, je n'en suis pas moins, comme toujours, joyeux vivant avec les intimes comme toi.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1624-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1624-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">l_ecuyer_eugene_-_un_episode_de_la_vie_d_un_faux_devot</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Eugène L'Écuyer&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:09.005435+00:00" name="calibre:timestamp"/>
+        <meta content="épisode de la vie d'un faux dévot, Un" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

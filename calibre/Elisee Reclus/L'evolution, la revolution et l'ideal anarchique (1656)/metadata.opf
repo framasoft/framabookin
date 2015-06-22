@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1656</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">028d4627-18b1-4acb-a079-c3169ed5badd</dc:identifier>
+        <dc:title>L’évolution, la révolution et l’idéal anarchique</dc:title>
+        <dc:creator opf:file-as="Reclus, Élisée" opf:role="aut">Élisée Reclus</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1914-12-14T23:00:00+00:00</dc:date>
+        <dc:description>Élisée Reclus, de son nom complet Jacques Élisée Reclus, est un géographe, militant et penseur de l’anarchisme français. Il fut un écrivain prolifique, aussi bien dans son domaine professionnel de la géographie terrestre, que sur les thèmes de la vie humaine et de l'anarchisme. Le bannissement politique d’Élisée Reclus pour ses idées anarchistes a certainement été à l’origine de l’oubli relatif dans lequel il est aujourd’hui. Extrait : Il est cependant des esprits timorés qui croient honnêtement à l'évolution des idées, qui espèrent vaguement dans une transformation correspondante des choses, et qui néanmoins, par un sentiment de peur instinctive presque physique, veulent, au moins de leur vivant, éviter toute révolution. Ils l'évoquent et la conjurent en même temps : ils critiquent la société présente et rêvent de la société future comme si elle devait apparaître soudain, par une sorte de miracle, sans que le moindre craquement de rupture se produise entre le monde passé et le monde futur. Êtres incomplets, ils n'ont que le désir, sans avoir la pensée ; ils imaginent, mais ils ne savent point vouloir.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1137-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1137-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">reclus_elisee_-_l_evolution_la_revolution_et_l_ideal_anarchique</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Élisée Reclus&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:25.641541+00:00" name="calibre:timestamp"/>
+        <meta content="L’évolution, la révolution et l’idéal anarchique" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

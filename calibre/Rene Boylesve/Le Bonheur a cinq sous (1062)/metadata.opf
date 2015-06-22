@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1062</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e18c5a0f-afa5-4b6d-92ce-2388b9b6015b</dc:identifier>
+        <dc:title>Le Bonheur à cinq sous</dc:title>
+        <dc:creator opf:file-as="Boylesve, René" opf:role="aut">René Boylesve</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>René Tardiveau, dit René Boylesve, est un écrivain français, né le 14 avril 1867 et mort à Paris le 14 janvier 1926. Extrait : Non seulement, comme grand nombre d'hommes, il avait l'instinct paternel, mais comme beaucoup, il était paresseux. L'engourdissement inspiré par cette eau si doucement courante, le plaisir de la pêche, le bien-être de la calme maison de province, la tentation supérieure, qui nous vient on ne sait d'où, de faire en sorte que « cela dure » et même que d'autres après nous, dans des conditions analogues, durent encore, cet instinct si puissant et si sûr, que l'adaptation saugrenue de la vie humaine à la trépidation mécanique a détruit, tout cela contribuait à l'attacher à ce coin de terre où il lui serait si simple et si aisé de passer la vie.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1275-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1275-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">boylesve_rene_-_le_bonheur_a_cinq_sous</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;René Boylesve&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:24.184196+00:00" name="calibre:timestamp"/>
+        <meta content="Bonheur à cinq sous, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

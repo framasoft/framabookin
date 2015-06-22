@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1426</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2d2ed8bf-176a-407a-a56d-1ec31ee5a07d</dc:identifier>
+        <dc:title>L'argent des autres II</dc:title>
+        <dc:creator opf:file-as="Gaboriau, Émile" opf:role="aut">Émile Gaboriau</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1873-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Un petit comptable, Vincent Favoral, devient la cible de tous les regards. Il est sur le point d'être arrêté pour détournement de fonds. Il parvient cependant à s'enfuir. Qui s'est-il passé, qui est-il? Extrait : Eh bien ! au moment où je croyais toucher à la réalisation de mes espérances, il arrivait que tout à coup le mystère de votre naissance vous était révélé... Vous retrouviez une famille, noble, puissante, riche... Vous qui n'avez pas de nom, vous repreniez le nom illustre qu'on vous avait volé... Vos ennemis étaient écrasés, et tous vos droits vous étaient rendus... Ce n'était plus le huit ressorts de chez Brion qui s'arrêtait devant la porte de l'Hôtel des Folies, mais une voiture largement armoriée... Cette voiture, timbrée à vos armes, était la vôtre, et elle vous attendait pour vous conduire à votre hôtel du faubourg Saint-Germain ou à votre château patrimonial... Vous y preniez place...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1471-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1471-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">gaboriau_emile_-_l_argent_des_autres_ii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Émile Gaboriau&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:38.819268+00:00" name="calibre:timestamp"/>
+        <meta content="argent des autres II, L'" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

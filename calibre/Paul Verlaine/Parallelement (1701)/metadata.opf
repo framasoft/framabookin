@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1701</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">130d9cb5-5f49-440d-8df5-c0e52a8d6734</dc:identifier>
+        <dc:title>Parallèlement</dc:title>
+        <dc:creator opf:file-as="Verlaine, Paul" opf:role="aut">Paul Verlaine</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Un très vieux temple antique s'écroulant - Sur le sommet indécis d'un mont jaune, - Ainsi qu'un roi déchu pleurant son trône ; - Se mire, pâle, au tain d'un fleuve lent ; - Grâce endormie et regard somnolent, - Une naïde âgée, auprès d'une aulne, - Avec un brin de saule agace un faune - Qui lui sourit, bucolique et galant. - Sujet naïf et fade qui m'attristes, - Dis, quel poète entre tous les artistes, - Quel ouvrier morose t'opéra, - Tapisserie usée et surannée, - Banale comme un décor d'opéra, - Factice, hélas ! comme ma destinée ?</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1176-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1176-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">verlaine_paul_-_parallelement</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>poesie</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Paul Verlaine&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:34.819779+00:00" name="calibre:timestamp"/>
+        <meta content="Parallèlement" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

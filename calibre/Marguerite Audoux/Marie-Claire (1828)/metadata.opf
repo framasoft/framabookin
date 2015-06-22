@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1828</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">453af3bd-0542-4108-a2ab-12b0aa458209</dc:identifier>
+        <dc:title>Marie-Claire</dc:title>
+        <dc:creator opf:file-as="Audoux, Marguerite" opf:role="aut">Marguerite Audoux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Roman autobiographique. Le 2 décembre 1910 il reçoit le Prix Femina que l’on décerne à l’ancienne bergère pour son roman intitulé Marie-Claire, dont les ventes dépassent les cent mille exemplaires. Il est traduit en allemand et en anglais, ainsi qu'en esperanto, en russe, en catalan, en suédois, en espagnol, en danois, en slovène. - À la mort de sa mère, la petite Marie-Claire, âgée de cinq ans, est placée à l'Assistance publique, séparée brutalement de sa soeur et d'un père alcoolique. Monde clos, cet orphelinat est dirigé par d'austères religieuses. Marie-Claire se réfugie souvent dans le giron de soeur Marie-Aimée, l'institutrice à la voix chaleureuse. Pour sa protégée, cette dernière rêve d'un beau destin et dès que Marie-Claire a fait sa première communion, elle lui propose d'entrer comme demoiselle de magasin chez Mlle Maximilienne, la soeur du curé. La mère supérieure, par jalousie, en décide autrement: «Vous serez bergère, mademoiselle.» Elle se retrouve donc à la ferme de Villevieille en Sologne, et fait l'apprentissage de son nouveau métier, aidée par la vieille Bibiche et le vacher. Grâce à la compassion des fermiers Sylvain et Pauline, aux beautés de la nature et à la découverte de Télémaque au fin fond du grenier, Marie-Claire retrouve une forme de sérénité jusqu'à une nouvelle rupture: la mort de Sylvain amène à la ferme de nouveaux propriétaires. Devenue servante de Mme Alphonse, femme maniaque et froide, Marie-Claire retombe dans un désarroi absolu...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0888-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0888-1</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1236-9</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">audoux_marguerite_-_marie-claire</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Marguerite Audoux&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:19:00.345508+00:00" name="calibre:timestamp"/>
+        <meta content="Marie-Claire" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

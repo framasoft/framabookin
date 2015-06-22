@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1580</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">10d93d97-8716-4ef6-819c-8f33c79fed2d</dc:identifier>
+        <dc:title>Le livre de la pitié et de la mort</dc:title>
+        <dc:creator opf:file-as="Loti, Pierre" opf:role="aut">Pierre Loti</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>C'est la partie la plus singulière est la plus durable de l'oeuvre de Pierre LOTI. "Le Livre de la Pitié et de la Mort", paru en 1891  est le premier des livres très intimes que l'auteur a hésité à livrer au public. Là où le voile de la fiction ne protège plus, c'est d'un coeur mis à nu qu'il s'agit. Extrait : Vieux coureur de grands chemins, arrêté, en cinquième ou sixième récidive, pour vagabondage et vol, il disait : « Comment faire pour ne pas voler, quand on a commencé une fois, — et qu’on n’a pas de métier, rien, — et que les gens ne veulent plus de vous nulle part ? Il faut bien manger, n’est-ce pas ? — Pour ma dernière condamnation, c’était un sac de pommes de terre que j’avais pris dans un champ, avec un fouet de roulier et un giraumont.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1098-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1098-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">loti_pierre_-_le_livre_de_la_pitie_et_de_la_mort</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Pierre Loti&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:10.324126+00:00" name="calibre:timestamp"/>
+        <meta content="livre de la pitié et de la mort, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

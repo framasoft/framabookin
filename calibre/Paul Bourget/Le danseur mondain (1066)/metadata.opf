@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1066</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3e52682f-76d6-4255-b97a-4f16e646f6c9</dc:identifier>
+        <dc:title>Le danseur mondain</dc:title>
+        <dc:creator opf:file-as="Bourget, Paul" opf:role="aut">Paul Bourget</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Renée, tombe amoureuse de Neyrial, maître de danse dans un hôtel de la Riviera, qui est également très attiré par la jeune femme... Mais ce dernier a un passé suspect. Autrefois il était employé chez un avocat,lequel était aussi un bibliophile passionné, et il a volé quelques volumes en éditions rarissimes. Le vol étant découvert, Neyrial (de son vrai nom, Pierre-Stéphane Beurtin) a du partir... Extrait : Du coup, ce témoignage, apporté par Renée, ruinait à fond l'édifice d'hypothèses construit par Jaffeux. Si ce garçon avait été le séducteur accusé par son ancien patron, se serait-il déshonoré, gratuitement, aux yeux de la jeune fille ? Non, puisque c'était là se l'aliéner à jamais. Impossible d'imaginer qu'en agissant de la sorte il se ménageât un moyen de pression sur le vrai coupable. Celui-ci ne voyait plus qu'un seul motif à cette attitude, adoptée à deux reprises, dans ce bureau de commissariat d'abord, puis tout à l'heure dans le jardin. Le voleur de livres, qui s'était perdu par cette première faute, avait eu pitié du voleur du bijou. Cette pitié expliquait également le prêt des mille francs. Si Gilbert n'avait pas eu dans les oreilles ce rire de tout à l'heure et son insultante ironie, combien l'eût touché cette triple preuve d'une si généreuse sympathie ! À cette minute, et trop près de cette scène, ce bienfait lui était plus qu'odieux, intolérable. Le fils d'officier, chatouilleux, par éducation et par hérédité, sur le point d'honneur, frémissait encore de l'affront, et que l'auteur de cet affront eût eu, à son égard, de telles magnanimités, achevait de le jeter dans un état de gêne morale tel qu'il n'en avait jamais éprouvé de pareil.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0957-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0957-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">bourget_paul_-_le_danseur_mondain</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Paul Bourget&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:24.997887+00:00" name="calibre:timestamp"/>
+        <meta content="danseur mondain, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

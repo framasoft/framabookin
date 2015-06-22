@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1819</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7327cfda-f2b1-4b58-bb43-7c48c42967e6</dc:identifier>
+        <dc:title>Le coeur et la raison</dc:title>
+        <dc:creator opf:file-as="Austen, Jane" opf:role="aut">Jane Austen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Le mépris qu'elle avait ressenti, dès le début de leurs relations, pour sa belle-fille, fut fortement accru par la connaissance plus poussée de son caractère, que lui permit une résidence d'une demi-année dans sa famille ; et peut-être, en dépit de toutes les considérations de politesse ou d'affection maternelle de la part de la première, les deux dames eussent-elles trouvé impossible de vivre ensemble aussi longtemps, s'il ne s'était produit une circonstance spéciale rendant plus désirable, selon l'opinion de Mrs. Dashwood, que ses filles prolongeassent leur séjour à Norland. Cette circonstance, ce fut une affection croissante entre sa fille aînée et le frère de Mrs. Dashwood, jeune homme distingué et agréable dont elles firent la connaissance peu après que sa sœur se fut établie à Norland, et qui avait passé là la plus grande partie de son temps.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1237-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1237-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">austen_jane_-_le_coeur_et_la_raison</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Angleterre</dc:subject>
+        <meta content="{&quot;Jane Austen&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:58.591610+00:00" name="calibre:timestamp"/>
+        <meta content="coeur et la raison, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

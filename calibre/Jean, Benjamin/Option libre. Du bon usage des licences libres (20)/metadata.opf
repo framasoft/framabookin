@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d67b8eeb-1efc-44d4-a581-6e48d6ced5af</dc:identifier>
+        <dc:title>Option libre. Du bon usage des licences libres</dc:title>
+        <dc:creator opf:file-as="Jean, Benjamin" opf:role="aut">Jean, Benjamin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-11-30T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;À l'heure où les manœuvres politiques et lobbyistes cherchent à étendre et renforcer les droits de propriété intellectuelle, un nouveau système construit sur la base des licences libres vient concurrencer et devancer le précédent en termes d'innovation et de création.&lt;/p&gt;&lt;p&gt;Dans leurs fondements juridiques, les licences libres interrogent à plus d'un titre les usages de la propriété intellectuelle en cours depuis des siècles. En moins de trente ans, le mouvement du Libre a réalisé une telle révolution, à la fois technique et culturelle, que le nombre de licences n'a cessé d'augmenter, formalisant de multiples manières les rapports entre les auteurs, les utilisateurs et l'oeuvre.&lt;/p&gt;&lt;p&gt;Quelle stratégie adopter dans le choix d'une licence et comment concilier ce choix avec un modèle économique ? Quelles sont les compatibilités entre les licences et comment envisager l'équilibre entre les droits existants et éprouvés (droit d'auteur, brevets, etc.) et la permissivité propre au Libre ? Dans cet ouvrage documenté, objectif et pédagogique, Benjamin Jean élabore une base saine et pérenne de discussions et d'échanges entre tous les acteurs du Libre. Se livrant à un véritable inventaire des pratiques juridiques dans ce domaine, l'auteur nous permet de les appréhender finement et encourage à les perfectionner et les porter dans d'autres secteurs.&lt;/p&gt;&lt;p&gt;Après une présentation du cadre légal associé aux créations de l'esprit, initialement conçu comme un système en équilibre, l'ouvrage plonge le lecteur dans ce nouveau paradigme des licences libres. Tout en évitant la simple exposition de règles et de normes, c'est de manière méthodique que seront abordées les notions juridiques à la base des nouveaux rapports entre les acteurs. Une sérieuse analyse de la maturation de ce système et un repérage des bons réflexes et des principaux écueils, permettront enfin d'aborder une étude pratique et éclairée des quelques licences libres les plus utilisées.&lt;/p&gt;&lt;p&gt;********************&lt;/p&gt;&lt;p&gt;Benjamin Jean est un juriste spécialisé en propriété intellectuelle. Il travaille sur les nouveaux usages et collaborations qui se développent autour de la création et de l'innovation. Il a notamment œuvré pour leur prise en compte au sein des gouvernances de multiples acteurs privés et publics, et formé de nombreuses équipes aux aspects juridiques afférents.&lt;/p&gt;&lt;p&gt;Actif depuis près de dix ans dans ce domaine, il enseigne la propriété intellectuelle dans plusieurs Masters, intervient comme consultant au sein du cabinet Gilles Vercken (Paris) et achève une thèse sur les systèmes collaboratifs. Il a codirigé au sein du Syntec Numérique la rédaction du guide Open Source intitulé Réflexions sur la construction et le pilotage d'un projet Open Source, et créé et dirigé le premier Centre Juridique Open Source. À l'échelle européenne, il organise les conférences annuelles EOLE (European Open Source &amp;amp; Free Software Law Event) et il est membre de l'European Legal Network (FSF Europe).&lt;/p&gt;&lt;p&gt;Très présent dans les communautés du logiciel libre, il est cofondateur de Veni Vidi Libri et de la SARD (Société d'Acceptation et de Répartition des Dons). En 2011, il a créé sa propre société, Inno3, qui accompagne les entreprises et acteurs publics dans l'ouverture de leur politique d'innovation en faveur de processus partagés et collaboratifs.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Framasoft</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9782953918748</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Framabook</dc:subject>
+        <dc:subject>licences libres</dc:subject>
+        <dc:subject>open source</dc:subject>
+        <dc:subject>droit</dc:subject>
+        <dc:subject>juridique</dc:subject>
+        <meta content="{&quot;Jean, Benjamin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-05-26T16:44:39.086610+00:00" name="calibre:timestamp"/>
+        <meta content="Option libre. Du bon usage des licences libres" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

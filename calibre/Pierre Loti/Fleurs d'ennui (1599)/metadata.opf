@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1599</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d25c42b0-654e-4a67-8da6-a0d6a0ee44bc</dc:identifier>
+        <dc:title>Fleurs d’ennui</dc:title>
+        <dc:creator opf:file-as="Loti, Pierre" opf:role="aut">Pierre Loti</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Un recueil de quatre textes publiés en 1882.FLEURS D’ENNUI, PASQUALA IVANOVITCH : ce roman a rencontré un vif succès. VOYAGE AU MONTÉNÉGRO, SULEIMA : «Ce sera une histoire bien décousue que celle-ci, et mon ami Plumkett était d'avis de l'intituler : Chose sans tête ni queue. Elle embrassera douze années de notre ère et tiendra, je pense, en une vingtaine de chapitres (dont un prologue, comme dans les pièces classiques). L'intrigue ne sera pas très corsée, il y aura un intervalle de dix ans pendant lequel il ne se passera rien du tout, et puis, brusquement, cela finira par un tissu de crimes. Il y aura deux personnages portant le même nom, une femme et une bête, et leurs affaires seront tellement amalgamées, qu'on ne saura plus trop, à certains moments, s'il s'agit de l'une ou s'il s'agit de l'autre. Mes aventures personnelles viendront s'y mêler aussi, et, pour comble de gâchis, les réflexions de Plumkett.»</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1091-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1091-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">loti_pierre_-_fleurs_d_ennui</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Pierre Loti&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:14.175733+00:00" name="calibre:timestamp"/>
+        <meta content="Fleurs d’ennui" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

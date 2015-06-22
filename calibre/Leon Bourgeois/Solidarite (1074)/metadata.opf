@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1074</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c5b27df4-7f58-4f8e-ba90-e8741162e6dc</dc:identifier>
+        <dc:title>Solidarité</dc:title>
+        <dc:creator opf:file-as="Bourgeois, Léon" opf:role="aut">Léon Bourgeois</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1902-12-14T23:00:00+00:00</dc:date>
+        <dc:description>Dans Solidarité, publié pour la première fois en 1896, il présente la solidarité comme le principe central de sa doctrine ; une solidarité aussi bien entre les hommes qu'entre les générations. Pour lui, « l'individu isolé n'existe pas ». Les hommes sont interdépendants et ont tous une dette envers la société, qui leur a permis de s'épanouir. Mais puisqu'ils ne disposent pas des mêmes avantages, cette dette ne peut être la même pour tous. Pour Léon Bourgeois et les solidaristes, un « quasi-contrat » est passé à la naissance entre les hommes, dont ils héritent des droits et des devoirs, qui évoluent selon la réussite.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1060-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1060-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">bourgeois_leon_-_solidarite</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>non-fiction</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Léon Bourgeois&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:26.595965+00:00" name="calibre:timestamp"/>
+        <meta content="Solidarité" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

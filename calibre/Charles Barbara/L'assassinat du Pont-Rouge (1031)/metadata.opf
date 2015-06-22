@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1031</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cb98952d-5915-4e52-9943-d8d1f399b535</dc:identifier>
+        <dc:title>L'assassinat du Pont-Rouge</dc:title>
+        <dc:creator opf:file-as="Barbara, Charles" opf:role="aut">Charles Barbara</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Maximilien Destroy, petit musicien de profession, retrouve lors d'une promenade au jardin du Luxembourg un ami, Clément, qu'il avait récemment perdu de vue. Max va rentrer dans le cercle intime de Clément et découvrir au fil de ses visites, la vie tumultueuse de cet ami... Extrait : On peut contredire, repartit Max avec vivacité. Depuis ma liaison au collège avec lui, à part cette année et la précédente, je l'ai à peine perdu de vue. Je connais ses tentatives désespérées contre une misère innommable. Maître de lui-même à moins de seize ans, sans famille et sans ressources, de tous ces états où l'apprentissage n'est pas rigoureusement nécessaire, je n'en sais aucun qu'il n'ait essayé. Il a été tour à tour plieur de bandes dans un journal, correcteur d'épreuves, journaliste, homme de lettres, vaudevilliste, que sais-je ? Un moment, ne s'est-il pas résolu à étudier la pharmacie, et, à cet effet, n'est-il pas resté six mois chez un apothicaire ? Enfin, ce que sans doute vous ignorez, il n'y a pas encore dix-huit mois, en sortant de l'hôpital, réduit au dénuement le plus horrible, couvert littéralement de haillons, impuissant à trouver un ami, pitoyable, obligé, en outre, de pourvoir aux besoins de cette Rosalie avec qui il vivait depuis trois ans, il est entré, ce qui de sa part exigeait certainement plus que du courage, chez un agent de change, à titre de garçon de bureau. Aussi je le déclare, loin de lui jeter la pierre à cause de ses vices, suis-je prêt à m'étonner de ne pas le voir plus méprisable.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0182-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0182-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">barbara_charles_-_l_assassinat_du_pont-rouge</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Charles Barbara&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:17.974550+00:00" name="calibre:timestamp"/>
+        <meta content="assassinat du Pont-Rouge, L'" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

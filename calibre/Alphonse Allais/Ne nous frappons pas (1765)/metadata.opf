@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1765</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a01cda07-9961-4d9a-96cf-3ff8e39b4527</dc:identifier>
+        <dc:title>Ne nous frappons pas</dc:title>
+        <dc:creator opf:file-as="Allais, Alphonse" opf:role="aut">Alphonse Allais</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Et, en effet, à chaque kilomètre, une pièce de deux sous s'échappe du distributeur et vient modestement récompenser le travailleur de son effort. --- Mais pardon, interrompis-je mon ami, est-ce que cela ne serait pas plus simple au bonhomme d'avoir un domestique, un seul, qui lui pousserait sa petite guimbarde sans tous ces fatras pseudo-mécaniques. --- Sans doute, sans doute, s'il ne s'agissait que de purs trimballages ; mais l'homme, à cause de son infirmité, a besoin de distractions diverses, et violentes, et cruelles ! Or, en vue de gagner ces deux sous du kilomètre, des hommes se disputent, se battent, se massacrent parfois. Les couteaux sortent, le sang coule...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1222-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1222-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">allais_alphonse_-_ne_nous_frappons_pas</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alphonse Allais&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:47.924118+00:00" name="calibre:timestamp"/>
+        <meta content="Ne nous frappons pas" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

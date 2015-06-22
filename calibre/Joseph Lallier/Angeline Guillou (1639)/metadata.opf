@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1639</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e237850f-ea77-49cf-b359-a49466e48e2a</dc:identifier>
+        <dc:title>Angéline Guillou</dc:title>
+        <dc:creator opf:file-as="Lallier, Joseph" opf:role="aut">Joseph Lallier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1930-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Joseph Lallier (1878-1937)? aurait écrit trois romans : Angéline Guillou (1930), Le Spectre menaçant (1932) et Allie (1936). Extrait : - Oui, et bon sommeil ! Si on pouvait seulement dormir une bonne nuit par semaine ; mais se lever à trois heures du matin, avant le lever du soleil ; partir souvent à la pluie battante ; ramer deux, trois heures avant de frapper les bancs ; se tenir là toute la journée ; manger sur le bout de son pouce quand on pêche à trois cents brasses et qu'on a l'estomac creux ; décrocher de l'hameçon une morue qui ne daigne même pas offrir de résistance ; recommencer et recommencer toujours tous les matins ; revenir le soir avec cinquante, soixante-quinze ou cent morues ; les dépecer pour les faire sécher au soleil, quand il veut bien se montrer ; les retourner cent fois avant de pouvoir les mettre sur le marché pour les vendre et en retirer une pitance ; c'est décourageant ça, monsieur le curé ! - Voyez le père Guillou qui a quatorze enfants bien grouillants ! répondait-il à ceux, qui comme Cyr, fatigués de leur dur métier, menaçaient de jeter le manche après la cognée, pour aller s'engager dans les chantiers et servir de bêtes de somme à de grosses compagnies forestières sans entrailles. - Le bon Dieu a dit : « Aide-toi et le Ciel t'aidera ! » Il n'abandonne pas ceux qui savent lui rester fidèles.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1585-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1585-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">lallier_joseph_-_angeline_guillou</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Joseph Lallier&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:22.249420+00:00" name="calibre:timestamp"/>
+        <meta content="Angéline Guillou" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

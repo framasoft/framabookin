@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1692</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ff035993-1e2f-4c90-a733-eb84137f9cfc</dc:identifier>
+        <dc:title>Sagesse</dc:title>
+        <dc:creator opf:file-as="Verlaine, Paul" opf:role="aut">Paul Verlaine</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>C'est la fête du blé, c'est la fête du pain - Aux chers lieux d'autrefois revus après ces choses ! - Tout bruit, la nature et l'homme, dans un bain - De lumière si blanc que les ombres sont roses. - L'or des pailles s'effondre au vol siffleur des faux - Dont l'éclair plonge, et va luire, et se réverbère. - La plaine, tout au loin couverte de travaux, - Change de face à chaque instant, gaie et sévère. - Tout halète, tout n'est qu'effort et mouvement - Sous le soleil, tranquille auteur des moissons mûres, - Et qui travaille encore imperturbablement - A gonfler, à sucrer là-bas les grappes sures. - Travaille, vieux soleil, pour le pain et le vin, - Nourris l'homme du lait de la terre, et lui donne - L'honnête verre où rit un peu d'oubli divin. - Moissonneurs, vendangeurs là-bas votre heure est bonne ! - Car sur la fleur des pains et sur la fleur des vins, - Fruit de la force humaine en tous lieux répartie, - Dieu moissonne, et vendange, et dispose à ses fins - La Chair et le Sang pour le calice et l'hostie ! -</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1174-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1174-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">verlaine_paul_-_sagesse</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>poesie</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Paul Verlaine&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:32.918477+00:00" name="calibre:timestamp"/>
+        <meta content="Sagesse" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

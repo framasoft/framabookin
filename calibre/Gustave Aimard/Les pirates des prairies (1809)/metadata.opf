@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1809</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4e3ad41b-41ce-497c-96e4-30c3de2b942a</dc:identifier>
+        <dc:title>Les pirates des prairies</dc:title>
+        <dc:creator opf:file-as="Aimard, Gustave" opf:role="aut">Gustave Aimard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Lorsque la cache est assez profonde, on en garnit les parois avec des peaux de bison, de crainte de l'humidité, et l'on dépose les marchandises en les recouvrant de peaux de bison ; ensuite on remet la terre, que l'on tasse avec soin ; on replace dessus le gazon, en ayant soin de l'arroser pour qu'il reprenne facilement, et la terre qui reste est portée au fleuve, dans lequel elle est jetée jusqu'à la dernière parcelle, afin de faire disparaître les moindres traces de la cache que l'on réussit, du reste, à dissimuler si bien, que l'œil seul d'un homme d'une adresse inouïe parvient parfois à les reconnaître, et encore, souvent, ne retrouve-t-il que des caches anciennes qui ont été fouillées déjà, et dans lesquelles il ne reste plus rien. Les objets confiés aux caches peuvent se conserver pendant cinq ou six ans sans se détériorer. Combien de choses enfouies de cette façon sont perdues à cause de la mort de leurs propriétaires tués au coin d'un buisson, dans une embuscade, en emportant avec eux dans la tombe le secret de la place où ils ont déposé leurs richesses~!</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1213-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1213-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">aimard_gustave_-_les_pirates_des_prairies</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture aisée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gustave Aimard&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:56.659332+00:00" name="calibre:timestamp"/>
+        <meta content="pirates des prairies, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

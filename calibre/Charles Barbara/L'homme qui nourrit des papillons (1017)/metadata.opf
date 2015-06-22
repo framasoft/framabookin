@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1017</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">385554ab-d62c-44c7-9427-e3e8eb615f0a</dc:identifier>
+        <dc:title>L’homme qui nourrit des papillons</dc:title>
+        <dc:creator opf:file-as="Barbara, Charles" opf:role="aut">Charles Barbara</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1860-03-05T23:00:00+00:00</dc:date>
+        <dc:description>Extrait : Son chapeau en soie, roux de vieillesse, était moucheté de papillons qui y étaient fixés à l'aide d'épingles noires. Les petites bêtes étaient à l'agonie. Serrant comme un livre, sous son bras, une boîte oblongue, garnie, sur une face, d'une grille en fil de fer très-ténu, il cheminait le long des plates-bandes, sans remarquer les curieux. Je le voyais de temps à autre plonger le pouce et l'index dans le calice des fleurs, et en retirer un objet qu'il emprisonnait dans sa boîte, par une petite porte qui y était pratiquée. Il fut bientôt évident pour moi, que, dans cette boîte, grouillait une multitude d'insectes vivants, auxquels mon homme faisait la chasse.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1191-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1191-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">barbara_charles_-_l_homme_qui_nourrit_des_papillons</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Charles Barbara&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:15.224103+00:00" name="calibre:timestamp"/>
+        <meta content="L’homme qui nourrit des papillons" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

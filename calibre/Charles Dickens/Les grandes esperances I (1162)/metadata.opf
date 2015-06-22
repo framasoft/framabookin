@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1162</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c9dabc79-99c7-47de-b8ca-2a7da6961042</dc:identifier>
+        <dc:title>Les grandes espérances I</dc:title>
+        <dc:creator opf:file-as="Dickens, Charles" opf:role="aut">Charles Dickens</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Pip, orphelin élevé par une soeur revêche, vit rongé par la honte: celle d'être à la charge de son beau-père, le forgeron Joe Garnery - celle d'avoir aidé, dans les marais, un forçat évadé, Magwitch, et celle ,enfin, de sa pauvreté devant Estella, la pupille de la riche Melle Havisham. Il rêve de devenir digne de la conquérir quand on lui annonce que de grandes espérances lui sont permises grâce à un mystérieux mécène. Il part alors pour Londres où il acquiert le vernis social ,et aussi le snobisme ,du gentilhomme. Tout vacille lorsqu'il apprend que son bienfaiteur n'est autre que Magwitch... Extrait : Et pourtant cet homme était, comme l'autre, habillé tout en gris ; comme l'autre, il avait un fer à la jambe ; comme l'autre, il boitait, il avait froid, il était enroué ; enfin c'était exactement le même homme, si ce n'est qu'il n'avait pas le même visage et qu'il portait un chapeau bas de forme et à larges bords. Je vis tout cela en un moment, car je n'eus qu'un moment pour voir tout cela ; il me lança un gros juron à la tête, puis il voulut me donner un coup de poing ; mais si indécis et si faible qu'il me manqua et faillit lui-même rouler à terre car ce mouvement le fit chanceler ; alors, il s'enfonça dans le brouillard, en trébuchant deux fois et je le perdis de vue.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0205-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0205-6</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1345-8</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dickens_charles_-_les_grandes_esperances_i</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture avancée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Angleterre</dc:subject>
+        <meta content="{&quot;Charles Dickens&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:44.781452+00:00" name="calibre:timestamp"/>
+        <meta content="grandes espérances I, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

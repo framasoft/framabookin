@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1675</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">42fc264c-e1b1-4982-837b-9343fda60197</dc:identifier>
+        <dc:title>L’argent</dc:title>
+        <dc:creator opf:file-as="Zola, Émile" opf:role="aut">Émile Zola</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1876-12-14T23:00:00+00:00</dc:date>
+        <dc:description>L’Argent est le dix-huitième volume de la série les Rougon-Macquart. L’Argent aborde le thème de la Bourse, de la spéculation financière qui s’y déroule et des scandales qui en découlent. Extrait : Ainsi, il en était là, après la débâcle qui, en octobre, l'avait forcé une fois de plus à liquider sa situation, à vendre son hôtel du parc Monceau, pour louer un appartement : les Sabatanis seuls le saluaient, son entrée dans un restaurant, où il avait régné, ne faisait plus tourner toutes les têtes, tendre toutes les mains. Il était beau joueur, il restait sans rancune, à la suite de cette dernière affaire de terrains, scandaleuse et désastreuse, dont il n'avait guère sauvé que sa peau. Mais une fièvre de revanche s'allumait dans son être ; et l'absence d'Huret qui avait formellement promis d'être là, dès onze heures, pour lui rendre compte de la démarche dont il s'était chargé près de son frère Rougon, le ministre alors triomphant, l'exaspérait surtout contre ce dernier.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0246-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0246-9</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0241-4</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">zola_emile_-_l_argent</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Émile Zola&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:29.462197+00:00" name="calibre:timestamp"/>
+        <meta content="L’argent" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">994</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7c370849-c396-4c6c-bca2-d3234089e2c9</dc:identifier>
+        <dc:title>Une histoire sans nom</dc:title>
+        <dc:creator opf:file-as="Barbey d’Aurevilly, Jules" opf:role="aut">Jules Amédée Barbey d’Aurevilly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La rêveuse naissante sentait-elle mieux dans le vide de cet immense escalier l'autre vide d'une existence que la tendresse de sa mère aurait dû combler, et, comme les âmes prédestinées au malheur, qui aiment à se faire mal à elles-mêmes, en attendant qu'il arrive, aimait-elle à mettre sur son cœur l'accablant espace de ce large escalier, par-dessus l'accablement écrasant de sa solitude ? Habituellement, Mme de Ferjol, descendue de sa chambre et n'y remontant que le soir, pouvait croire Lasthénie à s'amuser dans le jardin, quand elle, l'enfant, oubliée là, restait assise de longues heures sur les marches sonores et muettes. Elle s'y attardait, la joue dans sa main, le coude sur le genou, dans cette attitude fatale et familière à tout ce qui est triste et que le génie d'Albert Dürer n'a pas beaucoup cherchée pour la donner à sa Mélancolie et elle s'y figeait presque dans la stupeur de ses rêves, comme si elle avait vu son Destin monter et redescendre ce terrible escalier ; car l'avenir a ses spectres comme le passé a les siens, et ceux qui s'en viennent sont peut-être plus tristes que ceux qui s'en reviennent vers nous… Extrait : Ma grand'mère ne s'étonnait donc pas que M. de Ferjol eût tourné la tête à Mlle d'Olonde ; et, de fait, il la lui avait tournée, et si bien, qu'un jour elle s'était fait enlever par lui, cette fille qu'on disait si fière ! Dans ce temps-là, il y avait encore des enlèvements dans le monde, avec la poésie de la chaise de poste et la dignité du danger et des coups de pistolet aux portières. À présent, les amoureux ne s'enlèvent plus. Ils s'en vont prosaïquement ensemble, dans un confortable wagon de chemin de fer, et ils reviennent, après « le petit badinage consommé », comme dit Beaumarchais, aussi bêtement qu'ils étaient partis, et quelquefois beaucoup plus</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0846-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0846-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">barbey_d_aurevilly_jules_-_une_histoire_sans_nom</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Jules Amédée Barbey d’Aurevilly&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:10.622584+00:00" name="calibre:timestamp"/>
+        <meta content="histoire sans nom, Une" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

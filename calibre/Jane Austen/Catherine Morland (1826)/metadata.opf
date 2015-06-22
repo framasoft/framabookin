@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1826</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9062f658-0ba4-44fc-baa6-32ac01a27346</dc:identifier>
+        <dc:title>Catherine Morland</dc:title>
+        <dc:creator opf:file-as="Austen, Jane" opf:role="aut">Jane Austen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Écrit en 1803, Catherine Morland (Northanger Abbey) est le premier roman de Jane Austen, même s'il n'a été publié qu'en 1818, un an après sa mort. La jeune et naïve Catherine Morland est invitée par des voisins de ses parents à passer quelques semaines à Bath. Là, elle se lie d'amitié avec la jeune et inconstante Isabelle Thorpe et son frère, le présomptuteux John qui se pose rapidement en prétendant de Catherine. Elle y rencontre également Henry Tilney et sa charmante soeur Eléonore. Catherine n'est pas insensible au charme de Henry. Aussi, quand le père d'Henry invite Catherine à passer quelques jours dans sa maison, elle est au comble du bonheur. D'autant plus que Catherine, très imprégnée par ses lectures de romans gothiques alors très à la mode, apprend que la demeure de M. Tilney est une ancienne abbaye: Northanger Abbey... Extrait : Qui connaît Bath se souvient de la difficulté qu'il y a à traverser Cheap Street en cet endroit : c'est en vérité une rue si revêche et si gauchement reliée aux grandes voies de Londres et d'Oxford et au principal hôtel de la ville, qu'à tout moment des dames -- pour importantes que soient leurs affaires, qu'elles soient en quête de pâtisseries, de fanfreluches ou (comme dans le cas actuel) de jeunes gens -- sont immobilisées par les équipages, les cavaliers et les charrettes. Ce désagrément, Isabelle l'avait éprouvé et déploré au moins trois fois par jour depuis qu'elle séjournait à Bath, et elle était destinée à l'éprouver et à le déplorer une fois de plus, car, juste au moment d'arriver en face de l'Union Passage et en vue des deux messieurs qui fendaient la foule, le chemin leur fut intercepté par un cabriolet qu'un conducteur forcené précipitait sur le pavé cahotant avec une véhémence de nature à abréger leurs destins, à lui, à son compagnon et à son cheval.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0789-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0789-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">austen_jane_-_catherine_morland</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Angleterre</dc:subject>
+        <meta content="{&quot;Jane Austen&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:59.945946+00:00" name="calibre:timestamp"/>
+        <meta content="Catherine Morland" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

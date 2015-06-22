@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1475</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5b2de1e3-2c22-43d0-a82e-32a322951f33</dc:identifier>
+        <dc:title>Le Chien d’Or II</dc:title>
+        <dc:creator opf:file-as="Kirby, William" opf:role="aut">William Kirby</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1877-06-02T23:00:00+00:00</dc:date>
+        <dc:description>William Kirby nous a laissé un classique de la littérature canadienne-anglaise, The Chien d'Or : The Golden Dog, publié pour la première fois en 1877, et qui obtint un succès considérable. La version de 1896 est dite autorisée. William Kirby est né en 1817 dans le Yorkshire en Angleterre. Très tôt, en 1832, il émigra vers les États-Unis, puis en 1839 il gagna le Canada, s'installa à Niagara en Ontario, où il devint éditeur, puis agent de douanes. Il est mort à Niagara en 1906. Extrait : - Oui, je le sais, répondit-elle, vous voulez vous débarrasser de votre rivale. Vos yeux, votre bouche, votre cœur demandent sa mort ; mais votre main à peur et n'ose obéir ! Vous voulez que la Corriveau fasse votre ouvrage... Tuer sa rivale, c'est sans doute, pour une femme, une tâche agréable. Mais pourquoi me mêler de cela, moi ? Qu'ai-je à y gagner ? que m'importent votre amoureux et vos amours, mademoiselle des Meloises ?</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1568-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1568-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">kirby_william_-_le_chien_d_or_ii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;William Kirby&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:49.387386+00:00" name="calibre:timestamp"/>
+        <meta content="Chien d’Or II, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

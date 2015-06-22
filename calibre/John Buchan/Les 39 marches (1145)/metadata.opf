@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1145</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d5b6421-603d-4eaa-be87-1c3ce024563c</dc:identifier>
+        <dc:title>Les 39 marches</dc:title>
+        <dc:creator opf:file-as="Buchan, John" opf:role="aut">John Buchan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>John Buchan dit Lord Tweedsmuir (Perth, Écosse, 26 août 1875 – Montréal, Québec, 11 février 1940), 1er baron Tweedsmuir d'Elsfield, fils d'un pasteur calviniste, fut le quinzième gouverneur général du Canada, de 1935 à 1940. Également éditeur et écrivain. Extrait : Il me révéla plusieurs faits bizarres donnant l'explication d'un tas de choses qui m'avaient intrigué -- des faits qui se produisirent au cours de la guerre des Balkans : comment un État prit tout à coup le dessus, pourquoi des alliances furent nouées et rompues, pourquoi certains hommes disparurent, et d'où venait le nerf de la guerre. Le but final de la machination était de mettre aux prises la Russie et l'Allemagne.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0826-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0826-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">buchan_john_-_les_39_marches</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Angleterre</dc:subject>
+        <meta content="{&quot;John Buchan&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:41.375498+00:00" name="calibre:timestamp"/>
+        <meta content="39 marches, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

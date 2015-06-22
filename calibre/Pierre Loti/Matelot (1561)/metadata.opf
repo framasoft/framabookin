@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1561</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d4bcd28f-e867-4476-b970-e704d0f923a2</dc:identifier>
+        <dc:title>Matelot</dc:title>
+        <dc:creator opf:file-as="Loti, Pierre" opf:role="aut">Pierre Loti</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Roman, dans lequel le personnage nommé Jean Berny s'engage dans la marine marchande, comme simple matelot, après son échec au concours de Navale. Après Mon frère Yves et Pêcheur d'Islande, Matelot complèta en 1893, la trilogie des romans de la mer de Pierre Loti‎. Extrait : Leur profonde détresse, il ne la vit point. Quant à lui, il ne se sentait ni atterré ni surpris, car depuis longtemps il n’espérait plus, sachant mieux que personne qu’il avait flâné jusqu’à la dernière heure — et très mal passé son examen oral. Au collège mariste, ils étaient cinq ou six grands enfants comme lui qui, en présence de l’échec probable, avaient fait ensemble le serment de s’engager dans la flotte.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1106-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1106-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">loti_pierre_-_matelot</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Pierre Loti&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:06.306494+00:00" name="calibre:timestamp"/>
+        <meta content="Matelot" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

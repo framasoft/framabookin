@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1461</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a212188b-a868-4c7d-b445-af0787416b7d</dc:identifier>
+        <dc:title>Sonia</dc:title>
+        <dc:creator opf:file-as="Gréville, Henry" opf:role="aut">Henry Gréville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1883-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Henry Gréville, pseudonyme de Alice Marie Céleste Durand née Fleury (1842-1902), a publié de nombreux romans, des nouvelles, des pièces, de la poésie ; elle a été à son époque un écrivain à succès. Extrait : Le « charmant enfant » de madame Goréline, son fils Eugène, était un enfant terrible pareil à tous les autres, ni plus ni moins intelligent, mais d'une impertinence adorable avec son père, comme du reste on aurait pu le conclure sans le voir, rien qu'à la façon dont madame Goréline parlait à son mari en présence de leurs enfants. Le dîner, mesquin et prétentieux, était exactement ce que promettait le salon grenat. Il y avait un poisson délicat, mais trop petit pour le nombre des convives, dont deux ou trois n'eurent en partage que quelques bribes noyées dans un flot de mayonnaise. La salade était faite avec de l'huile rance achetée au plus près et du vinaigre aqueux, produit de fabrication domestique ; ainsi du reste. Le repas s'écoula d'ailleurs sans encombre. La maîtresse du logis comblait Boris de prévenances et de bons morceaux ; Eugène, encore intimidé par la présence du nouveau venu, se tenait d'une façon satisfaisante, et le général était si fort absorbé qu'il n'ouvrit pas la bouche après le premier compliment expédié en quatre mots : - Enchanté de vous voir.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1527-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1527-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">greville_henry_-_sonia</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Henry Gréville&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:46.508158+00:00" name="calibre:timestamp"/>
+        <meta content="Sonia" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

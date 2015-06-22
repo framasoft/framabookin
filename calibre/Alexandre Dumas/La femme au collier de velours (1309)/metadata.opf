@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1309</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d166faca-6c52-4303-b74d-9337d60058ce</dc:identifier>
+        <dc:title>La femme au collier de velours</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Le livre commence par un premier chapitre consacré à une longue évocation de Charles Nodier, écrivain et ami proche de Dumas, qui l'accueillit à Paris à ses débuts et l'introduisit dans la vie intellectuelle de la capitale. A la fin de ce chapitre autobiographique, Dumas affirme que Nodier lui a raconté une histoire, qu'il retranscrit ensuite. La guillotine ensanglante les rues de Paris. Mais Paris reste Paris : à l'odeur du sang se mêle le parfum de l'or et des femmes ; au son du couperet celui des théâtres et de l'ivresse. Extrait : - Voyez-vous, citoyenne, je suis venu à Paris pour étudier les arts et respirer un air libre. Eh bien ! si par malheur je voyais un de ces spectacles, dont vous venez de me parler, si je voyais une jeune fille ou une femme traînée à la mort en regrettant la vie, citoyenne, je penserais à ma fiancée, que j'aime, et qui, peut-être... Non, citoyenne, je ne resterai pas plus longtemps dans cette chambre ; en avez-vous une sur les derrières de la maison ? - Chut ! malheureux, vous parlez trop haut ; si mes officieux vous entendent... - Vos officieux ! qu'est-ce que cela, officieux ? - C'est un synonyme républicain de valet. - Eh bien ! si vos valets m'entendent, qu'arrivera-t-il ? - Il arrivera que, dans trois ou quatre jours, je pourrai vous voir de cette fenêtre sur une des charrettes, à quatre heures de l'après-midi. Cela dit avec mystère, la bonne dame descendit précipitamment, et Hoffmann l'imita. Il se glissa hors de la maison, résolu à tout pour échapper au spectacle populaire. Quand il fut au coin du quai, le sabre des gendarmes brilla, un mouvement se fit dans la foule, les masses hurlèrent et se prirent à courir.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0022-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0022-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_la_femme_au_collier_de_velours</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:14.993370+00:00" name="calibre:timestamp"/>
+        <meta content="femme au collier de velours, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

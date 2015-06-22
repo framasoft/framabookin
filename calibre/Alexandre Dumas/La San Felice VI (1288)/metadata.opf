@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1288</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8f852999-e47d-47be-af0d-444968825ca3</dc:identifier>
+        <dc:title>La San Felice VI</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Revenant d'Aboukir où la flotte britannique a vaincu Bonaparte, l'Amiral Nelson est reçu en triomphateur à la cour de Naples. Garat, ambassadeur de la République, fait irruption dans cette manifestation d'hostilité anti-française et promet la guerre au Royaume de Naples. Trop vite cependant : le soir même, Salvato Palmieri, agent envoyé de Rome par le général Championnet pour informer Garat de la situation des Français et l'inviter à gagner du temps, est attaqué par les sbires de la reine Marie-Caroline de Naples. Laissé pour mort, il est recueilli par Luisa San Felice, jeune Napolitaine épouse du chevalier San Felice, vieil homme de lumières et bibliothécaire à la cour. Extrait : -~Nelson n'est point, mon cher général, un homme de cour comme moi, ni un homme d'éducation comme vous. Excepté son état de marin, il ne connaît rien au monde~; seulement, il a le génie de la mer. Non~: Nelson, c'est un paysan, un bouledogue de la vieille Angleterre, un grossier marin, fils d'un simple pasteur de village, qui, toujours isolé du monde sur son bâtiment, n'est jamais entré ou plutôt n'était jamais entré, avant Aboukir, dans un palais, n'avait jamais salué un roi, mis un genou en terre devant une reine. Il est arrivé à Naples, lui, le navigateur des terres australes, habitué à disputer aux ours blancs leurs cavernes de glace~; il a été ébloui par l'éclat du soleil, aveuglé par le feu des diamants. Lui, l'époux d'une bourgeoise, d'une mistress Nisbet, il a vu la reine lui donner sa main et une ambassadrice ses lèvres à baiser, -- et non pas une reine et une ambassadrice, je me trompe~; non pas deux femmes, deux sirènes~! -- alors, il est devenu purement et simplement l'esclave de l'une et le serviteur de l'autre. Toutes les notions du bien et du mal ont été confondues dans ce pauvre cerveau~; les intérêts des peuples ont disparu devant les droits fictifs ou réels des souverains. Il s'est fait l'Apôtre du despotisme, le séide de la royauté. Si vous l'aviez vu hier, pendant cette conférence où la royauté était représentée par ce que L'Ecclésiaste appelle l'Étrangère, par cette Venus Astarté, par cette impure Lesbienne~! Ses yeux, ou plutôt son œil ne quittait point ses yeux~: la haine et la vengeance parlaient par la bouche muette de cette ambassadrice de la mort. J'avais pitié, je vous le jure, de cet autre Adamastor, mettant volontairement sa tête sous le pied d'une femme. Au reste, tous les grands hommes, -- et, à tout prendre, Nelson est un grand homme, -- tous les grands hommes ont de ces défaillances-là, d'Hercule à Samson et de Samson à Marc-Antoine.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1383-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1383-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_la_san_felice_vi</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:10.737187+00:00" name="calibre:timestamp"/>
+        <meta content="San Felice VI, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

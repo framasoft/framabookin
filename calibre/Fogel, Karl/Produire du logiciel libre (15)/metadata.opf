@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fb5dbb63-2dc7-4b3b-8834-648479970a06</dc:identifier>
+        <dc:title>Produire du logiciel libre</dc:title>
+        <dc:creator opf:file-as="Fogel, Karl" opf:role="aut">Fogel, Karl</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Teinté d'humour et de réflexions subtiles, ce livre prodigue de précieux conseils à ceux qui souhaitent commencer ou poursuivre un projet de développement en logiciel logiciel libre. Pour cela, Karl Fogel propose une description claire et détaillée des bonnes pratiques de développement. Il initie non seulement le lecteur à la méthode de travail collaboratif mais démontre aussi l'importance des relations humaines dans la réussite d'un projet, comme l'art d'équilibrer actions individuelles et intérêt commun. Identifiés à travers sa longue expérience en gestion de projet Open Source, différents aspects sont abordés : structurer l'ensemble de la communauté de développeurs, maintenir un système de gestion de versions,  gérer les rapports de bugs et leurs corrections, bien communiquer à l'intérieur comme à l'extérieur du projet, choisir une licence adaptée au logiciel..&lt;/p&gt;</dc:description>
+        <dc:publisher>Framasoft</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9782953918755</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>logiciel libre</dc:subject>
+        <dc:subject>management</dc:subject>
+        <dc:subject>informatique</dc:subject>
+        <dc:subject>programmation</dc:subject>
+        <dc:subject>manuel</dc:subject>
+        <dc:subject>methode</dc:subject>
+        <dc:subject>Framabook</dc:subject>
+        <meta content="{&quot;Fogel, Karl&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-05-26T15:40:29.836161+00:00" name="calibre:timestamp"/>
+        <meta content="Produire du logiciel libre" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

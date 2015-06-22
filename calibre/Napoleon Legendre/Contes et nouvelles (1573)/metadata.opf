@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1573</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">71628401-0c06-4269-97ac-4e568a044e65</dc:identifier>
+        <dc:title>Contes et nouvelles</dc:title>
+        <dc:creator opf:file-as="Legendre, Napoléon" opf:role="aut">Napoléon Legendre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Journaliste et chroniqueur, Napoléon Legendre a aussi publié en 1872-73 un roman-feuilleton d'aventures, Sabre et scalpel et en 1898, un roman, Annibal, dont l'action a pour cadre les rébellions de 1837 et 1838. Extrait : Ainsi, vous voyez une foule d'\emph{habitants}, qui, depuis trente, quarante, et même cinquante ans, sèment toujours le même grain dans la même pièce de terre, et mettent leur mauvaise récolte sur le compte des mauvaises années, quoi que vous puissiez leur dire au contraire. D'autres labourent avec un couteau à la charrue, dans les terrains pierreux, ou feront des planches de six pieds de large, dans les terres élevées et bien égouttées, où des planches de trente pieds leur donneraient moins d'ouvrage et plus de profit. D'autres enfin, au lieu de mettre les pierres de chaque côté du champ et en faire une muraille sèche, ce qui est d'une grande économie sans guère plus d'ouvrage, s'obstineront à les mettre en tas au milieu du champ, et à labourer chaque année autour de cet obstacle grossissant, avec une constance désespérante. Indiquez-leur l'amélioration, tâchez surtout de la leur faire adopter : autant vaudrait leur parler de marcher sur la tête. Joseph Jean était malheureusement un de ces hommes encroûtés.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1623-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1623-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">legendre_napoleon_-_contes_et_nouvelles</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Napoléon Legendre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:08.619734+00:00" name="calibre:timestamp"/>
+        <meta content="Contes et nouvelles" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

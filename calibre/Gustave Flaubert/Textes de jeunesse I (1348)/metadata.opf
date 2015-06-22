@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1348</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b1cbd355-d7b4-4204-8812-9b78a959a50d</dc:identifier>
+        <dc:title>Textes de jeunesse I</dc:title>
+        <dc:creator opf:file-as="Flaubert, Gustave" opf:role="aut">Gustave Flaubert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1910-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Un parfum à sentir, La femme du monde, La peste à Florence, Bibliomanie, Rage et impuissance, Rêve d'enfer, Moeurs Rouennaises, Quidquid volueris, Passion et vertu. Extrait : N'avez-vous jamais rencontré par un temps de neige ou d'hiver quelque figure de mendiant accroupi aux portiques d'une église ? Le soir au détour d'une rue sombre et étroite ne vous êtes-vous point senti arrêté par votre manteau ? Vous vous détourniez... et c'était quelque mendiant en haillons, quelque pauvre femme qui vous disait en pleurant ces mots amers : J'ai faim, et puis elle sanglotait quand votre ombre s'échappant s'arrêtait à la porte d'un spectacle entre les équipages et les livrées d'or.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1456-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1456-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">flaubert_gustave_-_textes_de_jeunesse_i</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gustave Flaubert&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:23.066109+00:00" name="calibre:timestamp"/>
+        <meta content="Textes de jeunesse I" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

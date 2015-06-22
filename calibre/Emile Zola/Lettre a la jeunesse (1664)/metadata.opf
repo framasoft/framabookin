@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1664</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a991f5dc-40b8-4600-aa22-989805582fbe</dc:identifier>
+        <dc:title>Lettre à la jeunesse</dc:title>
+        <dc:creator opf:file-as="Zola, Émile" opf:role="aut">Émile Zola</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1897-12-14T23:00:00+00:00</dc:date>
+        <dc:description>Zola a écrit la - Lettre à la jeunesse - à l'occasion de l'agression d'un grand dreyfusard par les ligueurs étudiants. Extrait : « Des jeunes gens antisémites, ça existe donc, cela ? Il y a donc des cerveaux neufs, des âmes neuves, que cet imbécile poison a déjà déséquilibrés ? Quelle tristesse, quelle inquiétude, pour le vingtième siècle qui va s'ouvrir ! Cent ans après la déclaration des Droits de l'homme, cent ans après l'acte suprême de tolérance et d'émancipation, on en revient aux guerres de religion, au plus odieux et au plus sot des fanatismes ! Et encore cela se comprend chez certains hommes qui jouent leur rôle, qui ont une attitude à garder et une ambition vorace à satisfaire. Mais, chez des jeunes gens, chez ceux qui naissent et qui poussent pour cet épanouissement de tous les droits et de toutes les libertés, dont nous avons rêvé que resplendirait le prochain siècle ! Ils sont les ouvriers attendus, et voilà déjà qu'ils se déclarent antisémites, c'est-à-dire qu'ils commenceront le siècle en massacrant tous les juifs, parce que ce sont des concitoyens d'une autre race et d'une autre foi ! ».</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1173-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1173-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">zola_emile_-_lettre_a_la_jeunesse</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Émile Zola&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:27.252168+00:00" name="calibre:timestamp"/>
+        <meta content="Lettre à la jeunesse" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

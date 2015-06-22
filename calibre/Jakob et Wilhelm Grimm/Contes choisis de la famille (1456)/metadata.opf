@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1456</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">75d44d47-153c-4183-b666-41bf68456dae</dc:identifier>
+        <dc:title>Contes choisis de la famille</dc:title>
+        <dc:creator opf:file-as="Grimm, Jakob et Wilhelm" opf:role="aut">Jakob et Wilhelm Grimm</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Un ouvrier tailleur voyageait de ville en ville pour se perfectionner dans son état. Les temps devinrent si difficiles, qu'il ne put trouver d'ouvrage, et qu'il tomba dans une misère profonde. Dans cette extrémité, il rencontra un juif au milieu d'un bois touffu ; et chassant de son cœur la pensée de Dieu, il le saisit au collet et lui dit : - La bourse, ou la vie !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1532-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1532-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">grimm_jakob_et_wilhelm_-_contes_choisis_de_la_famille</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Allemagne</dc:subject>
+        <meta content="{&quot;Jakob et Wilhelm Grimm&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:45.473200+00:00" name="calibre:timestamp"/>
+        <meta content="Contes choisis de la famille" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

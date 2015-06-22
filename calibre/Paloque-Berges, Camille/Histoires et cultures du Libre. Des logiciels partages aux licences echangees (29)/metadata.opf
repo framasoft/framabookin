@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">29</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4695f2d3-82df-475a-9f2b-80c62b99fbbc</dc:identifier>
+        <dc:title>Histoires et cultures du Libre. Des logiciels partagés aux licences échangées</dc:title>
+        <dc:creator opf:file-as="Paloque-Berges, Camille &amp; Masutti, Christophe" opf:role="aut">Paloque-Berges, Camille</dc:creator>
+        <dc:creator opf:file-as="Paloque-Berges, Camille &amp; Masutti, Christophe" opf:role="aut">Masutti, Christophe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-04-30T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Fruit de la collaboration inédite d’auteurs provenant d’horizons disciplinaires différents, par des approches thématiques et des études de cas, cet ouvrage propose une histoire culturelle du Libre non seulement à travers l’histoire de l’informatique, mais aussi par les représentations sociales, philosophiques, juridiques et économiques qu’a cristallisées le mouvement du logiciel libre jusqu’à nos jours.&lt;/p&gt;
+&lt;p&gt;À l’aide de multiples clés d’analyse, et sans conception partisane, ce livre dresse un tableau des bouleversements des connaissances et des techniques que ce mouvement a engendrés. Le lecteur saura trouver dans cette approche ambitieuse et prospective autant d’outils pour mieux comprendre les enjeux de l’informatique, des réseaux, des libertés numériques, ainsi que l’impact de leurs trajectoires politiques dans la société d’aujourd’hui.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Framasoft</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9782953918793</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Framabook</dc:subject>
+        <dc:subject>histoire</dc:subject>
+        <dc:subject>informatique</dc:subject>
+        <dc:subject>essai</dc:subject>
+        <dc:subject>licences libres</dc:subject>
+        <dc:subject>logiciels libres</dc:subject>
+        <meta content="{&quot;Masutti, Christophe&quot;: &quot;&quot;, &quot;Paloque-Berges, Camille&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-05-26T17:30:30.126697+00:00" name="calibre:timestamp"/>
+        <meta content="Histoires et cultures du Libre. Des logiciels partagés aux licences échangées" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1507</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">61ff1733-ca88-4797-b400-fb391353b023</dc:identifier>
+        <dc:title>Dosia</dc:title>
+        <dc:creator opf:file-as="Gréville, Henry" opf:role="aut">Henry Gréville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1876-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Henry Gréville, pseudonyme de Alice Marie Céleste Durand née Fleury (1842-1902), a publié de nombreux romans, des nouvelles, des pièces, de la poésie ; elle a été à son époque un écrivain à succès. Extrait :  Or ma cousine Clémentine est la plus mal élevée de toutes, -- jugez un peu ! Je ne vous citerai qu'un détail, il vous donnera une idée du reste : lorsque à table on présente un entremets de son goût, elle fait servir tout le monde avant elle ; puis, au moment où le domestique lui offre le plat, elle passe son doigt rose sur l'extrémité de sa langue de velours et fait le simulacre de décrire un cercle sur le bord du plat avec son doigt mignon. -- « À présent, dit-elle, personne ne peut plus en vouloir, et tout est pour moi ! » -- Oh ! fit l'assistance scandalisée. -- Et elle mange tout, car c'est une jolie fourchette, je vous en réponds. Voilà donc la cousine que j'ai enlevée. Vous me demanderez peut-être pourquoi, -- quand dans la collection de mes cousines il y en a d'autres certainement moins mal élevées, même parmi ses sœurs, -- pourquoi j'ai préféré celle-là. Mais c'est qu'elle a un avantage : elle est jolie comme un cœur.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1504-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1504-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">greville_henry_-_dosia</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Henry Gréville&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:55.735536+00:00" name="calibre:timestamp"/>
+        <meta content="Dosia" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

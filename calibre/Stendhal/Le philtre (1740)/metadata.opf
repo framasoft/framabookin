@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1740</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5ad3a6ae-a9e3-4758-b440-45a212a2bc12</dc:identifier>
+        <dc:title>Le philtre</dc:title>
+        <dc:creator opf:file-as="Stendhal" opf:role="aut">Stendhal</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1927-12-14T23:00:00+00:00</dc:date>
+        <dc:description>Extrait : Pendant une nuit sombre et pluvieuse de l'été de 182., un jeune lieutenant du 96e régiment en garnison à Bordeaux se retirait du café où il venait de perdre tout son argent. Il maudissait sa sottise, car il était pauvre. Il suivait en silence une des rues les plus désertes du quartier de Lormond, quand tout à coup il entendit des cris, et d'une porte qui s'ouvrit avec fracas s'échappa une personne qui vint tomber à ses pieds.  L’obscurité était telle, que l’on ne pouvait juger de ce qui se passait que par le bruit. Les poursuivants, quels qu’ils fussent, s’arrêtèrent sur la porte, apparemment en entendant les pas du jeune officier.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1150-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1150-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">stendhal_-_le_philtre</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Stendhal&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:42.984194+00:00" name="calibre:timestamp"/>
+        <meta content="philtre, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

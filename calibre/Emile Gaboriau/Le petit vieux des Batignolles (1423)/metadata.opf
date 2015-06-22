@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1423</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b93086b0-07b9-4fd8-8f8c-a86be659a358</dc:identifier>
+        <dc:title>Le petit vieux des Batignolles</dc:title>
+        <dc:creator opf:file-as="Gaboriau, Émile" opf:role="aut">Émile Gaboriau</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1876-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Un crime - le meurtre d'un homme ayant écrit de son propre sang les lettres «Monis», un policier-enquêteur et pour finir, un coupable. Classique - mieux - historique, puisque ce roman policier date de la fin du Second Empire, mais aussi un polar, un vrai. Méchinet, agent de sûreté et fin limier, reprend tranquillement, patiemment, l'enquête de zéro pour dénouer l'énigme: débonnaire, attentif aux conseils de sa femme, frondeur à l'encontre des autorités supérieures, il avance patiemment et infailliblement jusqu'au coupable. Extrait : Une fois, je le vis rentrer habillé à la dernière mode, la boutonnière endimanchée de cinq ou six décorations ; le surlendemain, je l'aperçus dans l'escalier vêtu d'une blouse sordide et coiffé d'un haillon de drap qui lui donnait une mine sinistre. Et ce n'est pas tout. Par une belle après-midi\emph{,}comme il sortait, je vis sa femme l'accompagner jusqu'au seuil de leur appartement, et là l'embrasser avec passion, en disant : - Je t'en supplie, Méchinet, sois prudent, songe à ta petite femme ! Sois prudent !... Pourquoi ?... À quel propos ? Qu'est-ce que cela signifiait ?... La femme était donc complice !...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0230-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0230-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">gaboriau_emile_-_le_petit_vieux_des_batignolles</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>nouvelle</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture avancée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Émile Gaboriau&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:38.215264+00:00" name="calibre:timestamp"/>
+        <meta content="petit vieux des Batignolles, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

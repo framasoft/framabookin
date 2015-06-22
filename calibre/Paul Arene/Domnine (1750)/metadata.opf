@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1750</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c542a233-c278-4140-955c-176b637313bb</dc:identifier>
+        <dc:title>Domnine</dc:title>
+        <dc:creator opf:file-as="Arène, Paul" opf:role="aut">Paul Arène</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Voyons ! ne pleure pas, et laisse les méchants être méchants ; ils s'en trouveront les premiers punis. Si je t'appelle sœur Mouche, c'est en souvenir de notre saint patron qui, traitant son propre corps de Frère Âne, par humilité, surnommait Frères Mouches ceux de ses compagnons dont le paresseux bavardage et les bourdonnements offensaient le ciel. Et maintenant, sœur Mouche, continue, en attendant que j'aie fini le surplis de l'abbé Siffroy ; continue par le chapitre de la mort du saint quand, bien que ce fût le soir, les alouettes chantèrent autour de sa cellule, et qu'une dame romaine, Jacqueline des Sept Soleils, apporta par ordre d'un ange, un habit neuf pour le couvrir...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1231-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1231-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">arene_paul_-_domnine</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Paul Arène&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:44.973512+00:00" name="calibre:timestamp"/>
+        <meta content="Domnine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1492</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fb65a7e1-1f4d-4acc-a20d-ff6057569fa1</dc:identifier>
+        <dc:title>Le passé</dc:title>
+        <dc:creator opf:file-as="Gréville, Henry" opf:role="aut">Henry Gréville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1890-06-02T23:00:00+00:00</dc:date>
+        <dc:description>&gt;Henry Gréville, pseudonyme de Alice Marie Céleste Durand née Fleury (1842-1902), a publié de nombreux romans, des nouvelles, des pièces, de la poésie ; elle a été à son époque un écrivain à succès. Extrait : C'est possible. J'avais vécu fort tranquille jusque-là, me croyant heureuse, lorsque je fis la découverte de mon indifférence à l'égard de M. de Grandpré. Bientôt après, je vis que M. de Tinsay m'aimait, et je sus enfin que je l'aimais. Ce n'est pas sans remords, croyez-le bien, ce n'est pas sans une horrible douleur qu'une femme pure voit dans son âme un amour illicite remplacer celui qu'elle a juré à son mari... Ce sont des combats, des terreurs, des angoisses dont vous ne pouvez pas vous faire une idée. Je souffris pendant plusieurs mois d'incroyables déchirements, mais la passion fut la plus forte. J'aimais M. de Tinsay d'un amour unique, absolu, et l'on eût dit que tous mes efforts pour étouffer cet amour n'avaient servi qu'à le rendre plus âpre et plus exigeant.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1512-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1512-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">greville_henry_-_le_passe</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Henry Gréville&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:52.711698+00:00" name="calibre:timestamp"/>
+        <meta content="passé, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

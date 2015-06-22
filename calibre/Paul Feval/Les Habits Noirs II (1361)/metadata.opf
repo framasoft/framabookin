@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1361</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8e862dca-6cc2-4e84-8996-c169c268e006</dc:identifier>
+        <dc:title>Les Habits Noirs II</dc:title>
+        <dc:creator opf:file-as="Féval, Paul" opf:role="aut">Paul Féval</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1863-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Cet épisode nous conte l'ascension criminelle de la belle aventurière Marguerite Sadoulas, dite Marguerite de Bourgogne, devenue comtesse de Clare et l'un des principaux chefs des Habits noirs, ainsi que la lutte du jeune Roland de Clare, l'héritier légitime de la fortune et du nom de Clare, pour retrouver son héritage, convoité par les Habits noirs, et son identité. Extrait : « Messieurs, j'ai prononcé le mot. Il produit sur vous un effet médiocre, parce que vous en savez presque aussi long que moi sur le sujet qui nous occupe. J'ajouterai seulement que la catastrophe, désormais imminente, ne sera pas provoquée par les clients. Nos clients sont de ces sourds qui ne veulent pas entendre ; ils tiennent à deux mains le bandeau collé sur leurs yeux. C'est la chambre des notaires elle-même qui s'émeut, et c'est la justice qui procède.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0548-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0548-4</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0559-0</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">feval_paul_-_les_habits_noirs_ii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Paul Féval&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:25.730340+00:00" name="calibre:timestamp"/>
+        <meta content="Habits Noirs II, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

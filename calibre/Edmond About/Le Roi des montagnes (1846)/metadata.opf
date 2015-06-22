@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1846</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">499c7f5c-e74b-4ccf-a223-8e8d68c9051b</dc:identifier>
+        <dc:title>Le Roi des montagnes</dc:title>
+        <dc:creator opf:file-as="About, Edmond" opf:role="aut">Edmond About</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Un jeune herboriste frais émoulu de l'Université est envoyé en Grèce par le Jardin des Plantes pour un voyage d'études. Logé dans une modeste pension en compagnie des individus les plus divers, il a ouï dire que des bandits sillonnent les routes grecques mais n'imagine pas la palpitante et effrayante aventure où va le mener son amour de la science... extrait : Ses anciens compagnons d'armes étaient dispersés par tout le royaume. L'État leur avait donné des terres~; ils les cultivaient en rechignant, et mangeaient du bout des dents le pain amer du travail. Lorsqu'ils apprirent que le chef était brouillé avec la loi, ils vendirent leurs champs et coururent le rejoindre. Quant à lui, il se contenta d'affermer ses biens~: il a des qualités d'administrateur.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0220-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0220-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">about_edmond_-_le_roi_des_montagnes</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture aisée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Edmond About&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:19:03.943387+00:00" name="calibre:timestamp"/>
+        <meta content="Roi des montagnes, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

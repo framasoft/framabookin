@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1060</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">04511637-8554-481e-8cc6-6293e88210f4</dc:identifier>
+        <dc:title>Henriette</dc:title>
+        <dc:creator opf:file-as="Coppée, François" opf:role="aut">François Coppée</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>François Édouard Joachim Coppée, né le 26 janvier 1842 à Paris où il est mort le 23 mai 1908, fut le poète populaire et sentimental de Paris et de ses faubourgs, des tableaux de rue intimistes du monde des humbles. Extrait : Il n'avait été qu'un viveur vulgaire, sans grâce, sans élégance, resté provincial malgré ses quinze ans de Paris. Rien de plus banal que son histoire. Riche, il épousait à vingt-huit ans la fille d'un sénateur corse, ami personnel de Napoléon III, l'admirable MlleAntonini, dont la beauté de transtévérine faisait alors sensation aux Tuileries et à Compiègne. Pendant quelque temps, il l'aimait, à sa manière. Puis, tout à coup, sottement et injustement jaloux de sa femme, il démissionnait de son grade de lieutenant aux dragons de l'Impératrice, s'enfouissait dans ses terres, y prenait de lourdes habitudes, ne quittait plus ses bottes de chasse et fumait sa pipe à table, après le café, en sirotant des petits verres. Un fils lui naissait, seule consolation de Mme Bernard, bientôt négligée par l'ancien libertin de garnison, qui, après deux ans de ménage, allait souvent à Paris tirer une bordée de matelot, et qui, dans ses sorties de chasse, tout en déjeunant d'une rustique omelette sur un coin de table, prenait la taille des filles de ferme.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1325-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1325-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">coppee_francois_-_henriette</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;François Coppée&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:23.780057+00:00" name="calibre:timestamp"/>
+        <meta content="Henriette" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

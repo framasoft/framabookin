@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1077</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e59f4f5f-28a0-4c56-a204-041a18119fe7</dc:identifier>
+        <dc:title>La tour de Trafalgar</dc:title>
+        <dc:creator opf:file-as="Boucherville, Georges Boucher de" opf:role="aut">Georges Boucher de Boucherville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Était-ce une main, une véritable main d'homme qui m'avait touché ? ça se peut. Était-ce un reptile qui m'avait glissé sur le corps ? ça se peut aussi. Était-ce un effet de mon imagination trouble et affaiblie ? ça se peut encore. Toujours est-il certain, que jamais je n'éprouvai aussi pénible sensation de ma vie ! Si vous avez jamais éprouvé les atteintes frissonnantes de la peur, mettez-vous à ma place, et vous jugerez aisément de l'horreur de ma situation. Le tonnerre rugissait épouvantable ; les éclairs se succédaient sans interruption, et semblaient embraser la forêt et n'en faire qu'une vaste fournaise. Mes yeux éblouis des éclats de lumière, furent frappés soudain de la vue du sang qui avait jailli sur le mur. On en voyait quelques gouttes sur le panneau de la porte. Il me serait impossible de vous décrire les idées affreuses et incohérentes qui vinrent m'assaillir en ce moment !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1270-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1270-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">boucherville_georges_boucher_de_-_la_tour_de_trafalgar</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Georges Boucher de Boucherville&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:27.188182+00:00" name="calibre:timestamp"/>
+        <meta content="tour de Trafalgar, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

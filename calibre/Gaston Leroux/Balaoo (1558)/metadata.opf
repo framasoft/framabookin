@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1558</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b9604131-9c39-4a10-b987-284b46d6af2a</dc:identifier>
+        <dc:title>Balaoo</dc:title>
+        <dc:creator opf:file-as="Leroux, Gaston" opf:role="aut">Gaston Leroux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1911-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Ce roman commence comme un policier classique. Une série de meurtres terrorise un village d'Auvergne et une enquête commence, au cours de laquelle les principaux personnages se mettent en place : un vieux savant bizarre, sa fille - ravissante, bien sûr - son fiancé, un grand benêt de clerc de notaire, le domestique du savant et une famille de repris de justice, cachée dans les bois, composée de trois frères - les méchants de l'histoire et les suspects évidents, ainsi que de leur soeur, une sauvageonne. Puis le roman oblique vers le thème du savant fou, dont les créations échappent à son contrôle et sont à l'origine de désastres... De plus nous découvrons que M. Noël s'appelle en réalité Baloo et est amoureux fou, sans espoir, de la jolie fille... Un roman éclectique, qui part un peu dans tous les sens, comme cela arrivait parfois avec les feuilletons écrits au jour le jour, mais qui nous offre un certain nombre d'épisode complètement délirants qui valent la peine d'être lus. Extrait : Heureusement pour le jeune homme, le vieux Coriolis et Madeleine parvinrent prestement à le convaincre que M. de Meyrentin était le dernier des imbéciles. L'oncle surtout était furieux contre le juge d'instruction. Jamais les Saint-Aubin, pas plus ceux de Clermont que ceux de Saint-Martin-des-Bois, n'avaient été mêlés à la politique dont Blondel venait certainement d'être la dernière victime. Rue de l'Écu, on faisait de l'honnête notariat, sans plus ; et, d'un autre côté, depuis des années qu'il était revenu de Batavia, Coriolis prétendait ne plus trouver d'intérêt qu'à l'étude passionnante de la plante à pain, fécule extraordinaire qu'il avait rapportée d'Extrême-Orient et dont, patriotiquement, il voulait doter la France. Ce n'était pas en vivant de cette sorte qu'il pouvait se créer des ennemis mortels. Si bien que Coriolis et les siens avaient pu traverser à peu près tranquillement toute cette affreuse période où le pays de Cerdogne ne vivait plus que dans l'épouvante. Il était persuadé qu'on ne lui ferait jamais de mal.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0258-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0258-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leroux_gaston_-_balaoo</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gaston Leroux&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:05.727654+00:00" name="calibre:timestamp"/>
+        <meta content="Balaoo" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

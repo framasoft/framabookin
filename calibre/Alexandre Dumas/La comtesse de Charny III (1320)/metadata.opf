@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1320</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e097a4cd-8df0-44d0-8436-69e7f9ee2ae9</dc:identifier>
+        <dc:title>La comtesse de Charny III</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Les «Mémoires d'un médecin» est une suite romanesque qui a pour cadre la Révolution Française et qui comprend «Joseph Balsamo», «le Collier de la reine», «Ange Pitou» et la «Comtesse de Charny». Suite à la révolte du peuple du 6 octobre 1789, la famille royale est ramenée de force de Versailles à Paris et installée aux Tuileries. La reine Marie-Antoinette est de plus en plus injuste envers Andrée (la comtesse de Charny) parce qu'elle se rend compte que le mariage arrangé du comte (qu'elle aime passionnément) et de la comtesse de Charny peut devenir un mariage d'amour. Quittant alors le service de la reine, Andrée découvre enfin la joie de connaître son fils Sébastien, fruit de son viol par Gilbert lequel avait enlevé cet enfant à sa naissance. Extrait :  - Oh ! certes, je ne le nie pas, dit Billot avec un sourire amer, oui, vous m'avez connu bien autrement que je ne suis ; je vais vous dire comme j'étais, monsieur le comte : j'étais un vrai patriote, dévoué à deux hommes et à une chose : ces deux hommes, c'étaient le roi et M. Gilbert ; cette chose, c'était mon pays. Un jour, les agents du roi -- et, je vous l'avoue, dit le fermier en secouant la tête, cela commença à me brouiller avec lui -- un jour, les agents du roi vinrent chez moi, et, moitié par force, moitié par surprise, m'enlevèrent une cassette, dépôt précieux qui m'avait été confié par M. Gilbert. Aussitôt libre, je partis pour Paris ; j'y arrivai le 13 juillet au soir ; c'était au milieu de l'émeute des bustes de M. le duc d'Orléans et de M. Necker ; on portait ces bustes par les rues en criant : « Vive le duc d'Orléans ! Vive M. Necker ! » Cela ne faisait pas grand mal au roi, et, cependant, tout à coup, les soldats du roi nous chargèrent. Je vis de pauvres diables qui n'avaient commis d'autre crime que de crier \emph{vivent} deux hommes qu'ils ne connaissaient probablement pas, tomber, autour de moi, les uns la tête fendue par des coups de sabre, les autres, la poitrine trouée par des balles ; je vis M. de Lambesc, un ami du roi, poursuivre dans les Tuileries des femmes et des enfants qui n'avaient rien crié du tout, et fouler aux pieds de son cheval un vieillard de soixante et dix ans.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0016-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0016-8</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0017-5</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_la_comtesse_de_charny_iii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:17.143930+00:00" name="calibre:timestamp"/>
+        <meta content="comtesse de Charny III, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1291</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aa438186-2d61-4ce8-9029-99fc098ff96e</dc:identifier>
+        <dc:title>Récits fantastiques I</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>-Histoire d'un mort racontée par lui-même : Trois amis sont dans un atelier la nuit et l'un des trois, qui est médecin, raconte une histoire qu'il jure lui être arrivée. Un beau soir, il est appelé au chevet d'une femme magnifique qui souffre en fait d'un chagrin d'amour. Il en tombe éperdument amoureux mais meurt brutalement. -Un dîner chez Rossini : Alors qu'Alexandre Dumas dîne chez le célèbre compositeur, à Bologne, un convive lui raconte une étrange histoire de revenants, arrivée à l'un de ses ancêtres. Deux jeunes gens, Beppo de Scamoza et Gaetano Ramonoli, étudiants résidant à Bologne, qui semblent opposés en tous points (et de physique et de situation), sont unis par une indéfectible amitié. Alors qu'un soir ils rentrent d'un duel et sont donc sous le coup d'une forte émotion, ils se jurent une amitié éternelle, par delà la mort.-Le lièvre de mon grand-père : Alors que des amis de Dumas logent dans une auberge, leur hôte leur raconte cette histoire, qui est celle de son grand-père. Ce dernier, qui se nomme Jérôme Palan, est apothicaire à Theux. Bon vivant, il est aimé de tous et n'a qu'un seul ennemi, Thomas Pichet, garde-chasse, qui lui reproche d'avoir épousé la femme qu'il convoitait. Palan a deux passions: la science qui l'a rendu impie, et la chasse qui prend le pas sur son travail et l'enhardit au point d'aller taquiner le gibier sur les terres privées.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1423-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1423-3</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1424-0</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_recits_fantastiques_i</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:11.337376+00:00" name="calibre:timestamp"/>
+        <meta content="Récits fantastiques I" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

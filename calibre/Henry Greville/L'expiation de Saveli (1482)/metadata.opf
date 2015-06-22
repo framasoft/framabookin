@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1482</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e80cdefe-f978-4b82-83a6-df5db7652a86</dc:identifier>
+        <dc:title>L'expiation de Savéli</dc:title>
+        <dc:creator opf:file-as="Gréville, Henry" opf:role="aut">Henry Gréville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1877-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Henry Gréville, pseudonyme de Alice Marie Céleste Durand née Fleury (1842-1902), a publié de nombreux romans, des nouvelles, des pièces, de la poésie ; elle a été à son époque un écrivain à succès. Extrait : Les meurtriers s'arrêtèrent alors et se regardèrent. Leur ennemi était en leur pouvoir, il ne s'agissait plus que de lui ôter la vie. Mais ce qui avait paru tout simple en face du péril et de la lutte devenait horrible en présence de cet homme sans défense. Bagrianof, immobile, les regardait avec des yeux farouches. Son visage, à demi-caché par le bâillon, changea soudain d'expression ; les doigts de sa main droite, seuls libres de leurs mouvements, esquissèrent un signe de croix sur sa poitrine pendant que son regard exprimait la prière. - Que veut-il ? demanda un des paysans. - Il veut peut-être prier Dieu avant de mourir, répondit un second.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1517-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1517-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">greville_henry_-_l_expiation_de_saveli</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Henry Gréville&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:50.761369+00:00" name="calibre:timestamp"/>
+        <meta content="expiation de Savéli, L'" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1427</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">49b60e98-acad-43e8-8517-e2c18c17749f</dc:identifier>
+        <dc:title>L'argent des autres I</dc:title>
+        <dc:creator opf:file-as="Gaboriau, Émile" opf:role="aut">Émile Gaboriau</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1864-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Un petit comptable, Vincent Favoral, devient la cible de tous les regards. Il est sur le point d'être arrêté pour détournement de fonds. Il parvient cependant à s'enfuir. Qui s'est-il passé, qui est-il? Extrait : C'est surtout un maniaque, poursuivit le boutiquier, comme tous les hommes de chiffres, à ce qu'il paraît. Sa vie est réglée comme les pages de son grand-livre. Dans le quartier, on ne l'appelle jamais que le Bureau-Exactitude, et quand il passe rue Saint-Louis, qui est donc maintenant la rue Turenne, les négociants règlent leur montre. Qu'il vente ou qu'il grêle, chaque matin que le bon Dieu fait, à neuf heures battant, il met le pied dans la rue pour se rendre à son bureau. Quand on le voit revenir, c'est qu'il est entre cinq heures vingt et cinq heures vingt-cinq. À six heures, il dîne. À sept heures, il sort et va faire sa partie au café Turc. À dix heures, il rentre et se couche. Et, au premier coup de onze heures sonnant à Saint-Louis, crac, il éteint sa bougie...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1472-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1472-1</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1471-4</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">gaboriau_emile_-_l_argent_des_autres_i</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Émile Gaboriau&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:39.021537+00:00" name="calibre:timestamp"/>
+        <meta content="argent des autres I, L'" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

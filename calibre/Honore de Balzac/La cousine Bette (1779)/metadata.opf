@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1779</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cfb38469-e8e6-4125-866c-411183f1e9fe</dc:identifier>
+        <dc:title>La cousine Bette</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie Humaine Etudes de moeurs. Scènes de la vie parisienne. Tome XVII - Houssiaux, 1848. Extrait : Il est facile maintenant de comprendre l’espèce d’attachement extraordinaire que mademoiselle Fischer avait conçu pour son Livonien ; elle le voulait heureux, et elle le voyait dépérissant, s’étiolant dans sa mansarde. On conçoit la raison de cette situation affreuse. La Lorraine surveillait cet enfant du Nord avec la tendresse d’une mère, avec la jalousie d’une femme et l’esprit d’un dragon ; ainsi elle s’arrangeait pour lui rendre toute folie, toute débauche impossible, en le laissant toujours sans argent. Elle aurait voulu garder sa victime et son compagnon pour elle, sage comme il était par force, et elle ne comprenait pas la barbarie de ce désir insensé, car elle avait pris, elle, l’habitude de toutes les privations. Elle aimait assez Steinbock pour ne pas l’épouser, et l’aimait trop pour le céder à une autre femme ; elle ne savait pas se résigner à n’en être que la mère, et se regardait comme une folie quand elle pensait à l’autre rôle. Ces contradictions, cette féroce jalousie, ce bonheur de posséder un homme à elle, tout agitait démesurément le cœur de cette fille. Éprise réellement depuis quatre ans, elle caressait le fol espoir de faire durer cette vie inconséquente et sans issue, où sa persistance devait causer la perte de celui qu’elle appelait son enfant. Ce combat de ses instincts et de sa raison la rendait injuste et tyrannique. Elle se vengeait sur ce jeune homme de ce qu’elle n’était ni jeune, ni riche, ni belle ; puis, après chaque vengeance, elle arrivait, en reconnaissant ses torts en elle-même, à des humilités, à des tendresses infinies.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0984-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0984-0</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1003-7</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_la_cousine_bette</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:50.718787+00:00" name="calibre:timestamp"/>
+        <meta content="cousine Bette, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

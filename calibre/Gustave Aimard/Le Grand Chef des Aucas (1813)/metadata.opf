@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1813</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bf15a559-6626-4c75-8286-d8463b42fc24</dc:identifier>
+        <dc:title>Le Grand Chef des Aucas</dc:title>
+        <dc:creator opf:file-as="Aimard, Gustave" opf:role="aut">Gustave Aimard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Un laps de temps assez long s'écoula sans qu'aucun bruit vînt troubler le silence solennel qui planait sur la Plaça Mayor. Tout à coup, un profond soupir s'échappa du monceau de cadavres, et une tête pâle, défigurée par le sang et la boue qui la souillaient, s'éleva lentement au-dessus de ce charnier humain, écartant avec effort les corps qui la cachaient. La victime, qui survivait par miracle à cette sanglante hécatombe, jeta un regard inquiet autour d'elle, et passant la main sur son front baigné d'une sueur froide : --- Mon Dieu~! mon Dieu ! murmura-t-elle avec angoisse, donnez-moi la force de vivre afin que je puisse me venger !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1211-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1211-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">aimard_gustave_-_le_grand_chef_des_aucas</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture aisée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gustave Aimard&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:57.437381+00:00" name="calibre:timestamp"/>
+        <meta content="Grand Chef des Aucas, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

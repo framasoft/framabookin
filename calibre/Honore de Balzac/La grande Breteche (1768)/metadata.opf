@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1768</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2d5b84b9-a9dc-410a-b321-4178c0a7be13</dc:identifier>
+        <dc:title>La grande Bretèche</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études de moeurs. Premier livre, Scènes de la vie privée - Tome IV. Quatrième volume de l'édition Furne 1842. Extrait : Il y avait de la joie dans son dernier regard, sentiment qui resta gravé sur ses yeux morts. J’emportai le testament ; et, quand il fut ouvert, je vis que madame de Merret m’avait nommé son exécuteur testamentaire. Elle léguait la totalité de ses biens à l’hôpital de Vendôme, sauf quelques legs particuliers. Mais voici quelles furent ses dispositions relativement à la Grande Bretèche. Elle me recommanda de laisser cette maison pendant cinquante années révolues, à partir du jour de sa mort, dans l’état où elle se trouverait au moment de son décès, en interdisant l’entrée des appartements à quelque personne que ce fût, en défendant d’y faire la moindre réparation, et allouant même une rente afin de gager des gardiens, s’il en était besoin, pour assurer l’entière exécution de ses intentions. A l’expiration de ce terme, si le vœu de la testatrice a été accompli, la maison doit appartenir à mes héritiers, car monsieur sait que les notaires ne peuvent accepter de legs ; sinon, la Grande Bretèche reviendrait à qui de droit, mais à la charge de remplir les conditions indiquées dans un codicille annexé au testament, et qui ne doit être ouvert qu’à l’expiration desdites cinquante années. Le testament n’a point été attaqué, donc... A ce mot, et sans achever sa phrase, le notaire oblong me regarda d’un air de triomphe, je le rendis tout à fait heureux en lui adressant quelques compliments.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0991-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0991-8</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1032-7</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_la_grande_breteche</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:48.512007+00:00" name="calibre:timestamp"/>
+        <meta content="grande Bretèche, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

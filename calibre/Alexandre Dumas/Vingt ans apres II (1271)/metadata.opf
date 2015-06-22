@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1271</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e6df390e-ddf4-4a67-ab5d-a0af2a48d261</dc:identifier>
+        <dc:title>Vingt ans après II</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>En 1648, il y a bien longtemps que les quatre amis ne se sont pas revus. La Fronde menace: d'Artagnan et Porthos sont, sur le conseil de Rochefort (qui n'en est pas moins frondeur) recrutés par le cardinal Mazarin, tandis qu'Aramis et Athos rejoignent les rangs des rebelles. Les deux premiers tentent vainement d'empêcher l'évasion du duc de Beaufort, à laquelle participent les deux derniers. Ceci ne les empêche pas de se jurer une amitié éternelle. Ils se retrouvent dans des camps opposés pendant la guerre civile anglaise. Extrait : Peu à peu Athos se laissa entraîner aux charmes de sa rêverie en présence de cette jeunesse si riche et si pure. Sa jeunesse à lui reparut, apportant tous ces souvenirs suaves, qui sont plutôt des parfums que des pensées. De ce passé au présent il y avait un abîme. Mais l'imagination a le vol de l'ange et de l'éclair ; elle franchit les mers où nous avons failli faire naufrage, les ténèbres où nos illusions se sont perdues, le précipice où notre bonheur s'est englouti. Il songea que toute la première partie de sa vie à lui avait été brisée par une femme ; il pensa avec terreur quelle influence pouvait avoir l'amour sur une organisation si fine et si vigoureuse à la fois. En se rappelant tout ce qu'il avait souffert, il prévit tout ce que Raoul pouvait souffrir, et l'expression de la tendre et profonde pitié qui passa dans son cœur se répandit dans le regard humide dont il couvrit le jeune homme.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1421-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1421-9</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1420-2</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_vingt_ans_apres_ii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:07.332936+00:00" name="calibre:timestamp"/>
+        <meta content="Vingt ans après II" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

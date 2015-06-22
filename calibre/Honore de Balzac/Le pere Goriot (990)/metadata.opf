@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">990</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a9b38835-b320-4614-97f1-5fc8e201dc7c</dc:identifier>
+        <dc:title>Le père Goriot</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études de moeurs. Troisième livre, Scènes de la vie parisienne - Tome I. Neuvième volume de l'édition Furne 1842. Extrait : La vieille demoiselle Michonneau gardait sur ses yeux fatigués un crasseux abat-jour en taffetas vert, cerclé par du fil d’archal qui aurait effarouché l’ange de la Pitié. Son châle à franges maigres et pleurardes semblait couvrir un squelette, tant les formes qu’il cachait étaient anguleuses. Quel acide avait dépouillé cette créature de ses formes féminines ? elle devait avoir été jolie et bien faite : était-ce le vice, le chagrin, la cupidité ? avait-elle trop aimé, avait-elle été marchande à la toilette, ou seulement courtisane ? Expiait-elle les triomphes d’une jeunesse insolente au-devant de laquelle s’étaient rués les plaisirs par une vieillesse que fuyaient les passants ? Son regard blanc donnait froid, sa figure rabougrie menaçait. Elle avait la voix clairette d’une cigale criant dans son buisson aux approches de l’hiver. Elle disait avoir pris soin d’un vieux monsieur affecté d’un catarrhe à la vessie, et abandonné par ses enfants, qui l’avaient cru sans ressource. Ce vieillard lui avait légué mille francs de rente viagère, périodiquement disputés par les héritiers, aux calomnies desquels elle était en butte. Quoique le jeu des passions eût ravagé sa figure, il s’y trouvait encore certains vestiges d’une blancheur et d’une finesse dans le tissu qui permettaient de supposer que le corps conservait quelques restes de beauté.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1014-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1014-3</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1004-4</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_le_pere_goriot</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture avancée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:09.819003+00:00" name="calibre:timestamp"/>
+        <meta content="père Goriot, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

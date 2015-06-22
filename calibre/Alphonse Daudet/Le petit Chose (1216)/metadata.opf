@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1216</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f2586d4-0de7-47f6-97ac-408ddb1e2d68</dc:identifier>
+        <dc:title>Le petit Chose</dc:title>
+        <dc:creator opf:file-as="Daudet, Alphonse" opf:role="aut">Alphonse Daudet</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>'Le Petit Chose' paraît en feuilleton en 1867. Daudet s'inspire des souvenirs d'une jeunesse douloureuse : humiliations à l'école, mépris pour le petit provençal, expérience de répétiteur au collège et enfin coup de foudre pour une belle jeune femme. L'écrivain manifeste une tendresse, une pitié et un respect remarquables à l'égard des malchanceux et des déshérités de la vie. Extrait : Au bout d'un mois, la vieille Annou tomba malade. Les brouillards la tuaient ; on dut la renvoyer dans le Midi. Cette pauvre fille, qui aimait ma mère à la passion, ne pouvait pas se décider à nous quitter. Elle suppliait qu'on la gardât, promettant de ne pas mourir. Il fallut l'embarquer de force. Arrivée dans le Midi, elle s'y maria de désespoir. Annou partie, on ne prit pas de nouvelle bonne, ce qui me parut le comble de la misère...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0091-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0091-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">daudet_alphonse_-_le_petit_chose</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture intermédiaire</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alphonse Daudet&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:56.390576+00:00" name="calibre:timestamp"/>
+        <meta content="petit Chose, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

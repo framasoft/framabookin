@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1502</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">51c6efea-ebe3-4ee9-88c4-8bf7978df793</dc:identifier>
+        <dc:title>La seconde mère</dc:title>
+        <dc:creator opf:file-as="Gréville, Henry" opf:role="aut">Henry Gréville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1888-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Henry Gréville, pseudonyme de Alice Marie Céleste Durand née Fleury (1842-1902), a publié de nombreux romans, des nouvelles, des pièces, de la poésie ; elle a été à son époque un écrivain à succès. Extrait : Un peu injuste, répéta-t-il. Ne comprenez-vous pas que ma vie est très occupée, très austère, souvent triste ; que le barreau est une profession où l'on devient aisément misanthrope, à force de voir les mauvais côtés de la nature humaine ; que la politique est toujours pénible, souvent écœurante, et que j'ai besoin d'avoir dans ma maison une belle fleur épanouie, comme vous en avez sans cesse près de vous, dans un vase, pour reposer ma vue et mon cœur ? Voudriez-vous vraiment me condamner à rentrer toujours seul dans un logis toujours désert ? à ne jamais voir que des visages d'hommes autour de ma table, à vivre seul, ma mère aimée, et à mourir seul ?</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1509-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1509-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">greville_henry_-_la_seconde_mere</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Henry Gréville&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:54.740156+00:00" name="calibre:timestamp"/>
+        <meta content="seconde mère, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

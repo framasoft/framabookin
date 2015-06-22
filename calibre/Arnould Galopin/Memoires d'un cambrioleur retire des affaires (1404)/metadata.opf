@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1404</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">27aded87-362d-4415-9f10-a786fe7f946f</dc:identifier>
+        <dc:title>Mémoires d’un cambrioleur retiré des affaires</dc:title>
+        <dc:creator opf:file-as="Galopin, Arnould" opf:role="aut">Arnould Galopin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1922-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Un maitre cambrioleur dérobe un diamant qui se trouve exposé au Louvre... Extrait : Bien entendu, je n'ai jamais révélé ma profession à Édith, car les femmes, si parfaites qu'elles soient, ont toujours une tendance à trop bavarder et, bien que je m'honore de pratiquer le cambriolage, j'ai craint qu'elle n'éprouvât quelque répugnance pour cette sorte d'art que réprouve une morale trop étroite. Elle me croit, sinon riche, du moins fort à l'aise et ignore, la pauvre chatte, que les deux billets de mille francs qui se trouvent dans mon secrétaire constituent pour l'instant toute ma fortune. C'est, vous le devinez, à Édith que je songeais en regagnant pédestrement mon domicile, là-haut, sur la butte Montmartre. La période de morte-saison que je venais de traverser ne m'avait pas permis de m'installer, comme je le souhaitais, dans un quartier aristocratique, mais bientôt ce désir se trouverait exaucé, grâce au Régent, et George-Edgar Pipe, au lieu d'habiter un petit logement meublé de deux cents francs par mois, aurait son hôtel à lui, ses domestiques, son auto. Alors, les gens qui aujourd'hui le regardaient avec mépris, ambitionneraient l'honneur de lui être présentés, car à Paris, comme à Londres, cela est un fait constant, on ne s'inquiète guère de savoir comment les gens se sont enrichis. Les moyens employés pour parvenir importent peu, c'est le résultat qui est tout.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1473-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1473-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">galopin_arnould_-_memoires_d_un_cambrioleur_retire_des_affaires</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Arnould Galopin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:34.397129+00:00" name="calibre:timestamp"/>
+        <meta content="Mémoires d’un cambrioleur retiré des affaires" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

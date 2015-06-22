@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1332</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1dc708db-ba76-4f1d-9702-5ad03e898382</dc:identifier>
+        <dc:title>Les Mohicans de Paris 5</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Comment, lors du Mardi Gras de 1827, trois compères (Jean Robert le poète, Ludovic le médecin et Pétrus le peintre) font la connaissance de Monsieur Salvator, de son état commissionnaire rue aux Fers et bien plus que cela. Comment ils favorisent les amours du sympathique musicien Justin, et ne négligent pas les leurs propres. Comment nos héros (sans oublier le chien Roland) découvrent la vérité sur l'horrible assassinat, en 1820, de la famille Tardieu. Comment , au service de la Charbonnerie, ils mènent la vie dure aux sbires du roi Charles X, et en particulier au policier Jackal (qui ressemble fort à Vidocq, et qui n'a pas tort de répéter en toute affaire « Cherchez la femme ! »). Comment Salvator règle de vieux comptes avec l'exécrable famille des marquis de Valgeneuse. Comment l'histoire finit par des chansons, et même par un opéra. Tout cela, et bien plus, s'entremêle et se tient parfaitement, avec (entre autres), dans leurs propres rôles, Chateaubriand, La Fayette et Napoléon II. Extrait : - Voyez, reprit M. Jackal, ce nom vous fait un certain effet à vous-même. Jugez de celui qu'il doit faire à la pauvre enfant ! Eh bien, de même qu'il faut à tout prix que cette enfant, qui peut parler à chaque instant, se taise, de même il faut éteindre tous les indices compromettants pour vous. Voyons, monsieur Gérard, je suis médecin, et assez bon médecin ; j'ai l'habitude de trouver les remèdes quand je connais les tempéraments des gens auxquels j'ai affaire. Contez-moi donc cette triste histoire dans ses détails les plus minutieux : le plus petit fait, indifférent en apparence, oublié par vous, peut démolir tout notre plan. Parlez donc comme si vous aviez devant vous un médecin ou un prêtre. M. Gérard, comme tous les animaux de ruse, avait, au plus haut degré l'instinct de sa conservation.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1397-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1397-7</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1399-1</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_les_mohicans_de_paris_5</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:19.883816+00:00" name="calibre:timestamp"/>
+        <meta content="Mohicans de Paris 5, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

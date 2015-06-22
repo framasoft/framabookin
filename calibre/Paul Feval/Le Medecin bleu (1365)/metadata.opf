@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1365</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dabc9187-8deb-4ea7-924d-bc859dd4a4a3</dc:identifier>
+        <dc:title>Le Médecin bleu</dc:title>
+        <dc:creator opf:file-as="Féval, Paul" opf:role="aut">Paul Féval</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1925-01-01T00:00:00+00:00</dc:date>
+        <dc:description>En cette année 1794, le citoyen Saulnier est médecin en Bretagne. Il se distingue de la population paysanne par ses opinions républicaines, au point que, dans le pays, on l'appelle le médecin bleu. S'il est encore toléré par la population, les raisons en sont ses qualités professionnelles et surtout sa fille, Sainte, objet de respect et d'amour de la part de tous. Sainte a eu une amie, Marie Brand, mais celle-ci est la fille d'un insurgé. Leurs parents leur ont interdit de se voir. Elles ont obéi, mais une nouvelle insurrection se prépare, leurs vies vont à nouveau se croiser. Édition reproduite: Albun Michel, 1925 (il s'agit malheureusement d'une version revue et corrigée par l'auteur après sa conversion à la propagande catholique et bien-pensante en 1876). Extrait : Les deux années qui suivirent le départ de René s'écoulèrent, pour Sainte, tristes et remplies par d'inutiles efforts. Elle dépensait à miner, peu à peu, le courroux haineux de son père, plus de patiente adresse qu'il n'en faut à nos diplomates pour minuter leurs amphibologiques protocoles ; elle était sans cesse à son poste, prête à saisir l'occasion de placer un mot en faveur de l'absent ; mais rien ne faisait. La rancune du docteur semblait augmenter, loin de diminuer. Il était, au milieu de ces campagnes royalistes, comme une vedette de l'armée républicaine ; et, plus d'une fois, ses avis amenèrent des colonnes de Bleus par-delà les marais et dans le voisinage du château.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0570-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0570-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">feval_paul_-_le_medecin_bleu</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Paul Féval&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:26.526916+00:00" name="calibre:timestamp"/>
+        <meta content="Médecin bleu, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

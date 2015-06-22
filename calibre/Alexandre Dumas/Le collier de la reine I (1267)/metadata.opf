@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1267</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e183e02e-9974-4048-a346-130ec9c43418</dc:identifier>
+        <dc:title>Le collier de la reine I</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Les «Mémoires d'un médecin» est une suite romanesque qui a pour cadre la Révolution Française et qui comprend «Joseph Balsamo», «le Collier de la reine», «Ange Pitou» et la «Comtesse de Charny». Jeanne de Valois, comtesse de la Motte, descendante d'Henri III, vit dans la misère jusqu'à ce qu'elle obtienne, à force de sollicitations, la protection de Marie-Antoinette, reine de France, et du cardinal Louis de Rohan. La reine déteste le cardinal de Rohan alors que celui-ci n'a qu'une envie: lui plaire. Extrait : - C'est égal, dit le maréchal en ricanant comme eût fait Voltaire, et en frottant l'une contre l'autre ses mains sèches et blanches toutes chargées de bagues, je serai le seul de tous mes convives qui mourrai dans mon lit. Eh ! eh ! dans mon lit ! Comte de Cagliostro, je ne suis pas un incrédule, moi. Dans mon lit, et le plus tard possible ? Holà ! mon valet de chambre, et mes gouttes ? Le valet de chambre entra un flacon à la main, et le maréchal et lui passèrent dans la chambre à coucher...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0040-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0040-3</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0041-0</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_le_collier_de_la_reine_i</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture avancée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:06.547710+00:00" name="calibre:timestamp"/>
+        <meta content="collier de la reine I, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

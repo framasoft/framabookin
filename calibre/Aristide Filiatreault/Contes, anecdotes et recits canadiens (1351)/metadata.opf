@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1351</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3095fc43-b484-4d3a-a816-a33c39ffb814</dc:identifier>
+        <dc:title>Contes, anecdotes et récits canadiens</dc:title>
+        <dc:creator opf:file-as="Filiatreault, Aristide" opf:role="aut">Aristide Filiatreault</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1910-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Aristide Filiatreaultest un typographe, un journaliste et un écrivain québécois. Extrait : Je n'ai nullement l'intention, en publiant ces contes, de me poser en littérateur~: mon seul désir est d'intéresser mes lecteurs en leur narrant des histoires de leur pays, où l'esprit court les rues, bien certain de trouver toujours et partout bon gîte et bon accueil dans toutes les familles canadiennes-françaises, où le rire de bon aloi est toujours le bienvenu. Il est notoire que même dans les circonstances les plus tragiques le Canadien-Français voit d'abord le côté comique et en profite pour rigoler. C'est sa nature. Il ne faut donc pas lui reprocher ce désir si légitime de s'amuser, tout en ne causant aucun tort à son prochain.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1459-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1459-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">filiatreault_aristide_-_contes_anecdotes_et_recits_canadiens</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Aristide Filiatreault&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:23.661663+00:00" name="calibre:timestamp"/>
+        <meta content="Contes, anecdotes et récits canadiens" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

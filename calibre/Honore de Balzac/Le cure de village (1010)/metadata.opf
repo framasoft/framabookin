@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1010</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4d7f4caf-60e4-4e46-80bf-83441bde5b15</dc:identifier>
+        <dc:title>Le curé de village</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études de moeurs. Cinquième livre, Scènes de la vie de campagne. Treizième volume de l'édition Furne 1842. Extrait : Jérôme-Baptiste Sauviat, en homme aux yeux de qui la fortune semblait constituer tout le bonheur, qui n’avait jamais vu que le besoin dans l’amour, et dans le mariage qu’un mode de transmettre ses biens à un autre soi-même, s’était juré de marier Véronique à un riche bourgeois. Depuis longtemps, cette idée avait pris dans sa cervelle la forme d’un préjugé. Son voisin, le chapelier, riche de deux mille livres de rente, avait déjà demandé pour son fils, auquel il cédait son établissement, la main d’une fille aussi célèbre que l’était Véronique dans le quartier par sa conduite exemplaire et ses mœurs chrétiennes. Sauviat avait déjà poliment refusé sans en parler à Véronique. Le lendemain du jour où le vicaire, personnage important aux yeux du ménage Sauviat, eut parlé de la nécessité de marier Véronique de laquelle il était le directeur, le vieillard se rasa, s’habilla comme pour un jour de fête, et sortit sans rien dire ni à sa fille ni à sa femme. L’une et l’autre comprirent que le père allait chercher un gendre. Le vieux Sauviat se rendit chez monsieur Graslin.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1006-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1006-8</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1021-1</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_le_cure_de_village</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:13.799141+00:00" name="calibre:timestamp"/>
+        <meta content="curé de village, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

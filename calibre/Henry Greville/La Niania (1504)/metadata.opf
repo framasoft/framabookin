@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1504</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">efa763f6-40c4-4e36-8a5b-f1e59d43e49c</dc:identifier>
+        <dc:title>La Niania</dc:title>
+        <dc:creator opf:file-as="Gréville, Henry" opf:role="aut">Henry Gréville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1879-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Henry Gréville, pseudonyme de Alice Marie Céleste Durand née Fleury (1842-1902), a publié de nombreux romans, des nouvelles, des pièces, de la poésie ; elle a été à son époque un écrivain à succès. Extrait : Personne ne savait plus le nom de la bonne, on l'appelait du nom générique Niania. Née dans la maison de la mère de madame Karzof, elle avait trente-sept ans lors du mariage de celle-ci ; la jeune mariée l'avait reçue en cadeau de sa mère, comme un des meubles, et non le moins précieux, de son trousseau. La Niania avait vu naître les nombreux enfants de sa maîtresse, elle les avait tous soignés, et peu après couchés dans le cercueil à l'exception de Jean et d'Antonine, seuls restés vivants. Elle adorait ces deux êtres, comme elle adorait Dieu ; et s'il lui eût fallu choisir entre son salut éternel et la vie de l'un des deux, elle se fût damnée sans hésitation.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1507-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1507-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">greville_henry_-_la_niania</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Henry Gréville&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:55.140792+00:00" name="calibre:timestamp"/>
+        <meta content="Niania, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

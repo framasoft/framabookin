@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1290</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fecace4a-9e6b-4f1f-815f-5e904b021deb</dc:identifier>
+        <dc:title>Récits fantastiques II</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>-Le testament de M. de Chauvelin : Alors que Dumas rend visite à son vieil ami M. de Villenave, celui-ci reçoit une lettre l'informant de la mort d'une amie très chère dont il possédait un pastel. Or, ce portrait est tombé du support où il était accroché exactement à l'instant où la dame rendait son dernier soupir... Cette troublante coïncidence rappelle au vieux monsieur une autre histoire curieuse dont il a été le témoin, et qu'il confie bien évidemment à l'auteur.  -Les gentilshommes de la Sierra-Morena : Dumas arrive à Cordoue en compagnie de son fils et de quelques amis. Sûr de sa notoriété, il adresse une lettre au Torero, chef d'une bande de brigands qui écument la Sierra Morena, et se fait inviter à une chasse dans la montagne. Les préparatifs se poursuivent et Dumas se met à lire un petit document manuscrit tombé de la poche d'El Torero qui raconte l'histoire de don Bernardo de Zuniga.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1424-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1424-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_recits_fantastiques_ii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:11.133606+00:00" name="calibre:timestamp"/>
+        <meta content="Récits fantastiques II" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

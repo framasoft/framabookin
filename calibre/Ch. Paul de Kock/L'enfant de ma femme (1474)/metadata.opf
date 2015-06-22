@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1474</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f8b826c9-29d9-4df3-b06f-4ea6d28aee5c</dc:identifier>
+        <dc:title>L'enfant de ma femme</dc:title>
+        <dc:creator opf:file-as="Kock, Ch. Paul de" opf:role="aut">Ch. Paul de Kock</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1812-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Romancier populaire, fécond et truculent, il peignit les petites gens de Paris. Sa vogue, en France et à l'étranger, fut très grande. Il est également l'auteur de près de deux cents drames et vaudevilles et de nombreuses chansons. Chateaubriand aurait dit de lui chez Madame Récamier : « Paul de Kock est consolant, jamais il ne présente l'humanité sous le point de vue qui attriste ; avec lui on rit et on espère. » Extrait : Mais comment faire ? Le peu de poudre qu'il avait pu se procurer dans le château avait été brûlé à la première explosion. Après y avoir bien réfléchi, il pensa que Mullern devait en avoir chez lui une quantité plus que suffisante pour mettre son projet à exécution, et résolut de profiter d'un moment où il s'absenterait pour prendre ce qu'il lui en fallait. Effectivement, Mullern ne tarda pas à descendre ; il aperçut notre homme rôdant autour du château. Il feignit de s'éloigner sans se douter de rien ; mais après avoir fait quelques pas, il revint doucement derrière le jardinier. Ce dernier entra dans la chambre, ne soupçonnant pas qu'il était suivi, il prit la poudre qu'il crut nécessaire, et regagna bien vite le jardin, en riant dans sa barbe du nouveau tour qu'il allait jouer à l'élève de notre hussard. Mais Mullern avait tout vu !... et, ayant acquis la preuve convaincante du complot du jardinier, se promit d'en tirer une vengeance éclatante : après avoir bien médité son plan, il laissa le jardinier préparer tout pour rendre son explosion plus bruyante, et attendit avec impatience l'instant fixé pour l'exécution de son projet.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1569-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1569-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">kock_ch_paul_de_-_l_enfant_de_ma_femme</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Ch. Paul de Kock&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:49.187362+00:00" name="calibre:timestamp"/>
+        <meta content="enfant de ma femme, L'" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

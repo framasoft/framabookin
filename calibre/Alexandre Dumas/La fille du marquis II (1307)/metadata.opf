@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1307</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ede42f8c-8659-47fd-be54-29cca51163e1</dc:identifier>
+        <dc:title>La fille du marquis II</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Le docteur mystérieux et sa suite, La fille du marquis, constituent un ensemble également connu sous le nom Création et rédemption. le docteur Jacques Mérey, médecin passionné par les recherches scientifiques et ésotériques, qui se refuse aux riches mais soigne les pauvres et les animaux, les guérissant même miraculeusement. Il découvre un jour, dans une misérable cabane, soignée par un bûcheron et sa mère, une petite «chose» complètement désarticulée et muette, une fillette abandonnée de ses parents. Pour Mérey, il s'agit là d'un grand défi à sa science: transformer ce tas de chair à peine vivant en une «personne». On lui confie l'enfant et il se met, dès lors, au travail. Extrait : - Pardon, citoyen Henriot, dit l'exécuteur avec une certaine déférence mais d'une voix ferme ; l'autre jour, pour la pauvre petite Nicole, j'ai été injurié et menacé, et cependant elle avait son numéro et elle était sur la liste ; avant-hier, pour Osselin, qui était à moitié mort et qu'on aurait bien pu laisser mourir tout à fait et tranquillement, on m'a jeté des pierres, et cependant il avait son numéro et était sur la liste. Aujourd'hui, pour cette jeune femme, qui n'a pas de numéro, qui n'est pas sur la liste, on me mettrait en morceaux ! Merci ! c'était bon dans les commencements, mais aujourd'hui on se lasse. Tenez, entendez-vous comme la foule commence à gronder !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1380-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1380-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_la_fille_du_marquis_ii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:14.597025+00:00" name="calibre:timestamp"/>
+        <meta content="fille du marquis II, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

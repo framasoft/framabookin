@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1787</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5cdaf6af-9cf6-4bb3-b1b2-0d719f58e98e</dc:identifier>
+        <dc:title>À la une!</dc:title>
+        <dc:creator opf:file-as="Allais, Alphonse" opf:role="aut">Alphonse Allais</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Les sentiments que la petite femme nourrissait à l'égard de son mari n'auraient pas suffi (pour ce qui est de la température) à faire fondre seulement deux liards de beurre, cependant que lui se serait, pour sa petite femme, précipité dans les flammes ou dans l'eau, sur un signe d'icelle. Des faits de telle nature sont, d'ailleurs, fréquemment constatables en maint ménage contemporain. Cette gentille petite dame et ce vilain homme croupissaient dans une indigence fâcheuse. L'or ne foisonnait pas dans leur coffre-fort~; et même, ils n'avaient pas de coffre-fort.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1217-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1217-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">allais_alphonse_-_a_la_une</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alphonse Allais&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:52.303588+00:00" name="calibre:timestamp"/>
+        <meta content="À la une!" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

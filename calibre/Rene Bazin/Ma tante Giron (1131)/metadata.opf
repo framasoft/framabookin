@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1131</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cb1b1a7e-ca5a-4655-88a7-3bed8d60bc74</dc:identifier>
+        <dc:title>Ma tante Giron</dc:title>
+        <dc:creator opf:file-as="Bazin, René" opf:role="aut">René Bazin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>René Bazin, né à Angers le 26 décembre 1853 et mort à Paris le 20 juillet 1932, est un écrivain français, à la fois juriste et professeur de droit, romancier, journaliste, historien, essayiste et auteur de récits de voyages. extrait : Il ramassa la bête, examina la blessure, -- une demi-douzaine de grains de plomb dans la nuque, -- et se donna le plaisir de glisser lui-même la victime dans la carnassière du garde, déjà pleine, sur laquelle s'arrondissait, luisante et glorieusement usée par endroits, une peau de sanglier. Puis il atteignit un flacon d'huile, une brosse courte, un paquet de chiffons, et s'assit sur l'herbe. Le baron Jacques, que l'ardeur de la jeunesse et le dépit d'un coup manqué poussaient en avant, s'était déjà remis en route. Il se retourna en disant : --~Mais, venez donc, il y a des perdr...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1284-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1284-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">bazin_rene_-_ma_tante_giron</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;René Bazin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:38.592644+00:00" name="calibre:timestamp"/>
+        <meta content="Ma tante Giron" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

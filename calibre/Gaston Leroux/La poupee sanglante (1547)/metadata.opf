@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1547</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8a925fc3-5bf5-4ea3-bdc6-5cee62f9b4e2</dc:identifier>
+        <dc:title>La poupée sanglante</dc:title>
+        <dc:creator opf:file-as="Leroux, Gaston" opf:role="aut">Gaston Leroux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1923-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Bénédict Masson, relieur d'art sur l'île Saint-Louis, est un homme de 35 ans, au physique laid, que toutes les femmes fuient. Malgré tout, il s'éprend de la belle Christine et il va passer ses nuits à l'épier, ainsi que sa famille, pour découvrir leur secret, sans se douter qu'il sera entraîné dans une histoire «sanglante»... Extrait : Gabriel est mort ! Gabriel est mort ! Le vieux en a fait de la charpie ! Moi, je ne considère plus que cela qui est capital. Le reste s'expliquera après, si c'est absolument nécessaire, mais pour moi, il n'y a de nécessaire que la mort de Gabriel. Il n'est plus entre moi et Christine ! En serai-je beaucoup plus avancé ? Peu importe ! Mon cœur est rafraîchi de tout le sang que le vieux a répandu ! Elle ne posera plus sa tête sur l'épaule de ce jeune homme, beau comme un demi-dieu, et je ne les verrai plus s'embrasser. Que vont-ils faire du cadavre ? J'ai attendu toute la nuit, mais la porte de l'atelier ne s'est pas rouverte. Alors, n'en pouvant plus de fatigue et d'émotion, je suis redescendu chez moi, je me suis jeté sur mon lit et je me suis endormi dans une allégresse immense. Au réveil, j'avais l'âme encore en fête : Gabriel est mort ! Oh ! ce cri de triomphe au seuil de la vie retrouvée !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0264-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0264-3</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0263-6</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leroux_gaston_-_la_poupee_sanglante</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gaston Leroux&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:03.602197+00:00" name="calibre:timestamp"/>
+        <meta content="poupée sanglante, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

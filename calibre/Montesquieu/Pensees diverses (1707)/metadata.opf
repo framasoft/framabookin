@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1707</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">924149aa-1448-4889-862a-d1a08560b464</dc:identifier>
+        <dc:title>Pensées diverses</dc:title>
+        <dc:creator opf:file-as="Montesquieu, Charles-Louis de Secondat" opf:role="aut">Montesquieu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Le grand homme écrivait le soir ses observations de tous les jours ; ces pensées solitaires étaient le premier jet de l'esprit ; elles ont la sève de l'originalité. Plusieurs étaient connues ; d'autres nous ont été transmises par des mains fidèles. Ces anneaux préparés pour une grande chaine, quoique détaches, sont des anneaux d'or. On ne peut lire sans attendrissement ces entretiens muets avec son fils ; ces pensées étaient une espèce de legs paternel ; il a son prix aux yeux des hommes sensibles et éclairés. Extrait : Mon fils, vous êtes assez heureux pour n’avoir ni à rougir ni à vous enorgueillir de votre naissance : la mienne est tellement proportionnée à ma fortune que je serais fâché que l’une ou l’autre fussent plus grandes.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1126-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1126-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">montesquieu_charles-louis_de_secondat_-_pensees_diverses</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>non-fiction</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Montesquieu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:36.056192+00:00" name="calibre:timestamp"/>
+        <meta content="Pensées diverses" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

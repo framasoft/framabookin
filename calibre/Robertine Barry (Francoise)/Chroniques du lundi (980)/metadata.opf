@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">980</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">96c0a8a3-7cdc-410e-b436-e3fbde1e1682</dc:identifier>
+        <dc:title>Chroniques du lundi</dc:title>
+        <dc:creator opf:file-as="Barry, Robertine" opf:role="aut">Robertine Barry (Françoise)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Robertine Barry, mieux connue sous le pseudonyme de Françoise, a été l'une des premières femmes journalistes au Québec. Elle a collaboré notamment à "La Patrie", où elle était chargée de la première page féminine. Elle a fondé son propre magazine, une revue bimensuelle, "Le Journal de Françoise", qui paraîtra jusqu'en 1909, et sera toujours très populaire. Grande conférencière, elle a collaboré à plusieurs publications. Les nombreuses chroniques qu'elle a écrites ont été réunies en recueil dès 1895. Un prix de journalisme a été créé en son honneur par l'Institut canadien de recherches sur les femmes. Pendant la période de près de dix ans qu'elle a passée au journal "La Patrie", Robertine Barry fut rédactrice, sous le pseudonyme de "Françoise", d'une chronique hebdomadaire intitulée "Chroniques du lundi". Extarit : Mon doux Seigneur, c'est-il possible qu'il y ait des hommes qui croient cela ? Les monstres ! nous calomnier de la sorte ! Aussi, je croyais que ce défenseur de notre sexe allait tomber dessus à bras raccourcis, mais elle se contente de dire : « Ils se trompent. Une femme s'habille pour plaire à son mari, et il devrait voir dans son désir d'être bien mise, une délicate attention pour lui, qu'il est de son devoir de favoriser aussi généreusement que le comportent ses revenus... »</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1444-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1444-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">barry_robertine_-_chroniques_du_lundi</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Robertine Barry (Françoise)&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:07.787768+00:00" name="calibre:timestamp"/>
+        <meta content="Chroniques du lundi" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

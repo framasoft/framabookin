@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1660</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">15692208-e1f0-429e-a0e0-cd6f9cffcc1f</dc:identifier>
+        <dc:title>À la recherche du temps perdu XIV</dc:title>
+        <dc:creator opf:file-as="Proust, Marcel" opf:role="aut">Marcel Proust</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1927-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Le Temps retrouvé est le septième et dernier tome d’À la recherche du temps perdu de Marcel Proust publié en 1927 à titre posthume. L'oeuvre s'ouvre sur le séjour du Narrateur chez Gilberte de Saint-Loup à Tansonville. Une lecture d'un passage inédit du journal des Goncourt entraîne le Narrateur dans des réflexions sur l'art et la littérature, d'où il conclut que en se demandant si tous les gens que nous regrettons de ne pas avoir connus parce que Balzac les peignait dans ses livres [...] ne m'eussent pas paru d'insignifiantes personnes, soit par une infirmité de ma nature, soit qu'elles ne dussent leur prestige qu'à une magie illusoire de la littérature. L'action se poursuit ensuite à Paris, en 1916. Extrait : Ce qui est curieux et ce sur quoi je ne puis m'étendre, c'est à quel point, vers cette époque-là, toutes les personnes qu'avait aimées Albertine, toutes celles qui auraient pu lui faire faire ce qu'elles auraient voulu, demandèrent, implorèrent, j'oserai dire mendièrent, à défaut de mon amitié, quelques relations avec moi. Il n'y aurait plus eu besoin d'offrir de l'argent à Mme Bontemps pour qu'elle me renvoyât Albertine. Ce retour de la vie, se produisant quand il ne servait plus à rien, m'attristait profondément, non à cause d'Albertine, que j'eusse reçue sans plaisir si elle m'eût été ramenée, non plus de Touraine mais de l'autre monde, mais à cause d'une jeune femme que j'aimais et que je ne pouvais arriver à voir. Je me disais que si elle mourait, ou si je ne l'aimais plus, tous ceux qui eussent pu me rapprocher d'elle tomberaient à mes pieds. En attendant, j'essayais en vain d'agir sur eux, n'étant pas guéri par l'expérience, qui aurait dû m'apprendre -- si elle apprenait jamais rien -- qu'aimer est un mauvais sort comme ceux qu'il y a dans les contes contre quoi on ne peut rien jusqu'à ce que l'enchantement ait cessé.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0885-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0885-0</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1577-3</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">proust_marcel_-_a_la_recherche_du_temps_perdu_xiv</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Marcel Proust&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:26.447821+00:00" name="calibre:timestamp"/>
+        <meta content="À la recherche du temps perdu XIV" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

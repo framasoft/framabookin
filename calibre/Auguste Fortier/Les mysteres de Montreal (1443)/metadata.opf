@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1443</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f1c683d3-7aa9-4a5e-9fc2-7b62deb853d5</dc:identifier>
+        <dc:title>Les mystères de Montréal</dc:title>
+        <dc:creator opf:file-as="Fortier, Auguste" opf:role="aut">Auguste Fortier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1893-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Le roman d'aventures québécois du XIXe siècle est très souvent historique. C'est ainsi qu'à travers la péripétie, la romance et le drame pantelant transparaît la mémoire; mémoire de moeurs, de lieux et d'événements majeurs, souvent traumatiques. Les Mystères de Montréal d'Auguste Fortier, publié en 1893, est l'un des derniers romans de grande aventure tels qu'on en produit au XIXe siècle. On y retrouve par ailleurs certains éléments qui préfigurent le roman policier du XXe. Il s'agit d'un récit historique qui nous fait suivre l'exil rempli d'aventures de Paul Turcotte, un patriote des Rébellions de 1837-38. Les Mystères de Montréal est
+ l'unique roman achevé d'Auguste Fortier, écrivain mineur pratiquement oublié aujourd'hui. Extrait : Après trois siècles de luttes et d'efforts de la part des Jésuites missionnaires, ces sauvages sont restés barbares et indomptables. C'est avec difficulté qu'on leur fait abandonner leur vie errante et leurs mœurs nomades. Ils ne peuvent en aucune façon se résigner à respirer toujours l'eau de la même source. Ils disparaissent plutôt devant le progrès. Maintenant on les comptent dans le pays. Avant un siècle il n'y en aura plus. Morts ou mêlés aux blancs, ils ne subsisteront pas comme nation, car jamais on est parvenu à faire d'une tribu sauvage un peuple civilisé.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1458-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1458-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">fortier_auguste_-_les_mysteres_de_montreal</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Auguste Fortier&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:42.226455+00:00" name="calibre:timestamp"/>
+        <meta content="mystères de Montréal, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

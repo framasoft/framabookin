@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1457</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4ccecf6d-6ec6-428f-bcf4-a0f251b61fc1</dc:identifier>
+        <dc:title>Contes choisis</dc:title>
+        <dc:creator opf:file-as="Grimm, Jakob et Wilhelm" opf:role="aut">Jakob et Wilhelm Grimm</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1855-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Nous avons fait un choix parmi les plus amusants au point de vue de l'enfance, et aussi parmi ceux qui ressemblaient le moins aux contes de fées qui circulent chez nous. Nous avons cru devoir introduire une sorte de classification, mettant d'un côté ceux qui offrent une leçon, ou au moins une impression morale bien déterminée, et aussi quelques petites légendes où se révèle un vif sentiment religieux ; et de l'autre les contes fantastiques ou facétieux qui n'ont d'autre but que d'amuser. Extrait : Une pauvre veuve vivait dans une chaumière isolée ; dans le jardin qui était devant la porte, il y avait deux rosiers, dont l'un portait des roses blanches et l'autre des roses rouges. La veuve avait deux filles qui ressemblaient aux deux rosiers ; l'une se nommait Blancheneige et l'autre Rougerose. C'étaient les deux enfants les plus pieux, les plus obéissants et les plus laborieux que le monde eût jamais vus ; mais Blancheneige était d'un caractère plus tranquille et plus doux. Rougerose courait plus volontiers dans les prés et dans les champs, à la recherche des fleurs et des papillons. Blancheneige restait à la maison avec sa mère, l'aidait aux travaux du ménage, et lui faisait la lecture quand l'ouvrage était fini...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1531-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1531-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">grimm_jakob_et_wilhelm_-_contes_choisis</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Allemagne</dc:subject>
+        <meta content="{&quot;Jakob et Wilhelm Grimm&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:45.684916+00:00" name="calibre:timestamp"/>
+        <meta content="Contes choisis" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

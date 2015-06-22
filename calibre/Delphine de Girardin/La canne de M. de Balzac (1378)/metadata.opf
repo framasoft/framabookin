@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1378</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">30f90774-d11b-4ac1-a6cb-c5e7c46a3a1e</dc:identifier>
+        <dc:title>La canne de M. de Balzac</dc:title>
+        <dc:creator opf:file-as="Girardin, Delphine de" opf:role="aut">Delphine de Girardin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1836-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Extrait : Il est un malheur que personne ne plaint, un danger que personne ne craint, un fléau que personne n'évite ; ce fléau, à dire vrai, n'est contagieux que d'une manière, par l'hérédité -- et encore n'est-il que d'une succession bien incertaine, -- n'importe, c'est un fléau, une fatalité qui vous poursuit toujours, à toute heure de votre vie, un obstacle à toute chose -- non pas un obstacle que vous rencontrez -- c'est bien plus. C'est un obstacle que vous portez avec vous, un bonheur ridicule, que les niais vous envient ; une faveur des dieux qui fait de vous un paria chez les hommes, ou -- pour parler plus simplement -- un don de la nature qui fait de vous un sot dans la société. Enfin ce malheur, ce danger, ce fléau, cet obstacle, ce ridicule, c'est... -- Gageons que vous ne devinez pas -- et cependant quand vous le saurez, vous direz : « C'est vrai. Quand on vous aura démontré les inconvénients de cet avantage, vous direz : « Je ne l'envie plus. » Ce malheur donc, c'est le malheur d'être beau.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1485-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1485-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">girardin_delphine_de_-_la_canne_de_m_de_balzac</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Delphine de Girardin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:29.141571+00:00" name="calibre:timestamp"/>
+        <meta content="canne de M. de Balzac, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

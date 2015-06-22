@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1529</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fcefb2ce-f2ea-46c7-9111-e8b036b82d2c</dc:identifier>
+        <dc:title>La fille Élisa</dc:title>
+        <dc:creator opf:file-as="Goncourt, Edmond et Jules de" opf:role="aut">Edmond et Jules de Goncourt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1877-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Edmond (1822-1896) et Jules (1830-1870) de Goncourt ont publié, en commun, parmi d'autres écrits, des romans, dont \emph{Germinie Lacerteux} (1864) et \emph{Madame Gervaisais} (1869). Après la mort de Jules, Edmond publiera quatre autres romans, dont \emph{La Fille Élisa} en 1877. Mais ils sont surtout connus aujourd'hui pour un Journal (c'est Edmond qui en a écrit les trois quarts), véritable document sur la vie littéraire et culturelle de l'époque. Le Journal, dans son intégralité, n'a paru qu'en 1858. Extrait: Enfin l'ordre est donné d'introduire l'accusée. Des gens, pour mieux voir la souffrance et la décomposition de son visage, à la lecture de l'arrêt, sont montés sur les banquettes. La fille Élisa, d'un bond, apparaît sur la petite porte avec un regard interrogateur fouillant les yeux du public, lui demandant de suite son destin. Les yeux se baissent, se détournent, se refusant à lui rien dire. Beaucoup de ceux qui sont montés sur les banquettes redescendent. L'accusée s'assied, s'agitant dans un dandinement perpétuel sur le grand banc, le visage dissimulé, les mains croisées derrière le dos, comme si déjà elle les avait liées et que la femme fût bouclée.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1491-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1491-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">goncourt_edmond_et_jules_de_-_la_fille_elisa</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Edmond et Jules de Goncourt&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:00.085629+00:00" name="calibre:timestamp"/>
+        <meta content="fille Élisa, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

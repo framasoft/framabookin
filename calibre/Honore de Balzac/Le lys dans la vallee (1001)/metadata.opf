@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1001</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6c0954dc-ede6-4a0f-b075-3cab5e736b44</dc:identifier>
+        <dc:title>Le lys dans la vallée</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études de moeurs. Deuxième livre, Scènes de la vie de province - Tome III. Septième volume de l'édition Furne 1842. Extrait : A mon arrivée, mes deux sœurs, qui ne me connaissaient point, marquèrent plus d’étonnement que de tendresse ; cependant plus tard, par comparaison, elles me parurent pleines d’amitié pour moi. Je fus logé dans une chambre, au troisième étage. Vous aurez compris l’étendue de mes misères je vous aurai dit que ma mère me laissa, moi, jeune homme de vingt ans, sans autre linge que celui de mon misérable trousseau de pension, sans autre garde-robe que mes vêtements de Paris. Si je volais d’un bout du salon à l’autre pour lui ramasser son mouchoir, elle ne me disait que le froid merci qu’une femme accorde à son valet. Obligé de l’observer pour reconnaître s’il y avait en son cœur des endroits friables où je pusse attacher quelques rameaux d’affection, je vis en elle une grande femme sèche et mince, joueuse, égoïste, impertinente comme toutes les Listomère chez qui l’impertinence se compte dans la dot. Elle ne voyait dans la vie que des devoirs à remplir ; toutes les femmes froides que j’ai rencontrées se faisaient comme elle une religion du devoir ; elle recevait nos adorations comme un prêtre reçoit l’encens à la messe ; mon frère aîné semblait avoir absorbé le peu de maternité qu’elle avait au cœur.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1009-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1009-9</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1018-1</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_le_lys_dans_la_vallee</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:11.989274+00:00" name="calibre:timestamp"/>
+        <meta content="lys dans la vallée, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

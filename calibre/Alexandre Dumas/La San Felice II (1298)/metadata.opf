@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1298</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ce4173de-a1cf-4870-b8fd-451bf4ab63c1</dc:identifier>
+        <dc:title>La San Felice II</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Revenant d'Aboukir où la flotte britannique a vaincu Bonaparte, l'Amiral Nelson est reçu en triomphateur à la cour de Naples. Garat, ambassadeur de la République, fait irruption dans cette manifestation d'hostilité anti-française et promet la guerre au Royaume de Naples. Trop vite cependant : le soir même, Salvato Palmieri, agent envoyé de Rome par le général Championnet pour informer Garat de la situation des Français et l'inviter à gagner du temps, est attaqué par les sbires de la reine Marie-Caroline de Naples. Laissé pour mort, il est recueilli par Luisa San Felice, jeune Napolitaine épouse du chevalier San Felice, vieil homme de lumières et bibliothécaire à la cour. Extrait : Un grand cri sortit de toutes les bouches. Le spectacle, qui, pour beaucoup de ceux qu'il avait rassemblés, promettait de n'être que grotesque, avait pris ce caractère grandiose que revêt toujours une action où la vie de l'homme est en jeu, quand cette action est bravement exécutée par le joueur. Aussi, à ce cri, auquel se mêlaient la terreur, la curiosité et l'admiration, succéda le silence de l'angoisse, chacun attendant la réapparition du plongeur, et tremblant que, comme celui de Schiller, il ne restât sous les eaux. Trois secondes, qui parurent trois siècles aux spectateurs, s'écoulèrent sans que le moindre bruit troublât ce silence. Puis on vit la vague, encore agitée par la chute de fra Pacifico, se fendre de nouveau pour laisser apparaître la tête rasée du moine, qui, à peine hors de l'eau, fit entendre d'une voix formidable ce cri de louange et de reconnaissance : - Vive saint François !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0031-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0031-1</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0032-8</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_la_san_felice_ii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:12.778424+00:00" name="calibre:timestamp"/>
+        <meta content="San Felice II, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

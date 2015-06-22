@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1578</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0d677a1e-5941-4841-90db-35495c815b09</dc:identifier>
+        <dc:title>Le roman d’un enfant</dc:title>
+        <dc:creator opf:file-as="Loti, Pierre" opf:role="aut">Pierre Loti</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Pierre Loti raconte ici son enfance. Enfance pleine de tendresse, d'amitié et de mystère. Enfance de petit garçon songeur, vivant dans un mondé d'irréalités sur lequel l'éducation n'a point dé prise, formant sans cesse mille rêvés grandioses et impossibles, mais au travers desquels, déjà, une double vocation s'éveille... Extrait : Ce que je craignais de voir arriver par là n’avait encore aucune forme précise ; plus tard seulement, mes visions d’enfant prirent figure. Mais la peur n’en était pas moins réelle et m’immobilisait là, les yeux très ouverts, auprès de ce feu qui n’éclairait plus, — quand tout à coup, du côté opposé, par une autre porte, ma mère entra... Oh ! alors je me jetai sur elle ; je me cachai la tête, je m’abîmai dans sa robe : c’était la protection suprême, l’asile où rien n’atteignait plus, le nid des nids où l’on oubliait tout...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1100-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1100-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">loti_pierre_-_le_roman_d_un_enfant</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture intermédiaire</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Pierre Loti&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:09.585670+00:00" name="calibre:timestamp"/>
+        <meta content="roman d’un enfant, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

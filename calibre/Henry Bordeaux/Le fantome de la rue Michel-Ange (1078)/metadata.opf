@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1078</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">92e339fa-07df-4316-afc4-5428f72ed7a1</dc:identifier>
+        <dc:title>Le fantôme de la rue Michel-Ange</dc:title>
+        <dc:creator opf:file-as="Bordeaux, Henry" opf:role="aut">Henry Bordeaux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>En juin 1914, M. et Mme Falaise organisent un dîner pour célébrer l'entrée aux Beaux Arts de leur fils unique et invitent leurs meilleurs amis. Au cours du dîner la conversation prend la tournure d'un débat sur les apparitions après la mort d'un proche, sur la communication avec l'au-delà. Personne ne se doute alors que cette conversation sera le prologue d'un drame de famille assez bizarre. Peu de temps après la guerre éclate, avec son cortège de morts... Extrait : e vous citerai le plus probant. Ils étaient entrés en relations avec le sous-lieutenant Malais, qui commandait en second la batterie de Georges Falaise. Le sous-lieutenant Malais avait été blessé et fait prisonnier le 21 février. En captivité, il a pu donner des détails sur la mort de son compagnon d'armes. C'est vers cinq heures du soir que les premières vagues allemandes ont débordé les premières lignes françaises et ont déferlé sur Brabant. Georges Falaise, avec les hommes de sa batterie, essayait d'emmener ses canons quand il a été tué d'une balle au front. Il a levé les bras et il est tombé sans un cri. Exactement comme la scène avait été décrite par son père et sa mère.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1269-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1269-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">bordeaux_henry_-_le_fantome_de_la_rue_michel-ange</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Henry Bordeaux&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:27.383876+00:00" name="calibre:timestamp"/>
+        <meta content="fantôme de la rue Michel-Ange, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

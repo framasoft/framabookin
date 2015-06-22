@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1396</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7a7f2367-45da-4aee-bdc7-0f29d9a3f98e</dc:identifier>
+        <dc:title>Histoire de Sibylle</dc:title>
+        <dc:creator opf:file-as="Feuillet, Octave" opf:role="aut">Octave Feuillet</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1876-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Octave Feuillet,est un romancier et dramaturge français, surnommé le « Musset des familles ». Il fut membre de l'Académie française. On le destinait à la diplomatie, lorsque son père, à qui il confia son intention de devenir plutôt écrivain, le renia. Au bout de trois ans, son père lui pardonna et lui fit une pension. Feuillet put jouir alors d’une existence confortable à Paris et publia ses premiers romans. Il obtint un grand succès avec Sibylle. Extrait : Charmante espiègle ! reprit sans se déconcerter madame de Beaumesnil ; quelle franchise de nature ! Quant aux Férias, nous verrons ce qu'ils feront de leur Sibylle avec toutes leurs simagrées d'éducation... Ce n'est déjà pas de si bon augure, ce nom de païenne qu'ils lui ont donné ! Encore l'orgueil qui leur a soufflé cela... Retenez bien ce que je vais vous dire, curé ; ils en feront une pimbêche à prétentions, comme sa pauvre mère !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1446-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1446-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">feuillet_octave_-_histoire_de_sibylle</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Octave Feuillet&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:32.786124+00:00" name="calibre:timestamp"/>
+        <meta content="Histoire de Sibylle" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

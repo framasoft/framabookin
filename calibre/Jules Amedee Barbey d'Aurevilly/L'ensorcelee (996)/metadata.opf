@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">996</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f3660767-d932-4883-9d08-4f7b73bc4288</dc:identifier>
+        <dc:title>L'ensorcelée</dc:title>
+        <dc:creator opf:file-as="Barbey d’Aurevilly, Jules" opf:role="aut">Jules Amédée Barbey d’Aurevilly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>C’est d’un changement dans la vie de son auteur, que naît L’Ensorcelée. Barbey d’Aurevilly, prétendu démocrate jusqu’alors, revient à la foi catholique. Il décide de fuir le présent pour le passé, et de s’éloigner de la réalité. Il s’en retourne aux sources normandes et à ses origines. De là, germe le projet de l’écriture de chroniques normandes. La guerre des chouans passionnant Barbey, ce dernier entreprend une peinture pittoresque de la Normandie et de son histoire. L’Ensorcelée est ainsi le premier volet de l’ensemble de chroniques dont le titre général serait Ouest, complété quelques années plus tard par Le Chevalier Des Touches. L’histoire relate un évènement fondateur du récit ; l’engagement de l’abbé de la Croix-Jugan auprès des Chouans. Lorsque ce dernier pense sa cause perdue, il tente de se suicider et renie son humilité de prêtre. Il survit malgré une horrible blessure au visage, signe de sa rébellion. Quelques années plus tard, « lorsqu’on rouvrit les églises » nous retrouvons cet ancien moine aux vêpres de Blanchelande. Extrait : Ah ! je sais bien, dit le berger, avec un regard profond et une bouche amère, que vous êtes haute comme le temps, maîtresse le Hardouey ! Mais vous n'êtes pas ici sous les poutres de votre cuisine. Vous êtes au vieux Presbytère, dans un mauvais carrefour où âme qui vive ne passera plus maintenant que demain matin. Qu'est-ce donc qui m'empêcherait, si je voulais ? ajouta-t-il lentement en grinçant un sourire féroce qui fit briller son oeil vitreux, et montrant son bâton de houx...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0843-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0843-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">barbey_d_aurevilly_jules_-_l_ensorcelee</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Jules Amédée Barbey d’Aurevilly&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:11.011793+00:00" name="calibre:timestamp"/>
+        <meta content="ensorcelée, L'" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

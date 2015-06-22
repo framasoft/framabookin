@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1113</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6d5ebf21-00c0-4652-a161-a50ccdcc7545</dc:identifier>
+        <dc:title>Les Ribaud : une idylle de 37</dc:title>
+        <dc:creator opf:file-as="Choquette, Ernest" opf:role="aut">Ernest Choquette</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Ernest Choquette (18 novembre 1862 - 14 avril 1941), écrivain, homme politique, journaliste et médecin canadien. Il est le frère de Philippe-Auguste Choquette, de Cyrille Choquette et de Charles-Philippe Choquette. Extrait :</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1304-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1304-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">choquette_ernest_-_les_ribaud_une_idylle_de_37</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Ernest Choquette&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:34.701746+00:00" name="calibre:timestamp"/>
+        <meta content="Ribaud : une idylle de 37, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

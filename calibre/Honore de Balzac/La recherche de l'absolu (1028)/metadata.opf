@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1028</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cb894e86-c4fa-47ef-98f2-f09c300f9863</dc:identifier>
+        <dc:title>La recherche de l’absolu</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études philosophiques - Tome I. Quatorzième volume de l'édition Furne 1842. Extrait : Le mariage eut lieu au commencement de l’année 1795. Les deux époux revinrent à Douai passer les premiers jours de leur union dans la maison patriarcale des Claës, dont les trésors furent grossis par mademoiselle de Temninck qui apporta quelques beaux tableaux de Murillo et de Velasquez, les diamants de sa mère et les magnifiques présents que lui envoya son frère, devenu duc de Casa-Réal. Peu de femmes furent plus heureuses que madame Claës. Son bonheur dura quinze années, sans le plus léger nuage ; et comme une vive lumière, il s’infusa jusque dans les menus détails de l’existence. La plupart des hommes ont des inégalités de caractère qui produisent de continuelles dissonances ; ils privent ainsi leur intérieur de cette harmonie, le beau idéal du ménage ; car la plupart des hommes sont entachés de petitesses, et les petitesses engendrent les tracasseries. L’un sera probe et actif, mais dur et rêche ; l’autre sera bon, mais entêté ; celui-ci aimera sa femme, mais aura de l’incertitude dans ses volontés ; celui-là, préoccupé par l’ambition, s’acquittera de ses sentiments comme d’une dette, s’il donne les vanités de la fortune, il emporte la joie de tous les jours ; enfin, les hommes du milieu social sont essentiellement incomplets, sans être notablement reprochables. Les gens d’esprit sont variables autant que des baromètres, le génie seul est essentiellement bon. Aussi le bonheur pur se trouve-t-il aux deux extrémités de l’échelle morale. La bonne bête ou l’homme de génie sont seuls capables, l’un par faiblesse, l’autre par force, de cette égalité d’humeur, de cette douceur constante dans laquelle se fondent les aspérités de la vie.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0993-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0993-2</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1029-7</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_la_recherche_de_l_absolu</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:17.377845+00:00" name="calibre:timestamp"/>
+        <meta content="recherche de l’absolu, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

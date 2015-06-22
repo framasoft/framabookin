@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1512</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6b657335-aafa-453f-81a3-b08387080b19</dc:identifier>
+        <dc:title>L’homme qui rit</dc:title>
+        <dc:creator opf:file-as="Hugo, Victor" opf:role="aut">Victor Hugo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Victor Hugo commence la rédaction de son ouvrage le 21 juillet 1866, à Bruxelles et le termine deux ans plus tard, le 23 août 1868 toujours à Bruxelles3. Mais c'est en exil à Guernesey qu'il en rédige la plus grande partie. L'œuvre se présente sous la forme de quatre volumes vendus chacun 7 francs 50 de l'époque mais un contrat passé avec l'éditeur Lacroix et un certain Panis en modifie la distribution. Au lieu de distribuer les 4 volumes simultanément — ce qui est le souhait de Victor Hugo, celui-ci échelonne la distribution sur trois jours. Le livre est un échec, le public n'est pas au rendez-vous. Victor Hugo lui-même reconnaît son échec qu'il impute d'une part aux spéculations de son éditeur mais aussi à la trop grande ambition de ses objectifs : « J'ai voulu abuser du roman. J'ai voulu en faire une épopée. J'ai voulu forcer le lecteur à penser à chaque ligne. De là une sorte de colère du public contre moi » L'Angleterre a connu, cent quarante ans avant la France, une révolution, un parlement régicide, une république et une restauration fertile en règlements de comptes. Victor Hugo a choisi ce dernier épisode pour brosser un tableau épique de l'aristocratie anglaise à travers la destinée extraordinaire de Gwynplaine, l'Homme qui Rit. A la fois roman d'aventures, exposé historique et social, drame injouable et poème visionnaire, ce roman est le plus fou de tous les romans de Hugo. C'est aussi le plus riche de toutes les obsessions de son auteur.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1081-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1081-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">hugo_victor_-_l_homme_qui_rit</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture avancée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Victor Hugo&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:56.716217+00:00" name="calibre:timestamp"/>
+        <meta content="L’homme qui rit" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

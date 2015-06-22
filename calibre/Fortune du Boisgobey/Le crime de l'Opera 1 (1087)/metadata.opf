@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1087</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">921d119c-2429-470c-9400-5dc7f44c7221</dc:identifier>
+        <dc:title>Le crime de l'Opéra 1</dc:title>
+        <dc:creator opf:file-as="Boisgobey, Fortuné du" opf:role="aut">Fortuné du Boisgobey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Julia d'Orcival, femme du monde comme l'on disait alors, est assassinée dans sa loge lors du bal de l'Opéra. Trois personnage se mettent à la recherche du coupable : un juge d'instruction, son neveu et un ancien capitaine de hussards. Extrait : Il vit alors que la femme cherchait à éviter l'homme qui marchait à côté d'elle, et il comprit qu'il assistait à une de ces petites scènes qui se jouent si souvent dans les rues de Paris ; un chercheur de bonnes fortunes abordant une passante qui refuse de l'écouter. Il savait que ces sortes d'aventures ne tirent pas à conséquence et que, neuf fois sur dix, la persécutée finit par s'entendre avec le persécuteur. Il ne se souciait donc pas de venir au secours d'une personne qui ne tenait peut-être pas à être secourue. Cependant, la femme faisait, tantôt à droite, tantôt à gauche, des pointes si brusques et si décidées qu'on ne pouvait guère la soupçonner de jouer la comédie de la résistance. Elle cherchait sérieusement à se délivrer d'une poursuite qu'elle n'avait pas encouragée, mais elle n'y réussissait guère. L'homme était tenace. Il serrait de près la pauvre créature, et chaque fois qu'il la rattrapait, après une échappée, il se penchait pour la regarder sous le nez et probablement pour lui dire de grosses galanteries.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0717-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0717-4</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0718-1</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">boisgobey_fortune_du_-_le_crime_de_l_opera_1</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Fortuné du Boisgobey&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:29.222461+00:00" name="calibre:timestamp"/>
+        <meta content="crime de l'Opéra 1, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

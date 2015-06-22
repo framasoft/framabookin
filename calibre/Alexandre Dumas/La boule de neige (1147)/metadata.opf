@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1147</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7541282c-bf8b-46f7-b135-9aed72a2e3d6</dc:identifier>
+        <dc:title>La boule de neige</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La ville de Derbend dans le Caucase souffre d'une immense sécheresse. La famine menace. Pour que cela cesse, la légende veut qu'un homme jeune, pur d'âme et de corps doit aller au sommet du mont Chakh-Dague et en rapporte une boule de neige dans un vase sans que celui-ci touche terre. Il suffira ensuite de jeter la neige fondue dans la mer pour faire venir la pluie. Extrait : Nuages du printemps, enfants de notre monde, pourquoi vous arrêtez-vous sur la cime des rochers ? Pourquoi vous cachez-vous dans les cavernes, pareils à des brigands lesghiens ? Vous aimez à errer dans la montagne et à dormir sur les sommets de neige ou de granit. Soit ; mais ne pourriez-vous pas vous récréer à autre chose qu'à pomper toute l'humidité de nos prairies, pour la verser dans des forêts impénétrables à l'homme, lesquelles ne laissent plus descendre dans nos vallées que des cataractes de cailloux qui semblent les os desséchés de vos victimes, capricieux enfants de l'air ? Voyez comme notre malheureuse terre ouvre des milliers de bouches. Elle brûle de soif ; elle implore un peu de pluie. Voyez comme tremblent les épis ; comme ils se brisent lorsqu'un papillon a l'imprudence de se poser sur eux ; comme ils relèvent la tête, espérant humer un peu d'humidité, et comme ils vont se heurter aux rayons de soleil qui les dévorent comme une flamme. Les puits sont secs ; les fleurs n'ont plus de parfum ; les feuilles des arbres se flétrissent et tombent ; l'herbe fume, la garance est perdue, les grillons s'enrouent, les cigales râlent, les buffles se battent pour un filet de boue, les jeunes garçons se disputent pour quelques gouttes d'eau. Mon Dieu ! mon Dieu ! qu'allons-nous devenir ? La sécheresse est la mère de la faim ; la faim est la mère de la peste ; la peste est la sœur du brigandage ! Ô vent frais des montagnes, apporte-nous sur tes ailes la bénédiction d'Allah ! Nuages, mamelles de la vie, versez sur la terre le lait du ciel. Changez-vous en orages, si vous voulez, mais rafraîchissez la terre. Foudroyez les pécheurs, si cela vous convient, mais désaltérez les innocents. Gris nuages, ailes des anges, apportez-nous la fraîcheur ; venez, accourez, volez ! dépêchez-vous, et vous serez les bienvenus.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1373-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1373-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_la_boule_de_neige</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:41.762028+00:00" name="calibre:timestamp"/>
+        <meta content="boule de neige, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

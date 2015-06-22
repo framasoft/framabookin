@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1617</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7acef3e5-6131-48ec-ba50-cd05ae889d02</dc:identifier>
+        <dc:title>La Barre-y-va</dc:title>
+        <dc:creator opf:file-as="Leblanc, Maurice" opf:role="aut">Maurice Leblanc</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1931-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Raoul d’Avenac, alias Arsène Lupin, rentre tard un soir du théâtre, dans une de ses garçonnières. À sa surprise, l'appartement est tout éclairé et une jolie jeune femme blonde est là, appuyée sur un guéridon et qui semble l’attendre. Raoul pense à une bonne fortune mais la « gracieuse vision » ne veut pas qu’il la touche. En réalité, elle est épouvantée et c’est pour chercher refuge qu’elle s’est introduite chez lui. Dans le même temps, une vieille connaissance, le brigadier Théodore Béchoux, appelle Lupin par téléphone de la région normande où il est en convalescence, pour lui demander de l’aide dans une affaire compliquée près du Havre, à Radicatel, une localité qui n’est visiblement pas inconnue de la belle visiteuse. Extrait : - Alors fais-moi visiter le parc. Et surtout pas un mot durant cette visite. Tu as un grand tort, vois-tu, Béchoux, tu es trop bavard. Prends exemple sur ton vieil ami Lupin, toujours si discret, réservé dans ses propos, et qui ne jacasse pas à tort et à travers, comme une pie. On ne réfléchit bien que quand on se tait et qu'on se trouve en face de ses pensées, sans être importuné par des considérations oiseuses d'un hurluberlu qui enfile les mots les uns aux autres comme des grains de chapelet. » Béchoux songea bien que ce discours s'adressait à lui et qu'il était l'hurluberlu qui jacassait comme une pie. Cependant, comme ils s'en allaient bras dessus, bras dessous, en vieux camarades qu'unissent une solide amitié et une naturelle estime, il demanda la permission de poser une question dernière, une seule question.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1598-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1598-8</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1604-6</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leblanc_maurice_-_la_barre-y-va</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <meta content="{&quot;Maurice Leblanc&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:17.855700+00:00" name="calibre:timestamp"/>
+        <meta content="Barre-y-va, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

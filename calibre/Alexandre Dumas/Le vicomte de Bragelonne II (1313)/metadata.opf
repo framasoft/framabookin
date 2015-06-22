@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1313</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">25690f8e-5d0b-4bb2-ad7a-520ac973c623</dc:identifier>
+        <dc:title>Le vicomte de Bragelonne II</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La fin de la trilogie des Mousquetaires. D'Artagnan et Athos participent, chacun à sa façon, à la restauration de Charles II sur le trône d'Angleterre. L'année suivante commence en France le règne personnel de Louis XIV, qui engage d'Artagnan dans sa lutte contre le surintendant Fouquet. Ce dernier est manipulé par Aramis, devenu évêque de Vannes et général des Jésuites, qui a entraîné Porthos dans ses aventures. Aramis ne vise à rien de moins qu'à devenir le maître de la France et de l'Eglise... Extrait : Raoul ne trouva pas le lendemain M. d'Artagnan, comme il l'avait espéré. Il ne rencontra que Planchet, dont la joie fut vive en revoyant ce jeune homme, et qui sut lui faire deux ou trois compliments guerriers qui ne sentaient pas du tout l'épicerie. Mais comme Raoul revenait de Vincennes, le lendemain, ramenant cinquante dragons que lui avait confiés M. le prince, il aperçut, sur la place Baudoyer, un homme qui, le nez en l'air, regardait une maison comme on regarde un cheval qu'on a envie d'acheter. Cet homme, vêtu d'un costume bourgeois boutonné comme un pourpoint de militaire, coiffé d'un tout petit chapeau, et portant au côté une longue épée garnie de chagrin, tourna la tête aussitôt qu'il entendit le pas des chevaux, et cessa de regarder la maison pour voir les dragons. C'était tout simplement M. d'Artagnan ; M. d'Artagnan à pied ; d'Artagnan les mains derrière le dos, qui passait une petite revue des dragons après avoir passé une revue des édifices. Pas un homme, pas une aiguillette, pas un sabot de cheval n'échappa à son inspection.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0061-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0061-8</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0062-5</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_le_vicomte_de_bragelonne_ii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:15.785590+00:00" name="calibre:timestamp"/>
+        <meta content="vicomte de Bragelonne II, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

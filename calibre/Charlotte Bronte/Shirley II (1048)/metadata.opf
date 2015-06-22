@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1048</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1abbe170-7a21-440a-b28a-75abedddd4a5</dc:identifier>
+        <dc:title>Shirley II</dc:title>
+        <dc:creator opf:file-as="Brontë, Charlotte" opf:role="aut">Charlotte Brontë</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Tome 2 de Shirley. C’est un tableau de mœurs, surtout du monde de la manufacture en crise sociale, mais où les vicaires (curates) anglicans jouent aussi un rôle et sont peints avec ironie et humour. Extrait : Très bien, ma mère ! Et, si mon maître m'a confié dix talents, mon devoir est de les faire fructifier afin qu'ils en produisent dix autres, et non d'enterrer l'argent dans la poussière de mes tiroirs. Je ne le déposerai pas dans une théière ébréchée, pour le renfermer au milieu des tasses et des pots dans l'armoire à porcelaine. Je ne le confierai pas à votre table à ouvrage pour être étouffé sous une pile de bas de laine. Je ne l'emprisonnerai pas dans l'armoire à linge, parmi les draps ; et encore bien moins, ma mère (elle se leva à ces mots de dessus le plancher), encore bien moins le cacherai-je dans une terrine de pommes de terre froides pour être rangé avec le pain, le beurre, la pâtisserie et le jambon, sur les rayons du garde-manger. »</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1283-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1283-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">bronte_charlotte_-_shirley_ii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Angleterre</dc:subject>
+        <meta content="{&quot;Charlotte Brontë&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:21.377465+00:00" name="calibre:timestamp"/>
+        <meta content="Shirley II" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

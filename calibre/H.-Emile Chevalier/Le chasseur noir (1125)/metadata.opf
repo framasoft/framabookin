@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1125</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b1862189-4d6c-415a-b84b-3dd67054e42c</dc:identifier>
+        <dc:title>Le chasseur noir</dc:title>
+        <dc:creator opf:file-as="Chevalier, H.-Émile" opf:role="aut">H.-Émile Chevalier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Henri-Émile Chevalier, né le 13 septembre 1828 à Châtillon-sur-Seine, mort le 26 août 1879 à Paris, est un homme de lettres français. Extrait : Elle continua ses instances, voulut lui prendre la main, mais il la repoussa. Apparemment fatigué de cette scène, celui-ci adressa un coup d'œil significatif aux quatre individus qui se tenaient discrètement en arrière. Ils accoururent, et leurs mains rugueuses s'abattirent sur les épaules délicates de la pauvre femme. Aux yeux du trappeur, cet attouchement était un sacrilège ; peu s'en fallut qu'il n'envoyât une balle aux auteurs de l'outrage.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1298-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1298-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">chevalier_h_-emile_-_le_chasseur_noir</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;H.-Émile Chevalier&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:37.395672+00:00" name="calibre:timestamp"/>
+        <meta content="chasseur noir, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

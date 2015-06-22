@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1833</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">adce8c58-41e0-4821-aa85-fe380d78cc01</dc:identifier>
+        <dc:title>Coeur-de-Panthère</dc:title>
+        <dc:creator opf:file-as="Aimard, Gustave" opf:role="aut">Gustave Aimard</dc:creator>
+        <dc:creator opf:file-as="Aimard, Gustave" opf:role="aut">J.-B. d'Auriac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : L'audacieux espion s'avança donc hardiment, rampant à la manière Indienne, invisible, silencieux, rapide comme un démon de la nuit. Partout la nuit noire ! Au travers d'un volet mal joint, au rez-de-chaussée, s'échappait un mince filet de lumière : deux ou trois clartés tremblotantes se montraient vaguement aux fenêtres de l'étage supérieur. Pas une voix, pas un son ne troublait le morne silence, si ce n'étaient les pleurs lamentables de la pluie ruisselante et le râlement obstiné du vent. Tous dormaient d'un sommeil de plomb, excepté ceux dont le devoir était de veiller ou ceux qui entretenaient les lumières brillant à leurs fenêtres... Et si des yeux étaient éveillés, si un cœur était inquiet, pourquoi ne serait-ce pas ceux de Manonie, de Cœur-de-Panthère ! À ce nom, les muscles de l'Indien se crispèrent dans ses mains brûlantes ; l'heure de la vengeance arrivait enfin !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1204-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1204-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">aimard_gustave_-_coeur-de-panthere</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture aisée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gustave Aimard&quot;: &quot;&quot;, &quot;J.-B. d'Auriac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:19:01.343686+00:00" name="calibre:timestamp"/>
+        <meta content="Coeur-de-Panthère" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

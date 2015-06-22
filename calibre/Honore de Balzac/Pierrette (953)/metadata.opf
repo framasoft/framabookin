@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">953</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3c7981c4-4f16-4e31-b840-03e10d3f9c7c</dc:identifier>
+        <dc:title>Pierrette</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études de moeurs. Deuxième livre, Scènes de la vie de province - Tome I. Cinquième volume de l'édition Furne 1842. Extrait : Cette personne était une femme. Aucun homme ne s’arrache aux douceurs du sommeil matinal pour écouter un troubadour en veste, une fille seule se réveille à un chant d’amour. Aussi était-ce une fille, et une vieille fille. Quand elle eut déployé ses persiennes par un geste de chauve-souris, elle regarda dans toutes les directions et n’entendit que vaguement les pas de Brigaut qui s’enfuyait. Y a-t-il rien de plus horrible à voir que la matinale apparition d’une vieille fille laide à sa fenêtre ? De tous les spectacles grotesques qui font la joie des voyageurs quand ils traversent les petites villes, n’est-ce pas le plus déplaisant ? il est trop triste, trop repoussant pour qu’on en rie. Cette vieille fille, à l’oreille si alerte, se présentait dépouillée des artifices en tout genre qu’elle employait pour s’embellir : elle n’avait ni son tour de faux cheveux ni sa collerette. Elle portait cet affreux petit sac en taffetas noir avec lequel les vieilles femmes s’enveloppent l’occiput, et qui dépassait son bonnet de nuit relevé par les mouvements du sommeil. Ce désordre donnait à cette tête l’air menaçant que les peintres prêtent aux sorcières.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1035-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1035-8</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1007-5</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_pierrette</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:02.401915+00:00" name="calibre:timestamp"/>
+        <meta content="Pierrette" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

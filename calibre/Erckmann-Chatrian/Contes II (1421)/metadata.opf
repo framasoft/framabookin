@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1421</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fa562739-55cd-40ec-bc0f-7aa82c21b035</dc:identifier>
+        <dc:title>Contes II</dc:title>
+        <dc:creator opf:file-as="Erckmann-Chatrian" opf:role="aut">Erckmann-Chatrian</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Originaires de la Lorraine, Émile Erckmann (1822-1899) et Alexandre Chatrian (1826-1890) ont écrit ensemble et publié leurs œuvres sous le nom de Erckmann-Chatrian. Entre deux vins -- Le violon du pendu -- La pêche miraculeuse -- L'esquisse mystérieuse -- La voleuse d'enfants -- Les trois âmes -- L'araignée-crabe -- L'héritage de l'oncle Christian -- Gretchen -- La montre du doyen -- Le rêve de mon cousin Elof -- Hans Storkus -- Les fiancés de Grinderwald</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1441-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1441-7</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1440-0</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">erckmann-chatrian_-_contes_ii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>conte</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Erckmann-Chatrian&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:37.813199+00:00" name="calibre:timestamp"/>
+        <meta content="Contes II" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

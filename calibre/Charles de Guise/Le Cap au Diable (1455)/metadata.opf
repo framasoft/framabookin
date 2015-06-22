@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1455</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">024de0de-ac1e-4676-9b9f-024c71740fff</dc:identifier>
+        <dc:title>Le Cap au Diable</dc:title>
+        <dc:creator opf:file-as="Guise, Charles de" opf:role="aut">Charles de Guise</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>M. Saint-Aubin comme les habitants du lieu, se rendit à l'appel. Ce fut là qu'on leur signifia qu'ils étaient prisonniers de guerre, qu'à part de leur argent et de leurs vêlements, tout ce qu'ils possédaient appartenait désormais au roi, et qu'ils se tinssent prêts à être embarqués pour être déportés et disséminés dans les colonies anglaises. L'ordre était formel, on ne leur accordait que quatre jours de répit. Il est impossible de peindre la stupeur et le désespoir que produisit cette nouvelle ; plusieurs refusèrent de croire qu'on exécutât jamais un acte d'aussi lâche et exécrable tyrannie, mais le plus grand nombre s'enfermèrent dans leurs maisons et passèrent dans les larmes et les sanglots, les quelques heures qui précédèrent leur séparation. D'autres essayèrent de fuir, mais vainement. Des troupes avaient été disposées dans les bois, ils se trouvèrent cernés de toute part et furent donc ramenés au camp, après avoir essuyé toutes sortes d'avanies et de mauvais traitements.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1337-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1337-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">guise_charles_de_-_le_cap_au_diable</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Charles de Guise&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:45.265169+00:00" name="calibre:timestamp"/>
+        <meta content="Cap au Diable, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

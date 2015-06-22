@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1658</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0f9765cd-3177-4a64-9c33-83921c588326</dc:identifier>
+        <dc:title>Les Nuits chaudes du Cap français</dc:title>
+        <dc:creator opf:file-as="Rebell, Hugues" opf:role="aut">Hugues Rebell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1918-12-14T23:00:00+00:00</dc:date>
+        <dc:description>Hugues Rebell est un écrivain méconnu, souvent considéré rapidement comme un auteur érotique, voire pornographique, dont on ne retient généralement qu'un seul titre, Les nuits chaudes du Cap Français (1902), qui lui a valu le prix Nocturne en 1966. Extrait : Parmi ses domestiques il ramenait une jeune fille noire, trop belle pour n'être qu'une servante. Elle semblait réunir en sa personne comme la séduction de deux races. Elle avait les traits fins, les cheveux souples et soyeux, les formes élancées, je ne sais quelle grâce légère, tout européenne ; et aussi de ces grands yeux vagues qui s'endorment ou s'illuminent sans qu'on devine pourquoi ; une vie tour à tour somnolente et furieuse, mais ne se trahissant que par l'ardeur des gestes, le mouvement d'un sein qui s'offre, d'une croupe qui ondule, des bonds d'animal lubrique.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1135-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1135-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">rebell_hugues_-_les_nuits_chaudes_du_cap_francais</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Hugues Rebell&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:26.046993+00:00" name="calibre:timestamp"/>
+        <meta content="Nuits chaudes du Cap français, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

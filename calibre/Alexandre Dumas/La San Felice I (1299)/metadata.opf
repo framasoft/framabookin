@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1299</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e81597c6-2a0a-4fa9-a4af-4866acaa33df</dc:identifier>
+        <dc:title>La San Felice I</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Revenant d'Aboukir où la flotte britannique a vaincu Bonaparte, l'Amiral Nelson est reçu en triomphateur à la cour de Naples. Garat, ambassadeur de la République, fait irruption dans cette manifestation d'hostilité anti-française et promet la guerre au Royaume de Naples. Trop vite cependant : le soir même, Salvato Palmieri, agent envoyé de Rome par le général Championnet pour informer Garat de la situation des Français et l'inviter à gagner du temps, est attaqué par les sbires de la reine Marie-Caroline de Naples. Laissé pour mort, il est recueilli par Luisa San Felice, jeune Napolitaine épouse du chevalier San Felice, vieil homme de lumières et bibliothécaire à la cour. Extrait : - Voyons le mont de Vénus, dit la sorcière en allongeant son ongle, que l'on eût dit une griffe de corne enchâssée dans l'ébène, sur la partie charnue et renflée qui faisait la base du pouce ; toute cette portion de la main dans laquelle sont compris la génération et les désirs matériels, est consacrée à l'irrésistible déesse ; la ligne de vie l'entoure comme un ruisseau qui coule au bas d'une colline et l'isole comme une île. - Vénus, qui a présidé à votre naissance, Vénus, qui, pareille à ces fées, marraines prodigieuses des jeunes princesses, Vénus, qui vous a donné la grâce, la beauté, la mélodie, l'amour des belles formes, le désir d'aimer, le besoin de plaire, la bienveillance, la charité, la tendresse, Vénus se montre ici plus puissante que jamais. -- Ah ! si nous pouvions trouver les autres lignes aussi favorables que celles-ci, quoique...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0030-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0030-4</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0031-1</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_la_san_felice_i</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:12.982316+00:00" name="calibre:timestamp"/>
+        <meta content="San Felice I, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

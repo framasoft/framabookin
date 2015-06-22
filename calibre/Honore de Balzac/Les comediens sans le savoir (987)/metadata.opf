@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">987</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b620493d-ea3b-4ea3-a87e-7e5540b4624c</dc:identifier>
+        <dc:title>Les comédiens sans le savoir</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études de moeurs. Troisième et quatrième livres, Scènes de la vie parisienne et scènes de la vie politique - Tome XII (sic, erreur pour le tome IV). Douzième volume de l'édition Furne 1842. Extrait : ― Ce rat, qui sort d’une répétition à l’Opéra, retourne faire un maigre dîner, et reviendra dans trois heures pour s’habiller, s’il paraît ce soir dans le ballet, car nous sommes aujourd’hui lundi. Ce rat a treize ans, c’est un rat déjà vieux. Dans deux ans d’ici, cette créature vaudra soixante mille francs sur la place, elle sera rien ou tout, une grande danseuse ou une marcheuse, un nom célèbre ou une vulgaire courtisane. Elle travaille depuis l’âge de huit ans. Telle que tu la vois, elle est épuisée de fatigue, elle s’est rompu le corps ce matin à la classe de danse, elle sort d’une répétition où les évolutions sont difficiles comme les combinaisons d’un casse-tête chinois, elle reviendra ce soir. Le rat est un des éléments de l’Opéra, car il est à la première danseuse ce que le petit clerc est au notaire. Le rat, c’est l’espérance.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1017-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1017-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_les_comediens_sans_le_savoir</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:09.206369+00:00" name="calibre:timestamp"/>
+        <meta content="comédiens sans le savoir, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

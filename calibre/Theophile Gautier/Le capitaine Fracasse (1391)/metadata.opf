@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1391</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7c07ae06-596a-47e2-aa5f-ef57db2e8d46</dc:identifier>
+        <dc:title>Le capitaine Fracasse</dc:title>
+        <dc:creator opf:file-as="Gautier, Théophile" opf:role="aut">Théophile Gautier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1863-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Ce roman de cape et d'épée flamboyant est un pastiche du Roman comique de Scarron autant qu'une œuvre originale de Théophile Gautier. le baron de Sigognac, jeune noble désargenté, vit reclus dans son manoir landais en ruine. Un soir d'hiver, il offre l'hospitalité à une troupe de comédiens égarés, et, tombe amoureux d'Isabelle, une jeune comédienne ; l'attirance est réciproque. Le lendemain, Sigognac décide de les suivre dans leurs aventures. Le baron remplace l'un des compagnons mort de froid et prend le nom de scène de « Capitaine Fracasse » .Extrait : Trois coups frappés assez violemment à la porte du castel retentirent à intervalles mesurés et firent gémir les échos des chambres vides. Qui pouvait à cette heure venir troubler la solitude du manoir et le silence de la nuit ? Quel voyageur malavisé heurtait à cette porte qui ne s'était pas ouverte depuis si longtemps pour un hôte, non par manque de courtoisie de la part du maître, mais par l'absence de visiteurs ? Qui demandait à être reçu dans cette auberge de la famine, dans cette cour plénière du Carême, dans cet hôtel de misère et de lésine ?</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1492-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1492-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">gautier_theophile_-_le_capitaine_fracasse</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Théophile Gautier&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:31.780872+00:00" name="calibre:timestamp"/>
+        <meta content="capitaine Fracasse, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1780</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f833ed5b-e701-486b-9269-dcd72b382563</dc:identifier>
+        <dc:title>La bourse</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>1832. La Comédie humaine - Études de moeurs. Premier livre, Scènes de la vie privée - Tome I. Premier volume de l'édition Furne 1842 Hippolyte Schinner, jeune artiste peintre, fait une chute dans son atelier. Il se réveille entouré de ses deux voisines, madame de Rouville et sa fille, Adélaïde. Devenu habitué de leur maison, Hippolyte découvre leur vie de misère et rencontre d'étonnants personnages qui, tous les soirs, viennent perdre de l'argent au jeu. Un soir, Hippolyte oublie sa bourse. Adélaïde dit ne pas l'avoir trouvé, il doute de la moralité de ses deux voisines... Cette nouvelle de Balzac est une peinture de personnages vivant en huis-clos, pour lesquels le temps semble s'être arrêté, mais également la peinture délicate d'un amour naissant, avec ses moments de joie, et de doute. Extrait : En disant cette phrase, empreinte de l’adorable stupidité que donnent à l’âme les premiers troubles de l’amour vrai, Hippolyte regardait la jeune fille. Adélaïde allumait la lampe à double courant d’air, afin de faire disparaître une chandelle contenue dans un grand martinet de cuivre et ornée de quelques cannelures saillantes par un coulage extraordinaire. Elle salua légèrement, alla mettre le martinet dans l’antichambre, revint placer la lampe sur la cheminée et s’assit près de sa mère, un peu en arrière du peintre, afin de pouvoir le regarder à son aise en paraissant très-occupée du début de la lampe dont la lumière, saisie par l’humidité d’un verre terni, pétillait en se débattant avec une mèche noire et mal coupée. En voyant la grande glace qui ornait la cheminée, Hippolyte y jeta promptement les yeux pour admirer Adélaïde. La petite ruse de la jeune fille ne servit donc qu’à les embarrasser tous deux. En causant avec madame Leseigneur, car Hippolyte lui donna ce nom à tout hasard, il examina le salon, mais décemment et à la dérobée. Le foyer était si plein de cendres que l’on voyait à peine les figures égyptiennes des chenets en fer. Deux tisons essayaient de se rejoindre devant une bûche de terre, enterrée aussi soigneusement que peut l’être le trésor d’un avare. Un vieux tapis d’Aubusson, bien raccommodé, bien passé, usé comme l’habit d’un invalide, ne couvrait pas tout le carreau dont la froideur était à peine amortie.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0983-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0983-3</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1000-6</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_la_bourse</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:50.919337+00:00" name="calibre:timestamp"/>
+        <meta content="bourse, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

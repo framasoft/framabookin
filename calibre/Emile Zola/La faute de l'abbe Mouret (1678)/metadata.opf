@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1678</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c86d65b2-bf3b-4e31-9b74-29114671278a</dc:identifier>
+        <dc:title>La faute de l’abbé Mouret</dc:title>
+        <dc:creator opf:file-as="Zola, Émile" opf:role="aut">Émile Zola</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1875-12-14T23:00:00+00:00</dc:date>
+        <dc:description>La Faute de l’abbé Mouret est le cinquième volume de la série les Rougon-Macquart. Faisant suite à la Conquête de Plassans, c’est le second ouvrage de la série qui traîte du catholicisme ; le thème en est la vie d'un prêtre déchiré entre sa vocation religieuse et l'amour d'une femme. Extrait : Un soir qu'il était au plus mal, Albine lui donna sa main, pour qu'il y posât la joue. Et, la main ne le soulageant pas, elle pleura de se voir impuissante. Depuis qu'il était retombé dans l'assoupissement de l'hiver, elle ne se sentait plus assez forte pour le tirer à elle seule du cauchemar où il se débattait. Elle avait besoin de la complicité du printemps. Elle-même dépérissait, les bras glacés, l'haleine courte, ne sachant plus lui souffler la vie. Pendant des heures, elle rôdait dans la grande chambre attristée. Quand elle passait devant la glace, elle se voyait noire, elle se croyait laide.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0242-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0242-1</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0255-1</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">zola_emile_-_la_faute_de_l_abbe_mouret</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Émile Zola&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:30.070764+00:00" name="calibre:timestamp"/>
+        <meta content="faute de l’abbé Mouret, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

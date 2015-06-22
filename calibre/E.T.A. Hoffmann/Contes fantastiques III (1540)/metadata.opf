@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1540</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">777b5b5e-38be-4acc-bfe3-9bbf49bfaa63</dc:identifier>
+        <dc:title>Contes fantastiques III</dc:title>
+        <dc:creator opf:file-as="Hoffmann, E.T.A." opf:role="aut">E.T.A. Hoffmann</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1829-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Il est l'auteur de nombreux contes (Märchen en allemand) comme : L'Homme au sable, Les Mines de Falun ou Casse-noisette et le Roi des souris et de plusieurs romans, dont son œuvre principale Le Chat Murr. Il devient alors, dès les années 1820, l'une des illustres figures du romantisme allemand et il inspire de nombreux artistes, en Europe comme dans le reste du monde. Par exemple, Jacques Offenbach écrit l'opéra fantastique en cinq actes Les Contes d'Hoffmann en s'inspirant de l'univers du romantique allemand. Extrait : Ces derniers mots, il les prononça avec cette voix qui exprime les plus effroyables douleurs de l'âme ; je me sentis frappé de la manière la plus singulière ; chacune de ses paroles, l'expression de son visage, le regard qu'il avait lancé au professeur, me mettaient devant les yeux toute l'existence déchirée d'un artiste malheureux. -- L'homme pouvait avoir quarante ans au plus ; en dépit de son sale accoutrement de peintre, sa tournure avait quelque chose de fort noble ; et si le chagrin avait décoloré ses traits, il n'avait pas pu éteindre le feu qui brillait dans ses yeux noirs. Je demandai au professeur quel était ce peintre ? -- C'est, me dit-il, un artiste étranger qui se trouvait ici justement au temps où la réparation de l'église fut résolue. Il entreprit avec joie le travail que nous lui offrîmes, et, en vérité, son arrivée fut un coup de fortune pour nous ; car nous n'eussions jamais trouvé, ni dans la ville, ni dans les environs, un peintre assez habile pour exécuter ce travail. Au reste, c'est le meilleur homme du monde ; nous l'aimons tous, et il a été accueilli avec plaisir dans le collège. Outre les honoraires que nous lui donnons pour son travail, nous le défrayons de ses dépenses ; mais cette générosité nous coûte fort peu, car il est presque trop sobre, ce qu'il faut attribuer à son état maladif. -- Mais, dis-je, il me semble aujourd'hui si sombre, si irrité !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1552-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1552-0</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1554-4</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">hoffmann_e_t_a_-_contes_fantastiques_iii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>conte</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Allemagne</dc:subject>
+        <meta content="{&quot;E.T.A. Hoffmann&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:02.246517+00:00" name="calibre:timestamp"/>
+        <meta content="Contes fantastiques III" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

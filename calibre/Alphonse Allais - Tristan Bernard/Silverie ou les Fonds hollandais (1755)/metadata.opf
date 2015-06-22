@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1755</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f3600e6d-1c76-4355-bfa0-a9f77858ceb2</dc:identifier>
+        <dc:title>Silverie ou les Fonds hollandais</dc:title>
+        <dc:creator opf:file-as="Alphonse Allais - Tristan Bernard" opf:role="aut">Alphonse Allais - Tristan Bernard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1898-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Extrait : Je lui ai dit simplement que j'avais parié vingt-cinq louis qu'elle ne me tromperait pas dans les quinze jours avec ce Hollandais... J'ai surtout insisté sur les vingt-cinq louis. Si elle est tentée d'oublier ses devoirs, elle n'oubliera pas le chiffre en question.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1239-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1239-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">alphonse_allais_-_tristan_bernard_-_silverie</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alphonse Allais - Tristan Bernard&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:45.961773+00:00" name="calibre:timestamp"/>
+        <meta content="Silverie ou les Fonds hollandais" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1395</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0a6e4adb-4e9c-4fe6-86c8-d56f5d4e3f2d</dc:identifier>
+        <dc:title>Julia de Trecoeur</dc:title>
+        <dc:creator opf:file-as="Feuillet, Octave" opf:role="aut">Octave Feuillet</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1872-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Octave Feuillet,est un romancier et dramaturge français, surnommé le « Musset des familles ». Il fut membre de l'Académie française. On le destinait à la diplomatie, lorsque son père, à qui il confia son intention de devenir plutôt écrivain, le renia. Au bout de trois ans, son père lui pardonna et lui fit une pension. Feuillet put jouir alors d’une existence confortable à Paris et publia ses premiers romans. Il obtint un grand succès avec Sibylle. Extrait : La baronne se récriant de nouveau contre une si forte invraisemblance, Clodilde lui mit sous les yeux une série de faits et de détails qui ne laissait point de place aux illusions. La mère consternée dut se résigner à cette conviction douloureuse, qu'il se trouvait, en effet, dans le monde un homme d'assez mauvais goût pour n'être pas amoureux de sa fille, et que cet homme était malheureusement M. de Lucan. Elle regagna son hôtel en méditant sur ce mystère inouï, dont elle ne devait pas, du reste, attendre longtemps l'explication.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1447-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1447-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">feuillet_octave_-_julia_de_trecoeur</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Octave Feuillet&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:32.581289+00:00" name="calibre:timestamp"/>
+        <meta content="Julia de Trecoeur" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

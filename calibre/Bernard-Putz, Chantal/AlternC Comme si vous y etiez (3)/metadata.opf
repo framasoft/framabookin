@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a8300d19-6a71-43df-a477-be046992b9c1</dc:identifier>
+        <dc:title>AlternC Comme si vous y étiez</dc:title>
+        <dc:creator opf:file-as="Bernard-Putz, Chantal &amp; Sonntag, Benjamin" opf:role="aut">Bernard-Putz, Chantal</dc:creator>
+        <dc:creator opf:file-as="Bernard-Putz, Chantal &amp; Sonntag, Benjamin" opf:role="aut">Sonntag, Benjamin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-28T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;AlternC est un projet libre qui a su grandir à la force du clavier de bénévoles, soucieux de proposer à un public non informaticien une interface conviviale et de qualité pour gérer leurs hébergements web, leurs courriers électroniques, leurs listes de diffusion, etc. &lt;/p&gt;&lt;p&gt;AlternC, c'est également un projet politique, une informatique résolument tournée vers les logiciels libres, une volonté d'aider chacun à devenir son propre hébergeur, s'il le souhaite, dans le respect d'Internet et de ce qui fut son fondement toujours menacé : la liberté.&lt;/p&gt;&lt;p&gt;AlternC, de par sa qualité et sa convivialité, est utilisé par des structures associatives ou professionnelles (collectivités publiques, agences web, entreprises diverses) sur des serveurs dédiés, que par des particuliers sur des serveurs mutualisés.&lt;/p&gt;&lt;p&gt;L'ouvrage propose un guide pas à pas de son utilisation, de la gestion des comptes, de l'installation et de l'administration de la plateforme.&lt;/p&gt;&lt;p&gt;Laurent Chemla, Valentin Lacambre et Sébastien Canevet l'ont enrichi de contributions de nature politique, historique et juridique. Enfin, des hébergeurs contributeurs présentent leurs usages d'AlternC, accompagnés de témoignages d'utilisateurs.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Framasoft</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9782359220353</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>AlternC</dc:subject>
+        <dc:subject>Framabook</dc:subject>
+        <dc:subject>manuel</dc:subject>
+        <meta content="{&quot;Bernard-Putz, Chantal&quot;: &quot;&quot;, &quot;Sonntag, Benjamin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-05-26T10:16:54.626646+00:00" name="calibre:timestamp"/>
+        <meta content="AlternC Comme si vous y étiez" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

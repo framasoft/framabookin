@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1579</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6013e326-ed3f-4754-be6a-404a80ae27f4</dc:identifier>
+        <dc:title>Le mariage de Loti</dc:title>
+        <dc:creator opf:file-as="Loti, Pierre" opf:role="aut">Pierre Loti</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Ce roman a été écrit à la suite d’une escale à Tahiti en 1872 par un jeune navigateur du nom de Julien Viaud. Loti, c’est le nom d’une fleur tropicale que donne au jeune écrivain la reine Pomaré. Celui-ci en fait le nom du personnage principal de ce roman qui se passe à Tahiti, mais surtout le jeune homme l’adopte comme nom de plume dès 1876. Ce roman, publié en 1880, est son premier succès d’édition. « Je puis très bien me figurer qu'un peintre d'aujourd'hui fasse quelque chose comme ce que l'on trouve dépeint dans le livre de Pierre Loti, Le mariage de Loti, où la nature d'Otahiti est décrite. Un livre que je puis te recommander fortement. » (Vincent Van Gogh, extrait d’une lettre à sa sœur, 1888)</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1099-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1099-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">loti_pierre_-_le_mariage_de_loti</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Pierre Loti&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:09.783881+00:00" name="calibre:timestamp"/>
+        <meta content="mariage de Loti, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

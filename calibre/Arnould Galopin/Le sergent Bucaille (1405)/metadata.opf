@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1405</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">19de07f8-0b11-4647-b478-1b1871932cec</dc:identifier>
+        <dc:title>Le sergent Bucaille</dc:title>
+        <dc:creator opf:file-as="Galopin, Arnould" opf:role="aut">Arnould Galopin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1930-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Le conscrit Bucaille, jeune paysan, rejoint l'armée de Napoléon en 1812 et sous les ordres du sergent Rebattel fait route vers la Russie. Il fait le récit de la campagne, de l'arrivée à Moscou incendiée par les Russes, à la débâcle après la bataille de la Bérézina, et au retour à Paris. Extrait : Suivez-moi, dit le sergent. Force nous fut d'obéir. Il nous conduisit alors à la salle d'armes qui se trouvait située juste au-dessous de notre chambre. J'avoue que je n'en menais pas large. Martinvast et moi, nous nous regardions d'un air inquiet, nous demandant s'il ne serait pas possible d'amadouer le sergent en l'emmenant à la cantine. Mais Rebattel (c'était le nom du sous-officier) ne semblait guère d'humeur à écouter nos propositions.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0129-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0129-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">galopin_arnould_-_le_sergent_bucaille</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Arnould Galopin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:34.599878+00:00" name="calibre:timestamp"/>
+        <meta content="sergent Bucaille, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

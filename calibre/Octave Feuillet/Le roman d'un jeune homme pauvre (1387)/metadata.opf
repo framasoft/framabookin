@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1387</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a4699c4c-2b90-420b-a881-3d980c22e201</dc:identifier>
+        <dc:title>Le roman d'un jeune homme pauvre</dc:title>
+        <dc:creator opf:file-as="Feuillet, Octave" opf:role="aut">Octave Feuillet</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1858-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Octave Feuillet,est un romancier et dramaturge français, surnommé le « Musset des familles ». Il fut membre de l'Académie française. On le destinait à la diplomatie, lorsque son père, à qui il confia son intention de devenir plutôt écrivain, le renia. Au bout de trois ans, son père lui pardonna et lui fit une pension. Feuillet put jouir alors d’une existence confortable à Paris et publia ses premiers romans. Le Roman d’un jeune homme pauvre fut très populaire. Extrait : On a mis alors sur le tapis, dans un pêle-mêle charmant, tous les chevaux, tous les chiens et toutes les dames du canton. Il serait à désirer, par parenthèse, que les femmes pussent assister secrètement, une fois en leur vie, à une de ces conversations qui se tiennent entre hommes dans la première effusion qui suit un repas copieux : elles y trouveraient la mesure exacte de la délicatesse de nos mœurs et de la confiance qu'elle doit leur inspirer. Au surplus, je ne me pique nullement de pruderie ; mais l'entretien dont j'étais le témoin avait le tort grave, à mon avis, de dépasser les limites de la plaisanterie la plus libre : il touchait à tout en passant, outrageait tout gaiement et prenait un caractère très gratuit d'universelle profanation. Or mon éducation, trop incomplète sans doute, m'a laissé dans le cœur un fonds de respect qui me paraît devoir être réservé au milieu des plus vives expansions de la bonne humeur. Cependant nous avons aujourd'hui en France notre jeune Amérique, qui n'est point contente si elle ne blasphème un peu après boire ; nous avons d'aimables petits bandits, espoir de l'avenir, qui n'ont eu ni père ni mère, qui n'ont point de patrie, qui n'ont point de Dieu, mais qui paraissent être le produit brut de quelque machine sans entrailles et sans âme qui les a déposés fortuitement sur ce globe pour en être le médiocre ornement.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1449-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1449-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">feuillet_octave_-_le_roman_d_un_jeune_homme_pauvre</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Octave Feuillet&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:30.979563+00:00" name="calibre:timestamp"/>
+        <meta content="roman d'un jeune homme pauvre, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

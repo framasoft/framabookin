@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">947</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ac456564-3692-4e4b-a3d6-a947997b566f</dc:identifier>
+        <dc:title>Une double famille</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>830. La Comédie humaine - Études de moeurs. Premier livre, Scènes de la vie privée - Tome I. Premier volume de l'édition Furne 1842 Dans une rue sombre des alentours de l'Hôtel de Ville de Paris, vivent une mère et sa fille occupées à longueur de journée à des travaux de couture. Une de leur distraction est de regarder passer les hommes. Souvent, derrière un passant, la jeune fille rêve d'une idylle qui finit par arriver. Un jeune avocat épouse une jeune femme très religieuse. Mais avec les années, la religion se transforme en un rigorisme, une dévotion des plus étroites. Très vite, son mari en pleine réussite étouffe, et fuit cette vie étriquée. Deux histoires, deux vies parallèles dans ce roman où Balzac dénonce la bigoterie, et qui était initialement intitulé La Femme vertueuse. Extrait : L’inconnu devinait aussi que la jeune fille avait passé son dimanche à finir la robe au dessin de laquelle il s’était intéressé ; il voyait, aux approches des termes de loyer, cette jolie figure assombrie par l’inquiétude, et il devinait quand Caroline avait veillé ; mais il avait surtout remarqué comment les pensées tristes qui défloraient les traits gais et délicats de cette jeune tête s’étaient graduellement dissipées à mesure que leur connaissance avait vieilli. Lorsque l’hiver vint sécher les tiges, les fleurs et les feuillages du jardin parisien qui décorait la fenêtre, et que la fenêtre se ferma, l’inconnu ne vit pas, sans un sourire doucement malicieux, la clarté extraordinaire du carreau qui se trouvait à la hauteur de la tête de Caroline ; la parcimonie du feu, quelques traces d’une rougeur qui couperosait la figure des deux femmes lui dénoncèrent l’indigence du petit ménage ; mais si quelque douloureuse compassion se peignait alors dans ses yeux, Caroline lui opposait une gaieté fière.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1039-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1039-6</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0995-6</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_une_double_famille</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:01.232036+00:00" name="calibre:timestamp"/>
+        <meta content="double famille, Une" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

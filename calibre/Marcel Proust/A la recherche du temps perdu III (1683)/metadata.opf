@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1683</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">11939b87-182f-45ff-be07-5eaa7b60ff21</dc:identifier>
+        <dc:title>À la recherche du temps perdu III</dc:title>
+        <dc:creator opf:file-as="Proust, Marcel" opf:role="aut">Marcel Proust</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1919-06-02T22:00:00+00:00</dc:date>
+        <dc:description>À l'ombre des jeunes filles en fleurs est le second tome d'À la recherche du temps perdu de Marcel Proust publié en 1919 chez Gallimard. Il reçoit la même année le prix Goncourt. Cette édition reprend le texte de l'édition Gallimard, Paris, 1946-47, en 15 volumes. Extrait : Enfin éclata mon premier sentiment d'admiration : il fut provoqué par les applaudissements frénétiques des spectateurs. J'y mêlai les miens en tâchant de les prolonger, afin que, par reconnaissance, la Berma se surpassant, je fusse certain de l'avoir entendue dans un de ses meilleurs jours. Ce qui est du reste curieux, c'est que le moment où se déchaîna cet enthousiasme du public, fut, je l'ai su depuis, celui où la Berma a une de ses plus belles trouvailles. Il semble que certaines réalités transcendantes émettent autour d'elles des rayons auxquels la foule est sensible. C'est ainsi que, par exemple, quand un événement se produit, quand à la frontière une armée est en danger, ou battue, ou victorieuse, les nouvelles assez obscures qu'on reçoit et d'où l'homme cultivé ne sait pas tirer grand'chose excitent dans la foule une émotion qui le surprend et dans laquelle, une fois que les experts l'ont mis au courant de la véritable situation militaire, il reconnaît la perception par le peuple de cette « aura » qui entoure les grands événements et qui peut être visible à des centaines de kilomètres. On apprend la victoire, ou après-coup quand la guerre est finie, ou tout de suite par la joie du concierge.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0880-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0880-5</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1570-4</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">proust_marcel_-_a_la_recherche_du_temps_perdu_iii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Marcel Proust&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:31.090800+00:00" name="calibre:timestamp"/>
+        <meta content="À la recherche du temps perdu III" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

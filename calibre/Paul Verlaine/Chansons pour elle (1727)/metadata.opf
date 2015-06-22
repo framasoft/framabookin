@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1727</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">81e2d475-6b74-40e5-90f1-69bcb9669f2b</dc:identifier>
+        <dc:title>Chansons pour elle</dc:title>
+        <dc:creator opf:file-as="Verlaine, Paul" opf:role="aut">Paul Verlaine</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Que ton âme soit blanche ou noire, - Que fait ? Ta peau de jeune ivoire - Est rose et blanche et jaune un peu. - Elle sent bon, ta chair, perverse - Ou non, que fait ? puisqu'elle berce - La mienne de chair, nom de Dieu ! - Elle la berce, ma chair folle, - Ta folle de chair, ma parole - La plus sacrée ! --- et que donc bien ! - Et la mienne, grâce à la tienne, - Quelque réserve qui la tienne, - Elle s'en donne, nom d'un chien ! - Quant à nos âmes, dis, Madame, - Tu sais, mon âme et puis ton âme, - Nous en moquons-nous ? Que non pas !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1160-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1160-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">verlaine_paul_-_chansons_pour_elle</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>poesie</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Paul Verlaine&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:40.112901+00:00" name="calibre:timestamp"/>
+        <meta content="Chansons pour elle" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

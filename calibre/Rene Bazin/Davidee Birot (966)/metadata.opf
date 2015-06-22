@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">966</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">893bd772-766e-4146-8d9e-62201ce0ffe5</dc:identifier>
+        <dc:title>Davidée Birot</dc:title>
+        <dc:creator opf:file-as="Bazin, René" opf:role="aut">René Bazin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Institutrice de l'école laïque pour filles dans un village de tailleurs de tuiles d'ardoises, Davidée Birot se tourmente pour l'âme de ses petites filles. Le tragique destin de l'une d'entre-elles lui montre le chemin à suivre... Extrait : Vous êtes encore une débutante après trois ans et demi de professorat, et, comme une nouvelle arrivée, naïve, après six mois de séjour à l'Ardésie. Et vous me faites pitié ! Vous ne parlez pas de mariage, mais vous entretenez, vous cultivez, vous perfectionnez votre sensibilité ; à propos d'une enfant malade, d'une femme qui meurt, d'une grève, d'un chat qui miaule ou d'un martinet qui se casse l'aile, je vous vois vous agiter, souffrir, chercher la solution du problème du mal, tandis que vous n'êtes qu'une pauvre petite institutrice adjointe, exilée au bourg de l'Ardésie, jalousée par le curé, peu écoutée des habitants, surveillée par l'administration, et en somme assez mal partie. Fausse route ! Croyez-moi : vivez pour vous, faites le nécessaire pour avancer, ayez une bonne classe, bien tenue, des cahiers propres : le reste est du superflu dont personne ne vous saura gré. Pas de zèle pour la correction du mal ; un joli doute universel, qui vous fera bien voir ; surtout pas de rêve d'amour conjugal. L'autre, vous pouvez y rêver, si cela ne contredit pas vos principes. Mais le mari de l'institutrice de village, qui est-il ? Trois fois sur quatre, un homme qui vit de nous, de notre travail. Et quand nous le prenons parmi les instituteurs, nous renonçons à l'avancement, car il en faut de la chance, pour trouver les deux postes vacants, l'un à côté de l'autre ! Et puis, ma petite, je ne connais pas beaucoup de nos collègues masculins que je consentirais à épouser... Non, voyez-vous, il faut aimer le métier pour lui-même, mettre son cœur entre deux feuilles de papier buvard pour qu'il se dessèche bien, dire toujours oui à l'administration, et arriver à la bonne petite retraite, sans se fouler trop.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0478-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0478-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">bazin_rene_-_davidee_birot</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;René Bazin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:05.015009+00:00" name="calibre:timestamp"/>
+        <meta content="Davidée Birot" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

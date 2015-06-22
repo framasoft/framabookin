@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1084</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a440e68a-d185-45f3-b40e-f3632acafcb3</dc:identifier>
+        <dc:title>L'obscure souffrance</dc:title>
+        <dc:creator opf:file-as="Conan, Laure" opf:role="aut">Laure Conan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Marie-Louise Félicité Angers, dite Laure Conan, née à La Malbaie (Canada-Est, aujourd'hui le Québec) le 9 janvier 1845, décédée le 6 juin 1924 à l'Hôtel-Dieu de Québec, est une écrivaine canadienne-française. En 1862, elle fait la connaissance de l'arpenteur-géomètre Pierre-Alexis Tremblay qui lui fait une cour assidue. Leur rupture, en 1868, met un terme à sa vie publique. Elle s'isole dans sa vaste demeure et remet en cause les conventions sociales, puis décide de se consacrer à l'écriture. Extrait : Qui sait, peut-être n'est-ce vrai qu'autant qu'on souffre mal. Et si je suis aussi sensible à mes peines, est-ce bien parce que je les crois nuisibles à mon âme ? S'il y a du danger dans les rudes antipathies qui déchirent le cœur, dans les révoltes, les dégoûts de tous les instants, il y en a aussi dans les douceurs de la vie, il y en a surtout dans les transports, dans les enivrements du bonheur. Ceux-là les redouterais-je beaucoup ?...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1317-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1317-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">conan_laure_-_l_obscure_souffrance</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Laure Conan&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:28.598556+00:00" name="calibre:timestamp"/>
+        <meta content="obscure souffrance, L'" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

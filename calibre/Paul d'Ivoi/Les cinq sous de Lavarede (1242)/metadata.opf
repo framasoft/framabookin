@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1242</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ecad5eeb-f345-46ed-80a8-0792de7a6c05</dc:identifier>
+        <dc:title>Les cinq sous de Lavarède</dc:title>
+        <dc:creator opf:file-as="d’Ivoi, Paul" opf:role="aut">Paul d’Ivoi</dc:creator>
+        <dc:creator opf:file-as="d’Ivoi, Paul" opf:role="aut">Henri Chabrillat</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1894-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Paul d'Ivoi, de son vrai nom Paul Deleutre, est issu d'une lignée d'écrivains qui utilisèrent tous le pseudonyme d'Ivoi. Son grand-père, Edouard, et son père, Charles, signèrent également certains de leurs livres Paul d'Ivoi. Il débuta comme journaliste à Paris-Journal et au Figaro, et collabora au Journal des Voyages et au Petit Journal sous le pseudonyme de Paul d'Ivoi. Il commença par donner quelques pièces de boulevard~: Le mari de ma femme (1887), La pie au nid (1887) ou Le tigre de la rue Tronchet (1888) et quelques romans feuilletons qui passèrent inaperçus. Entre 1894 et 1914, il publia les 21 volumes qui forment la série des Voyages excentriques, qui exploitent le filon des Voyages extraordinaires de Jules Verne. En 1894, le premier volume de la série, Les Cinq sous de Lavarède, écrit en collaboration avec Henri Chabrillat, lui valut la célébrité. Ce sera le plus réaliste de ses romans, les suivants (Le Diamant d'Osiris, Le Corsaire Triplex...) s'engageant de plus en plus jusqu'aux Dompteurs de l'or dans une veine scientifique colorée de fantaisie délibérément naïve. Extrait : Un seul incident signala cette dernière journée ; des grondements souterrains se firent entendre, ce qui n’a rien de bien surprenant dans cette région volcanique, où les tremblements de terre se produisent, bon an, mal an, une soixantaine de fois. Le soir venait. A perte de vue, d’énormes massifs de roches s’entassaient dans tous les sens, à travers la brume amoncelée. Nos voyageurs grignotèrent une tortilla de maïs, de la provision que leur avait laissée Iloé. Il fallait au moins se soutenir, puisque l’on ne savait où l’on pourrait gîter.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0544-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0544-6</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0542-2</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">d_ivoi_paul_-_les_cinq_sous_de_lavarede</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Paul d’Ivoi&quot;: &quot;&quot;, &quot;Henri Chabrillat&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:01.599818+00:00" name="calibre:timestamp"/>
+        <meta content="cinq sous de Lavarède, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

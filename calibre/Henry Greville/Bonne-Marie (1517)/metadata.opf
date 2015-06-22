@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1517</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">206c894b-84cf-417e-863a-d04e8729e166</dc:identifier>
+        <dc:title>Bonne-Marie</dc:title>
+        <dc:creator opf:file-as="Gréville, Henry" opf:role="aut">Henry Gréville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1879-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Henry Gréville, pseudonyme de Alice Marie Céleste Durand née Fleury (1842-1902), a publié de nombreux romans, des nouvelles, des pièces, de la poésie ; elle a été à son époque un écrivain à succès. Extrait : Eh bien, reprit le fraudeur, quand il eut assez ri, je laissai donc ma charrette en bas, et je m'en allai sur la route pour voir s'il n'y aurait pas moyen de passer tout de même. Ah bien oui ! Devant le poste, ils avaient mis un banc, et ils se chauffaient au soleil, comme des lézards ! J'étais bien embarrassé, quand je vis une bonne femme qui descendait la route avec un chapelet à la main, en faisant de grandes enjambées. Voilà mon affaire, me dis-je, et j'allai à la rencontre de la bonne femme. Juste à ce moment-là, c'était bien à la mode d'aller en pèlerinage au Bienheureux Thomas, à Biville, où il y a une source qui guérit toutes les maladies, ou du moins qui les guérissait dans ce temps-là, car à présent j'ai entendu dire que la dévotion s'était bien relâchée ! Il y avait aussi des filles qui allaient là en pèlerinage pour trouver des maris. Aller là, ça leur réussit encore, à ce que je crois, car je ne crois pas qu'on se marie moins qu'autrefois, par ici. Donc, on allait au Bienheureux Thomas, à jeun, quand on pouvait, mais on n'avait pas juré d'y aller à pied. Je vis tout de suite que la bonne femme s'en allait aussi à Biville, car elle était habillée tout de neuf, et puis le chapelet ! Mais bien sûr, ou du moins probablement, ce n'était pas pour y trouver un mari, car elle avait cinquante à soixante ans.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1499-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1499-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">greville_henry_-_bonne-marie</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Henry Gréville&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:57.706109+00:00" name="calibre:timestamp"/>
+        <meta content="Bonne-Marie" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

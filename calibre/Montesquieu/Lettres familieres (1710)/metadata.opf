@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1710</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3590b12d-ef79-4caf-8c91-8155bf5bbbdc</dc:identifier>
+        <dc:title>Lettres familières</dc:title>
+        <dc:creator opf:file-as="Montesquieu, Charles-Louis de Secondat" opf:role="aut">Montesquieu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Dans un voyage que je fis il y a quelques années en Italie, je me liai avec des personnes qui avaient eu une correspondance réglée avec l'illustre M. de Montesquieu, et on me fit voir quelques-unes de ces lettres. Cela me fit naitre l'idée d'en faire un recueil. On applaudit à mon projet ; quelques personnes voulant en faciliter l'exécution m'ont procuré celles qu'ils avaient entre les mains ; d'autres m'ont remis celles que ce grand homme leur avait écrites ; je les donne aujourd'hui au public, persuadé qu'il me saura gré du présent que je lui fais. Je sais que quand M. de Montesquieu écrivait ses lettres, il ne supposait pas qu'on les conserverait, et qu'elles deviendraient un jour publiques. Je sais encore que ces lettres n'ajoutent rien à la réputation de cet auteur célèbre ; mais elles sont propres à faire connaitre quelques circonstances de sa vie, ses liaisons étrangères, la bonté de son cœur envers ses amis et l'estime qu'il avait pour eux, titres trop précieux pour ceux-ci, pour ne pas rendre très-légitime leur amour-propre et leur empressement à faire connaître les monuments de leur correspondance avec un ami aussi respectable. « Si jamais je me trouvais dans le cas de devoir faire mon apologie, me disait un de ceux-ci, qui a été lié particulièrement avec lui, je ne dirais autre chose, sinon que je fus l'ami de Montesquieu et que j'en fus estimé, et je croirais en avoir dit assez. »</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1123-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1123-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">montesquieu_charles-louis_de_secondat_-_lettres_familieres</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>correspondance</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Montesquieu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:36.655625+00:00" name="calibre:timestamp"/>
+        <meta content="Lettres familières" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

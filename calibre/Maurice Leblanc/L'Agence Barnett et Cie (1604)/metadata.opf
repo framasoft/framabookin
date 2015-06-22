@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1604</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2ffb1dcb-fa08-4914-952c-12f3e6364d66</dc:identifier>
+        <dc:title>L’Agence Barnett et Cie</dc:title>
+        <dc:creator opf:file-as="Leblanc, Maurice" opf:role="aut">Maurice Leblanc</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1927-06-02T22:00:00+00:00</dc:date>
+        <dc:description>L'Agence Barnett et Cie est un recueil de 8 nouvelles de Maurice Leblanc et mettant en scène Arsène Lupin. Deux nouvelles (Les Gouttes qui tombent et Les Douze Africaines de Béchoux) paraissent dans Lectures pour Tous en octobre et novembre 1927. Le hasard fait des miracles est publié dans le même mensuel en janvier 1928. Puis, le recueil complet paraît chez Pierre Lafitte en février 1928. Extrait : Valérie eut un frisson de gêne et rougit. Vraiment, M. Barnett suscitait en elle une inquiétude confuse, qui n'était point sans analogie avec les sentiments qu'on éprouve en face d'un cambrioleur. Elle pensait aussi... mon Dieu, oui... elle pensait qu'elle avait peut-être affaire à un amoureux, qui aurait choisi cette manière originale de s'introduire chez elle. Mais comment savoir ? Et, dans tous les cas, comment réagir ? Elle était intimidée et dominée, confiante en même temps, et toute disposée à se soumettre, quoi qu'il en pût advenir. Et ainsi, quand le détective l'interrogea sur les causes qui l'avaient poussée à demander le concours de l'agence Barnett, elle parla sans détours et sans préambule, comme il exigeait qu'elle parlât. L'explication ne fut pas longue : M. Barnett semblait pressé.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1606-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1606-0</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1618-3</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leblanc_maurice_-_l_agence_barnett_et_cie</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <dc:subject>nouvelle</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <meta content="{&quot;Maurice Leblanc&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:15.193332+00:00" name="calibre:timestamp"/>
+        <meta content="L’Agence Barnett et Cie" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

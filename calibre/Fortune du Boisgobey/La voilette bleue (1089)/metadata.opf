@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1089</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7d2d99bf-27e2-4ddb-a299-e60390acbfe7</dc:identifier>
+        <dc:title>La voilette bleue</dc:title>
+        <dc:creator opf:file-as="Boisgobey, Fortuné du" opf:role="aut">Fortuné du Boisgobey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Du haut de l'Hôtel-Dieu, l'interne en médecine Daubrac et son ami philantrope Mériadec observent le parvis de Notre-Dame. Ils se décident à suivre par désœuvrement un couple d'amants qui effectue l'ascension des tours. Sitôt arrivés sur le parvis, un attroupement attire leur attention : une jeune femme portant une voilette bleue identique à celle de la femme aperçue auparavant au bras de son amant est retrouvée sans vie au bas des tours. Qui est cette femme? S'est-elle suicidée ou bien l'a-t-on précipitée dans le vide? Et qu'est-ce que le capitaine de Saint-Briac, arrêté à sa descente des tours, a à voir dans cette affaire? C'est ce que Daubrac et Mériadec, aidés de Rose Verdière, la charmante fille du gardien des tours, et de Fabreguette, peintre farfelu et témoin oculaire du drame, vont tenter de découvrir en même temps que M. de Malverne, juge d'instruction et intime de Saint-Briac. Extrait : Aussi pourquoi es-tu allé te loger là ? Ici, le spectacle change à chaque instant. Tiens ! vois-tu ce couple qui passe devant le portail de l'église. Deux amoureux, j'en suis sûr, et pas des amoureux pour le bon motif. La femme porte une voilette épaisse comme un masque et se serre peureusement contre son cavalier qui baisse le nez pour qu'on ne voie pas son visage. Ces tourtereaux sont en train de chercher une place sûre pour tromper un mari. Et tous les deux sont certainement du meilleur monde. L'homme est d'une élégance parfaite, et la toilette de la dame vient de chez la bonne faiseuse.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0715-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0715-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">boisgobey_fortune_du_-_la_voilette_bleue</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Fortuné du Boisgobey&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:29.633199+00:00" name="calibre:timestamp"/>
+        <meta content="voilette bleue, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

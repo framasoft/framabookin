@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1706</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">02d3ef8b-ea82-40c4-b9bf-467b77807236</dc:identifier>
+        <dc:title>Poésies</dc:title>
+        <dc:creator opf:file-as="Montesquieu, Charles-Louis de Secondat" opf:role="aut">Montesquieu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Prétendre que Montesquieu fut poète tiendrait de la plus parfaite gageure. Non seulement on ne pourrait présenter pour preuve qu’un recueil bien mince de ses œuvres en vers, mais on sait aussi qu’il tenait en piètre estime les poètes eux-mêmes. Il s’est cependant exercé à la versification comme tout jeune homme au collège. Faut-il croire Voltaire lorsqu’il écrit dans une lettre à Saurin de 1768 : « Montesquieu, dans ses Lettres persanes, se tue à rabaisser les poètes. Il voulait renverser un trône où il sentait qu’il ne pouvait pas s’asseoir » ? Cette condamnation de la poésie ne serait que la vengeance d’un talent médiocre en la matière… Mais Montesquieu n’a jamais montré en la matière la moindre ambition, ni même le moindre goût affirmé.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1127-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1127-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">montesquieu_charles-louis_de_secondat_-_poesies</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>poesie</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Montesquieu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:35.855426+00:00" name="calibre:timestamp"/>
+        <meta content="Poésies" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

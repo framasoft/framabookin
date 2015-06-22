@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1607</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">433bd9a4-97a5-4c60-85a9-3b94006c5380</dc:identifier>
+        <dc:title>La dent d’Hercule Petitgris</dc:title>
+        <dc:creator opf:file-as="Leblanc, Maurice" opf:role="aut">Maurice Leblanc</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1924-06-02T22:00:00+00:00</dc:date>
+        <dc:description>La dent d'Hercule Petitgris, suivi de Un gentleman. Extrait : - Nous commencerons par vous, monsieur. Vous êtes né à Dolincourt, Eure-et-Loir, d'un paysan laborieux, qui s'est saigné aux quatre veines pour vous donner une éducation convenable. Je dois dire que vous l'en avez amplement récompensé par votre travail. Études sérieuses, conduite parfaite, attentions délicates pour votre père, en tout vous vous êtes montré bon fils et irréprochable élève. La mobilisation vous surprend simple soldat aux chasseurs à pied. Quatre ans plus tard, vous étiez adjudant et croix de guerre avec cinq citations. Vous contractez un engagement. À la fin de 1920, on vous trouve à Verdun. Toujours excellente tenue. Vos notes vous signalent comme capable de faire un bon officier, et vous songez même à passer votre examen. Or, vers la mi-novembre de cette année, coup de théâtre. Un soir, dans un dancing de troisième ordre, après avoir fait déboucher dix bouteilles de champagne, la tête perdue, au cours d'une discussion sans motif, vous dégainez. On vous arrête. On vous mène au poste. On vous fouille. Vous étiez porteur de cent mille francs en billets de banque. D'où teniez-vous cet argent ? Vous n'avez jamais pu l'expliquer.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1603-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1603-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leblanc_maurice_-_la_dent_d_hercule_petitgris</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <dc:subject>nouvelle</dc:subject>
+        <meta content="{&quot;Maurice Leblanc&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:15.861057+00:00" name="calibre:timestamp"/>
+        <meta content="dent d’Hercule Petitgris, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

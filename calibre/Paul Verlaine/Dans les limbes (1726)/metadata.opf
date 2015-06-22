@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1726</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f010ec69-3386-4e38-a0eb-6d3fc09d7ddc</dc:identifier>
+        <dc:title>Dans les limbes</dc:title>
+        <dc:creator opf:file-as="Verlaine, Paul" opf:role="aut">Paul Verlaine</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Dernière était au coin de la basse maison - Tout rouge -- la tuile et la brique y fourmillent - (Vis-à-vis le gazon bordé de camomille) - Qui sert de local à des services divers. - Là l'heure ayant sonné de son timbre pervers, - Nous enjoignant de nous séparer tout de suite, - Hélas ! avant qu'hélas ! tu ne prennes la fuite, - Je t'embrassais si fort que toi tu ne pouvais - T'empêcher de rire aux éclats, et ne savais - Pour lors me refuser un baiser sur la bouche, - Un gros, frais, long baiser partagé, puis, farouche - Pour la forme --- c'était presque en public, des yeux - Pouvaient nous voir, en malins, ou pics, officieux, - Des langues bavardes, et quel scandale ! et leste, - Cruellement, tu me quittais, instant céleste - Et diabolique, avec ces mots : « Je ne viens plus. » - Car, sachant bien que tu viendrais, irrésolus - Toutefois, mes désirs fous tantôt ivres d'ire - Et de larmes, tantôt pleins d'espoir à ton dire, - Se souvenant de la chère intonation - Et de la gentiment taquine intention, - Me balançaient dans une fausse inquiétude, - Jusqu'au lendemain, tendre amie au verbe rude.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1161-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1161-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">verlaine_paul_-_dans_les_limbes</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>poesie</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Paul Verlaine&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:39.923778+00:00" name="calibre:timestamp"/>
+        <meta content="Dans les limbes" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

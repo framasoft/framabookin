@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1398</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">03449f57-6b64-4f16-93a8-aaaa94d46d65</dc:identifier>
+        <dc:title>Carmilla</dc:title>
+        <dc:creator opf:file-as="Fanu, Sheridan (Le)" opf:role="aut">Sheridan Le Fanu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1872-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Carmilla, publié en 1872, est le plus célèbre roman de l'écrivain irlandais Joseph Sheridan Le Fanu. L'œuvre est d'ailleurs l'un des romans gothiques et vampiriques les plus célèbres du genre tant les atmosphères y sont puissantes et mystérieuses. Laura, candide à souhait, incarne la parfaite héroïne gothique. Carmilla, quant à elle, personnage énigmatique et dangereux, incarne la sensualité et présente l'homosexualité féminine sous un jour nouveau, sombre, venimeux et exalté. Carmilla est un livre important dans la culture vampirique. À ce titre, il peut être considéré comme une œuvre majeure de la littérature fantastique du xixe siècle, romantique et macabre. Fait non négligeable, c'est un compatriote de Joseph Sheridan Le Fanu, Bram Stoker, qui reconnaîtra plus tard la dette qu'il a envers celui-ci lors de la parution, en 1899, du roman qui allait immortaliser son nom, Dracula. Extrait : Notre attente angoissée ne dura pas longtemps. Juste avant d'arriver au pont-levis, un superbe tilleul se dresse sur un côté de la route, et sur l'autre côté s'érige une antique croix de pierre~: à la vue de celle-ci, les chevaux, qui allaient maintenant à une allure effroyable, firent un tel écart que la roue de la voiture passa sur les racines en saillie de l'arbre. Je savais ce qui allait arriver. Incapable de supporter la vue de l'inévitable accident, je me couvris les yeux de la main et détournai la tête. Au même instant, j'entendis un cri poussé par les deux gouvernantes qui s'étaient avancées un peu plus loin...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0840-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0840-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">fanu_sheridan_le_-_carmilla</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Irlande</dc:subject>
+        <meta content="{&quot;Sheridan Le Fanu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:33.187244+00:00" name="calibre:timestamp"/>
+        <meta content="Carmilla" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

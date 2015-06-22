@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1253</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6c295f42-b7fc-4699-ab53-fbe87c8271b9</dc:identifier>
+        <dc:title>Le docteur mystérieux II</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Le docteur mystérieux et sa suite, La fille du marquis, constituent un ensemble également connu sous le nom Création et rédemption. le docteur Jacques Mérey, médecin passionné par les recherches scientifiques et ésotériques, qui se refuse aux riches mais soigne les pauvres et les animaux, les guérissant même miraculeusement. Il découvre un jour, dans une misérable cabane, soignée par un bûcheron et sa mère, une petite «chose» complètement désarticulée et muette, une fillette abandonnée de ses parents. Pour Mérey, il s'agit là d'un grand défi à sa science: transformer ce tas de chair à peine vivant en une «personne». On lui confie l'enfant et il se met, dès lors, au travail. Extrait : Mais, pour combattre contre la France, les émigrés n'en étaient pas moins braves. Le cri de « Vive le roi ! » répondit au cri de « Vive la nation ! » Et, pareille à un tourbillon, une charge de cavalerie, conduite par un homme de trente à trente-cinq ans, portant l'uniforme de colonel autrichien, habit blanc, pantalon rouge, ceinture d'or, descendit du haut de la colline où le village était situé. - Feu à vingt pas, et recevez les survivants sur vos baïonnettes ! Puis, d'une voix qui fut entendue de tous : - À moi l'officier ! cria-t-il. Et, se plaçant au milieu du chemin, à la tête de la colonne, il attendit que les premiers cavaliers fussent à vingt pas de lui, ajusta l'officier, et fit feu.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1381-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1381-6</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1379-3</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_le_docteur_mysterieux_ii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:03.801158+00:00" name="calibre:timestamp"/>
+        <meta content="docteur mystérieux II, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1486</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">88ec9b24-6257-4f06-94c1-6868e6096194</dc:identifier>
+        <dc:title>L'autre Alceste</dc:title>
+        <dc:creator opf:file-as="Jarry, Alfred" opf:role="aut">Alfred Jarry</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1896-06-02T23:00:00+00:00</dc:date>
+        <dc:description>l’œuvre d’Alfred Jarry, au comique grinçant, met en scène de façon insolite les traits humains les plus grotesques. Il est l’inventeur du terme de « ’Pataphysique », science qui cherche à théoriser la déconstruction du réel et sa reconstruction dans l’absurde. Jarry est l’un des inspirateurs des surréalistes et du théâtre contemporain. Extrait : J'ai vu le vizir Assaf errer, son cimeterre à la main, autour de la salle de cristal, car la salle a trois cent soixante-cinq portes, et il ne sait par laquelle j'entrerai pour aller vers son maître. Je ne veux pas tout de suite prendre l'âme de Salomon, mais je voudrais quelque chose qui émane de lui et participe de sa sagesse et de la splendeur de son corps. Je veux avec mes ciseaux verts cueillir une touffe de la candeur de sa barbe, du moins : puisque son crâne ferme comme une voûte polie le cellier de son cerveau, où des djinns savants brassent son intelligence. Mais quand j'aurai avec mes ciseaux tranché ce tentacule visible de l'esprit du roi des prophètes, la feuille de laquelle pend le principe de sa vie croulera de l'arbre Sidrat-Almuntaha, l'oiseau vert absorbera son âme et son corps astral naviguera à l'ombre de mes rames sur les eaux calmes qui encorbellent le paradis des croyants.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0078-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0078-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">jarry_alfred_-_l_autre_alceste</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alfred Jarry&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:51.543482+00:00" name="calibre:timestamp"/>
+        <meta content="autre Alceste, L'" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

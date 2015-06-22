@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1234</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b2c2e0de-58d7-4004-89b4-eb5436637125</dc:identifier>
+        <dc:title>Un tuteur embarrassé</dc:title>
+        <dc:creator opf:file-as="Dombre, Roger" opf:role="aut">Roger Dombre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Roger Dombre, de son vrai nom Mme Andrée Sisson, est l'un des auteurs populaires les plus prolifiques. La critique qualifiait la multitude de nouvelles et romans qu'elle a écrits, d'attachants, originaux et pétillants d'esprit. Extrait : Mon oncle, lui, pouvait avoir affaire ailleurs ; mes tantes aussi, appelées au dehors par les amis à recevoir, les ordres à donner relativement à mes funérailles ; mais Jeanne et Blanche égrenaient leur chapelet auprès de moi et Gui ne quittait pas mon chevet où il se lamentait tout haut. Que faisait donc Robert ? Peu à peu, un grand silence se fit dans la pièce ; sans doute, on m'avait assez pleurée, on respirait un brin. Je profitai de ce répit pour réciter un psaume pour le repos de ma pauvre âme, m'étonnant toujours de demeurer entre ciel et terre sans m'arrêter nulle part, ni apercevoir l'ombre même d'un juge. Soudain un pas, dans le lointain de la maison, fit gémir l'escalier.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1354-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1354-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dombre_roger_-_un_tuteur_embarrasse</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Roger Dombre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:59.998244+00:00" name="calibre:timestamp"/>
+        <meta content="tuteur embarrassé, Un" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

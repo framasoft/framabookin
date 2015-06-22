@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1215</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">10828073-2226-4a17-ab48-65be67e88f3f</dc:identifier>
+        <dc:title>Lettres de mon moulin</dc:title>
+        <dc:creator opf:file-as="Daudet, Alphonse" opf:role="aut">Alphonse Daudet</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1887-12-14T23:00:00+00:00</dc:date>
+        <dc:description>Ce recueil de nouvelles ( ou lettres)  d’Alphonse Daudet a été publié chez Hetzel en 1869 . Ces lettres ont été rédigées en partie avec Paul Arène entre 1866 et 1869 et publiées tout d’abord dans la presse ( Le Figaro, L’Evènement, Le Bien Public). L’édition originale ne comportait que 19 lettres. Celle de 1879, chez le même éditeur en comporte 24. Le premier charme de ce recueil est de restituer les odeurs de la Provence et d’y  camper des personnages pittoresques : le curé gourmand, l’amoureux, le poète, le berger, le joueur de fifre, les voyageurs de la diligence… Dans ce recueil Daudet parvient aussi à allier tendresse et malice. Il se moque avec gentillesse des manies d’un pape avignonnais, des douaniers paresseux , d’un prêtre épicurien, ou d’une femme légère ... Les Lettres de mon Moulin est aujourd’hui l’œuvre de Daudet la plus connue . Pourtant à la parution, elle passa quasiment inaperçue. C’est Daudet lui même qui raconte : «  Le volume parut chez Hetzel en 1869 , se vendit péniblement à deux mille exemplaires, attendant comme les autres œuvres à mes débuts , que la vogue des romans leur fit un regain de vente et de publicité . N’importe ! C’est encore là mon livre préféré , non pas au point de vue littéraire , mais parce qu’il me rappelle les plus belles heures de ma jeunesse, rires fous, ivresses sans remords , des visages et des aspects amis que je ne reverrai plus jamais ».</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1068-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1068-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">daudet_alphonse_-_lettres_de_mon_moulin</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture aisée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alphonse Daudet&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:55.729001+00:00" name="calibre:timestamp"/>
+        <meta content="Lettres de mon moulin" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

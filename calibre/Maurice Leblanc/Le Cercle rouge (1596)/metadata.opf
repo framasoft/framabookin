@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1596</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dc86480d-1dd6-4f7f-97eb-9a911d5f3bd6</dc:identifier>
+        <dc:title>Le Cercle rouge</dc:title>
+        <dc:creator opf:file-as="Leblanc, Maurice" opf:role="aut">Maurice Leblanc</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1922-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Extrait : Les poursuivants passèrent, sans soupçonner que ceux à qui ils donnaient la chasse se trouvaient, à quelques mètres d'eux à peine, de l'autre côté de cette palissade, qui semblait si bien close. Le vieux Barden, en tendant le cou, put, à travers les interstices des planches, les entrevoir. Quand le bruit de leurs pas se fut perdu dans le lointain, le vieux bandit, tirant après lui Bob, sortit de sa cachette. -~On a eu chaud... commença, avec un ricanement étouffé, le jeune chenapan, satisfait de se trouver en sûreté.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1609-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1609-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leblanc_maurice_-_le_cercle_rouge</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <meta content="{&quot;Maurice Leblanc&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:13.570364+00:00" name="calibre:timestamp"/>
+        <meta content="Cercle rouge, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

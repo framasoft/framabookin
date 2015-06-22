@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1491</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">29e3a77c-3949-4291-8967-e5b51a6e6e35</dc:identifier>
+        <dc:title>Les épreuves de Raïssa</dc:title>
+        <dc:creator opf:file-as="Gréville, Henry" opf:role="aut">Henry Gréville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1878-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Henry Gréville, pseudonyme de Alice Marie Céleste Durand née Fleury (1842-1902), a publié de nombreux romans, des nouvelles, des pièces, de la poésie ; elle a été à son époque un écrivain à succès. Extrait : La forme féminine qui avait apparu au bout de la rue s'était rapprochée et se trouvait à dix pas des officiers. La lumière d'un réverbère tombait d'aplomb sur ses yeux sombres, assez enfoncés sous l'arcade sourcilière pour qu'on n'en pût deviner la couleur, sur ses joues roses, ses lèvres rouges et son teint éclatant, avivé par le froid. La troïka glissait lentement sur la neige, au niveau du trottoir de bois. Grelzky enjamba le petit rebord du traîneau et s'approcha de la jeune femme. - Madame ou mademoiselle, dit-il avec une politesse ironique, que l'on vous nomme Mâcha ou Sâcha, ayez pitié de trois pauvres célibataires privés de l'élément féminin, et faites-nous l'honneur de souper avec nous. La jeune femme recula pour augmenter la distance entre elle et son interlocuteur, puis elle jeta un coup d'œil autour d'elle ; la rue était déserte, personne ne se montrait aux fenêtres ; elle eut peur. - Laissez-moi rentrer, dit-elle d'une voix mélodieuse, altérée par la crainte. - Pour cela, non ! s'écria Rézof, une si jolie fille ! Jamais de la vie. Il sortit précipitamment du traîneau ; Sabakine le suivit, et ils entourèrent la jeune femme. - Messieurs, dit-elle d'un ton résolu, laissez-moi passer, ou j'appelle.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1513-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1513-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">greville_henry_-_les_epreuves_de_raissa</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Henry Gréville&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:52.517446+00:00" name="calibre:timestamp"/>
+        <meta content="épreuves de Raïssa, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

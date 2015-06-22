@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1199</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0815bbd3-dda6-46f5-979e-e6ab655387e3</dc:identifier>
+        <dc:title>Amaury</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Amaury, orphelin, a été élevé par Léopold d'Avrigny, médecin du roi et père de Madeleine. Les deux jeunes gens ont grandi ensemble et l'amour s'est doucement installé entre eux. Récemment, Léopold a prié Amaury de quitter la maison et il est devenu désagréable. C'est qu'il a découvert l'idylle et... qu'il est jaloux. Veuf, il a depuis longtemps reporté tout son amour sur sa fille. Antoinette, orpheline elle aussi, est venue s'installer chez elle. Antoinette est aussi amoureuse d'Amaury, mais tait ses sentiments. Extrait : Amaury, lui dit-il, il y a peut-être longtemps que j'aurais dû vous annoncer ce que vous allez entendre et que j'ai trop tardé à vous dire, c'est que vous ne pouvez, vous, jeune homme de vingt et un ans, rester dans la même maison que deux jeunes filles, dont vous n'êtes le parent à aucun degré. Il m'en coûte sans doute de me séparer de vous, et voilà pourquoi j'ai si longtemps tardé à vous dire que cette séparation était nécessaire. Mais, aujourd'hui, hésiter plus longtemps à prendre cette mesure serait, de ma part, une faute impardonnable. Ne faites donc pas de réflexions, elles seraient inutiles ; ne préparez pas d'objections, vos dilemmes ne me convaincraient pas ; ma résolution est prise à cet égard, et rien ne m'en fera changer.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1360-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1360-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_amaury</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:52.321542+00:00" name="calibre:timestamp"/>
+        <meta content="Amaury" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

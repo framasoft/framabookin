@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1245</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1a413699-851d-4bf6-a441-556d85daedb7</dc:identifier>
+        <dc:title>La religieuse</dc:title>
+        <dc:creator opf:file-as="Diderot, Denis" opf:role="aut">Denis Diderot</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Au XVIIIe siècle, une jeune fille nommée Suzanne Simonin est contrainte par ses parents de prononcer ses vœux au terme de son noviciat. En effet, pour de prétendues raisons financières, ceux-ci ont préféré enfermer leur fille au couvent. C’est en réalité parce qu’elle est une enfant illégitime et que sa mère espère ainsi expier sa faute de jeunesse. C’est dans la communauté des clarisses de Longchamp qu’elle rencontre la supérieure de Moni. Celle-ci, une mystique, se lie d’amitié avec la jeune fille avant de mourir. Extrait : Le voici pourtant arrivé ce moment où il s'agissait de montrer si je savais me tenir parole. Un matin, après l'office, je vis entrer la supérieure chez moi. Elle tenait une lettre. Son visage était celui de la tristesse et de l'abattement ; les bras lui tombaient ; il semblait que sa main n'eût pas la force de soulever cette lettre ; elle me regardait ; des larmes semblaient rouler dans ses yeux ; elle se taisait et moi aussi ; elle attendait que je parlasse la première ; j'en fus tentée, mais je me retins. Elle me demanda comment je me portais ; que l'office avait été bien long aujourd'hui ; que j'avais un peu toussé ; que je lui paraissais indisposée. À tout cela je répondis : « Non, ma chère mère. » Elle tenait toujours sa lettre d'une main pendante ; au milieu de ces questions, elle la posa sur ses genoux, et sa main la cachait en partie ; enfin, après avoir tourné autour de quelques questions sur mon père, sur ma mère, voyant que je ne lui demandais point ce que c'était que ce papier, elle me dit : « Voilà une lettre... »</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1348-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1348-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">diderot_denis_-_la_religieuse</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Denis Diderot&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:02.207647+00:00" name="calibre:timestamp"/>
+        <meta content="religieuse, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

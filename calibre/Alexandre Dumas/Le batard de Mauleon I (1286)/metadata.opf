@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1286</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0b44383f-4cdb-4a6a-a377-4e8632f6adbb</dc:identifier>
+        <dc:title>Le bâtard de Mauléon I</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Agénor de Mauléon et son fidèle écuyer Musaron se dirigent vers le Portugal, pour y rejoindre Frédéric, Grand Maître de Saint-Jacques, frère de don Pedro, roi d'Espagne. Agénor rencontre sur sa route un Maure et sa suite, dont une litière aux rideaux fermés qui l'intrigue fort. Ce Maure, Mothril, vient chercher Frédéric pour le conduire à Séville, chez le roi. Agénor les accompagne; il perce alors le secret de la litière... Extrait : - C'est-à-dire, reprit l'écuyer en continuant de s'approcher avec son insouciance railleuse, que depuis seize grands jours que nous chevauchons en Espagne, ce pays tout plein d'aventures à ce que vous disiez en partant, nous n'avons encore rencontré pour tout ennemi que le soleil et les mouches, et pour tout profit que les ampoules et la poussière. -- Mordieu ! seigneur Agénor, j'ai faim ; mordieu ! seigneur Agénor, j'ai soif ; mordieu ! seigneur Agénor, j'ai la bourse vide ; c'est-à-dire que je suis en proie aux trois grandes calamités de ce monde, et que je ne vois pas venir ces grands pillages de Mores infidèles dont vous me faisiez fête, qui devaient enrichir notre corps et sauver notre âme, et sur lesquels j'avais fait d'avance tant de doux rêves, là-bas dans notre beau pays de Bigorre, avant que je ne fusse votre écuyer, et surtout depuis que je le suis.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1384-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1384-7</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1385-4</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_le_batard_de_mauleon_i</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:10.340131+00:00" name="calibre:timestamp"/>
+        <meta content="bâtard de Mauléon I, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

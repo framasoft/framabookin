@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bb03aafe-a042-47bb-98d1-2d7f060d746a</dc:identifier>
+        <dc:title>Spip pratique 1.9</dc:title>
+        <dc:creator opf:file-as="Perline" opf:role="aut">Perline</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-12-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Spip est un système de publication pour l’Internet, dont l’attachement à la publication collaborative n’est plus à démontrer.&lt;/p&gt;&lt;p&gt;
+Spip pratique 1.9 est un livre destiné à tous, de la prise en main de celui qui ne connaît absolument pas ce logiciel, jusqu’à un niveau avancé de connaissances. Il s’adresse aussi bien aux rédacteurs qu’aux administrateurs, pour un usage de base ou complet.&lt;/p&gt;&lt;p&gt;
+De manière simple et conviviale vous trouverez réunis dans cet ouvrage tous les trucs et astuces pour une parfaite utilisation de Spip.&lt;/p&gt;
+&lt;p&gt;Brèves, articles, gestions de documents et images, forums… toutes les fonctionnalités de Spip sont abordées et clairement explicitées.&lt;/p&gt;
+&lt;p&gt;On y aborde notamment les points suivants : présentation et utilisation de l’interface web intuitive (qui facilite la proposition d’articles et de brèves ainsi que la gestion éditoriale du site), les raccourcis typographique qui permettent de mettre en forme un texte sans avoir à utiliser le langage HTML (rendant ainsi la contribution rédactionnelle accessible à tous), la gestion des droits et accès des rédacteurs et administrateurs et la modération des forums, sans oublier la possibilité d’insérer des documents comme des images, des vidéos, du son, etc.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Framasoft, In Libro Veritas</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9782352090625</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Framabook</dc:subject>
+        <dc:subject>manuel</dc:subject>
+        <dc:subject>spip</dc:subject>
+        <dc:subject>site web</dc:subject>
+        <meta content="{&quot;Perline&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-05-26T17:22:38.211183+00:00" name="calibre:timestamp"/>
+        <meta content="Spip pratique 1.9" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1176</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ad1cd71d-071c-4b49-a278-9a130d3e9026</dc:identifier>
+        <dc:title>Divers contes</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La chemise de la Sainte Vierge - La Tarasque - Les onze mille vierges - Le rocher du Dragon - Comment saint Éloi fut guéri de la vanité - L'expiation du roi Rodrigue - Roland, de retour de Roncevaux - Saint Goar le batelier - La sirène du Rhin - La maison de l'Ange - Histoire du démon familier du sire de Corasse - Les chasses du comte de Foix - Le diable et la cathédrale de Cologne - Le père Clément - Les sept péchés capitaux - La ruelle des lutins - La fée des eaux - Le nain du lac et la dame Noire - Le pont du Diable - Les deux chemises - Le dragon des chevaliers de Saint-Jean - Ponce Pilate chez les Suisses - Les deux bossus - Le chemin du diable - Le cigare de don Juan - Le tailleur de Catanzaro - Le moine de Sant'Antimo - Histoire d'un chien. Extrait : C'était, comme nous l'avons dit, au temps où Julien l'Apostat vint avec ses légions camper sur les bords du Rhin. Or, les soldats romains, qui n'avaient pas plus de vocation pour être dévorés que les naturels du pays, profitèrent de ce qu'ils étaient en guerre avec quelques peuplades des environs pour nourrir le monstre sans qu'il leur en coûtât rien. Parmi les prisonniers, il se trouva une jeune fille si belle que deux centurions se la disputèrent, et qu'aucun des deux ne voulant la céder à l'autre, ils étaient près de s'entrégorger, lorsque le général décida que, pour les mettre d'accord, la jeune fille serait offerte au monstre. On admira fort la sagesse de ce jugement, que quelques-uns comparèrent à celui de Salomon, et l'on s'apprêta à jouir du spectacle.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0005-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0005-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_divers_contes</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:47.595150+00:00" name="calibre:timestamp"/>
+        <meta content="Divers contes" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1503</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">42085060-d858-4639-8e1a-d77fb8bdb8eb</dc:identifier>
+        <dc:title>La princesse Oghérof</dc:title>
+        <dc:creator opf:file-as="Gréville, Henry" opf:role="aut">Henry Gréville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1876-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Henry Gréville, pseudonyme de Alice Marie Céleste Durand née Fleury (1842-1902), a publié de nombreux romans, des nouvelles, des pièces, de la poésie ; elle a été à son époque un écrivain à succès. Extrait : Celle-ci mettait dans ses attaques une prudence extraordinaire. Sans rien deviner d'une passion si contenue qu'elle était un mystère pour le monde entier, elle sentait vaguement qu'il y avait là quelque chose qu'il ne fallait pas froisser. Elle se faisait tendre et presque intime ; elle s'informait de la santé des parents de Michel, de ses travaux, de ses amis, de ses chevaux, de tout ce qui lui touchait de près. Et puis, elle aimait tant son ancienne élève, devenue son amie, disait-elle. Son amie ! Michel sentait bien que cela n'était pas vrai dans le sens sérieux du mot, mais il n'attachait pas d'importance à cette erreur d'une âme vulgaire qui prend de l'intimité pour de l'amitié, et il s'efforçait de n'avoir pas l'air plus attentif quand Pauline lui parlait de Marthe.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1508-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1508-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">greville_henry_-_la_princesse_ogherof</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Henry Gréville&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:54.939506+00:00" name="calibre:timestamp"/>
+        <meta content="princesse Oghérof, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

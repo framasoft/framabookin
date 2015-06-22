@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1481</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">95bc28ba-c7fb-413a-b30c-b559ec9abbfa</dc:identifier>
+        <dc:title>L'ingénue</dc:title>
+        <dc:creator opf:file-as="Gréville, Henry" opf:role="aut">Henry Gréville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1884-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Henry Gréville, pseudonyme de Alice Marie Céleste Durand née Fleury (1842-1902), a publié de nombreux romans, des nouvelles, des pièces, de la poésie ; elle a été à son époque un écrivain à succès. Extrait : L'armoire à glace vit assurément quelque chose de fort joli, le jeudi suivant, vers cinq heures, lorsque Norine jeta un dernier coup d'œil sur sa toilette. Une robe de soie écrue, présent de madame Breteuil, relevée de nœuds cerise, prenait gracieusement la taille élégante de la jeune fille. Le collier de corail entourait son cou ; les joues rosées, les cheveux châtains relevés sur la tête en nœud antique, et les yeux bleus, plus bleus que jamais, formaient un ensemble tel que l'armoire à glace devait se déclarer satisfaite. Si cette armoire avait vécu dans un monde plus aristocratique, elle eût remarqué la grosseur disproportionnée des os, la laideur vulgaire des pieds et des mains, le manque de finesse de la peau ; elle se fût aperçue que la beauté de Norine était fragile comme l'éclat des nuages au premier matin ; rien qu'à regarder madame Guerbois en contemplation devant son idole, elle se fût dit que Norine serait infailliblement, avec le temps, telle que sa mère, pire que sa mère peut-être, car les traits de la jeune fille étaient moins purs.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1518-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1518-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">greville_henry_-_l_ingenue</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Henry Gréville&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:50.567353+00:00" name="calibre:timestamp"/>
+        <meta content="ingénue, L'" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

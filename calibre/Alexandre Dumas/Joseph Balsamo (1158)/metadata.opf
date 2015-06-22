@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1158</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b5074797-8b71-41af-84f5-66b19af30f1d</dc:identifier>
+        <dc:title>Joseph Balsamo</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Cette édition est la version complète de Joseph Balsamo. Elle réuni les 4 tomes  de l'édition classique. Les «Mémoires d'un médecin» est une suite romanesque qui a pour cadre la Révolution Française et qui comprend «Joseph Balsamo», «le Collier de la reine», «Ange Pitou» et la «Comtesse de Charny». Joseph Balsamo veut apporter le bonheur aux hommes en sapant les monarchies du monde pour instaurer des gouvernements basés sur la souveraineté populaire, et cela en commençant par la monarchie française. Ses moyens sont colossaux: sorcier, magnétiseur, il est à la tête de puissantes sociétés secrètes s'étendant à tous les continents et dont les membres appartiennent à toutes les couches sociales. Extrait : Cette femme est bien belle, ô mon Dieu ! Cet ange est bien pur ! Et tu le sais, toi qui crées les anges et les femmes ! Mais, pour moi, que vaut en ce moment la beauté ? que vaut l'innocence ? Un simple renseignement que la beauté et l'innocence seules me peuvent donner. Meure la créature, si belle, si pure, si parfaite qu'elle soit, pourvu que sa bouche parle ! Meurent, les délices du monde entier, amour, passion, extase, pourvu que je puisse toujours marcher d'un pas sûr et éclairé ! Et maintenant, jeune fille, maintenant que, par le pouvoir de ma volonté, quelques secondes de sommeil t'ont rendu autant de forces que si tu venais de dormir vingt ans, maintenant réveille-toi, ou plutôt replonge-toi dans ton clairvoyant sommeil. J'ai encore besoin que tu parles ; cette fois, seulement, tu vas parler pour moi.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1374-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1374-8</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1377-9</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_joseph_balsamo</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:43.970902+00:00" name="calibre:timestamp"/>
+        <meta content="Joseph Balsamo" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

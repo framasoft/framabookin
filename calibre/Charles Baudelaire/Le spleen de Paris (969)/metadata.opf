@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">969</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b9399f17-8165-46c1-97ca-9c9a31817d81</dc:identifier>
+        <dc:title>Le spleen de Paris</dc:title>
+        <dc:creator opf:file-as="Baudelaire, Charles" opf:role="aut">Charles Baudelaire</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Au milieu de ce tohu-bohu et de ce vacarme, un âne trottait vivement, harcelé par un malotru armé d'un fouet. Comme l'âne allait tourner l'angle d'un trottoir, un beau monsieur ganté, verni, cruellement cravaté et emprisonné dans des habits tout neufs, s'inclina cérémonieusement devant l'humble bête, et lui dit, en ôtant son chapeau : « Je vous la souhaite bonne et heureuse ! » puis se retourna vers je ne sais quels camarades avec un air de fatuité, comme pour les prier d'ajouter leur approbation à son contentement. L'âne ne vit pas ce beau plaisant, et continua de courir avec zèle où l'appelait son devoir. Pour moi, je fus pris subitement d'une incommensurable rage contre ce magnifique imbécile, qui me parut concentrer en lui tout l'esprit de la France.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1246-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1246-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">baudelaire_charles_-_le_spleen_de_paris</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Charles Baudelaire&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:05.619836+00:00" name="calibre:timestamp"/>
+        <meta content="spleen de Paris, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

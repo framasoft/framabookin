@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1744</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a91d7c59-3518-4d72-90ab-18aa2134b57d</dc:identifier>
+        <dc:title>La chartreuse de Parme</dc:title>
+        <dc:creator opf:file-as="Stendhal" opf:role="aut">Stendhal</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1927-12-14T23:00:00+00:00</dc:date>
+        <dc:description>Cette œuvre majeure, qui lui valut la célébrité, fut publiée en deux volumes en mars 1839, puis refondue en 1841, soit peu avant la mort de Stendhal, suite à un article fameux de Balzac. L’œuvre sera, jusqu’au début du XXe siècle, relativement inconnue en dehors de quelques cercles d’esthètes, de critiques littéraires, ce que Stendhal semblait appeler de ses vœux, dédicaçant son roman To the Happy Few. Extrait : Après ces deux années de folie et de bonheur, le Directoire de Paris, se donnant des airs de souverain bien établi, montra une haine mortelle pour tout ce qui n'était pas médiocre. Les généraux ineptes qu'il donna à l'armée d'Italie perdirent une suite de batailles dans ces mêmes plaines de Vérone, témoins deux ans auparavant des prodiges d'Arcole et de Lonato.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1146-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1146-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">stendhal_-_la_chartreuse_de_parme</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Stendhal&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:43.783830+00:00" name="calibre:timestamp"/>
+        <meta content="chartreuse de Parme, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

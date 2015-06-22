@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1677</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5771fc94-8130-45cc-95f8-1936aebfd803</dc:identifier>
+        <dc:title>La fortune des Rougon</dc:title>
+        <dc:creator opf:file-as="Zola, Émile" opf:role="aut">Émile Zola</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1897-12-14T23:00:00+00:00</dc:date>
+        <dc:description>La Fortune des Rougon est le premier volume de la série Les Rougon-Macquart. Le cadre est une petite ville appelée Plassans, qui correspond à Aix-en-Provence, où Zola a passé son enfance et une partie de sa jeunesse, et à Lorgues, dans le Var, où se sont déroulés en décembre 1851 les événements insurrectionnels décrits dans le roman. Extrait : Ce fut surtout l'année suivante que ce groupe de réactionnaires prit dans la ville une influence décisive, grâce au mouvement rétrograde qui s'accomplissait à Paris. L'ensemble de mesures antilibérales qu'on nomma l'expédition de Rome à l'intérieur, assura définitivement à Plassans le triomphe du parti Rougon. Les derniers bourgeois enthousiastes virent la République agonisante et se hâtèrent de se rallier aux conservateurs. L'heure des Rougon était venue. La ville neuve leur fit presque une ovation le jour où l'on scia l'arbre de la liberté planté sur la place de la Sous-Préfecture. Cet arbre, un jeune peuplier apporté des bords de la Viorne, s'était desséché peu à peu, au grand désespoir des ouvriers républicains qui venaient chaque dimanche constater les progrès du mal, sans pouvoir comprendre les causes de cette mort lente.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0243-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0243-8</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0240-7</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">zola_emile_-_la_fortune_des_rougon</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Émile Zola&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:29.869838+00:00" name="calibre:timestamp"/>
+        <meta content="fortune des Rougon, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

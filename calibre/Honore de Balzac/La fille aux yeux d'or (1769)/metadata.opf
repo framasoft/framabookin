@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1769</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6bc182bb-763b-455b-9788-9ac815762f57</dc:identifier>
+        <dc:title>La fille aux yeux d’or</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études de moeurs. Troisième livre, Scènes de la vie parisienne - Tome I. Neuvième volume de l'édition Furne 1842. Extrait : ― Enfin, voici donc une aventure bien romanesque, se dit Henri quand Paul revint. A force de participer à quelques-unes, j’ai fini par rencontrer dans ce Paris une intrigue accompagnée de circonstances graves, de périls majeurs. Ah ! diantre, combien le danger rend la femme hardie ! Gêner une femme, la vouloir contraindre, n’est-ce pas lui donner le droit et le courage de franchir en un moment des barrières qu’elle mettrait des années à sauter ? Gentille créature, va, saute. Mourir ? pauvre enfant ! Des poignards ? imagination de femmes ! Elles sentent toutes le besoin de faire valoir leur petite plaisanterie. D’ailleurs on y pensera, Paquita ! on y pensera, ma fille ! Le diable m’emporte, maintenant que je sais que cette belle fille, ce chef-d’œuvre de la nature est à moi, l’aventure a perdu de son piquant.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0981-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0981-9</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1014-3</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_la_fille_aux_yeux_d_or</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:48.717615+00:00" name="calibre:timestamp"/>
+        <meta content="fille aux yeux d’or, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1226</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">082555a5-5cf7-4c94-873b-893850dbfe19</dc:identifier>
+        <dc:title>Contes de Noël</dc:title>
+        <dc:creator opf:file-as="Dandurand, Joséphine" opf:role="aut">Joséphine Dandurand</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Voici notre petite bibliothèque canadienne qui s'enrichit aujourd'hui d'un nouveau volume ; et, chose assez insolite chez nous, ce volume est signé d'un nom de femme. Extrait : Assurément tous les petits enfants connaissent cette fête ! Elle est belle, elle est radieuse pour le plus grand nombre. Elle ramène l'excellent vieux Santa Claus avec des trésors fabuleux entassés dans ses poches immenses et inépuisables. Quelques-uns, hélas ! ne connaissent de ce jour que les privations, plus cruelles par leur contraste avec la joie de tout le monde. Ces malheureux petits pauvres que Santa Claus ne connaît pas, qui ne trouvent jamais, jamais rien dans leur soulier, c'est aux enfants heureux de les consoler, de se constituer leur Providence visible.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1427-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1427-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dandurand_josephine_-_contes_de_noel</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>conte</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture intermédiaire</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Joséphine Dandurand&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:58.401716+00:00" name="calibre:timestamp"/>
+        <meta content="Contes de Noël" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

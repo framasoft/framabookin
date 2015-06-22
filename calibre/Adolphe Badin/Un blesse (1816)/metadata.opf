@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1816</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">53e13d99-64d8-4907-8624-6b4fc240ab2e</dc:identifier>
+        <dc:title>Un blessé</dc:title>
+        <dc:creator opf:file-as="Badin, Adolphe" opf:role="aut">Adolphe Badin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Septembre 1870, Paris est encerclé par les Prussiens. Un jeune soldat, grièvement blessé, est transporté dans un atelier de serrurerie transformé en hôpital de fortune. Il refuse d'abord les soins, mais arrive Mme Delaunay, qui ne compte ni son temps, ni sa patience pour accompagner tous ces hommes diminués... Une évocation de Paris dans cette guerre de 1870, période méconnue dans l'histoire de France. Extrait : Quel défilé ! C'était un officier d'artillerie, dont les jambes pendaient fracassées entre les mains des brancardiers ; un pauvre chasseur dont le visage disparaissait tout entier sous un masque de sang coagulé ; puis d'autres, officiers, sous-officiers, soldats de toute arme, les mains enveloppées dans des linges sanglants, la tête bandée, le corps inerte dans une capote toute souillée de boue et de sang, avec un grand trou sur la poitrine.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0023-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0023-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">badin_adolphe_-_un_blesse</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Adolphe Badin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:58.015200+00:00" name="calibre:timestamp"/>
+        <meta content="blessé, Un" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

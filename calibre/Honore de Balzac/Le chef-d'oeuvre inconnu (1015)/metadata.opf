@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1015</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6a40f07c-7f31-498f-99db-f8ae04e3037c</dc:identifier>
+        <dc:title>Le chef-d’œuvre inconnu</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études philosophiques - Tome I. Quatorzième volume de l'édition Furne 1842. Extrait : ― Montrer mon œuvre, s’écria le vieillard tout ému. Non, non, je dois la perfectionner encore. Hier, vers le soir, dit-il, j’ai cru avoir fini. Ses yeux me semblaient humides, sa chair était agitée. Les tresses de ses cheveux remuaient. Elle respirait ! Quoique j’aie trouvé le moyen de réaliser sur une toile plate le relief et la rondeur de la nature, ce matin, au jour, j’ai reconnu mon erreur. Ah ! pour arriver à ce résultat glorieux, j’ai étudié à fond les grands maîtres du coloris, j’ai analysé et soulevé couche par couche les tableaux de Titien, ce roi de la lumière, j’ai, comme ce peintre souverain, ébauché ma figure dans un ton clair avec une pâte souple et nourrie, car l’ombre n’est qu’un accident, retiens cela, petit. Puis je suis revenu sur mon œuvre, et au moyen de demi-teintes et de glacis dont je diminuais de plus en plus la transparence, j’ai rendu les ombres les plus vigoureuses et jusqu’aux noirs les plus fouillés ; car les ombres des peintres ordinaires sont d’une autre nature que leurs tons éclairés ; c’est du bois, de l’airain, c’est tout ce que vous voudrez, excepté de la chair dans l’ombre. On sent que si leur figure changeait de position, les places ombrées ne se nettoieraient pas et ne deviendraient pas lumineuses. J’ai évité ce défaut où beaucoup d’entre les plus illustres sont tombés, et chez moi la blancheur se révèle sous l’opacité de l’ombre la plus soutenue !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0998-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0998-7</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0993-2</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_le_chef-d_oeuvre_inconnu</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:14.818995+00:00" name="calibre:timestamp"/>
+        <meta content="chef-d’œuvre inconnu, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

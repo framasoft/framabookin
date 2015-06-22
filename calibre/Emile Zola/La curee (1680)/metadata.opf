@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1680</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">900e80da-c69e-4bcb-9018-7ef6cd511730</dc:identifier>
+        <dc:title>La curée</dc:title>
+        <dc:creator opf:file-as="Zola, Émile" opf:role="aut">Émile Zola</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1895-12-14T23:00:00+00:00</dc:date>
+        <dc:description>La Curée est le deuxième volume de la série Les Rougon-Macquart. Le personnage principal est Aristide Rougon, dit Saccard, qui va faire une rapide fortune en spéculant sur les futurs terrains à bâtir à l'époque des grands travaux menés à Paris par le baron Haussmann. Extrait : Aristide Rougon s'abattit sur Paris, au lendemain du 2 Décembre, avec ce flair des oiseaux de proie qui sentent de loin les champs de bataille. Il arrivait de Plassans, une sous-préfecture du Midi, où son père venait enfin de pêcher dans l'eau trouble des événements une recette particulière longtemps convoitée. Lui, jeune encore, après s'être compromis comme un sot, sans gloire ni profit, avait dû s'estimer heureux de se tirer sain et sauf de la bagarre. Il accourait, enrageant d'avoir fait fausse route, maudissant la province, parlant de Paris avec des appétits de loup, jurant « qu'il ne serait plus si bête » ; et le sourire aigu dont il accompagnait ces mots prenait une terrible signification sur ses lèvres minces.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0240-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0240-7</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0251-3</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">zola_emile_-_la_curee</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Émile Zola&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:30.485736+00:00" name="calibre:timestamp"/>
+        <meta content="curée, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

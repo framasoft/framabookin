@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1189</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4cf35e26-fc73-4a69-bb29-3dfb517da04a</dc:identifier>
+        <dc:title>Aventures de John Davys</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>John Davys passe son enfance seul, entre son père, glorieux officier de marine â la retraite et sa tendre mère. Après quelques années au collège, il embarque lui aussi. Sa carrière lui fait découvrir tous les aspects de la vie à bord: beauté et intérêt de la navigation et des escales, rencontre avec des personnages marquants mais aussi rudesse des marins. En butte aux injustices de Burke, le second du bâtiment, il décide de se venger et le tue en duel. Sa carrière est brisée, il est exilé. Après avoir subi un naufrage et survécu miraculeusement â un abordage, il se lie avec un chef de pirates, Constantin. Admis â pénétrer dans son repaire, il tombe passionnément amoureux de sa fille Fatinitza. Avant de l'épouser, il décide de recevoir la bénédiction de ses parents, qui le rappellent à Londres pour que son procès soit révisé. De retour en Angleterre, il est jugé puis acquitté, et reçoit le consentement de ses parents. Malheureusement, son retour est beaucoup plus long que prévu... Extrait : La monture du prêtre fit soudain un écart si inaccoutumé, qu'il jugea qu'il se passait derrière son dos quelque chose d'extraordinaire. Il se retourna aussitôt, et aperçut un homme, ou plutôt un spectre, qui le couchait en joue, en lui criant d'arrêter. À cette vue et à ce cri, le bon curé, malgré son âge, retrouva toute la vigueur de sa jeunesse, et, se laissant glisser à bas de son âne, qui lui servait comme de rempart, placé qu'il était entre lui et le fantôme, il s'élança dans un petit bois, où il eut bientôt disparu, toujours courant, pour ne s'arrêter qu'au milieu de ses paroissiens et sur la place de son village.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0049-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0049-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_aventures_de_john_davys</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:50.190709+00:00" name="calibre:timestamp"/>
+        <meta content="Aventures de John Davys" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

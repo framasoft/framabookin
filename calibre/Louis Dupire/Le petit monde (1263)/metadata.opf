@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1263</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f61f3bbf-9f90-4276-afc5-96dd2577adb9</dc:identifier>
+        <dc:title>Le petit monde</dc:title>
+        <dc:creator opf:file-as="Dupire, Louis" opf:role="aut">Louis Dupire</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Louis Dupire est né en Bretagne en 1887 et est mort à Montréal en 1942. Journaliste, il a collaboré à différents journaux, souvent sous le couvert d'un pseudonyme. Il entre au Devoir en 1912, et y reste jusqu'à sa mort, signant des billets, des nouvelles, des éditoriaux, différents articles. Il a été aussi correspondant parlementaire à Québec, puis à Ottawa. En 1919, il publie Le Petit Monde : recueil de billets du soir. Extrait : Les enfants, c'est tout ce qu'il y a de bon dans la vie. Et parce que les fêtes ce sont spécialement les jours des enfants, ce temps est tout ce qu'il y a de meilleur dans l'année. Leur candeur et leur naïveté sont la vraie Fontaine de Jouvence ; à leur contact on retrouve sa jeunesse. Pendant un mois de l'année, l'imagination adulte n'est hantée que de pensers simples et gais. Elle s'applique à chercher ce qui fera le bonheur des enfants, à deviner ce qui pourra allumer dans leurs yeux l'étincelle de la surprise, quand, pieds nus dans leurs mules, se tenant par la main, cherchant dans la solidarité plus de courage pour affronter la grande joie qui fait peur presque autant que la grande peine, ils s'avanceront vers le sapin magique, dont les fruits sont jouets et sucreries. L'arbre de Noël, pour une petite tête de trois ou quatre ans, c'est, en effet, l'arbre phénoménal, l'arbre qui pousse des jouets.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1425-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1425-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dupire_louis_-_le_petit_monde</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Louis Dupire&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:05.766377+00:00" name="calibre:timestamp"/>
+        <meta content="petit monde, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

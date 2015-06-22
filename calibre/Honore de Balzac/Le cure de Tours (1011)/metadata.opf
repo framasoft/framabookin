@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1011</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e51ac494-4fa6-4899-b176-b126c244e511</dc:identifier>
+        <dc:title>Le curé de Tours</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études de moeurs. Deuxième livre, Scènes de la vie de province - Tome II. Sixième volume de l'édition Furne 1842. Extrait : L’abbé Chapeloud, égoïste aimable et indulgent, devina la passion de son ami, ce qui n’était pas difficile, et la lui pardonna, ce qui peut sembler moins facile chez un prêtre. Mais aussi le vicaire, dont l’amitié resta toujours la même, ne cessa-t-il pas de se promener avec son ami tous les jours dans la même allée du mail de Tours, sans lui faire tort un seul moment du temps consacré depuis vingt années à cette promenade. Birotteau, qui, considérait ses vœux involontaires comme des fautes, eût été capable, par contrition, du plus grand dévouement pour l’abbé Chapeloud. Celui-ci paya sa dette envers une fraternité si naïvement sincère en disant, quelques jours avant sa mort au vicaire, qui lui lisait la Quotidienne : ― Pour cette fois, tu auras l’appartement. Je sens que tout est fini pour moi. En effet, par son testament, l’abbé Chapeloud légua sa bibliothèque et son mobilier à Birotteau. La possession de ces choses, si vivement désirées, et la perspective d’être pris en pension par mademoiselle Gamard, adoucirent beaucoup la douleur que causait à Birotteau la perte de son ami le chanoine : il ne l’aurait peut-être pas ressuscité, mais il le pleura. Pendant quelques jours il fut comme Gargantua, dont la femme étant morte en accouchant de Pantagruel, ne savait s’il devait se réjouir de la naissance de son fils, ou se chagriner d’avoir enterré sa bonne Badbec, et qui se trompait en se réjouissant de la mort de sa femme, et déplorant la naissance de Pantagruel.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1007-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1007-5</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1045-7</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_le_cure_de_tours</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:14.002629+00:00" name="calibre:timestamp"/>
+        <meta content="curé de Tours, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

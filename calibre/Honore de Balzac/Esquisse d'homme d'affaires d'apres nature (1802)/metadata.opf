@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1802</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">91b85824-e3c2-4763-8893-e69598eed478</dc:identifier>
+        <dc:title>Esquisse d’homme d’affaires d’après nature</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études de moeurs. Troisième et quatrième livres, Scènes de la vie parisienne et scènes de la vie politique - Tome XII (sic, erreur pour le tome IV). Douzième volume de l'édition Furne 1842. Extrait : Il n’eut plus aucune inquiétude. Insensiblement, il se fit entre le sieur Denisart et le sieur Croizeau quelques confidences. Rien ne lie plus les hommes qu’une certaine conformité de vues en fait de femmes. Le papa Croizeau dîna chez celle qu’il nommait la belle de monsieur Denisart. Ici je dois placer une observation assez importante. Le cabinet de lecture avait été payé par le comte moitié comptant, moitié en billets souscrits par ladite demoiselle Chocardelle. Le quart d’heure de Rabelais arrivé, le comte se trouva sans monnaie. Or, le premier des trois billets de mille francs fut payé galamment par l’agréable carrossier, à qui le vieux scélérat de Denisart conseilla de constater son prêt en se faisant privilégier sur le cabinet de lecture ― « Moi, dit Denisart, j’en ai vu de belles avec les belles !... Aussi, dans tous les cas, même quand je n’ai plus la tête à moi, je prends toujours mes précautions avec les femmes. Cette créature de qui je suis fou, eh ! bien, elle n’est pas dans ses meubles, elle est dans les miens. Le bail de l’appartement est en mon nom... » Vous connaissez Maxime, il trouva le carrossier très-jeune ! Le Croizeau pouvait payer les trois mille francs sans rien toucher de long-temps, car Maxime se sentait plus fou que jamais d’Antonia...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0967-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0967-3</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0976-5</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_esquisse_d_homme_d_affaires_d_apres_nature</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:55.293625+00:00" name="calibre:timestamp"/>
+        <meta content="Esquisse d’homme d’affaires d’après nature" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

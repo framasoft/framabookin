@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1654</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2ccccdbc-e004-407e-87fd-5103b670de2f</dc:identifier>
+        <dc:title>L’Héroïne du Colorado</dc:title>
+        <dc:creator opf:file-as="Rouge, Gustave Le" opf:role="aut">Gustave Le Rouge</dc:creator>
+        <dc:creator opf:file-as="Rouge, Gustave Le" opf:role="aut">Henri de Brisay</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1918-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Dans ce récit de Gustave Le Rouge, Helen, la fille du général Todd Holmes fondateur d'une compagnie férioviaire, multiplie les action héroïques afin de contrer l'expansion de la compagnie rivale. Extrait : Le drame dont nous allons raconter les émouvantes péripéties constitue un véritable document de guerre, bien qu'il se soit déroulé avant l'ouverture des hostilités et l'entrée des États-Unis dans le conflit européen. Il montre combien était grave pour la grande république américaine le péril germanique qui la menaçait dans son unité et ses intérêts nationaux, sous quelles formes multiples et quels dehors trompeurs il était parvenu à l'envahir~; quels terribles ravages il eut fini par produire en elle si les événements qui bouleversent le monde et les crimes allemands dont elle fut elle-même victime, ne l'avaient appelée à se ranger fièrement et courageusement du côté des peuples qui défendent leurs droits et leur liberté. Il montre également quelle admirable et clairvoyante énergie l'Américain sait apporter -- et il nous en fournit actuellement des preuves héroïques -- dans la lutte qu'il entreprend et qu'il soutient contre tout ce qu'il sait devoir être un danger pour son pays.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0741-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0741-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">rouge_gustave_le_brisay_henri_de_-_l_heroine_du_colorado</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gustave Le Rouge&quot;: &quot;&quot;, &quot;Henri de Brisay&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:25.218308+00:00" name="calibre:timestamp"/>
+        <meta content="L’Héroïne du Colorado" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

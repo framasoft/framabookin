@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1518</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9ed1ac89-1f00-4d8c-a404-8ce048a2922b</dc:identifier>
+        <dc:title>Les travailleurs de la mer</dc:title>
+        <dc:creator opf:file-as="Hugo, Victor" opf:role="aut">Victor Hugo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Le roman est dédié à l'île de Guernesey et à ses habitants : Je dédie ce livre au rocher d'hospitalité et de liberté, à ce coin de vieille terre normande où vit le noble petit peuple de la mer, à l'île de Guernesey, sévère et douce, mon asile actuel, mon tombeau probable. Dans la seconde édition, Victor Hugo adjoint une présentation lumineuse de 80 pages, intitulée l'archipel de la Manche. Au-delà de l'histoire de machination crapuleuse et d'amour, des drames personnels des personnages campés avec une modernité surprenante, il s'agit d'un roman terraqué, emmêlant eau et terre, en quête d'un regard sur les océans, comme d'une ode à la mer. Mess Lethierry est propriétaire de la Durande, un steamer coulé par la machination criminelle de son capitaine, le sieur Clubin. Fou de rage à l'idée que le moteur révolutionnaire de son steamer soit définitivement perdu, Lethierry promet sa nièce, Déruchette, à celui qui récupèrera la machine de l'épave coincée entre des rochers au large de Guernesey. Gilliatt, aussi robuste que rêveur, mais surtout épris de Déruchette, accepte le défi. Après maintes péripéties, Gilliatt réussit sa mission mais s'aperçoit à son retour que Déruchette s'est éprise en son absence d'un jeune pasteur (Ebenezer), et que celui-ci l'aime en retour. Gilliatt se sacrifie et s'efface pour le bonheur de la jeune femme. Il se laisse mourir sur un rocher peu à peu submergé par la mer.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1074-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1074-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">hugo_victor_-_les_travailleurs_de_la_mer</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture avancée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Victor Hugo&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:57.895605+00:00" name="calibre:timestamp"/>
+        <meta content="travailleurs de la mer, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1552</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f1c4bf0-0b0b-4b97-b627-e6d51f2d70b6</dc:identifier>
+        <dc:title>Rapport sur les prix de vertu</dc:title>
+        <dc:creator opf:file-as="Loti, Pierre" opf:role="aut">Pierre Loti</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Rapport sur les prix de vertu, lu dans la séance publique annuelle de l'Académie francaise du 17 novembre 1898. Extrait : En somme, nous avons la fortune, le luxe, ou bien la fumée d’un peu de gloire, ou tout au moins les commodités de la vie, nos lendemains assurés, du bien-être en perspective jusqu’à l’heure de la mort. Ceux dont je vais vous parler n’ont rien, n’ont jamais eu rien ; pour la plupart, ils n’ont plus la santé ni la jeunesse, pas seulement le pain de chaque jour, et ils trouvent le moyen d’être bons, de l’être inépuisablement, à toute heure, durant des mois et des années ; ils trouvent le moyen d’être secourables et doux, de donner par miracle ce qu’ils n’ont pas, — et, dans leur dénuement sublime, ils sont heureux par la charité...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1111-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1111-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">loti_pierre_-_rapport_sur_les_prix_de_vertu</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Pierre Loti&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:04.567869+00:00" name="calibre:timestamp"/>
+        <meta content="Rapport sur les prix de vertu" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

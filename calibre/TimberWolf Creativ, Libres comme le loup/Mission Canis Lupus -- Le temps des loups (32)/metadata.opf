@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">81b7085e-02ce-4752-a068-1e1a6245711e</dc:identifier>
+        <dc:title>Mission Canis Lupus -- Le temps des loups</dc:title>
+        <dc:creator opf:file-as="TimberWolf Creativ, Libres comme le loup" opf:role="aut">TimberWolf Creativ, Libres comme le loup</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-04-30T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;i&gt;Une lune bleue se lève sur la plaine d’Alsace. Nous sommes en 2014. Quel jour exactement ? Nous n’en savons rien. D’ailleurs, cela n’a aucune importance. Les loups ne mesurent pas le temps comme les hommes. Or, c’est justement une meute de loup qui se trouve là, devant une grotte, sur un sommet des Vosges.&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;TimberWolf Créativ’ est une mini entreprise créé par des élèves en 1ère Bac Pro du lycée professionnel Camille Schneider de Molsheim. De leur projet est né ce livre numérique sur le loup en Alsace. Libres comme le loup, leurs outils le sont aussi, de même que leurs créations... avec la musique de La Poupée du Loup...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Framasoft, TimberWolf Creativ</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9791092674057</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Framabook</dc:subject>
+        <dc:subject>projet lycéen</dc:subject>
+        <dc:subject>mini-entreprise</dc:subject>
+        <meta content="{&quot;TimberWolf Creativ, Libres comme le loup&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-05-26T19:16:04.072657+00:00" name="calibre:timestamp"/>
+        <meta content="Mission Canis Lupus -- Le temps des loups" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1569</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9572b051-194d-4a10-96f6-17e65a096107</dc:identifier>
+        <dc:title>L’Inde (sans les Anglais)</dc:title>
+        <dc:creator opf:file-as="Loti, Pierre" opf:role="aut">Pierre Loti</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Ecrivain et officier de marine ayant parcouru le monde, il nous emmène cette fois en voyage à travers l’Inde avec le récit de ses pérégrinations dans le pays en 1900. Arrivé d’abord au Kérala (état appelé à cette époque Travancore), il explore ensuite le Tamil Nadu et les temples dravidiens de Madurai et Tanjore, il fait un arrêt à Pondichery, puis il remonte jusqu’au Deccan, à Hyderabad puis Golconde. Il fait ensuite une escale pour visiter les grottes d’Ellora dans le Maharastra puis se dirige dans le Rajasthan, avec comme étapes Udaipur et Jaipur. Il se rend ensuite à Gwalior puis repart à Madras (Chennai) avant de remonter à Agra puis Delhi en passant par Puri dans l’Orissa. La fin de son périple l’amène à Bénares, la ville dont il dit qu’on n’en revient jamais tout à fait soi-même.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1104-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1104-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">loti_pierre_-_l_inde</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Pierre Loti&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:07.850273+00:00" name="calibre:timestamp"/>
+        <meta content="L’Inde (sans les Anglais)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1205</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4e8f7cdc-4b2c-4a2b-861b-4d2314d55a6a</dc:identifier>
+        <dc:title>Sapho</dc:title>
+        <dc:creator opf:file-as="Daudet, Alphonse" opf:role="aut">Alphonse Daudet</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Elle connaissait les maisons où l’on avait à prix de fabrique une batterie de cuisine complète pour petit ménage, les quatre casseroles en fer, la cinquième émaillée pour le chocolat du matin ; jamais de cuivre, c’est trop long à nettoyer. Six couverts de métal avec la cuillère à potage et deux douzaines d’assiettes en faïence anglaise, solide et gaie, tout cela compté, préparé, emballé comme une dînette de poupée. Pour les draps, serviettes, linges de toilette et de table, elle connaissait un marchand, le représentant d’une grande fabrique de Roubaix, chez qui on payait à tant par mois ; et toujours à guetter les devantures, en quête de ces liquidations, de ces débris de naufrage que Paris amène continuellement dans l’écume de ses bords, elle découvrait au boulevard de Clichy l’occasion d’un lit superbe, presque neuf, et large à y coucher en rang les sept demoiselles de l’ogre.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0100-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0100-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">daudet_alphonse_-_sapho</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alphonse Daudet&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:53.713786+00:00" name="calibre:timestamp"/>
+        <meta content="Sapho" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

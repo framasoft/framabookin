@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1297</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4fccd27e-d8fb-4b80-a937-e32466c1811c</dc:identifier>
+        <dc:title>La San Felice III</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Revenant d'Aboukir où la flotte britannique a vaincu Bonaparte, l'Amiral Nelson est reçu en triomphateur à la cour de Naples. Garat, ambassadeur de la République, fait irruption dans cette manifestation d'hostilité anti-française et promet la guerre au Royaume de Naples. Trop vite cependant : le soir même, Salvato Palmieri, agent envoyé de Rome par le général Championnet pour informer Garat de la situation des Français et l'inviter à gagner du temps, est attaqué par les sbires de la reine Marie-Caroline de Naples. Laissé pour mort, il est recueilli par Luisa San Felice, jeune Napolitaine épouse du chevalier San Felice, vieil homme de lumières et bibliothécaire à la cour. Extrait : Sur mer, oui, madame, parce que la mer, c'est notre élément, à nous autres Anglais. Naître dans une île, c'est naître dans un vaisseau à l'ancre. Sur mer, je le dis hardiment, un marin anglais vaut deux marins français ; mais, sur terre, c'est autre chose ! ce que les Anglais sont sur mer, les Français le sont sur terre, madame. Dieu sait si je hais les Français : Dieu sait si je leur ai voué une guerre d'extermination ! Dieu sait enfin si je voudrais que tout ce qui reste de cette nation impie, qui renie son Dieu et qui coupe la tête à ses souverains, fût dans un vaisseau, et tenir, avec le pauvre Vanguard, tout mutilé qu'il est, ce vaisseau bord à bord ! Mais ce n'est point une raison, parce que l'on déteste un ennemi, pour ne pas lui rendre justice. Qui dit haine ne dit pas mépris. Si je méprisais les Français, je ne me donnerais pas la peine de les haïr.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0032-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0032-8</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0033-5</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_la_san_felice_iii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:12.573273+00:00" name="calibre:timestamp"/>
+        <meta content="San Felice III, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

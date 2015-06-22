@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1143</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9310a5cb-bc56-49ee-b6c6-0a9fd089aeec</dc:identifier>
+        <dc:title>La race future</dc:title>
+        <dc:creator opf:file-as="Bulwer-Lytton, Edward" opf:role="aut">Edward Bulwer-Lytton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Edward George Earle Bulwer-Lytton (25 mai 1803, Londres – 18 janvier 1873, Torquay), 1er baron Lytton de Knebworth, membre du conseil privé du roi, est un homme politique, poète, dramaturge et romancier britannique du XIXe siècle. Extrait : À mesure que je me rapprochais de la lumière, le gouffre s'élargissait, et je vis enfin, avec un étonnement que je ne puis vous décrire, une grande route unie au fond du précipice, illuminée, aussi loin que l'œil pouvait s'étendre, par des lampes à gaz placées à des intervalles réguliers, comme dans les rues de nos grandes villes, et j'entendais au loin comme un murmure de voix humaines. Je sais parfaitement qu'il n'y a pas d'autres mineurs que nous dans ce district. Quelles étaient donc ces voix ? Quelles mains humaines avaient pu niveler cette route et allumer ces lampes ? La croyance superstitieuse, commune à presque tous les mineurs, que les entrailles de la terre sont habitées par des gnomes ou des démons commençait à s'emparer de moi. Je frissonnais à la pensée de descendre plus bas et de braver les habitants de cette vallée intérieure. Je n'aurais d'ailleurs pu le faire, sans cordes, car, de l'endroit où je me trouvais jusqu'au fond du gouffre, les parois du rocher étaient droites et lisses. Je revins sur mes pas avec quelque difficulté. C'est tout.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1288-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1288-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">bulwer-lytton_edward_-_la_race_future</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Angleterre</dc:subject>
+        <meta content="{&quot;Edward Bulwer-Lytton&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:40.982552+00:00" name="calibre:timestamp"/>
+        <meta content="race future, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

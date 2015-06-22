@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1845</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bb3d6696-c46e-417c-b7f8-16a16fd67204</dc:identifier>
+        <dc:title>L'homme à l'oreille cassée</dc:title>
+        <dc:creator opf:file-as="About, Edmond" opf:role="aut">Edmond About</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>C'est un vieux rêve : conserver un homme en le desséchant , un savant allemand le réalise aux dépens d'un colonel français de Napoléon. Malentendus amusants, reflet de la société bourgeoise du Second Empire, et un savoureux raccourci d'Histoire, interpolant premier et second Empire, ère de l'oncle et règne du neveu... Extrait : On eût dit un homme endormi. La parfaite conservation du corps attestait les soins paternels du meurtrier. C'était vraiment une pièce remarquable, qui aurait pu soutenir la comparaison avec les plus belles momies européennes décrites par Vicq d'Azyr en 1779, et par Puymaurin fils en 1787. La partie la mieux conservée, comme toujours, était la face. Tous les traits avaient gardé une physionomie mâle et fière. Si quelque ancien ami du colonel eût assisté à l'ouverture de la troisième boîte, il aurait reconnu l'homme au premier coup d'œil.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0221-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0221-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">about_edmond_-_l_homme_a_l_oreille_cassee</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture aisée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Edmond About&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:19:03.743659+00:00" name="calibre:timestamp"/>
+        <meta content="homme à l'oreille cassée, L'" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

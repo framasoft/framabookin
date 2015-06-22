@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1524</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f8bbc8c2-99f1-40c8-9d95-461b18529b2e</dc:identifier>
+        <dc:title>Madame Gervaisais</dc:title>
+        <dc:creator opf:file-as="Goncourt, Edmond et Jules de" opf:role="aut">Edmond et Jules de Goncourt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1869-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Edmond (1822-1896) et Jules (1830-1870) de Goncourt ont publié, en commun, parmi d'autres écrits, des romans, dont \emph{Germinie Lacerteux} (1864) et \emph{Madame Gervaisais} (1869). Après la mort de Jules, Edmond publiera quatre autres romans, dont \emph{La Fille Élisa} en 1877. Mais ils sont surtout connus aujourd'hui pour un Journal (c'est Edmond qui en a écrit les trois quarts), véritable document sur la vie littéraire et culturelle de l'époque. Le Journal, dans son intégralité, n'a paru qu'en 1858. Extrait: Et cependant son fils, dans l'atrophiement de son cerveau et de sa langue, montrait, en grandissant, une faculté, un sens rare et unique, un véritable génie musical d'enfant, une précocité de prodige pour saisir, comprendre, retenir, goûter, savourer ce qu'il entendait. La musique devenait sa passion, le plaisir, l'intérêt, l'expansion de sa vie rétrécie et incomplète ; et avant de l'emmener en Italie, la plus grande joie que la mère pouvait donner à l'enfant, joie qu'il attendait dans la fièvre, c'était de le mener, tous les mardis, à l'Opéra. Le lendemain, Pierre-Charles passait obstinément sa journée entière, enfermé dans le cabinet aux robes, à tambouriner sur les vitres tous les grands morceaux de la veille.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1495-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1495-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">goncourt_edmond_et_jules_de_-_madame_gervaisais</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Edmond et Jules de Goncourt&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:59.085599+00:00" name="calibre:timestamp"/>
+        <meta content="Madame Gervaisais" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

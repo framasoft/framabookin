@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1431</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8f515f5e-6bae-4724-b83b-7bf552a6ba4d</dc:identifier>
+        <dc:title>La corde au cou</dc:title>
+        <dc:creator opf:file-as="Gaboriau, Émile" opf:role="aut">Émile Gaboriau</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1873-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Cette nuit de 1871, l'existence tranquille de la petite ville de Sauveterre, en Saintonge, est bouleversée: un incendie fait rage au Valpinson, la demeure du comte de Claudieuse. Celui-ci est d'ailleurs bien mal en point, car l'incendiaire lui a tiré dessus. Il ne l'a pas reconnu, il faisait trop sombre. Extrait : - Je sais ce que vous m'allez dire, poursuivit-il tranquillement. Il n'est pas un manuel de médecine légale qui ne tranche souverainement le problème dont il s'agit. Je les ai étudiés, ces manuels, qui sont vos armes à vous autres, messieurs les magistrats instructeurs. Je connais l'opinion de Devergie et celle d'Orfila, et celle encore de Casper, de Tardieu et de Briant et Chaudey... Je n'ignore pas que ces messieurs prétendent décider à un centimètre près la distance d'où un coup de fusil a été tiré. Je ne suis pas si fort. Je ne suis qu'un pauvre médecin de campagne, moi, un simple guérisseur... Et, avant de donner une opinion qui peut faire tomber la tête d'un pauvre diable, la tête d'un innocent, peut-être, j'ai besoin de réfléchir, de me consulter, de recourir à des expériences.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0223-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0223-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">gaboriau_emile_-_la_corde_au_cou</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Émile Gaboriau&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:39.830771+00:00" name="calibre:timestamp"/>
+        <meta content="corde au cou, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

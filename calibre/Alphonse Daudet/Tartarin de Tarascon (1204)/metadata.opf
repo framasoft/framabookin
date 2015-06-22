@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1204</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">631c7c35-aa77-451d-8cdc-5f4a125c2477</dc:identifier>
+        <dc:title>Tartarin de Tarascon</dc:title>
+        <dc:creator opf:file-as="Daudet, Alphonse" opf:role="aut">Alphonse Daudet</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Qui ne connait pas l'illustrissime Tartarin ? Tartarin possède un jardin exotique où il entretient un baobab dans un pot de réséda, de nombreuses armes et quantité de livres d'aventures. À Tarascon, les chasseurs sans gibier tirent sur leur casquette, après l'avoir lancée en l'air. Chacun dans le voisinage reconnaît que Tartarin est un vrai caractère, prêt à repousser toutes les attaques (qui ne viennent pas...). Il n'a jamais quitté Tarascon, mais l'arrivée d'une ménagerie et d'un lion en cage l'incite à partir pour l'Atlas... Extrait : Comme chasseur de casquettes, Tartarin de Tarascon n'avait pas son pareil. Tous les dimanches matin, il partait avec une casquette neuve ; tous les dimanches soir, il revenait avec une loque. Dans la petite maison du baobab, les greniers étaient pleins de ces glorieux trophées. Aussi, tous les Tarasconnais le reconnaissaient-ils pour leur maître, et comme Tartarin savait à fond le code du chasseur, qu'il avait lu tous les traités, tous les manuels de toutes les chasses possibles, depuis la chasse à la casquette jusqu'à la chasse au tigre birman, ces messieurs en avaient fait leur grand justicier cynégétique et le prenaient pour arbitre dans toutes leurs discussions.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0093-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0093-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">daudet_alphonse_-_tartarin_de_tarascon</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture intermédiaire</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alphonse Daudet&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:53.486363+00:00" name="calibre:timestamp"/>
+        <meta content="Tartarin de Tarascon" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

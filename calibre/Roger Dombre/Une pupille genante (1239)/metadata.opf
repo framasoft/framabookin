@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1239</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">06fc3a9d-cdc5-4001-812f-37fd5033c647</dc:identifier>
+        <dc:title>Une pupille gênante</dc:title>
+        <dc:creator opf:file-as="Dombre, Roger" opf:role="aut">Roger Dombre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Roger Dombre, de son vrai nom Mme Andrée Sisson, est l'un des auteurs populaires les plus prolifiques. La critique qualifiait la multitude de nouvelles et romans qu'elle a écrits, d'attachants, originaux et pétillants d'esprit. Extrait : Mon brave Lazare, je crois, ma parole, qu'on m'a changé ma pupille. Quel petit démon ! Je ne la connaissais pas sous ce nouvel aspect. As-tu vu comme elle a lancé son assiette à terre ? Ça m'a rappelé mon jeune temps, lorsque je faisais de même avec ma soupe. Ah ! ah ! ah ! et de quel air elle a déposé sa serviette sans réclamer son dessert ! Voilà ce que j'appelle montrer du caractère ; au moins elle a du sang dans les veines et ainsi ne ressemble plus à son père, mon pauvre neveu, qui ne savait pas résister en face à qui que ce fût.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1353-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1353-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dombre_roger_-_une_pupille_genante</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Roger Dombre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:00.984951+00:00" name="calibre:timestamp"/>
+        <meta content="pupille gênante, Une" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

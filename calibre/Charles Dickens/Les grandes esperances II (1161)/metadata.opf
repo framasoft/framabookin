@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1161</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c90a18a5-ca77-4c0b-925c-3fba2826280c</dc:identifier>
+        <dc:title>Les grandes espérances II</dc:title>
+        <dc:creator opf:file-as="Dickens, Charles" opf:role="aut">Charles Dickens</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Pip, orphelin élevé par une soeur revêche, vit rongé par la honte: celle d'être à la charge de son beau-père, le forgeron Joe Garnery - celle d'avoir aidé, dans les marais, un forçat évadé, Magwitch, et celle ,enfin, de sa pauvreté devant Estella, la pupille de la riche Melle Havisham. Il rêve de devenir digne de la conquérir quand on lui annonce que de grandes espérances lui sont permises grâce à un mystérieux mécène. Il part alors pour Londres où il acquiert le vernis social ,et aussi le snobisme ,du gentilhomme. Tout vacille lorsqu'il apprend que son bienfaiteur n'est autre que Magwitch... Extrait : Dites la vérité, ingrate que vous êtes ! s'écria miss Havisham en frappant avec colère le plancher de sa canne ; vous êtes fatiguée de moi ! » Estelle, avec un grand calme, leva les yeux sur elle, puis elle les rabaissa sur le feu ; son corps gracieux et son charmant visage exprimaient une froide impassibilité devant la colère de l'autre, qui était presque cruelle. « Cœur de pierre ! s'écria miss Havisham, cœur froid !... froid !...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1345-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1345-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dickens_charles_-_les_grandes_esperances_ii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture avancée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Angleterre</dc:subject>
+        <meta content="{&quot;Charles Dickens&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:44.579547+00:00" name="calibre:timestamp"/>
+        <meta content="grandes espérances II, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

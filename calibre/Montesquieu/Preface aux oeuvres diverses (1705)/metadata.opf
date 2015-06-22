@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1705</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">36991378-725e-4625-abf2-3ea605fd092e</dc:identifier>
+        <dc:title>Préface aux œuvres diverses</dc:title>
+        <dc:creator opf:file-as="Montesquieu, Charles-Louis de Secondat" opf:role="aut">Montesquieu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Ce volume contient les Œuvres diverses de Montesquieu ; on y trouvera un certain nombre de pièces inédites ou peu connues. Ce volume, composé de pièces diverses, achève la publication des *Œuvres complètes de Montesquieu.*Ce n’est pas sans regret que je vois finir un travail qui m’a occupé six années. Durant tout ce temps, il me semble que j’ai vécu dans la familiarité du président, dans l’intimité de ce grand esprit. Il m’a fait souvent oublier les petitesses de l’heure présente, en m’attachant par la largeur de ses vues, par la sérénité de ses idées. Puissé-je lui témoigner ma reconnaissance en lui conquérant de nouveaux lecteurs, c’est-à-dire des admirateurs et des amis!</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1128-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1128-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">montesquieu_charles-louis_de_secondat_-_preface_aux_oeuvres_diverses</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>non-fiction</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Montesquieu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:35.653466+00:00" name="calibre:timestamp"/>
+        <meta content="Préface aux œuvres diverses" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

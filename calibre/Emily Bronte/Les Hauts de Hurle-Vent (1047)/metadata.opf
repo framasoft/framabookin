@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1047</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d437dd1-0fe1-413d-a9c4-9a0b47f84dca</dc:identifier>
+        <dc:title>Les Hauts de Hurle-Vent</dc:title>
+        <dc:creator opf:file-as="Brontë, Emily" opf:role="aut">Emily Brontë</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Ce livre est l'œuvre d'une jeune fille qui n'avait pas encore atteint sa trentième année quand elle le composa et dont c'était, à l'exception de quelques pièces de vers, la première œuvre littéraire. Elle ne connaissait guère le monde, ayant toujours vécu au fond d'une province reculée et dans une réclusion presque absolue. Fille d'un pasteur irlandais et d'une mère anglaise qu'elle perdit en bas âge, sa courte vie s'écoula presque entière dans un village du Yorkshire, avec ses deux sœurs et un frère, triste sire qui s'enivrait régulièrement tous les soirs. Les trois sœurs Brontë trouvèrent dans la littérature un adoucissement à la rigueur d'une existence toujours austère et souvent très pénible. Après avoir publié un recueil de vers en commun, sans grand succès, elles s'essayèrent au roman. Tandis que Charlotte composait Jane Eyre, qui obtenait rapidement la faveur du public, Emily écrivait Wuthering Heights, qu'elle parvint, non sans peine, à faire éditer, sous le pseudonyme d'Ellis Bell, vers la fin de 1847, un an à peine avant sa mort (19 décembre 1848). Cette œuvre, âpre et rude comme la contrée qui l'a inspirée, choqua les lecteurs anglais de l'époque par la dureté des peintures morales et le dédain des conventions alors généralement admises dans le roman d'outre-Manche. Elle ne fut pas appréciée à sa valeur ; on ne devait lui rendre justice que plus tard. En France, ce roman n'est guère connu. Il mérite pourtant de l'être. Un bon juge, Léon Daudet, parlant du « tragique intérieur » dans la littérature anglaise, n'a pas craint de mentionner Wuthering Heights à côté de Hamlet. -- note du traducteur : Frédéric Delebecque, polytechnicien, colonel d'artillerie et militant de l'Action française,  né à Paris le 4 février 1870 et est mort à Saint-Servan-sur-Mer le 9 avril 1940. --</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0682-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0682-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">bronte_emily_-_les_hauts_de_hurle-vent</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture avancée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Angleterre</dc:subject>
+        <meta content="{&quot;Emily Brontë&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:21.180655+00:00" name="calibre:timestamp"/>
+        <meta content="Hauts de Hurle-Vent, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

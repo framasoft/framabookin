@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1806</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">92018daa-ff90-4111-9eca-facb1c74467f</dc:identifier>
+        <dc:title>Autre étude de femme</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Et je me suis mis en mesure auprès de cette petite dame à qui j'étais censé faire la cour. Charlotte se dressa de dessus le divan comme une biche surprise, trembla comme une feuille, me jeta l'un de ces regards dans lesquels les femmes oublient toute leur dignité, toute leur pudeur, leur finesse, leur grâce même, l'étincelant regard de la vipère poursuivie, forcée dans son coin, et me dit : – Et moi qui l'aimais ! moi qui combattais ! moi qui… . Elle fit sur la troisième idée, que je vous laisse à deviner, le plus beau point d'orgue que j'aie entendu. – Mon Dieu ! s'écria-t-elle, sommes-nous malheureuses ? nous ne pouvons jamais être aimées. Il n'y a jamais rien de sérieux pour vous dans les sentiments les plus purs. Mais, allez, quand vous friponnez, vous êtes encore nos dupes. – Je le vois bien, dis-je d'un air contrit. Vous avez beaucoup trop d'esprit dans votre colère pour que votre cœur en souffre.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0309-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0309-1</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0987-1</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_autre_etude_de_femme</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:56.079533+00:00" name="calibre:timestamp"/>
+        <meta content="Autre étude de femme" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

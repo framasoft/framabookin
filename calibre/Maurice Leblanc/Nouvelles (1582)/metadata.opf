@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1582</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c75fd3e4-89a8-4db2-8954-037792e75dc1</dc:identifier>
+        <dc:title>Nouvelles</dc:title>
+        <dc:creator opf:file-as="Leblanc, Maurice" opf:role="aut">Maurice Leblanc</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1930-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Deux nouvelles de Maurice Lebalnc : L'homme à la peau de bique suivi de Le cabochon d'émeraude. Extrait : L'automobile en effet -- une limousine -- gisait, retournée, démolie, tordue, informe. Près d'elle, le cadavre de la femme. Mais ce qu'il y avait de plus affreux, spectacle ignoble et stupéfiant, c'est que la tête de cette femme était écrasée, aplatie, invisible, sous un bloc de pierre énorme, posé là on ne pouvait savoir par quelle force prodigieuse. Quant à l'homme à la peau de bique, on ne le trouva point. On ne le trouva point sur le lieu de l'accident. On ne le trouva point non plus aux environs. En outre, des ouvriers qui descendaient la côte de Morgues déclarèrent qu'ils n'avaient rencontré personne. Donc, l'homme s'était sauvé dans les bois.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1618-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1618-3</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1601-5</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leblanc_maurice_-_nouvelles</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Maurice Leblanc&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:10.738256+00:00" name="calibre:timestamp"/>
+        <meta content="Nouvelles" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

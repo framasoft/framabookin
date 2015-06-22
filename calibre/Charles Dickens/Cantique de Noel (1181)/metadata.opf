@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1181</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">241e66dd-a9fc-440b-ad94-00d635da6dc4</dc:identifier>
+        <dc:title>Cantique de Noël</dc:title>
+        <dc:creator opf:file-as="Dickens, Charles" opf:role="aut">Charles Dickens</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Un soir de Noël, Scrooge, vieil homme d'affaires avare et cupide, a une hallucination en rentrant chez lui : il voit le fantôme de Jacob Marley, son associé décédé des années auparavant, dans le marteau de la porte. Sans s'inquiéter outre mesure de cette « sottise », Scrooge s'apprête à se mettre au lit lorsque la sonnette qui servait autrefois à appeler les domestiques se met à tinter. Or, cette sonnette aboutit à une pièce condamnée depuis bien longtemps, et personne n'a donc pu en tirer la ficelle... Voici le conte de Noël le plus connu de l'auteur, une belle histoire à lire au coin du feu, chaque année, juste avant Noël... Extrait : Oui, vraiment, la figure de Marley ! Ce n'était pas une ombre impénétrable comme les autres objets de la cour, elle paraissait au contraire entourée d'une lueur sinistre, semblable à un homard avarié dans une cave obscure. Son expression n'avait rien qui rappelât la colère ou la férocité, mais elle regardait Scrooge comme Marley avait coutume de le faire, avec des lunettes de spectre relevées sur son front de revenant. La chevelure était curieusement soulevée comme par un souffle ou une vapeur chaude, et, quoique les yeux fussent tout grands ouverts, ils demeuraient parfaitement immobiles. Cette circonstance et sa couleur livide la rendaient horrible ; mais l'horreur qu'éprouvait Scrooge à sa vue ne semblait pas du fait de la figure, elle venait plutôt de lui-même et ne tenait pas à l'expression de la physionomie du défunt.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0194-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0194-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dickens_charles_-_cantique_de_noel</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture intermédiaire</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Angleterre</dc:subject>
+        <meta content="{&quot;Charles Dickens&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:48.589438+00:00" name="calibre:timestamp"/>
+        <meta content="Cantique de Noël" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

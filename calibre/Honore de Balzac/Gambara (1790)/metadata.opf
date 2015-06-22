@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1790</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">800ae931-2d88-4b05-995b-e789fcbd8004</dc:identifier>
+        <dc:title>Gambara</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études philosophiques - Tome II. Quinzième volume de l'édition Furne 1842. Extrait : La vie d’une femme commence à sa première passion, dit Andrea, ma chère Marianna a commencé à vivre seulement du jour où elle a vu pour la première fois Paolo Gambara, il lui fallait une passion profonde à savourer, il lui fallait surtout quelque intéressante faiblesse à protéger, à soutenir. La belle organisation de femme dont elle est douée appelle peut-être moins encore l’amour que la maternité. Vous soupirez, Marianna ? J’ai touché à l’une des plaies vives de votre cœur. C’était un beau rôle à prendre pour vous, si jeune, que celui de protectrice d’une belle intelligence égarée. Vous vous disiez : Paolo sera mon génie, moi je serai sa raison, à nous deux nous ferons cet être presque divin qu’on appelle un ange, cette sublime créature qui jouit et comprend, sans que la sagesse étouffe l’amour. Puis, dans le premier élan de la jeunesse, vous avez entendu ces mille voix de la nature que le poëte voulait reproduire.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0975-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0975-8</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1012-9</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_gambara</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:52.894479+00:00" name="calibre:timestamp"/>
+        <meta content="Gambara" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1153</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">da8be55e-d1e8-40da-95e6-ad15d3562e74</dc:identifier>
+        <dc:title>Un drame au Labrador</dc:title>
+        <dc:creator opf:file-as="Dick, Wenceslas-Eugène" opf:role="aut">Wenceslas-Eugène Dick</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Jean Lehoulier doit fuir, avec sa famille, pour le Canada, car il a tué, dans une rixe, l'un de ses amis, Pierre Noël. Un jour, arrive un nouveau voisin, qui n'est autre que la veuve Noël et ses trois enfants. Les familles s'entraident, le fils Lehoulier, Arthur, tombe amoureux de la fille de Mme Noël, Suzanne. Le cousin d'Arthur, Gaspard, homme rustre, et méchant, est jaloux d'Arthur : il cherche à se débarrasser de lui et convoite Suzanne. Un jour, les deux jeunes gens partent pour une chasse aux phoques. Pris dans la tempête, seul Gaspard en revient. Gaspard peut maintenant épouser Suzanne... Extrait : Le léger canot avait à peine dépassé le milieu de la baie, que le vent se prit à souffler avec rage, soulevant des lames hautes comme des cabanes (c'est Wapwi qui parle, ne l'oublions pas) et ballottant l'embarcation comme une simple écorce... Il devint évident que le canot allait se faire coiffer, d'une minute à l'autre, par les lames qui déferlaient sous la brise... Cependant, l'Abénaki luttait héroïquement, tenant tête, l'aviron en mains, aux montagnes d'eau qui assaillaient sa pauvre pirogue... Déjà, on distinguait nettement la rive à atteindre. Le bruit du ressac sur le sable retentissait à travers les clameurs du vent... Encore quelques efforts, et l'on allait pouvoir remercier les manitous d'un salut si chèrement gagné, lorsqu'un craquement sinistre fit pousser un gémissement au vieux canotier... Son aviron s'était rompu par le milieu ! Dès lors, le naufrage devint inévitable...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0511-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0511-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dick_wenceslas-eugene_-_un_drame_au_labrador</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Wenceslas-Eugène Dick&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:42.958500+00:00" name="calibre:timestamp"/>
+        <meta content="drame au Labrador, Un" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1308</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5d2a7e83-aa4f-4843-a40e-e8eb3c9c9d51</dc:identifier>
+        <dc:title>La fille du marquis I</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Le docteur mystérieux et sa suite, La fille du marquis, constituent un ensemble également connu sous le nom Création et rédemption. le docteur Jacques Mérey, médecin passionné par les recherches scientifiques et ésotériques, qui se refuse aux riches mais soigne les pauvres et les animaux, les guérissant même miraculeusement. Il découvre un jour, dans une misérable cabane, soignée par un bûcheron et sa mère, une petite «chose» complètement désarticulée et muette, une fillette abandonnée de ses parents. Pour Mérey, il s'agit là d'un grand défi à sa science: transformer ce tas de chair à peine vivant en une «personne». On lui confie l'enfant et il se met, dès lors, au travail. Extrait : - Toi qui me sers à nommer le mot que je cherche : Zeus, Uranus, Jéhovah, -- Dieu, -- créateur invisible et inconnu des mondes, essence céleste ou matière immortelle, je ne crois pas que l'homme individuellement ait droit à un de tes regards ; mais je crois que tu couvres toute l'espèce de ta protection toute-puissante, et que, de même que les flottes subissent les vents, les grands événements des peuples se courbent sous ta puissante impulsion. De quelque façon qu'il ait été créé, l'homme vient de toi ; et si tu l'as créé seul, pauvre et nu, c'était pour lui laisser le mérite et lui donner l'expérience de créer à son tour la famille d'abord, la tribu ensuite, et enfin la société. La société constituée, restait à l'enrichir matériellement par le travail, à l'éclairer par l'intelligence. Depuis six mille ans, chacun coopère à ce but selon sa force et selon son génie. Or, quel est le résultat que tu as dû espérer de tant d'efforts ? la plus grande somme de bonheur possible répandue sur le plus grand nombre d'individus. Qui a le plus fait pour accomplir cette œuvre immense, ou des monarchies de toute espèce qui se succèdent depuis mille ans à partir de la monarchie féodale de Hugues Capet jusqu'à la monarchie constitutionnelle de Louis XVI, ou des cinq années de révolution qui viennent de s'écouler ? qui a donné des droits égaux à l'homme ? qui lui a donné le pain de l'esprit par l'éducation, le pain du corps par le partage des terres ? C'est notre sainte Révolution, c'est notre bien-aimée République. La France est ton élue, ô mon Dieu ! puisque tu l'as choisie en quelque sorte comme victime et offerte comme exemple au genre humain. Eh bien ! que son sang coule et le mien tout le premier ; qu'elle soit le Christ des hommes, et que ces trois mots : Liberté, Égalité, Fraternité, prononcés par lui et adoptés par lui, deviennent le lumineux soleil de l'avenir ! Adieu, patrie ! adieu, patrie ! adieu, patrie !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1379-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1379-3</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1380-9</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_la_fille_du_marquis_i</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:14.795336+00:00" name="calibre:timestamp"/>
+        <meta content="fille du marquis I, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

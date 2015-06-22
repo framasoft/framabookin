@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1687</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f8b0775-1669-42f9-8a52-80b312690205</dc:identifier>
+        <dc:title>La conquête de Plassans</dc:title>
+        <dc:creator opf:file-as="Zola, Émile" opf:role="aut">Émile Zola</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1874-12-14T23:00:00+00:00</dc:date>
+        <dc:description>La Conquête de Plassans est le quatrième de la série Les Rougon-Macquart. L’action se situe à Plassans, le berceau des Rougon-Macquart, petite ville que Zola a imaginée en s'inspirant d'Aix-en-Provence. La ville, acquise à Napoléon III grâce aux intrigues de la famille Rougon (La Fortune des Rougon), est passée aux légitimistes. Un prêtre bonapartiste, l’abbé Faujas, y est envoyé par le pouvoir pour la reconquérir. Extrait : A partir de ce moment, avec la meilleure foi du monde et sans songer à mal, il fit de ses enfants des espions qu'il attacha aux talons de l'abbé. Octave et Serge durent lui répéter tout ce qui se disait dans la ville, ils reçurent aussi l'ordre de suivre le prêtre, quand ils le rencontreraient. Mais cette source de renseignements fut vite tarie. La sourde rumeur occasionnée par la venue d'un vicaire étranger au diocèse s'était apaisée.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0239-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0239-1</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0242-1</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">zola_emile_-_la_conquete_de_plassans</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Émile Zola&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:31.899061+00:00" name="calibre:timestamp"/>
+        <meta content="conquête de Plassans, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

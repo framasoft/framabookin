@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1588</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f4ec7ff-ee2e-4257-8119-30948d41dd75</dc:identifier>
+        <dc:title>La troisième jeunesse de Madame Prune</dc:title>
+        <dc:creator opf:file-as="Loti, Pierre" opf:role="aut">Pierre Loti</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La troisième jeunesse de Madame Prune est le résultat d'une dernière visite au Japon, qui navigue entre carne de voyage et narration. Extrait : Qu’on se dépêche de m’amener ces dames. Je gèle et je m’ennuie, là tout seul, pieds nus sur ces nattes blanches. Un petit vent, rafraîchi à la neige, passe en gémissant entre les panneaux de papier qui servent de murailles ; à part ma dînette, posée à terre, et mes coussins de velours noir, rien dans cette vaste chambre, rien qu’un frêle bouquet là-bas, dans un vase, sur un trépied de laque, — un bouquet d’un goût exquis, j’en conviens ; mais c’est égal, cette nudité absolue est pour me geler davantage encore. J’ai froid, froid jusqu’à l’âme ; je me sens ridicule et pitoyable, accroupi au milieu de la solitude qu’est cette chambre. Vite, qu’on m’amène ces dames, ou je m’en vais !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1096-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1096-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">loti_pierre_-_la_troisieme_jeunesse_de_madame_prune</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Pierre Loti&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:11.956067+00:00" name="calibre:timestamp"/>
+        <meta content="troisième jeunesse de Madame Prune, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

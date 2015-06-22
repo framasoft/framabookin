@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1211</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a4278f7e-a435-4b5a-8d57-312da0f9872f</dc:identifier>
+        <dc:title>Un printemps à Pétersbourg</dc:title>
+        <dc:creator opf:file-as="Dostoïevski, Fiodor" opf:role="aut">Fiodor Dostoïevski</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Les Annales de Pétersbourg est une chronique. Extrait : Nous connaissons notre caractère. Souvent nous sommes fâchés contre nous-mêmes et contre les devoirs qui nous sont imposés par l'Europe. Nous sommes sceptiques, nous tenons beaucoup à l'être, et, avec un grommellement sauvage, nous nous écartons de l'enthousiasme, nous en défendons notre âme slave sceptique. Parfois on a le désir de se réjouir. Mais si l'on allait tomber mal à propos, faire une gaffe, se réjouir à tort, que dirait-on de nous ? Ce n'est pas en vain que nous aimons tant les convenances. D'ailleurs, laissons cela. Mieux vaut nous souhaiter un bon été, pour nous bien promener et nous reposer. Où allons-nous, messieurs ? À Reval ? À Helsingfors ? Dans le midi, à l'étranger, ou, tout simplement, à la campagne ? Que ferons-nous là-bas ? Pêcher à la ligne, danser (les bals d'été sont si jolis), nous ennuyer un peu, ou garder notre service à la ville, et, en général, unir l'utile à l'agréable ?</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1358-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1358-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dostoievski_fiodor_-_un_printemps_a_petersbourg</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Russie</dc:subject>
+        <meta content="{&quot;Fiodor Dostoïevski&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:54.928606+00:00" name="calibre:timestamp"/>
+        <meta content="printemps à Pétersbourg, Un" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

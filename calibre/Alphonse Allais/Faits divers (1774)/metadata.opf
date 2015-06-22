@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1774</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">47327b4e-ac69-4700-a7d7-4979e0ecfeeb</dc:identifier>
+        <dc:title>Faits divers</dc:title>
+        <dc:creator opf:file-as="Allais, Alphonse" opf:role="aut">Alphonse Allais</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : On avait tellement l'habitude, au régiment, de l'appeler Peau-de­-Balle, que, maintenant, impossible de retrouver son vrai nom. Aussi, si vous n'y voyez pas d'inconvénient, va pour Peau-de-Balle ! Un étrange type, ce Peau-de-Balle, mystérieux, flemmard comme une brigade de lézards, loyal à faire pâlir Bayard et sa descendance. Je l'ai vu exécuter bien peu de corvées, mais jamais, au grand jamais, je ne l'ai entendu proférer le plus petit mensonge, tenter la plus mince carotte contraire aux lois de l'honneur.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1219-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1219-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">allais_alphonse_-_faits_divers</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alphonse Allais&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:49.711958+00:00" name="calibre:timestamp"/>
+        <meta content="Faits divers" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

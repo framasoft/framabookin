@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1574</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4f4be34a-978c-40b1-9b50-294608c7a519</dc:identifier>
+        <dc:title>Annibal</dc:title>
+        <dc:creator opf:file-as="Legendre, Napoléon" opf:role="aut">Napoléon Legendre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1898-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Journaliste et chroniqueur, Napoléon Legendre a publié de la poésie (dont les Perce-Neige en 1886) et deux romans : Sabre et scalpel, et en 1898, Annibal, qui rappelle le Jean Rivard de Gérin-Lajoie. En 1877, il a publié aussi deux volumes de causeries : Échos de Québec. Extrait : Le précepteur parti, Annibal triomphait. Mais le triomphe ne fut pas de longue durée. M. Ladouceur, malgré son indulgence, commençait à se lasser des espiègleries de son fils, et les plaintes nombreuses qui se faisaient entendre chaque jour, de la part des domestiques et même des étrangers, lui sonnaient désagréablement aux oreilles. Rien ne lui coûtait ; il avait constamment des querelles avec les enfants du voisinage ; il tourmentait les chiens et les chats ; il s'exerçait à tirer de l'arc sur les volailles des basses-cours ; il escaladait les murs et dérobait les fruits, sans se gêner de casser les branches. Et la voix même de sa mère ne suffisait plus pour le retenir. On avait épuisé tous les moyens ; il n'en restait plus que deux à employer : c'était de mettre Annibal au collège, ou dans une maison de correction. M. Ladouceur choisit naturellement la première alternative, tout en songeant qu'il serait peut-être réduit, avant longtemps, à recourir à la seconde.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1622-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1622-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">legendre_napoleon_-_annibal</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Napoléon Legendre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:08.811397+00:00" name="calibre:timestamp"/>
+        <meta content="Annibal" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6f1ba053-3aab-44ba-87c1-49fc2600aba5</dc:identifier>
+        <dc:title>Beginning with Code Aster. A practical introduction to finite element method using Code_Aster, Gmsh and Salome</dc:title>
+        <dc:creator opf:file-as="Aubry, Jean-Pierre" opf:role="aut">Aubry, Jean-Pierre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-12-01T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;In the crowd of Finite Element Software, Code_Aster ranks amongst the most powerful, but unlike it’s sibling it comes under GNU GPL license.&lt;/p&gt;
+&lt;p&gt;Because it is powerful, it is complicated. As it was designed to be used by the highly knowledgeable engineers of EDF, Code_Aster user interface is spartan. And although copious the associated documentation is on the heavy side. Therefore the learning curve is quite steep at the beginning.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Beginning with Code_Aster&lt;/em&gt; intends to provide a step by step approach to ease the learning curve.&lt;/p&gt;
+&lt;p&gt;This book focuses on practical solutions: how to put the problem, how to solve it and how to interpret the results. It is dedicated to mechanical problems, static, linear and non linear, including contact and friction. Together with modal and buckling analysis. With beams, rods, cables, plates and 3D solid models. As far as pre and post-processing are concerned Gmsh and Salome are introduced. If this book is primarily intended for the beginner, the experienced user may find some useful hints, here or there, throughout the chapters.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Framasoft</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9791092674033</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Framabook</dc:subject>
+        <dc:subject>finite element</dc:subject>
+        <dc:subject>Code Aster Gmsh and Salome</dc:subject>
+        <dc:subject>manual</dc:subject>
+        <meta content="{&quot;Aubry, Jean-Pierre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-05-26T17:01:21.933141+00:00" name="calibre:timestamp"/>
+        <meta content="Beginning with Code Aster. A practical introduction to finite element method using Code_Aster, Gmsh and Salome" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

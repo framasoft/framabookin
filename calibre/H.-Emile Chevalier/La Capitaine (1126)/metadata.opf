@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1126</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e9c86154-bf56-4ad1-b42c-6aa5ecf25b1d</dc:identifier>
+        <dc:title>La Capitaine</dc:title>
+        <dc:creator opf:file-as="Chevalier, H.-Émile" opf:role="aut">H.-Émile Chevalier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Henri-Émile Chevalier, né le 13 septembre 1828 à Châtillon-sur-Seine, mort le 26 août 1879 à Paris, est un homme de lettres français. Extrait : Quand, en sanglotant, ma mère et toi, vous avez dit que vous vouliez m'embrasser une dernière fois, je vous ai entendues : j'aurais voulu crier, faire un mouvement, briser ces chaînes de plomb qui me tenaient immobile ; j'aurais voulu vous dire : mais je ne suis pas mort ! Je vis, consolez-vous, séchez vos larmes ! Je suppliais Dieu de me rendre les sens pour une minute, pour une seconde ; je le conjurais de faire glisser un souffle, un seul sur mes lèvres, d'animer mon cœur d'un battement, mon sang d'une pulsation ; mais je ne distinguais rien, ne recevais d'impression que par l'ouïe : un corps inerte, de glace, accessible seulement au son, emprisonnait mon esprit.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1297-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1297-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">chevalier_h_-emile_-_la_capitaine</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;H.-Émile Chevalier&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:37.597339+00:00" name="calibre:timestamp"/>
+        <meta content="Capitaine, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

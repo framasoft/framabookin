@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4dc752bd-46a0-450a-b2be-ead4abeb21d4</dc:identifier>
+        <dc:title>R et espace. Traitement de l'information géographique</dc:title>
+        <dc:creator opf:file-as="Groupe ElementR" opf:role="aut">Groupe ElementR</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-09-14T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Un irremplaçable support technique pour les utilisateurs de R appliqué à l’analyse de l’information géographique !&lt;/p&gt;
+&lt;p&gt;Ce manuel a pour ambition d’offrir un support technique à des étudiants, enseignants-chercheurs, ingénieurs de toutes disciplines qui partagent notre intérêt pour l’utilisation des méthodes d’analyse de l’information géographique et souhaiteraient pouvoir développer leurs travaux à l’aide du logiciel libre &lt;strong&gt;R&lt;/strong&gt;. Il est accompagné de jeux de données et peut être utilisé comme support pédagogique.&lt;/p&gt;
+&lt;p&gt;Plus spécifiquement, ce manuel propose une prise en main dédiée à des personnes s’initiant simultanément au traitement de données géographiques et à la programmation avec &lt;strong&gt;R&lt;/strong&gt;. L’éclairage est celui de l’analyse spatiale, à savoir des méthodes mises en œuvre pour l’étude des organisations dans l’espace.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Framasoft</dc:publisher>
+        <dc:language>fra</dc:language>
+        <dc:subject>Framabook</dc:subject>
+        <dc:subject>géographie</dc:subject>
+        <dc:subject>R</dc:subject>
+        <dc:subject>information géographique</dc:subject>
+        <dc:subject>statistique</dc:subject>
+        <meta content="{&quot;Groupe ElementR&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-09-15T08:41:33.280000+00:00" name="calibre:timestamp"/>
+        <meta content="R et espace. Traitement de l'information géographique" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1247</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aa393da6-ab42-4aae-ae01-32ccdb0c45df</dc:identifier>
+        <dc:title>Le page du duc de Savoie III</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Emmanuel Philibert, duc de Savoie sans territoires, est le commandant en chef des troupes de Charles Quint en Artois. Il est entouré de son fidèle écuyer Scianca-Fero d'une force redoutable et de son page Léone sensible et frêle auquel il semble tendrement attaché. Il faut dire que Léone est en fait une jeune fille, Léona, qui a dû changer d'identité pour survivre aux ennemis de son père. Le comte de Waldeck ayant commis des actes de pillage, Emmanuel Philibert se voit contraint de le tuer, s'attirant ainsi la haine de son fils Extrait : L'arrivée du connétable n'était pas plus un mystère pour la duchesse de Valentinois que le retour du duc de Guise n'était un secret pour la reine Catherine de Médicis : sous le couvert de la France et sous la rubrique de la royauté, chacun jouait son jeu, Catherine criant : « Guise ! » et la duchesse de Valentinois : « Montmorency ! » De même qu'on tenait de hardis propos sur la reine et le cardinal, de même les mauvaises langues s'exerçaient, nous croyons l'avoir déjà dit, sur la favorite et le connétable. Maintenant, comment un vieillard de soixante-huit ans, maussade, brutal et grognon, se serait-il trouvé le rival d'un roi de quarante ans, plein d'élégance et de galanterie ? C'est là un de ces mystères dont nous laisserons l'explication à ces habiles anatomistes qui prétendent qu'aucune fibre du cœur n'échappe à leur investigation. Ce qu'il y avait de réel, d'incontestable, de visible à tous les yeux, c'était l'obéissance presque passive de la belle Diane, cette favorite plus reine que la reine, non seulement aux désirs, mais encore aux caprices du connétable.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1392-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1392-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_le_page_du_duc_de_savoie_iii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:02.597664+00:00" name="calibre:timestamp"/>
+        <meta content="page du duc de Savoie III, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

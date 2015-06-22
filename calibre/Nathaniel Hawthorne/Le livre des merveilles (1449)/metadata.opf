@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1449</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a00f0d18-3548-439a-9314-d2eebc5a767e</dc:identifier>
+        <dc:title>Le livre des merveilles</dc:title>
+        <dc:creator opf:file-as="Hawthorne, Nathaniel" opf:role="aut">Nathaniel Hawthorne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1852-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Le Livre des merveilles (A Wonder-Book for Boys and Girls), est un recueil de nouvelles pour enfants de Nathaniel Hawthorne publié en 1852. Il y réécrit plusieurs récits de la mythologie grecque. Les histoires racontées sont les suivantes : The Gorgon's Head (la tête de la Gorgone, Persée), The Golden Touch (le toucher d'or, Midas), The Paradise of Children (le paradis des enfants, Pandore), The Three Golden Apples (les trois pommes d'or, un des douze Travaux d'Héraclès), The Miraculous Pitcher (Philémon et Baucis), The Chimæra (la chimère, Bellérophon). Extrait : «~Il serait bien fâcheux, dit-il, qu'un homme de mon érudition (pour ne pas parler de l'originalité de son imaginative) ne fût pas capable d'offrir chaque jour une histoire différente à des enfants comme vous. Écoutez bien~; je vais vous dire un de ces contes de nourrice, inventés pour amuser la Terre, notre vieille, vieille grand-mère, quand elle était petite fille en jupon et en sarrau. Il y en a une centaine, et je n'en reviens pas de ce qu'ils n'ont point été recueillis dans des livres d'images destinés aux petites filles et aux petits garçons. Au lieu de cela, les barbes grises se creusent la tête à les étudier dans de gros bouquins grecs couverts de poussière, et cherchent à savoir comment et pourquoi ils ont été inventés.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1548-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1548-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">hawthorne_nathaniel_-_le_livre_des_merveilles</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>conte</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Etats-Unis</dc:subject>
+        <meta content="{&quot;Nathaniel Hawthorne&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:43.430581+00:00" name="calibre:timestamp"/>
+        <meta content="livre des merveilles, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

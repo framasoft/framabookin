@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ee4607ec-b56e-415a-a64b-8163659fce8d</dc:identifier>
+        <dc:title>Geektionnerd, tome 1. Rencontre du troisième type</dc:title>
+        <dc:creator opf:file-as="Giraudot, Simon &quot;Gee&quot;" opf:role="aut">Simon "Gee" Giraudot</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-31T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;La série GKND raconte les péripéties de trois étudiants passionnés de science et d'informatique : ces personnages sont issus du Geektionnerd, une bande dessinée humoristique diffusée librement sur Internet et proposant quotidiennement une définition en lien avec les cultures dites &lt;i&gt;geeks&lt;/i&gt;, plus particulièrement celle des logiciels libres.&lt;/p&gt;</dc:description>
+        <dc:publisher>Framasoft</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9782953918717</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Framabook</dc:subject>
+        <dc:subject>geektionnerd</dc:subject>
+        <dc:subject>bande dessinée</dc:subject>
+        <dc:subject>BD</dc:subject>
+        <meta content="{&quot;Simon \&quot;Gee\&quot; Giraudot&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-05-26T11:34:01+00:00" name="calibre:timestamp"/>
+        <meta content="Geektionnerd, tome 1. Rencontre du troisième type" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

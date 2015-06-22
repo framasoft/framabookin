@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">952</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6db4d011-f6ae-4a35-8cb0-e61639bc5b31</dc:identifier>
+        <dc:title>Sarrasine</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études de moeurs. Troisième livre, Scènes de la vie parisienne - Tome II. Dixième volume de l'édition Furne 1842. Extrait : Avez-vous jamais rencontré de ces femmes dont la beauté foudroyante défie les atteintes de l’âge, et qui semblent à trente-six ans plus désirables qu’elles ne devaient l’être quinze ans plus tôt ? Leur visage est une âme passionnée, il étincelle ; chaque trait y brille d’intelligence : chaque pore possède un éclat particulier, surtout aux lumières. Leurs yeux séduisants attirent, refusent, parlent ou se taisent ; leur démarche est innocemment savante ; leur voix déploie les mélodieuses richesses des tons les plus coquettement doux et tendres. Fondés sur des comparaisons, leurs éloges caressent l’amour propre le plus chatouilleux. Un mouvement de leurs sourcils, le moindre jeu de l’œil, leur lèvre qui se fronce, impriment une sorte de terreur à ceux qui font dépendre d’elles leur vie et leur bonheur. Inexpériente de l’amour et docile au discours, une jeune fille peut se laisser séduire ; mais pour ces sortes de femmes, un homme doit savoir, comme monsieur de Jaucourt, ne pas crier quand, en se cachant au fond d’un cabinet, la femme de chambre lui brise deux doigts dans la jointure d’une porte.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1036-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1036-5</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1025-9</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_sarrasine</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture avancée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:02.206624+00:00" name="calibre:timestamp"/>
+        <meta content="Sarrasine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

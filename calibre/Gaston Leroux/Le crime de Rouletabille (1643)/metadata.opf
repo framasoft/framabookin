@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1643</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">760155c5-78b2-4b57-a282-078a401ae53a</dc:identifier>
+        <dc:title>Le crime de Rouletabille</dc:title>
+        <dc:creator opf:file-as="Leroux, Gaston" opf:role="aut">Gaston Leroux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1921-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Rouletabille se trouve accusé du meurtre d'un éminent professeur et de sa femme, Ivana, qui était la collaboratrice de ce dernier. Dans cette aventure, Leroux renoue avec les premières enquêtes de Rouletabille, surtout à la fin du livre où les révélations se déroulent au tribunal. Le narrateur de cette histoire se trouve être de nouveau Sainclair, qui racontait les premières aventures de Rouletabille. Extrait : Je n’oublierai jamais l’accent de ce « Je vous en prie ! » Certes était douce la prière, et nullement menaçante… J’étais un peu pâle quand j’abordai Mme Boulenger. Il me paraissait impossible qu’elle n’eût pas entendu. J’avais bien entendu, moi !… et Thérèse n’était guère alors plus éloignée que moi de la fenêtre… Mais sans doute me trompai-je, car sa figure ne changea point et elle me souhaita la bienvenue avec un naturel parfait.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0270-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0270-4</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1626-8</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leroux_gaston_-_le_crime_de_rouletabille</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture intermédiaire</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gaston Leroux&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:23.035167+00:00" name="calibre:timestamp"/>
+        <meta content="crime de Rouletabille, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1610</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cb23626e-741d-4327-a56a-738b69826106</dc:identifier>
+        <dc:title>Au Maroc</dc:title>
+        <dc:creator opf:file-as="Loti, Pierre" opf:role="aut">Pierre Loti</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Le récit de la traversée du Maroc par l'écrivain français invité chez le Sultan de Fès. Une description très imagée du Maroc de la fin du XIXe siècle ... Extrait : ...de chaque côté de notre colonne, en sens inverse de notre marche, toutes les cinq minutes, des groupes de cavaliers arabes passaient comme le vent. Sur ces tapis de plantes, sur ces sables, on entendait à peine le galop de leurs chevaux ; tout le bruit qu’ils faisaient en fendant l’air était un léger cliquetis de cuivre et un flottement échevelé de burnous ; on croyait plutôt entendre une bourrasque dans des voiles de navire, ou un grand vol d’oiseaux. A peine aussi avait-on le temps de se garer pour n’être pas frôlé par eux. Et, au moment même où ils nous croisaient, ils poussaient un cri rauque, puis tiraient à poudre un coup de leur long fusil, nous couvrant de fumée.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1086-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1086-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">loti_pierre_-_au_maroc</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Pierre Loti&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:16.455444+00:00" name="calibre:timestamp"/>
+        <meta content="Au Maroc" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

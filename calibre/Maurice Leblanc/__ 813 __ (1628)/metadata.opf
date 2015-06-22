@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1628</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0126ab2d-c3be-4644-ba87-a18587d1caa6</dc:identifier>
+        <dc:title>« 813 »</dc:title>
+        <dc:creator opf:file-as="Leblanc, Maurice" opf:role="aut">Maurice Leblanc</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1910-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Le ton de ce roman est assez différent des trois premiers : on a affaire à un Arsène Lupin complexe, inquiétant, dont l'objectif n'est ni plus ni moins que de dominer l'Europe. 813 contient aussi un nombre assez grand de morts très violentes, et un ennemi redoutable, invisible et particulièrement inquiétant. Extrait : - écoute, Kesselbach, je vais te faire une proposition. Si riche, si gros monsieur que tu sois, il n'y a pas entre toi et moi tant de différence. Le fils du chaudronnier d'Augsbourg et Arsène Lupin, prince des cambrioleurs, peuvent s'accorder sans honte ni pour l'un ni pour l'autre. Moi, je vole en appartement ; toi, tu voles en Bourse. Tout ça, c'est kif-kif. Donc, voilà, Kesselbach. Associons-nous pour cette affaire. J'ai besoin de toi puisque je l'ignore. Tu as besoin de moi parce que, tout seul, tu n'en sortiras pas. Barbareux est un niais. Moi, je suis Lupin. Ça colle ? Un silence. Lupin insista, d'une voix qui tremblait : - Réponds, Kesselbach, ça colle ? Si oui, en quarante-huit heures, je te le retrouve, ton Pierre Leduc. Car il s'agit bien de lui, hein ? C'est ça, l'affaire ? Mais réponds donc ! Qu'est-ce que c'est que cet individu ? Pourquoi le cherches-tu ? Que sais-tu de lui ? Je veux savoir.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1593-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1593-3</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1610-7</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leblanc_maurice_-_813</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Maurice Leblanc&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:20.065590+00:00" name="calibre:timestamp"/>
+        <meta content="« 813 »" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

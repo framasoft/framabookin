@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">949</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6d1dca85-5cf1-459b-9c70-4c9a0f2fd6e3</dc:identifier>
+        <dc:title>Un début dans la vie</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études de moeurs. Premier livre, Scènes de la vie privée - Tome IV. Quatrième volume de l'édition Furne 1842. Extrait : Sa femme, son beau-père et ses amis s’étaient saignés. Cette superbe diligence, il était allé la voir la veille chez les peintres, elle ne demandait qu’à rouler ; mais, pour la faire rouler le lendemain, il fallait accomplir le paiement. Or, il manquait mille francs à Pierrotin ! Endetté pour ses loyers avec l’aubergiste, il n’avait osé lui demander cette somme. Faute de mille francs, il s’exposait à perdre les deux mille francs donnés d’avance, sans compter cinq cents francs, prix du nouveau Rougeot, et trois cents francs de harnais neufs pour lesquels il avait obtenu trois mois de crédit. Et poussé par la rage du désespoir et par la folie de l’amour-propre, il venait d’affirmer que sa nouvelle voiture roulerait demain dimanche. En donnant quinze cents francs sur deux mille cinq cents, il espérait que les carrossiers attendris lui livreraient la voiture ; mais il s’écria tout haut, après trois minutes de méditation : ― Non, c’est des chiens finis ! des vrais carcans.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1037-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1037-2</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1047-1</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_un_debut_dans_la_vie</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:01.614791+00:00" name="calibre:timestamp"/>
+        <meta content="début dans la vie, Un" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

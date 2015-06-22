@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1490</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">425a8aaf-cb3e-43db-8aad-1bcaa72e18c2</dc:identifier>
+        <dc:title>Les récits d’Adrien Zograffi I</dc:title>
+        <dc:creator opf:file-as="Istrati, Panaït" opf:role="aut">Panaït Istrati</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1923-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Figure assez connue de la littérature de l’entre-deux-guerres, Panait Istrati tombe dans un oubli quasi complet pendant plusieurs décennies ; son œuvre est interdite en France durant la guerre et en Roumanie durant le régime communiste. Rattrapé par la misère, malade et seul, il tente de se suicider à Nice en janvier 1921. Il est sauvé et on trouve sur lui une lettre non envoyée qu'il avait écrite à Romain Rolland. Celui-ci en est averti et lui répond promptement en l'encourageant dans sa démarche d'écrivain. Durant des séjours en Union Soviètique, il devine, derrière l’accueil réservé aux hôtes étrangers, la réalité de la dictature stalinienne, qui lui inspire l’écriture de Vers l’autre flamme, confession pour vaincus, ouvrage coécrit avec Boris Souvarine et Victor Serge dans lequel, il dénonce sans concession l’arbitraire du régime soviétique. Selon Louis Janover, « Istrati décrit l’exploitation impitoyable des travailleurs par une bureaucratie prête à tout pour défendre ses privilèges ». L’ouvrage, contient la fameuse réplique d’Istrati à l’un des leitmotifs de l’argumentaire communiste (« on ne fait pas d’omelette sans casser des œufs »), à savoir : « Je vois bien les œufs cassés, mais où donc est l’omelette ? » Extrait : Il voulut répondre, mais elle le quitta. Cloué sur place, Adrien la suivait du regard ; elle allait droit devant elle, tout droit, comme sa vie avait été droite, simple, douloureuse ; quant au seul écart dont elle s'était rendue coupable, elle ne le regrettait pas, encore qu'il lui coûtât cher. Avec son cachemire sur la tête, sa blouse en tissu bon marché, son mouchoir à la main droite, elle soulevait légèrement de sa main gauche la jupe trop longue qui ramassait la poussière, et elle tenait les yeux fixés devant ses pieds, comme si elle eût cherché quelque chose -- quelque chose qu'elle n'avait pas encore perdu, quelque chose qu'elle était en train de perdre.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1562-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1562-9</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1563-6</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">istrati_panait_-_les_recits_d_adrien_zograffi_i</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Roumanie</dc:subject>
+        <meta content="{&quot;Panaït Istrati&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:52.321825+00:00" name="calibre:timestamp"/>
+        <meta content="récits d’Adrien Zograffi I, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

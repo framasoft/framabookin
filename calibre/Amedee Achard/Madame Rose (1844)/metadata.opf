@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1844</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8b5f3a95-71d5-4a2a-9a4d-47015f460d5c</dc:identifier>
+        <dc:title>Madame Rose</dc:title>
+        <dc:creator opf:file-as="Achard, Amédée" opf:role="aut">Amédée Achard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : il avait un fusil, parce que ce fusil s'était trouvé sous sa main au moment de quitter la Maison-Blanche. Tambour avait regardé son maître, et, comprenant au mouvement de ses yeux qu'on n'avait nul besoin de lui, il était parti, la queue en l'air, à la recherche d'un certain taureau noir auquel il avait déclaré la guerre. Le taureau, qui était jeune et de bonne mine, avait accepté le défi, et, en preux chevalier, il mettait autant d'empressement à courir au-devant de Tambour que Tambour en mettait à courir au-devant de ses cornes. Le taureau, ayant levé son mufle, avait flairé le chien et était parti au galop~; les deux adversaires se rencontrèrent à mi-chemin, et le combat s'engagea sur-le-champ dans la prairie.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1199-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1199-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">achard_amedee_-_madame_rose</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Amédée Achard&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:19:03.544009+00:00" name="calibre:timestamp"/>
+        <meta content="Madame Rose" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

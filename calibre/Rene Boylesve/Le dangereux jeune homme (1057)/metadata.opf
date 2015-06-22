@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1057</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e3a8f0b1-da16-4ccf-94fc-cfdcac3f3cc1</dc:identifier>
+        <dc:title>Le dangereux jeune homme</dc:title>
+        <dc:creator opf:file-as="Boylesve, René" opf:role="aut">René Boylesve</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>René Boylesve (1867-1926), pseudonyme de René Tardiveau, fit paraître son premier roman, Le Médecin des dames de Noans en 1896, roman qui lui valut une immédiate renommée, cependant il est bien oublié aujourd'hui. Le recueil de nouvelles Le dangereux jeune homme parut en 1921. Extrait : Jeunes filles, jeunes femmes étaient vêtues comme des déesses, c'est-à-dire de rien ; elles gardaient les jambes nues à la ville comme au bain, et, en soirée, réduisaient encore leur costume à ce point qu'elles n'eussent pas osé se montrer telles pour se jeter à l'eau. Et Robert ne paraissait pas le moins du monde ému de voir sa sœur, jeune mariée, plus sévèrement élevée que lui, exhiber ses bras, ses mollets, son dos et ses flancs avec la même innocente aisance que, jadis, en province, elle découvrait ses salières.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1277-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1277-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">boylesve_rene_-_le_dangereux_jeune_homme</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;René Boylesve&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:23.162075+00:00" name="calibre:timestamp"/>
+        <meta content="dangereux jeune homme, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

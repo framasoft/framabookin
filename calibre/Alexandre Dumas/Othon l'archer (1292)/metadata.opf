@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1292</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37d08e30-903e-40b9-b4a7-488a12491a50</dc:identifier>
+        <dc:title>Othon l'archer</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>De retour de guerre, le comte Karl de Hombourg arrive au château de Godesberg pour embrasser son frère d'armes le comte Ludwig, landgrave de Godesberg. Il surprend son vieil ami en proie à un horrible soupçon: Othon est-il bien son fils légitime ou est-il le fruit des amours de sa femme Emma et d'Albert avec qui elle a été élevée et à qui elle voue une grande tendresse? Godefroy, cousin de Ludwig, nourrit la suspicion dans l'esprit de ce dernier, qui décide d'enfermer Emma dans un couvent et d'envoyer Othon au monastère.  Extrait : Une fois entré dans la voie du soupçon, on ne s'arrête plus~: aussi le landgrave, voulant, à quelque prix que ce fût, acquérir une certitude, étouffa-t-il ce sentiment généreux et instinctif qui fait que tout homme de cœur répugne à s'abaisser au métier d'espion~; il rentra dans sa chambre avec Godefroy, et, entr'ouvrant la fenêtre qui donnait sur le jardin, il attendit avec anxiété cette dernière preuve qui devait amener chez lui une décision encore incertaine~; Godefroy ne s'était pas trompé~: vers les quatre heures du matin, Emma descendit le perron, traversa furtivement le jardin et s'enfonça dans un massif d'arbres qui cachait la porte. Cette disparition dura dix minutes à peu près, puis elle revint jusqu'au perron en compagnie d'Albert, au bras duquel elle était appuyée. À la lueur de la lune, le landgrave les vit s'embrasser, et il lui sembla même distinguer sur le visage renversé de l'épouse, les larmes que lui faisait répandre le départ de son amant.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0064-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0064-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_othon_l_archer</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:11.534451+00:00" name="calibre:timestamp"/>
+        <meta content="Othon l'archer" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

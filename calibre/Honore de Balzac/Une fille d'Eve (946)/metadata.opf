@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">946</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">beb7265c-85b4-40b2-8435-0f490cb60ce9</dc:identifier>
+        <dc:title>Une fille d’Ève</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>1838. La Comédie humaine - Études de moeurs. Premier livre, Scènes de la vie privée - Tome II. Deuxième volume de l'édition Furne 1842 Dans sa confortable maison parisienne, la jeune Marie-Angélique de Vandenesse, mariée au comte Félix de Vandenesse, s'ennuie déjà. Elle rencontre Nathan, un jeune écrivain. Celui-ci pour être digne de sa brillante conquête, se lance dans des projets politico-littéraires. Mais ses affaires tournent mal, et pour le sauver, l'imprudente Marie-Angélique souscrit des lettres de change... Extrait  : Les deux Marie n’allèrent au bal qu’à l’âge de seize ans, et quatre fois seulement par année, dans quelques maisons choisies. Elles ne quittaient les côtés de leur mère que munies d’instructions sur la conduite à suivre avec leurs danseurs, et si sévères qu’elles ne pouvaient répondre que oui ou non à leurs partenaires. L’œil de la comtesse n’abandonnait point ses filles et semblait deviner les paroles au seul mouvement des lèvres. Les pauvres petites avaient des toilettes de bal irréprochables, des robes de mousseline montant jusqu’au menton, avec une infinité de ruches excessivement fournies, et des manches longues. En tenant leurs grâce comprimées et leurs beautés voilées, cette toilette leur donnait une vague ressemblance avec les gaînes égyptiennes ; néanmoins il sortait de ces blocs de coton deux figures délicieuses de mélancolie. Elles enrageaient eu se voyant l’objet d’une pitié douce.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1040-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1040-2</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0979-6</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_une_fille_d_eve</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:01.037084+00:00" name="calibre:timestamp"/>
+        <meta content="fille d’Ève, Une" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1766</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dd044fd4-7ff9-4183-9a8f-8fe964f5eec6</dc:identifier>
+        <dc:title>Le parapluie de l’escouade</dc:title>
+        <dc:creator opf:file-as="Allais, Alphonse" opf:role="aut">Alphonse Allais</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>extrait : J'ai intitulé ce livre le parapluie de l'escouade pour deux raisons que je demande, au lecteur, la permission d'égrener devant lui. 1º Il n'est sujet, dans mon volume, de parapluie d'aucune espèce ; 2º La question si importante de l'escouade, considérée comme unité de combat, n'y est même pas effleurée. Dans ces conditions-là, toute hésitation eut constitué un acte de folie furieuse : aussi ne balançai-je point une seconde. J'ai la ferme espérance que cette loyale explication me procurera l'estime des foules et que ces dernières achèteront, par ballots, le parapluie de l'escouade, tant pour leur consommation propre que pour envoyer à leurs amis de la République Argentine.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1221-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1221-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">allais_alphonse_-_le_parapluie_de_l_escouade</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alphonse Allais&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:48.119921+00:00" name="calibre:timestamp"/>
+        <meta content="parapluie de l’escouade, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

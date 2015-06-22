@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1686</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6f6c321d-96ed-4e0a-af74-04875cb60e10</dc:identifier>
+        <dc:title>Théorie de la propriété</dc:title>
+        <dc:creator opf:file-as="Proudhon, Pierre-Joseph" opf:role="aut">Pierre-Joseph Proudhon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1866-12-14T23:00:00+00:00</dc:date>
+        <dc:description>Sous le titre d'Oeuvres complètes, nous réunissons toutes les publications (livres, brochures, articles de journaux) qui ont paru du vivant de PROUDHON, et dont il serait impossible de trouver aujourd'hui l'assortiment en librairie. Ces ouvrages, joints aux Oeuvres posthumes, qui seront éditées dans le même format et par la même maison, comprendront, - pouvons-nous dire, - l'encyclopédie des questions mises à l'ordre du jour par la Révolution sociale. Philosophie, morale, politique, économie politique, exégèse religieuse, critique littéraire et artistique, rien n'a échappé au grand penseur, à ce « grand remueur d'idées, » selon l'expression de Michelet. Proudhon avait résumé sa tâche dans l'épigraphe de ses Contradictions économiques  DESTRUAM ET AEDIFICABO. La critique a pris comme un mot d'ordre d'accorder à l'auteur la gloire d'avoir largement rempli la première moitié de son programme, destruam, je détruirai ;  mais elle lui reproché de n'en avoir seulement jamais ébauché la seconde part oedificabo, je construirai.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1134-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1134-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">proudhon_pierre-joseph_-_theorie_de_la_propriete</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Pierre-Joseph Proudhon&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:31.697611+00:00" name="calibre:timestamp"/>
+        <meta content="Théorie de la propriété" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

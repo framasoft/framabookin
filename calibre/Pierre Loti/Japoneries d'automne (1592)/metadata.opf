@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1592</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0f09708d-21fd-4d60-9f50-5d452e567983</dc:identifier>
+        <dc:title>Japoneries d’automne</dc:title>
+        <dc:creator opf:file-as="Loti, Pierre" opf:role="aut">Pierre Loti</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Un recueil de neuf textes rédigé par l’auteur, décrivant la société japonaise de l’époque, à travers ses rencontres. Extrait : L’hôte, en longue robe bleue, me reçoit au perron avec des révérences infinies. A l’intérieur, tout est neuf, aéré, soigné, élégant : des boiseries blanches et légères, d’un travail parfait. Dans ma chambre on m’apporte tant d’eau claire que j’en puisse désirer pour mes ablutions ; mais cela se passe sans le moindre mystère ; porte ouverte, l’hôte, les garçons, les servantes, entrent pour m’aider et pour me voir ; de plus, les fenêtres donnent sur le jardin d’une maison voisine, et là, deux dames nippones qui se promenaient dans des allées en miniature s’arrêtent pour regarder aussi.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1092-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1092-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">loti_pierre_-_japoneries_d_automne</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Pierre Loti&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:12.765538+00:00" name="calibre:timestamp"/>
+        <meta content="Japoneries d’automne" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

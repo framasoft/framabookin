@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8de1cb46-d95c-4fec-b4a9-00dfe308b5cb</dc:identifier>
+        <dc:title>Producing Open Source Software</dc:title>
+        <dc:creator opf:file-as="Fogel, Karl" opf:role="aut">Fogel, Karl</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;The corporate market is now embracing free, "open source" software like never before, as evidenced by the recent success of the technologies underlying LAMP (Linux, Apache, MySQL, and PHP). Each is the result of a publicly collaborative process among numerous developers who volunteer their time and energy to create better software.&lt;/p&gt;
+&lt;p&gt;The truth is, however, that the overwhelming majority of free software projects fail. To help you beat the odds, O'Reilly has put together Producing Open Source Software, a guide that recommends tried and true steps to help free software developers work together toward a common goal. Not just for developers who are considering starting their own free software project, this book will also help those who want to participate in the process at any level.&lt;/p&gt;
+&lt;p&gt;The book tackles this very complex topic by distilling it down into easily understandable parts. Starting with the basics of project management, it details specific tools used in free software projects, including version control, IRC, bug tracking, and Wikis. Author Karl Fogel, known for his work on CVS and Subversion, offers practical advice on how to set up and use a range of tools in combination with open mailing lists and archives. He also provides several chapters on the essentials of recruiting and motivating developers, as well as how to gain much-needed publicity for your project.&lt;/p&gt;
+&lt;p&gt;While managing a team of enthusiastic developers -- most of whom you've never even met -- can be challenging, it can also be fun. Producing Open Source Software takes this into account, too, as it speaks of the sheer pleasure to be had from working with a motivated team of free software developers.&lt;/p&gt;
+&lt;/div&gt;</dc:description>
+        <dc:publisher>O'Reilly</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">0596007590</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>development</dc:subject>
+        <dc:subject>open source</dc:subject>
+        <dc:subject>software</dc:subject>
+        <dc:subject>manual</dc:subject>
+        <meta content="{&quot;Fogel, Karl&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-05-26T18:14:46+00:00" name="calibre:timestamp"/>
+        <meta content="Producing Open Source Software" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

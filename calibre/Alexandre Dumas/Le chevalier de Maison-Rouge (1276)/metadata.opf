@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1276</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">16c8acc1-4286-456d-8405-19d3ec5d985e</dc:identifier>
+        <dc:title>Le chevalier de Maison-Rouge</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Le Tribunal révolutionnaire vient d'être institué et la Terreur est imminente... Marie-Antoinette est prisonnière au Temple en attendant son procès dont l'issue ne fait aucun doute. Les gardes nationaux chargés de sa surveillance redoublent de vigilance: ils ont appris le retour du chevalier de Maison-Rouge. Connu pour l'amour qu'il porte à la reine, il est capable de tout pour la soustraire au terrible sort qui l'attend. Extrait : Maurice était rentré chez lui sans savoir comment il y était revenu ; il avait traversé Paris sans rien voir, sans rien entendre ; les choses qui venaient de se passer s'étaient écoulées devant lui comme dans un rêve, sans qu'il pût se rendre compte ni de ses actions, ni de ses paroles, ni du sentiment qui les avait inspirées. Il y a des moments où l'âme la plus sereine, la plus maîtresse d'elle-même, s'oublie à des violences que lui commandent les puissances subalternes de l'imagination. Ce fut, comme nous l'avons dit, une course, et non un retour, que la marche de Maurice ; il se déshabilla sans le secours de son valet de chambre, ne répondit pas à sa cuisinière, qui lui montrait un souper tout préparé ; puis, prenant les lettres de la journée sur sa table, il les lut toutes, les unes après les autres, sans en comprendre un seul mot. Le brouillard de la jalousie, l'ivresse de la raison, n'était point encore dissipé.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0038-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0038-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_le_chevalier_de_maison-rouge</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:08.329103+00:00" name="calibre:timestamp"/>
+        <meta content="chevalier de Maison-Rouge, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

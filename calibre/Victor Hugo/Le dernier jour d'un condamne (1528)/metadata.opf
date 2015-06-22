@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1528</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b83b8e0a-a840-409a-ae7c-cfc9f3e1ed02</dc:identifier>
+        <dc:title>Le dernier jour d’un condamné</dc:title>
+        <dc:creator opf:file-as="Hugo, Victor" opf:role="aut">Victor Hugo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Victor Hugo rencontre plusieurs fois le spectacle de la guillotine et s’indigne de ce que la société se permet de faire de sang-froid ce qu’elle reproche à l’accusé d’avoir fait. C’est au lendemain d’une traversée de la place de l’Hôtel-de-Ville où le bourreau graissait la guillotine en prévision de l’exécution prévue le soir même que Victor Hugo se lance dans l’écriture du Dernier Jour d’un condamné qu’il achève très rapidement. Le livre est édité en février 1829 par l’éditeur Charles Gosselin mais sans nom d’auteur. Ce n’est que 3 ans plus tard (15 mars 1832) que Victor Hugo complète sa nouvelle par une longue préface qu’il signe de son nom. À la prison de Bicêtre, un condamné à mort note heure par heure les événements d'une journée dont il apprend qu'elle sera la dernière. Il rappelle les circonstances de la sentence, puis de son emprisonnement et la raison qui le fait écrire, jusqu'au moment où il lui sera physiquement impossible de continuer. Décrivant sa cellule, détaillant la progression de la journée, évoquant d'horribles souvenirs comme le ferrement des forçats, la complainte argotique d'une jeune fille, des rêves, il en arrive au transfert à la Conciergerie.... Hugo ne donne pas son nom, ne dit presque rien sur son passé, ni pourquoi cet homme est emprisonné. Peu importe ! Ce texte est un plaidoyer contre la peine de mort, contre toutes les peines de mort, il n'a pour objet que cette mort qui apparaît dans toute son horreur inouïe et impensable, dans son inhumanité intrinsèque.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1072-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1072-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">hugo_victor_-_le_dernier_jour_d_un_condamne</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture avancée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Victor Hugo&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:59.884851+00:00" name="calibre:timestamp"/>
+        <meta content="dernier jour d’un condamné, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

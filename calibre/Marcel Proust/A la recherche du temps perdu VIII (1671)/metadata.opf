@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1671</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a1170da4-768a-4125-b594-588ff9b6e9c8</dc:identifier>
+        <dc:title>À la recherche du temps perdu VIII</dc:title>
+        <dc:creator opf:file-as="Proust, Marcel" opf:role="aut">Marcel Proust</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1922-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Le Côté de Guermantes est le troisième tome d'À la recherche du temps perdu de Marcel Proust publié entre 1921 et 1922 chez Gallimard. Dans son édition originelle, le roman est divisé en deux tomes dont la deuxième partie, Le côté de Guermantes I, est suivie de Le Côté de Guermantes II. Extrait : Forcé maintenant de passer avec elle ma soirée, j'aurais préféré, comme celle-ci était ma dernière avant le retour de mes parents, qu'elle restât libre et que je pusse chercher à revoir des femmes de Rivebelle. Je me relavai une dernière fois les mains, et dans la promenade que le plaisir me faisait faire à travers l'appartement, je me les essuyai dans la salle à manger obscure. Elle me parut ouverte sur l'antichambre éclairée, mais ce que j'avais pris pour la fente illuminée de la porte qui, au contraire, était fermée, n'était que le reflet blanc de ma serviette dans une glace posée le long du mur, en attendant qu'on la plaçât pour le retour de maman. Je repensai à tous les mirages que j'avais ainsi découverts dans notre appartement et qui n'étaient pas qu'optiques, car les premiers jours j'avais cru que la voisine avait un chien, à cause du jappement prolongé, presque humain, qu'avait pris un certain tuyau de cuisine chaque fois qu'on ouvrait le robinet. Et la porte du palier ne se refermait d'elle-même très lentement, sur les courants d'air de l'escalier, qu'en exécutant les hachures de phrases voluptueuses et gémissantes qui se superposent au chœur des Pèlerins, vers la fin de l'ouverture de Tannhäuser. J'eus du reste, comme je venais de remettre ma serviette en place, l'occasion d'avoir une nouvelle audition de cet éblouissant morceau symphonique, car un coup de sonnette ayant retenti, je courus ouvrir la porte de l'antichambre au cocher qui me rapportait la réponse. Je pensais que ce serait : « Cette dame est en bas », ou « Cette dame vous attend. » Mais il tenait à la main une lettre. J'hésitai un instant à prendre connaissance de ce que Mme de Stermaria avait écrit, qui tant qu'elle avait la plume en main aurait pu être autre, mais qui maintenant était, détaché d'elle, un destin qui poursuivait seul sa route et auquel elle ne pouvait plus rien changer. Je demandai au cocher de redescendre et d'attendre un instant, quoiqu'il maugréât contre la brume. Dès qu'il fut parti, j'ouvris l'enveloppe. Sur la carte : Vicomtesse Alix de Stermaria, mon invitée avait écrit : « Je suis désolée, un contretemps m'empêche de dîner ce soir avec vous à l'île du Bois. Je m'en faisais une fête. Je vous écrirai plus longuement de Stermaria. Regrets. Amitiés. » Je restai immobile, étourdi par le choc que j'avais reçu.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1574-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1574-2</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0886-7</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">proust_marcel_-_a_la_recherche_du_temps_perdu_viii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Marcel Proust&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:28.662031+00:00" name="calibre:timestamp"/>
+        <meta content="À la recherche du temps perdu VIII" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

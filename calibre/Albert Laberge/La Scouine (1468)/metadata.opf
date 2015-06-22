@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1468</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fa3c0d05-1c23-4b04-ad53-4581b2d9a2a6</dc:identifier>
+        <dc:title>La Scouine</dc:title>
+        <dc:creator opf:file-as="Laberge, Albert" opf:role="aut">Albert Laberge</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1918-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Influencé par Guy de Maupassant, Laberge est le premier écrivain canadien-français à faire du réalisme. Son premier roman, intitulé La Scouine et publié en 1918, est celui qui lui mérite une place dans la littérature québécoise. Sa description du paysage agricole est qualifiée d'« anti-terroir » parce qu'elle représente les laborieux paysans comme des êtres ignares et méprisables, responsables de leur propre ruine. Extrait : La Scouine dont le penchant à la délation s'accusait déjà, porta ces faits à la connaissance de l'institutrice. Comme résultat, les écoliers subirent une sévère remontrance et furent tous gardés en retenue une demi-heure durant après la classe. Les garçons se promirent bien de se venger de cette porte-paquets. Quelques jours s'écoulèrent cependant sans que la Scouine fut le moins du monde inquiétée. L'incident paraissait clos. Un matin, François Potvin annonça qu'il avait capturé la veille, un écureuil et l'avait mis en cage. Cette nouvelle intéressa fort ce petit monde. Plusieurs des gamins manifestèrent le désir de voir l'animal.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1578-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1578-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">laberge_albert_-_la_scouine</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Albert Laberge&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:47.888891+00:00" name="calibre:timestamp"/>
+        <meta content="Scouine, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

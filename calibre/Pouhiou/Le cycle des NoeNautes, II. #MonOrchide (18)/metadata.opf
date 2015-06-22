@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d5ec65df-aeeb-43ba-8f06-d29f0c63bc08</dc:identifier>
+        <dc:title>Le cycle des NoéNautes, II. #MonOrchide</dc:title>
+        <dc:creator opf:file-as="Pouhiou" opf:role="aut">Pouhiou</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-06-25T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Pour leur retour, les NoéNautes passent à l’offensive. Une rébellion contre les Descendants, ces personnes de l’ombre qui veulent manipuler leurs vies…&lt;/p&gt;
+      &lt;p&gt;Or comment rester uni-e-s dans l’adversité quand on ne peut pas se blairer ?&lt;/p&gt;
+      &lt;p&gt;La suite du roman-feuilleton blogesque #Smartarded  est truffée:&lt;/p&gt;
+      &lt;ul&gt;&lt;li&gt;de #hashtags, mais pas pareils&lt;/li&gt;
+      &lt;li&gt;de pluriels féministes et geeks&lt;/li&gt;
+      &lt;li&gt;de gestes opportuns&lt;/li&gt;
+      &lt;li&gt;de relations pansexuelles&lt;/li&gt;
+      &lt;li&gt;de streetfight au sac Casa&lt;/li&gt;
+      &lt;li&gt;de bonbons d’attaque MAIS…&lt;/li&gt;
+      &lt;li&gt;...de carambars diplomatiques&lt;/li&gt;
+      &lt;li&gt;d'un épisode 42 assourdissant…&lt;/li&gt;
+      &lt;/ul&gt;&lt;p&gt;Attention, ce roman peut contenir des traces…&lt;/p&gt;
+      &lt;ul&gt;&lt;li&gt;… de sexe (hétéro-friendly)&lt;/li&gt;
+      &lt;li&gt;… de drogues (jouissives)&lt;/li&gt;
+      &lt;li&gt;… de rock'n'roll (imaginaire)&lt;/li&gt;
+      &lt;li&gt;… et de chatons. Parce que c'est important, les chatons.&lt;/li&gt;
+      &lt;/ul&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Framasoft</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781291389197</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Framabook</dc:subject>
+        <dc:subject>roman</dc:subject>
+        <dc:subject>noénautes</dc:subject>
+        <dc:subject>cycle</dc:subject>
+        <meta content="{&quot;Pouhiou&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-05-26T16:32:11.992387+00:00" name="calibre:timestamp"/>
+        <meta content="cycle des NoéNautes, II. #MonOrchide, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

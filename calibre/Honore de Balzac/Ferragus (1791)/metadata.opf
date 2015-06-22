@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1791</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6bd152fa-2ead-4f72-af6a-830c015ec777</dc:identifier>
+        <dc:title>Ferragus</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études de moeurs. Troisième livre, Scènes de la vie parisienne - Tome I. Neuvième volume de l'édition Furne 1842. Extrait : Pour la première fois depuis cinq ans madame Jules se coucha seule dans son lit, et fut contrainte de laisser entrer un médecin dans sa chambre sacrée. Ce fut deux peines bien vives. Desplein trouva madame Jules fort mal, jamais émotion violente n’avait été plus intempestive. Il ne voulut rien préjuger, et remit au lendemain à donner son avis, après avoir ordonné quelques prescriptions qui ne furent point exécutées, les intérêts du cœur ayant fait oublier tous les soins physiques. Vers le matin, Clémence n’avait pas encore dormi. Elle était préoccupée par le sourd murmure d’une conversation qui durait depuis plusieurs heures entre les deux frères ; mais l’épaisseur des murs ne laissait arriver à son oreille aucun mot qui pût lui trahir l’objet de cette longue conférence. Monsieur Desmarets, le notaire, s’en alla bientôt. Le calme de la nuit, puis la singulière activité de sens que donne la passion, permirent alors à Clémence d’entendre le cri d’une plume et les mouvements involontaires d’un homme occupé à écrire. Ceux qui passent habituellement les nuits, et qui ont observé les différents effets de l’acoustique par un profond silence, savent que souvent un léger retentissement est facile à percevoir dans les mêmes lieux où des murmures égaux et continus n’avaient rien de distinctible. A quatre heures le bruit cessa. Clémence se leva inquiète et tremblante. Puis, pieds nus, sans peignoir, ne pensant ni à sa moiteur, ni à l’état dans lequel elle se trouvait, la pauvre femme ouvrit heureusement la porte de communication sans la faire crier. Elle vit son mari, une plume à la main, tout endormi dans son fauteuil. Les bougies brûlaient dans les bobèches. Elle s’avança lentement, et lut sur une enveloppe déjà cachetée : CECI EST MON TESTAMENT.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0974-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0974-1</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0982-6</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_ferragus</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:53.090881+00:00" name="calibre:timestamp"/>
+        <meta content="Ferragus" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

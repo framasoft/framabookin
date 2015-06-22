@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1759</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b953a5ab-4b72-4ad4-8e50-7ac084e020cf</dc:identifier>
+        <dc:title>La paix du ménage</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>1829. La Comédie humaine - Études de moeurs. Premier livre, Scènes de la vie privée - Tome I. Premier volume de l'édition Furne 1842. Au cours d'un grand bal, une belle inconnue attire les regards de deux jeunes séducteurs. Dans des jeux de salon, les intrigues se font et se défont tandis qu'une bague de grande valeur change à plusieurs reprises de propriétaire. Extrait : Cette railleuse accumulation de consonnes servit de réponse à la provocation du général que son ami toisa plaisamment avant de le quitter. La mode de ce temps obligeait un homme à porter au bal une culotte de casimir blanc et des bas de soie. Ce joli costume mettait en relief la perfection des formes de Montcornet, alors âgé de trente-cinq ans et qui attirait le regard par cette haute taille exigée pour les cuirassiers de la garde impériale dont le bel uniforme rehaussait encore sa prestance, encore jeune malgré l’embonpoint qu’il devait à l’équitation. Ses moustaches noires ajoutaient à l’expression franche d’un visage vraiment militaire dont le front était large et découvert, le nez aquilin et la bouche vermeille. Les manières de Montcornet, empreintes d’une certaine noblesse due à l’habitude du commandement, pouvaient plaire à une femme qui aurait eu le bon esprit de ne pas vouloir faire un esclave de son mari. Le colonel sourit en regardant le maître des requêtes, l’un de ses meilleurs amis de collége, et dont la petite taille svelte l’obligea, pour répondre à sa moquerie, de porter un peu bas son coup d’œil amical.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0995-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0995-6</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0986-4</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_la_paix_du_menage</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:46.747851+00:00" name="calibre:timestamp"/>
+        <meta content="paix du ménage, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

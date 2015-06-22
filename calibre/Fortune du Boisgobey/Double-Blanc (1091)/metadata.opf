@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1091</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5e425de1-6848-4350-a1d3-ec9473f1d7c7</dc:identifier>
+        <dc:title>Double-Blanc</dc:title>
+        <dc:creator opf:file-as="Boisgobey, Fortuné du" opf:role="aut">Fortuné du Boisgobey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Au bord de la ruine, le baron Hervé de Scaër accepte d'épouser la belle et riche Mle de Bernage. Lors d'une soirée costumée, une femme déguisée en domino blanc l'aborde et lui remet une lettre cachetée. Rentré chez lui après quelques évenements, en apparence, anodins, dont les retrouvailles avec un de ses anciens gardiens de chêvres, il lit la lettre et se souvient de son amour de jeunesse, disparue sans laisser de traces... Nous sommes en 1870, et, sur fond de guerre avec la Prusse, nous suivons la passionnante enquête menée par ce noble breton, sur la disparition Georges Nesbitt, sa belle-soeur et sa nièce, une dizaine d'années plus tôt. Extrait : Mon cher, lui disait-il, je comprends que tu ne t'affiches plus avec des demoiselles. C'était bon quand tu achevais de manger ta fortune, et depuis ta promotion au grade de fiancé, tu es obligé de te gouverner autrement, je le reconnais. Mais en soupant avec nous, tu te compromettras moins qu'en te montrant sur le devant de notre loge, comme tu viens de le faire. Et d'ailleurs, puisque tu as mis un pied dans le crime, tu peux bien y mettre les deux.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0713-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0713-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">boisgobey_fortune_du_-_double-blanc</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Fortuné du Boisgobey&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:30.269259+00:00" name="calibre:timestamp"/>
+        <meta content="Double-Blanc" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

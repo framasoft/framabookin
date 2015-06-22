@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1782</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d16fc3f2-58b1-4a6c-bd1f-6c469bb7c0f3</dc:identifier>
+        <dc:title>Honorine</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études de moeurs. Premier livre, Scènes de la vie privée - Tome IV. Quatrième volume de l'édition Furne 1842. Extrait : Je vous vois venir, monsieur le comte, répondis-je en interrompant, je devine vos intentions. Votre premier secrétaire a voulu crocheter votre caisse, je connais le cœur du second, il pourrait aimer votre femme. Et pouvez-vous le vouer au malheur en l’envoyant au feu ! Mettre sa main dans un brasier sans se brûler est-ce possible ? ― Vous êtes un enfant, reprit le comte, je vous enverrai ganté ! Ce n’est pas mon secrétaire qui viendra se loger rue Saint-Maur, dans la petite maison de maraîcher que j’ai rendue libre, ce sera mon petit cousin le baron de l’Hostal, maître des requêtes... » Après un moment donné à la surprise, j’entendis un coup de cloche et une voiture roula jusqu’au perron. Bientôt le valet de chambre annonça madame de Courteville et sa fille. Le comte Octave avait une très-nombreuse parenté dans sa ligne maternelle. Madame de Courteville sa cousine était veuve d’un juge au Tribunal de la Seine, qui l’avait laissée avec une fille et sans aucune espèce de fortune. Que pouvait être une femme de vingt-neuf ans auprès d’une jeune fille de vingt ans aussi belle que l’imagination pourrait le souhaiter pour une maîtresse idéale ? ― « Baron, maître des requêtes, référendaire au sceau en attendant mieux, et ce vieil hôtel pour dot, aurez-vous assez de raisons pour ne pas aimer la comtesse ? » me dit-il à l’oreille en me prenant la main et me présentant à madame de Courteville et à sa fille. Je fus ébloui, non par tant d’avantages que je n’aurais pas osé rêver, mais par Amélie de Courteville dont toutes les beautés étaient mises en relief par une de ces savantes toilettes que les mères font faire à leurs filles quand il s’agit de les marier. Ne parlons pas de moi, dit le consul en faisant une pause.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0980-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0980-2</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1037-2</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_honorine</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:51.314321+00:00" name="calibre:timestamp"/>
+        <meta content="Honorine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

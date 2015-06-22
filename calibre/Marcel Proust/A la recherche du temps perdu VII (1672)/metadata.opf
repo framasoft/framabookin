@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1672</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">52efc506-29fd-4815-9a3b-4b83954c500a</dc:identifier>
+        <dc:title>À la recherche du temps perdu VII</dc:title>
+        <dc:creator opf:file-as="Proust, Marcel" opf:role="aut">Marcel Proust</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1922-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Le Côté de Guermantes est le troisième tome d'À la recherche du temps perdu de Marcel Proust publié entre 1921 et 1922 chez Gallimard. Dans son édition originelle, le roman est divisé en deux tomes dont la deuxième partie, Le côté de Guermantes I, est suivie de Le Côté de Guermantes II. Extrait : Elle venait de voir entrer son mari, et par les mots qu'elle prononçait, faisait allusion au comique d'avoir l'air de faire ensemble une visite de noces, nullement aux rapports souvent difficiles qui existaient entre elle et cet énorme gaillard vieillissant, mais qui menait toujours une vie de jeune homme. Promenant sur le grand nombre de personnes qui entouraient la table à thé les regards affables, malicieux et un peu éblouis par les rayons du soleil couchant, de ses petites prunelles rondes et exactement logées dans l'œil comme les « mouches » que savait viser et atteindre si parfaitement l'excellent tireur qu'il était, le duc s'avançait avec une lenteur émerveillée et prudente comme si, intimidé par une si brillante assemblée, il eût craint de marcher sur les robes et de déranger les conversations. Un sourire permanent de bon roi d'Yvetot légèrement pompette, une main à demi dépliée flottant, comme l'aileron d'un requin, à côté de sa poitrine, et qu'il laissait presser indistinctement par ses vieux amis et par les inconnus qu'on lui présentait, lui permettaient, sans avoir à faire un seul geste ni à interrompre sa tournée débonnaire, fainéante et royale, de satisfaire à l'empressement de tous, en murmurant seulement : « Bonsoir, mon bon », « bonsoir mon cher ami », « charmé monsieur Bloch », « bonsoir Argencourt », et près de moi, qui fus le plus favorisé quand il eut entendu mon nom : « Bonsoir, mon petit voisin, comment va votre père ? Quel brave homme ! » Il ne fit de grandes démonstrations que pour Mme de Villeparisis, qui lui dit bonjour d'un signe de tête en sortant une main de son petit tablier.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1572-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1572-8</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1574-2</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">proust_marcel_-_a_la_recherche_du_temps_perdu_vii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Marcel Proust&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:28.864908+00:00" name="calibre:timestamp"/>
+        <meta content="À la recherche du temps perdu VII" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

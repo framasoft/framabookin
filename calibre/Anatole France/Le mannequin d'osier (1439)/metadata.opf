@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1439</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1533f0a9-9139-4146-94da-4b3de849dcef</dc:identifier>
+        <dc:title>Le mannequin d'osier</dc:title>
+        <dc:creator opf:file-as="France, Anatole" opf:role="aut">Anatole France</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>L’Histoire contemporaine est une tétralogie d'Anatole France. Autour d'un universitaire, c'est une tétralogie satirique de la société française sous la Troisième république, du boulangisme au début du XXe siècle. Extrait : Tous les partis qui se trouvent exclus du gouvernement réclament la liberté parce qu'elle fortifie l'opposition et affaiblit le pouvoir. Pour cette même raison, le parti qui gouverne retranche autant qu'il peut sur la liberté. Et il fait, au nom du peuple souverain, les lois les plus tyranniques. Car il n'y a point de charte qui garantisse la liberté contre les entreprises de la souveraineté nationale. Le despotisme démocratique n'a point de bornes en théorie. Dans le fait et à ne considérer que le temps présent, je reconnais qu'il est médiocre</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0110-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0110-3</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1462-2</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">france_anatole_-_le_mannequin_d_osier</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Anatole France&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:41.431170+00:00" name="calibre:timestamp"/>
+        <meta content="mannequin d'osier, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

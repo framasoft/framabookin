@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1488</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7f0a03db-5a5c-46ed-a6cd-3587d1fea58f</dc:identifier>
+        <dc:title>Les récits d’Adrien Zograffi III</dc:title>
+        <dc:creator opf:file-as="Istrati, Panaït" opf:role="aut">Panaït Istrati</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1925-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Figure assez connue de la littérature de l’entre-deux-guerres, Panait Istrati tombe dans un oubli quasi complet pendant plusieurs décennies ; son œuvre est interdite en France durant la guerre et en Roumanie durant le régime communiste. Rattrapé par la misère, malade et seul, il tente de se suicider à Nice en janvier 1921. Il est sauvé et on trouve sur lui une lettre non envoyée qu'il avait écrite à Romain Rolland. Celui-ci en est averti et lui répond promptement en l'encourageant dans sa démarche d'écrivain. Durant des séjours en Union Soviètique, il devine, derrière l’accueil réservé aux hôtes étrangers, la réalité de la dictature stalinienne, qui lui inspire l’écriture de Vers l’autre flamme, confession pour vaincus, ouvrage coécrit avec Boris Souvarine et Victor Serge dans lequel, il dénonce sans concession l’arbitraire du régime soviétique. Selon Louis Janover, « Istrati décrit l’exploitation impitoyable des travailleurs par une bureaucratie prête à tout pour défendre ses privilèges ». L’ouvrage, contient la fameuse réplique d’Istrati à l’un des leitmotifs de l’argumentaire communiste (« on ne fait pas d’omelette sans casser des œufs »), à savoir : « Je vois bien les œufs cassés, mais où donc est l’omelette ? » Extrait : -- Vois-tu cet écueil dans la mer ? Avant qu'il soit où tu le vois, il était accroché à cette montagne qui s'avance comme un cap. Il y a quelques milliers d'années, des seigneurs forts mais stupides se mirent à bâtir là-haut un château stupide et fort comme ses maîtres. La belle montagne fut dépouillée de son gibier, la mer désolée par ce repaire de pirates, et de hautes murailles enlaidirent le beau paysage. Tu sais que je n'aime pas les entraves à la liberté. J'aime courir et faire tout courir avec moi. Je me mis donc à souffler de toutes mes forces sur ce nid de rapaces. Ils étaient bien accrochés ! Ah ! les milliers d'années de peine que j'ai gaspillées à vouloir disperser cette vermine. De siècle en siècle, elle devenait plus nombreuse et plus arrogante ! Pas moyen : le rocher ne bronchait pas ; à peine, par-ci, par-là, un pan de mur s'écroulait-il qu'il était rétabli. Navré, époumoné, je me reposais un matin sur l'autre rive du détroit, quand, soudain, un fracas formidable me réveilla en sursaut ! La mer se leva comme une muraille et faillit m'engloutir ! C'était le rocher soutenant le nid des pirates qui avait dégringolé de lui-même ! De lui-même ? Pas du tout ! J'accourus, je furetai et je fus vexé de constater que ce que je n'avais pu faire, moi, en quelques milliers d'années, vous, les rats, vous l'aviez accompli en quelques générations. Tu comprends : ces seigneurs-là avaient entassé dans leurs caves toute l'abondance de la terre, et qui dit : seigneurs et abondance, dit : rats. C'est la même race. Et la race des rats-rats avait si bien fait son devoir pour disputer l'abondance aux rats-seigneurs, que le rocher, creusé par les uns pour nicher, par les autres pour dénicher, avait fini par s'écrouler !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1564-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1564-3</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1565-0</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">istrati_panait_-_les_recits_d_adrien_zograffi_iii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Roumanie</dc:subject>
+        <meta content="{&quot;Panaït Istrati&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:51.929047+00:00" name="calibre:timestamp"/>
+        <meta content="récits d’Adrien Zograffi III, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

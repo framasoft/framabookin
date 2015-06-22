@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1107</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">82fbc831-9d65-4144-9eab-f2624356576a</dc:identifier>
+        <dc:title>Les morts commandent</dc:title>
+        <dc:creator opf:file-as="Blasco-Ibanez, Vicente" opf:role="aut">Vicente Blasco-Ibanez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Febrer, en passant devant ces richesses, héritées des ancêtres, leur jeta un ironique regard. Aujourd'hui, plus rien de tout cela ne lui appartenait. Il y avait déjà plus d'un an que toutes les tapisseries étaient devenues la propriété de certains usuriers de Palma, qui toutefois avaient consenti à les laisser pour quelque temps encore, accrochées à leur place. Elles y attendaient la venue de quelque riche amateur, qui les paierait plus largement en croyant les acheter à leur propriétaire. Jaime n'en était plus que le dépositaire, menacé de la prison, s'il s'en montrait infidèle gardien.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1266-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1266-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">blasco-ibanez_vicente_-_les_morts_commandent</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Espagne</dc:subject>
+        <meta content="{&quot;Vicente Blasco-Ibanez&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:33.478385+00:00" name="calibre:timestamp"/>
+        <meta content="morts commandent, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1225</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f87ef20f-657c-4e1d-94cf-1deed3764796</dc:identifier>
+        <dc:title>Contes du lundi</dc:title>
+        <dc:creator opf:file-as="Daudet, Alphonse" opf:role="aut">Alphonse Daudet</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Contes du lundi, est un recueil de contes sur la guerre franco-allemande de 1870. Extrait : Qu'est-ce qu'on fait là. Qu'est-ce qui se passe ? Les canons, la gueule tournée vers le bois, ont l'air de guetter quelque chose. Les mitrailleuses embusquées regardent fixement l'horizon. Tout semble prêt pour une attaque. Pourquoi n'attaque-t-on pas ? Qu'est-ce qu'on attend ?... On attend des ordres, et le quartier général n'en envoie pas.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1329-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1329-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">daudet_alphonse_-_contes_du_lundi</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alphonse Daudet&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:58.203612+00:00" name="calibre:timestamp"/>
+        <meta content="Contes du lundi" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

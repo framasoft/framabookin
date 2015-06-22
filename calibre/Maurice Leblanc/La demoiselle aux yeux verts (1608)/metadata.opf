@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1608</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c20864a9-5ead-49c9-9731-58398782851a</dc:identifier>
+        <dc:title>La demoiselle aux yeux verts</dc:title>
+        <dc:creator opf:file-as="Leblanc, Maurice" opf:role="aut">Maurice Leblanc</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1927-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Alors qu'il flâne dans les rues de Paris, Arsène Lupin se met subitement à suivre un homme filant une touriste anglaise aux cheveux blonds et aux yeux bleus… Plus tard installé dans une pâtisserie du boulevard Haussmann, il remarque à une table une demoiselle aux cheveux blonds et aux yeux verts… Il ne se doute alors pas des nombreuses péripéties qui l'attendent. Et une nouvelle fiancée en perspective... Extrait : Un spectacle imprévu le frappa : la demoiselle aux yeux verts causait sur le trottoir avec le bellâtre qui, une demi-heure auparavant, suivait l'Anglaise comme un amoureux timide ou jaloux. Conversation animée, fiévreuse de part et d'autre, et qui ressemblait plutôt à une discussion. Il était visible que la jeune fille cherchait à passer, et que le bellâtre l'en empêchait, et c'était si visible que Raoul fut sur le point, contre toute convenance, de s'interposer. Il n'en eut pas le temps. Un taxi s'arrêtait devant la pâtisserie. Un monsieur en descendit qui, voyant la scène du trottoir, accourut, leva sa canne et, d'un coup de volée, fit sauter le chapeau du bellâtre pommadé. Stupéfait, celui-ci recula, puis se précipita, sans souci des personnes qui s'attroupaient. - Mais vous êtes fou ! vous êtes fou ! proférait-il.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1602-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1602-2</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1614-5</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leblanc_maurice_-_la_demoiselle_aux_yeux_verts</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <meta content="{&quot;Maurice Leblanc&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:16.056875+00:00" name="calibre:timestamp"/>
+        <meta content="demoiselle aux yeux verts, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

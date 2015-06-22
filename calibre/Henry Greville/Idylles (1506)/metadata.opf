@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1506</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9877a89d-9193-42e5-a8d9-1e7885a4d89f</dc:identifier>
+        <dc:title>Idylles</dc:title>
+        <dc:creator opf:file-as="Gréville, Henry" opf:role="aut">Henry Gréville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1885-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Henry Gréville, pseudonyme de Alice Marie Céleste Durand née Fleury (1842-1902), a publié de nombreux romans, des nouvelles, des pièces, de la poésie ; elle a été à son époque un écrivain à succès. Extrait : Il l'aimait trop pour le lui dire, trop pour ternir cette fleur des prés dont il ne pouvait faire sa femme, mais assez pour souffrir à la pensée de la quitter. Elle n'avait rien de ce qui assure le bonheur d'une vie -- ni la profondeur du sentiment, ni le dévouement qui fait tout oublier, ni la passion qui excuse tout ; c'était une jolie fleur des champs, un peu vaniteuse, un peu coquette, sans grands défauts et sans grandes vertus. Maurice savait qu'elle ne pouvait lui appartenir, et cependant il adorait la ligne charmante de ce corps à peine formé que les plis de la bure enveloppaient chastement sans pouvoir le déguiser. Il aimait ces yeux profonds, cette bouche riante, ces cheveux blonds, toujours en désordre, le petit mouchoir noué de travers sur la poitrine, -- il aimait tout, et c'est avec peine qu'il partit. On part toujours avec peine quand on n'espère rien pour le retour. Il est si dur de laisser derrière soi un morceau de sa vie, dont rien ne doit subsister !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1505-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1505-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">greville_henry_-_idylles</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Henry Gréville&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:55.534698+00:00" name="calibre:timestamp"/>
+        <meta content="Idylles" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

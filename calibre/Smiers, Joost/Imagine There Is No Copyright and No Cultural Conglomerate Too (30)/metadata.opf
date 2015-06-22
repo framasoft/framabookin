@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">da6cfa52-3054-4faf-9380-abcf8030ba26</dc:identifier>
+        <dc:title>Imagine There Is No Copyright and No Cultural Conglomerate Too</dc:title>
+        <dc:creator opf:file-as="Smiers, Joost &amp; van Schijndel, Marieke" opf:role="aut">Smiers, Joost</dc:creator>
+        <dc:creator opf:file-as="Smiers, Joost &amp; van Schijndel, Marieke" opf:role="aut">van Schijndel, Marieke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-09-30T09:58:25+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;If we recognize that copyright is unfeasible, and unjustifiable, what should our response be? Immediately comes to mind that copyright provides an investment protection to blockbusters, best sellers and stars. It distorts cultural markets and pushes a wide variety of cultural expressions out of sight. At the same time, cultural conglomerates controlling copyright dominate cultural markets by owning the means of production, distribution, marketing and reception of cultural expressions. From the perspective of democracy and fair competition this type of market control is not to be tolerated.&lt;/p&gt;
+&lt;p&gt;Thus, let us imagine what abolishing copyright would accomplish, while we do not hesitate cutting cultural conglomerates into many pieces. The result is a level playing field in which many, and many more artists can make a decent living. And even more important effect would be the restoration of our public domain of creativity and knowledge.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Institute of Network Cultures</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789078146094</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Copyright</dc:subject>
+        <dc:subject>Intellectual property</dc:subject>
+        <dc:subject>culture</dc:subject>
+        <meta content="{&quot;van Schijndel, Marieke&quot;: &quot;&quot;, &quot;Smiers, Joost&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-05-26T18:06:37.536236+00:00" name="calibre:timestamp"/>
+        <meta content="Imagine There Is No Copyright and No Cultural Conglomerate Too" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

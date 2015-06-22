@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1134</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">51cfcffb-4a9e-4aba-97a8-5e83cd8f70c5</dc:identifier>
+        <dc:title>Le blé qui lève</dc:title>
+        <dc:creator opf:file-as="Bazin, René" opf:role="aut">René Bazin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Le jeune homme continua de rêver, et de bâtir son projet d'avenir. Il avait raison d'y penser. Personne n'y pensait pour lui. Et il savait que, pour exposer son plan, pour recevoir une réponse, bonne ou mauvaise, il n'aurait qu'une minute ou deux. On trouvait rarement le moyen de discuter, sur quelque sujet que ce fût, avec le général de Meximieu. Ni militaire, ni civil, ni supérieur, ni parent, ne pouvait se flatter d'avoir exposé sa pensée librement et complètement devant cet homme toujours pressé, qui comprenait trop vite, qui marchait en parlant, interrompait, se souvenait, trouvait une formule heureuse et d'ailleurs souvent juste, s'en contentait et s'y tenait. Chez lui aucune économie, d'aucune sorte, mais l'élan, la brusquerie, l'habitude de ruer, de galoper, puis de tourner court. Ceux qui le connaissaient peu croyaient que c'était là de sa part une habileté ; ceux qui le connaissaient bien savaient que c'était une nature, une façon vagabonde et pour lui-même tyrannique de dépenser la force d'un corps qui ne vieillissait pas et d'un esprit qui n'avait pas mûri. Il était l'être en perpétuel mouvement, fait pour agir et pour entraîner, mais il n'était pas le juge qui pèse deux opinions. La faculté d'examen était demeurée, chez lui, rudimentaire ; le délai qu'elle suppose lui paraissait une faiblesse ; le goût de la vie intérieure lui faisait défaut, et de même tout sentiment d'intimité. C'était une des raisons qui l'avaient empêché de bien connaître Michel et d'être connu de lui.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1249-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1249-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">bazin_rene_-_le_ble_qui_leve</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;René Bazin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:39.190279+00:00" name="calibre:timestamp"/>
+        <meta content="blé qui lève, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

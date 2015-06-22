@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1346</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e071add3-8d1a-4f59-8d3c-3451f4b93d65</dc:identifier>
+        <dc:title>Trois contes</dc:title>
+        <dc:creator opf:file-as="Flaubert, Gustave" opf:role="aut">Gustave Flaubert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1877-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Un soir du mois d'août (elle avait alors dix-huit ans), ils l'entraînèrent à l'assemblée de Colleville. Tout de suite elle fut étourdie, stupéfaite par le tapage des ménétriers, les lumières dans les arbres, la bigarrure des costumes, les dentelles, les croix d'or, cette masse de monde sautant à la fois. Elle se tenait à l'écart modestement, quand un jeune homme d'apparence cossue, et qui fumait sa pipe les deux coudes sur le timon d'un banneau, vint l'inviter à la danse. Il lui paya du cidre, du café, de la galette, un foulard, et, s'imaginant qu'elle le devinait, offrit de la reconduire. Au bord d'un champ d'avoine, il la renversa brutalement. Elle eut peur et se mit à crier. Il s'éloigna.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0725-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0725-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">flaubert_gustave_-_trois_contes</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>conte</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gustave Flaubert&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:22.681400+00:00" name="calibre:timestamp"/>
+        <meta content="Trois contes" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

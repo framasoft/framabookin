@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1303</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dd83f3be-5679-4eac-834c-f4e7aea07e1e</dc:identifier>
+        <dc:title>L'Horoscope</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Le conseiller Dubourg est condamné à mort pour avoir remis en liberté un protestant, ce qui est interdit par le roi François II. Robert Stuart, son fils, cherche un moyen pour obtenir du roi la grâce de son père. A cette histoire politique se mêle celle du prince Louis de Condé. Épris de Charlotte de Saint-André - hôte du Louvre en compagnie du maréchal, son père - il se tient tous les soirs dans la cour du palais afin de la contempler de loin, à travers sa fenêtre. Un soir, Stuart lance un message par la fenêtre du maréchal, espérant qu'il sera remis au roi. Un remue-ménage s'en suit. Extrait : - Eh bien, puisqu'il en est ainsi, s'écria mon compatriote, ni toi ni ta lettre n'arriverez au palais, Julien Fresne. « Et, tirant de dessous son manteau un pistolet, il ajusta Julien Fresne, qui tomba roide mort sur le pavé ; puis, ayant pris la lettre, cause de ce meurtre, mon compatriote continua paisiblement sa route, la conscience tranquille ; car il venait de tuer un misérable en essayant de sauver un innocent... Ce fut au tour du président à devenir vert et jaune, de pourpre qu'il était. Mille gouttes de sueur perlèrent sur son front. Le plus profond silence régnait dans toute l'assemblée...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1407-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1407-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_l_horoscope</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:13.794403+00:00" name="calibre:timestamp"/>
+        <meta content="Horoscope, L'" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1811</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">898a5ade-a08e-4c85-a577-10bf812e4aa6</dc:identifier>
+        <dc:title>Les bohèmes de la mer</dc:title>
+        <dc:creator opf:file-as="Aimard, Gustave" opf:role="aut">Gustave Aimard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : je n'ai jamais connu ni mon père ni ma mère ; on m'a dit que mon père avait été tué dans les guerres avant ma naissance et que ma mère était morte en me donnant le jour. Voilà tout ce que je sais de ma famille ; son nom même n'a jamais été prononcé devant moi. Mes premières années sont enveloppées d'un nuage que je ne suis jamais parvenue à soulever ; je ne me rappelle rien, seulement il me semble que j'ai habité d'autres contrées ; que je suis demeurée longtemps sur mer, et qu'avant de me fixer à Hispaniola j'avais vécu dans des pays où le ciel est moins pur, les arbres plus sombres et le soleil plus froid ; mais ce ne sont que des conjectures qui ne reposent sur aucune base solide. Il me semble aussi avoir entendu parler et avoir parlé moi-même une autre langue que le castillan : mais quelle est cette langue, voilà ce que je ne saurais dire. La seule chose que je crois positive, c'est que je suis protégée dans l'ombre par une famille puissante, qui veille incessamment sur moi et ne m'a jamais perdue de vue. Don Fernando d'Avila, mon tuteur, n'est pas mon parent, j'en suis certaine. C'est un soldat de fortune qui, selon toute probabilité, ne doit la haute position à laquelle il est parvenu et celle plus haute encore qui lui est promise, qu'aux soins dont il a entouré mon enfance. Voici mon histoire, Philippe, elle est bien courte, bien sombre et bien mystérieuse ; mais je devais à l'amour que j'ai pour vous, je me devais à moi-même de vous la faire connaître, et, convaincue que j'ai accompli un devoir sacré, je me courberai sans me plaindre devant votre volonté, quelle qu'elle soit.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1212-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1212-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">aimard_gustave_-_les_bohemes_de_la_mer</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture aisée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gustave Aimard&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:57.053380+00:00" name="calibre:timestamp"/>
+        <meta content="bohèmes de la mer, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

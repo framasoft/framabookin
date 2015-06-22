@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1538</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">df144403-bcc0-4957-8605-f456d587c912</dc:identifier>
+        <dc:title>Contes fantastiques V</dc:title>
+        <dc:creator opf:file-as="Hoffmann, E.T.A." opf:role="aut">E.T.A. Hoffmann</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1829-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Il est l'auteur de nombreux contes (Märchen en allemand) comme : L'Homme au sable, Les Mines de Falun ou Casse-noisette et le Roi des souris et de plusieurs romans, dont son œuvre principale Le Chat Murr. Il devient alors, dès les années 1820, l'une des illustres figures du romantisme allemand et il inspire de nombreux artistes, en Europe comme dans le reste du monde. Par exemple, Jacques Offenbach écrit l'opéra fantastique en cinq actes Les Contes d'Hoffmann en s'inspirant de l'univers du romantique allemand. Extrait : Il y a dans cette ville un vieillard très extraordinaire, on prétend qu'il est très versé dans les sciences occultes ; pour ma part, je le regarde comme un antiquaire et un chimiste très habile. Je parle ici de l'archiviste Lindhorst. Il vit, comme vous le savez, très solitaire dans sa vieille maison, placée dans un quartier désert, et lorsqu'il n'est pas occupé de ses fonctions, il se tient d'ordinaire dans sa bibliothèque ou son laboratoire, où personne ne peut entrer. Il possède aussi des livres rares, arabes ou coptes en grande partie, et aussi des manuscrits étranges écrits dans une langue inconnue. Il voudrait les faire copier par une personne habile, et il a pour cela besoin d'un homme qui ait l'habitude de dessiner à la plume et puisse reproduire avec la plus grande fidélité tous les traits du parchemin, même les tâches. Il le fera travailler dans une chambre particulière de sa maison et sous sa surveillance, et il s'engage à payer, en outre de la table, un thaler par jour tout le temps que durera la copie. Il promet même un riche cadeau lorsque le tout sera heureusement terminé. Le temps du travail de chaque jour doit être de midi à six heures du soir. De trois à quatre heures on dîne et on se repose. Comme deux jeunes gens ont déjà essayé en vain de copier ces manuscrits, il s'est enfin adressé à moi pour lui trouver un habile dessinateur, et j'ai pensé à vous, mon cher monsieur Anselme, car je sais que vous écrivez très bien et que vous dessinez aussi très agréablement et très purement à la plume. Si vous voulez dans ces temps difficiles, et en attendant une place, gagner chaque jour le thaler et le cadeau à la fin, alors rendez-vous demain à midi précis chez M. l'archiviste, dont vous connaissez sans doute la demeure. Mais gardez-vous de faire la moindre tache d'encre : s'il en tombe une sur la copie, il vous faudra recommencer sans pitié à partir de la première page ; mais si vous tachez l'original, l'archiviste est dans le cas de vous jeter par la fenêtre : car c'est un homme très emporté.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1555-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1555-1</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1556-8</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">hoffmann_e_t_a_-_contes_fantastiques_v</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>conte</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Allemagne</dc:subject>
+        <meta content="{&quot;E.T.A. Hoffmann&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:01.858786+00:00" name="calibre:timestamp"/>
+        <meta content="Contes fantastiques V" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

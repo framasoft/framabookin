@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1273</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5d9f1012-f294-4193-bad2-c2256fa107b0</dc:identifier>
+        <dc:title>Une fille du régent</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Philippe d'Orléans, régent de France, a bien du fil à retordre avec ses deux filles, trop libertines, et avec son fils, trop sage. Mais voici qu'il veut s'occuper d'une autre fille, illégitime et cachée celle-là, Hélène de Chaverny. Il la fait venir du couvent où il l'a fait élever, à Clisson près de Nantes. Hélène, qui ignore sa filiation, est amoureuse de Gaston de Chanlay, qui lui rend visite en secret. Le chevalier Gaston de Chanlay est mêlé à une conspiration contre le régent, et a accepté de ses complices bretons la mission de l'assassiner. Extrait : - N'admet ni discussion ni retard, Gaston. Hélas ! il paraît que j'appartiens à une famille puissante ; il paraît que je suis la fille d'un très grand seigneur ; quand ma bonne mère m'a annoncé qu'il fallait la quitter, j'ai fondu en larmes, je me suis jetée à ses genoux, je lui ai dit que je ne demandais qu'une chose, c'était de ne la quitter jamais ; alors elle s'est doutée qu'il y avait un autre motif que celui que je lui donnais, elle m'a pressée, interrogée. Pardonnez-moi, Gaston, j'avais besoin de confier mon secret à quelqu'un ; j'avais besoin d'être plainte et consolée ; je lui ai tout dit, Gaston : que je vous aimais et que vous m'aimiez, excepté la manière dont nous nous voyons là ; j'avais peur, si je disais cela, qu'on ne m'empêchât de vous voir une dernière fois, et je voulais cependant bien vous dire adieu.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0067-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0067-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_une_fille_du_regent</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:07.722988+00:00" name="calibre:timestamp"/>
+        <meta content="fille du régent, Une" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

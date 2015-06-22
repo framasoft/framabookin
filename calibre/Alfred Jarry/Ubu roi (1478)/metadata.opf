@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1478</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7dc86142-dbe9-44da-a488-8f4c2c3c8fc0</dc:identifier>
+        <dc:title>Ubu roi</dc:title>
+        <dc:creator opf:file-as="Jarry, Alfred" opf:role="aut">Alfred Jarry</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1896-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Jarry entre en rhétorique au lycée de Rennes (actuel Lycée Émile-Zola de Rennes) en octobre 1888. Là, M. Hébert, professeur de physique, incarne aux yeux de ses élèves « tout le grotesque qui est au monde ». L'enseignant devient le héros d’une littérature scolaire abondante, dont un texte intitulé Les Polonais que Jarry, en classe de première, va mettre en forme de comédie : c’est la plus ancienne version d'Ubu roi. Extrait : Témoin monsieur notre noble et infortuné cheval à Phynances, qui, n'étant pas nourri depuis trois mois, a dû faire la campagne entière traîné par la bride à travers l'Ukraine. Aussi est-il mort à la tâche, la pauvre bête ! - Tout ceci sont des mensonges, votre femme est un modèle et vous quel monstre vous faites ! - Tout ceci sont des vérités. Ma femme est une coquine et vous quelle andouille vous faites !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-09-16</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0079-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0079-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">jarry_alfred_-_ubu_roi</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>théatre</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alfred Jarry&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:49.981511+00:00" name="calibre:timestamp"/>
+        <meta content="Ubu roi" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

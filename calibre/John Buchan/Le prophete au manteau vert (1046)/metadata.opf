@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1046</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d0111a80-b1d7-4fbc-a6cc-c726bf4c49b5</dc:identifier>
+        <dc:title>Le prophète au manteau vert</dc:title>
+        <dc:creator opf:file-as="Buchan, John" opf:role="aut">John Buchan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>John Buchan dit Lord Tweedsmuir (Perth, Écosse, 26 août 1875 – Montréal, Québec, 11 février 1940), 1er baron Tweedsmuir d'Elsfield, fils d'un pasteur calviniste, fut le quinzième gouverneur général du Canada, de 1935 à 1940. Également éditeur et écrivain, il est l'auteur de romans comme Les 39 Marches. Extrait : La guerre est une belle partie, et vous êtes homme à la jouer. Mais d'autres que vous en savent les règles, car aujourd'hui, la guerre réclame plutôt des qualités moyennes qu'exceptionnelles. C'est comme une grande machine dont tous les rouages sont réglés. Vous ne vous battez pas parce que vous n'avez rien de mieux à faire, vous vous battez parce que vous désirez servir l'Angleterre. Mais que diriez-vous s'il vous était possible de l'aider plus efficacement qu'en commandant un bataillon, une brigade ou une division ? Que diriez-vous s'il existait une œuvre que vous seul puissiez accomplir ? Je ne parle pas d'une corvée d'embusqué dans un bureau, mais d'une tâche à côté de laquelle votre expérience de Loos ne serait qu'une plaisanterie. Vous ne craignez pas le danger ? Eh bien, dans l'affaire que je vous propose, vous ne vous battriez pas entouré d'une armée : vous vous battriez seul. Vous aimez jouer les difficultés ? Eh bien, je puis vous confier une mission qui mettra toutes vos facultés à l'épreuve. Avez-vous quelque chose à dire ?</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0825-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0825-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">buchan_john_-_le_prophete_au_manteau_vert</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;John Buchan&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:20.985019+00:00" name="calibre:timestamp"/>
+        <meta content="prophète au manteau vert, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

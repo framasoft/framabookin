@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1167</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">35625cf7-745a-44d9-94ec-6c2bef672291</dc:identifier>
+        <dc:title>Georges</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Georges, riche mulâtre de l'île de France (actuelle île Maurice), a résolu de «tuer à lui seul le préjugé qu'aucun homme de couleur n'avait osé combattre». Étudiant à Paris, il devient un parfait homme du monde, au teint si clair qu'il peut passer pour blanc. En toutes choses, il essaye d'être supérieur. Rentré en son île, il tombe amoureux de la jeune créole Sara de Malmédie, et lui révèle ses origines. L'oncle de Sara refuse le mariage. Georges recourt alors à la force et prend la tête d'une révolte d'esclaves noirs... Extrait : La ville tout entière était accourue sur le port, on se foulait, on se pressait pour voir les vainqueurs, car, dans leur ignorance, les habitants de Port-Louis croyaient que l'on avait eu affaire à l'armée ennemie tout entière, et espéraient que les Anglais, si vigoureusement repoussés, ne viendraient plus à la charge ; aussi, à chaque corps qui passait, on jetait de nouveaux vivats, tout le monde était fier, tout le monde était vainqueur, on ne se possédait plus. Un bonheur inattendu remplit le cœur, un avantage inespéré tourne la tête ; or, les habitants s'attendaient bien à la résistance, mais non au succès ; aussi, lorsqu'on vit la victoire déclarée aussi complètement, hommes, femmes, vieillards, enfants, jurèrent, d'une seule voix et d'un seul cri, de travailler aux retranchements, et de mourir, s'il le fallait, pour leur défense. Excellentes promesses, sans doute, et que chacun faisait avec l'intention de les tenir, mais qui ne valaient pas, à beaucoup près, l'arrivée d'un autre régiment si un autre régiment eût pu arriver !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0008-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0008-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_georges</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:45.844202+00:00" name="calibre:timestamp"/>
+        <meta content="Georges" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

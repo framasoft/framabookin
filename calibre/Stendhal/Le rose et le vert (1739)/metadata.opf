@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1739</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dde3e431-fcb7-4127-b79f-1f8cce2b5db4</dc:identifier>
+        <dc:title>Le rose et le vert</dc:title>
+        <dc:creator opf:file-as="Stendhal" opf:role="aut">Stendhal</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1927-12-14T23:00:00+00:00</dc:date>
+        <dc:description>Ce court roman inachevé rédigé en un mois, peu avant qu'il ne s'attelle à la rédaction de La chartreuse de Parme, et de publication posthume, conte l'histoire d'une jeune bourgeoise allemande, Mina de Wanghel, que la mort de son père met à la tête d'une immense fortune. Extrait : Maman, dit à son tour Mina d'un air fort sérieux, le bonheur de toute ma vie est attaché à ce mensonge. A cause de ces millions jamais je ne pourrai croire qu'on m'aime. Ainsi je suis plus malheureuse que si j’étais bossue : une malheureuse jeune fille avec ce défaut peut espérer que son bon caractère, que sa patience toucheront quelqu’un, mais je suis marquée de ce sceau fatal par le destin, jamais je ne pourrai croire que je suis l’objet d’une préférence réelle, etc., etc.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1152-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1152-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">stendhal_-_le_rose_et_le_vert</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Stendhal&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:42.776995+00:00" name="calibre:timestamp"/>
+        <meta content="rose et le vert, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

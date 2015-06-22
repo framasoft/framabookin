@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1629</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cb803e97-2ab8-40ff-874e-54478ef8f8ba</dc:identifier>
+        <dc:title>Légendes normandes</dc:title>
+        <dc:creator opf:file-as="Lavalley, Gaston" opf:role="aut">Gaston Lavalley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1867-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Fils d’un ingénieur, Louis-Auguste Lavalley-Dupéroux (1800-1885), Gaston Lavalley fit des études de droit. Il fut nommé conservateur en chef de la Bibliothèque de Caen en 1870.  Grand érudit et spécialiste de l'histoire normande, il a collaboré à de nombreux journaux locaux et nationaux, et écrit de très nombreux ouvrages, dont surtout les Légendes normandes. Extrait : Le jeune homme se sentit des larmes dans les yeux. Il s'approcha de la porte qu'il essaya de pousser, dans l'espoir sans doute que les fugitifs, en la jetant avec violence, l'auraient laissée entrouverte. Mais elle résista à tous ses efforts. Il se colla l'œil contre la serrure et n'aperçut qu'un corridor sombre. Il chercha le cordon de la sonnette ou le marteau de la porte. Rien ! Il frappa contre les planches sonores et prêta l'oreille. Pas le moindre bruit ! Il recula de quelques pas, pour voir toute la façade de la maison. Peut-être découvrirait-il une figure curieuse, une main derrière un rideau ? Hélas ! le soleil lui-même ne visitait plus cette triste demeure. Et les fenêtres, ces yeux de la maison, s'étaient voilées sous leurs contrevents, comme l'œil sous la paupière. Barbare éprouva un affreux serrement de cœur. Il eût donné sa vie, en cet instant, pour revoir ce frais visage, cette charmante apparition dont il était encore ébloui. Elle était là, pourtant, à deux pas de lui, derrière cette muraille !...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1592-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1592-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">lavalley_gaston_-_legendes_normandes</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>conte</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gaston Lavalley&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:20.266513+00:00" name="calibre:timestamp"/>
+        <meta content="Légendes normandes" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

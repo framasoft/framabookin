@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1773</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1817c85e-2e61-455c-82d5-5b14b9e3ba90</dc:identifier>
+        <dc:title>L’affaire Blaireau</dc:title>
+        <dc:creator opf:file-as="Allais, Alphonse" opf:role="aut">Alphonse Allais</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1899-12-14T23:00:00+00:00</dc:date>
+        <dc:description>Comment une erreur judiciare va chambouler les vies bien réglées d'une petite ville de province. Extrait : C'est toute une histoire, monsieur le baron, et que je puis vous conter maintenant sans indiscrétion. Catherine d’Arpajon avait fait connaissance, aux courses d’Auteuil, d’un riche planteur fort généreux, mais qui ne savait pas un mot de français. En quittant Paris, cet étranger, grâce à son interprète, dit à Catherine : « Ma chère enfant, quand vous saurez la langue de mon pays, venez-y (dans le pays), vous serez reçue comme une reine. » Et il lui laissa son adresse. Peu de temps après, j’appris que Catherine d’Arpajon cherchait un professeur de hollandais.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0084-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0084-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">allais_alphonse_-_l_affaire_blaireau</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alphonse Allais&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:49.509678+00:00" name="calibre:timestamp"/>
+        <meta content="L’affaire Blaireau" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

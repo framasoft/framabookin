@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1479</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b8120970-b4a7-40bc-9808-ab19e5f15e4c</dc:identifier>
+        <dc:title>Lucie Rodey</dc:title>
+        <dc:creator opf:file-as="Gréville, Henry" opf:role="aut">Henry Gréville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1881-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Henry Gréville, pseudonyme de Alice Marie Céleste Durand née Fleury (1842-1902), a publié de nombreux romans, des nouvelles, des pièces, de la poésie ; elle a été à son époque un écrivain à succès. Extrait : Georges regarda sa femme d'un air singulier, moitié reproche, moitié raillerie ; mariés depuis deux mois à peine, ils se sentaient aussi étrangers l'un à l'autre que s'ils fussent venus des extrémités de la terre se rencontrer par hasard dans ce salon banal, pour se séparer cinq minutes après. Ce n'était pas la faute du mari ; ce n'était peut-être pas non plus celle de la femme ; c'était probablement celle des parents qui avaient arrangé ce mariage pour la plus grande gloire de leurs fortunes et de leurs convenances. Les jeunes époux ne devraient-ils pas hériter conjointement un jour d'une propriété à mur mitoyen ? Ce mariage épargnait bien des procès dans l'avenir ; les conditions d'âge étaient satisfaisantes ; Georges n'avait pas d'objection valable à présenter ; Berthe le trouvait aimable et joli garçon ; la cérémonie eut lieu, et, vingt-quatre heures après, les mariés s'apercevaient qu'ils n'avaient aucun point de sympathie commune.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1520-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1520-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">greville_henry_-_lucie_rodey</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Henry Gréville&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:50.177019+00:00" name="calibre:timestamp"/>
+        <meta content="Lucie Rodey" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

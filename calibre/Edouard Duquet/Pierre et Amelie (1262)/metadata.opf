@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1262</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">894ce8e2-858e-4ccb-a639-7024e4e349be</dc:identifier>
+        <dc:title>Pierre et Amélie</dc:title>
+        <dc:creator opf:file-as="Duquet, Édouard" opf:role="aut">Édouard Duquet</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>On sait très peu de chose d'Édouard Duquet. Il n'a publié qu'un seul roman, il a enseigné le français dans le Massachusetts\ldots{} \emph{Pierre et Amélie,} paru en 1866, alors qu'il avait vingt ans, a passé complètement inaperçu. On a dit que ce fut « la seule pastorale de la littérature québécoise ». Le roman raconte les amours malheureuses de deux jeunes gens, au début de la colonie. Extrait : Si les chagrins ne peuvent fuir les maisons superbes, les salons brillants d'orgueil, ils s'envolent et disparaissent sous le beau ciel qui couvre la verte couche des campagnes. C'était sous l'humble toit d'un chaume que Léopold et Clothilde oubliaient leur malheur ; c'était sous un toit où séjournait la vertu que se développaient Pierre et Amélie. Déjà ces deux jeunes enfants commençaient à se témoigner un attachement assez sensible ; et, comment pouvait-il en être autrement ? Ils avaient sucé le même lait et dormaient dans le même berceau. Que pouvait dire la nature à leur jeune cœur, si ce n'est : « aimez-vous. » Leur séparation, quelque peu longue qu'elle fut, était toujours suivie de longs cris de douleur, qui, dès leur réunion, faisaient soudainement place aux caresses et aux sourires. Sitôt qu'ils purent marcher, main en main, ils franchirent le seuil de la cabane, et essayèrent leurs premiers pas sur le gazon, manifestant leur étonnement de fouler, pour la première fois, un sol qui leur était inconnu.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1426-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1426-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">duquet_edouard_-_pierre_et_amelie</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Édouard Duquet&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:05.581299+00:00" name="calibre:timestamp"/>
+        <meta content="Pierre et Amélie" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

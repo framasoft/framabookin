@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1661</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">da5da0e5-2baf-4ff1-b5a0-27127390dd67</dc:identifier>
+        <dc:title>À la recherche du temps perdu XIII</dc:title>
+        <dc:creator opf:file-as="Proust, Marcel" opf:role="aut">Marcel Proust</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1925-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Albertine Disparue, dont le titre original est La fugitive, est le sixième tome d'À la recherche du temps perdu de Marcel Proust paru en 1927 à titre posthume. la Fugitive devait originairement regrouper la Prisonnière et Albertine disparue. De fait, Albertine disparue est la suite indissociable, sur le plan narratif au moins, de la Prisonnière. Extrait : Mademoiselle Albertine est partie ! Comme la souffrance va plus loin en psychologie que la psychologie ! Il y a un instant, en train de m'analyser, j'avais cru que cette séparation sans s'être revus était justement ce que je désirais, et comparant la médiocrité des plaisirs que me donnait Albertine à la richesse des désirs qu'elle me privait de réaliser, je m'étais trouvé subtil, j'avais conclu que je ne voulais plus la voir, que je ne l'aimais plus. Mais ces mots : « Mademoiselle Albertine est partie » venaient de produire dans mon cœur une souffrance telle que je ne pourrais pas y résister plus longtemps. Ainsi ce que j'avais cru n'être rien pour moi, c'était tout simplement toute ma vie. Comme on s'ignore ! Il fallait faire cesser immédiatement ma souffrance. Tendre pour moi-même comme ma mère pour ma grand'mère mourante, je me disais, avec cette même bonne volonté qu'on a de ne pas laisser souffrir ce qu'on aime : « Aie une seconde de patience, on va te trouver un remède, sois tranquille, on ne va pas te laisser souffrir comme cela. » Ce fut dans cet ordre d'idées que mon instinct de conservation chercha pour les mettre sur ma blessure ouverte les premiers calmants : « Tout cela n'a aucune importance parce que je vais la faire revenir tout de suite. Je vais examiner les moyens, mais de toute façon elle sera ici ce soir. Par conséquent inutile de se tracasser. » « Tout cela n'a aucune importance », je ne m'étais pas contenté de me le dire, j'avais tâché d'en donner l'impression à Françoise en ne laissant pas paraître devant elle ma souffrance, parce que, même au moment où je l'éprouvais avec une telle violence, mon amour n'oubliait pas qu'il lui importait de sembler un amour heureux, un amour partagé, surtout aux yeux de Françoise qui, n'aimant pas Albertine, avait toujours douté de sa sincérité. Oui, tout à l'heure, avant l'arrivée de Françoise, j'avais cru que je n'aimais plus Albertine, j'avais cru ne rien laisser de côté ; en exact analyste, j'avais cru bien connaître le fond de mon cœur. Mais notre intelligence, si grande soit-elle, ne peut apercevoir les éléments qui le composent et qui restent insoupçonnés tant que, de l'état volatil où ils subsistent la plupart du temps, un phénomène capable de les isoler ne leur a pas fait subir un commencement de solidification. Je m'étais trompé en croyant voir clair dans mon cœur.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0881-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0881-2</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0885-0</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">proust_marcel_-_a_la_recherche_du_temps_perdu_xiii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Marcel Proust&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:26.649280+00:00" name="calibre:timestamp"/>
+        <meta content="À la recherche du temps perdu XIII" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

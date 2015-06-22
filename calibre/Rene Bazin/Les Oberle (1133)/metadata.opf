@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1133</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c39a4f93-3857-47ba-b740-5dedfe5285b3</dc:identifier>
+        <dc:title>Les Oberlé</dc:title>
+        <dc:creator opf:file-as="Bazin, René" opf:role="aut">René Bazin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>L'action se situe en Alsace, avant 1900, pendant l'occupation allemande, dans un contexte de résistance de toute la population à l'occupant : refus de parler l'allemand, de l'administration allemande, de la culture allemande, etc. Joseph Oberlé, riche industriel, collabore avec les occupants, envoie son fils faire ses études de droit en Allemagne, et souhaite que sa fille Lucienne Oberlé devienne l'épouse d'un Allemand. Son épouse Monique et son fils Jean, animés d'un esprit de résistance conforme au sentiment majoritaire de la population, sont opposés à ses projets. Tous les éléments du drame sont donc en place, et Jean en sera la figure centrale. Extrait : « Comme ils sont nombreux ! » À Berlin, à Munich, à Heidelberg, ils n'éveillaient qu'une idée de force sans but immédiat. L'ennemi n'était pas désigné. C'était tout ce qui s'opposerait à la grandeur de l'Empire allemand. Jean Oberlé, plus d'une fois, avait même admiré le défilé des régiments, et la puissance effrayante de l'homme qui commandait à tant d'hommes. Mais ici, à la frontière, sur la terre encore sanglante de la dernière guerre, il y avait des souvenirs qui montraient trop bien qui on voulait menacer et atteindre. La vue ou le bruit des soldats faisait songer à des tueries, à la mort, à l'affreux deuil qui demeure. Ils passaient entre les maisons. Le bruit des escadrons, des hommes et des bêtes, heurtait contre les vitres. Le bourg paraissait endormi. Ni les soldats ni les chefs ne remarquèrent rien : mais, dans bien des maisons, une mère s'éveilla et se redressa dans son lit, frissonnante ; un homme tendit le poing et maudit les vainqueurs anciens. Le drame ne fut connu que de Dieu seul. Ils passèrent.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0481-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0481-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">bazin_rene_-_les_oberle</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;René Bazin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:38.983764+00:00" name="calibre:timestamp"/>
+        <meta content="Oberlé, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

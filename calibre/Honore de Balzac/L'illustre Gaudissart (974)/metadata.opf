@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">974</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">78ef67dc-d146-4a79-a12c-a56a51832676</dc:identifier>
+        <dc:title>L’illustre Gaudissart</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études de moeurs. Deuxième livre, Scènes de la vie de province - Tome II. Sixième volume de l'édition Furne 1842. Extrait : Il existe donc un perpétuel combat entre le public retardataire qui se refuse à payer les contributions parisiennes, et les percepteurs qui, vivant de leurs recettes, lardent le public d’idées nouvelles, le bardent d’entreprises, le rôtissent de prospectus, l’embrochent de flatteries, et finissent par le manger à quelque nouvelle sauce dans laquelle il s’empêtre, et dont il se grise, comme une mouche de sa plombagine. Aussi, depuis 1830, que n’a-t-on pas prodigué pour stimuler en France le zèle, l’amour-propre des *masses intelligentes et progressives !* Les titres, les médailles, les diplômes, espèce de Légion-d’Honneur inventée pour le commun des martyrs, se sont rapidement succédé. Enfin toutes les fabriques de produits intellectuels ont découvert un piment, un gingembre spécial, leurs réjouissances. De là les primes, de là les dividendes anticipés ; de là cette conscription de noms célèbres levée à l’insu des infortunés artistes qui les portent, et se trouvent ainsi coopérer activement à plus d’entreprises que l’année n’a de jours, car la loi n’a pas prévu le vol des noms. De là ce rapt des idées, que, semblables aux marchands d’esclaves en Asie, les entrepreneurs d’esprit public arrachent au cerveau paternel à peine écloses, et déshabillent et traînent aux yeux de leur sultan hébété, leur Shahabaham, ce terrible public qui, s’il ne s’amuse pas, leur tranche la tête en leur retranchant leur picotin d’or.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1024-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1024-2</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0994-9</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_l_illustre_gaudissart</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:06.595962+00:00" name="calibre:timestamp"/>
+        <meta content="L’illustre Gaudissart" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

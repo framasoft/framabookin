@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1188</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9c82d3a4-3d00-4760-9a55-23c0c68c38ca</dc:identifier>
+        <dc:title>Blanche de Beaulieu et autres histoires</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Blanche de Beaulieu, suivi de Chasseurs d'ours - Les enfants de la madone - La main droite du sire de Giac - Le cocher de cabriolet. Blanche de Beaulieu : Olivier et d'Hervilly, deux généraux républicains, sont envoyés pour surprendre une messe clandestine dans le bocage vendéen; ils assistent écoeurés à un carnage qu'ils ne cautionnent pas. Soudain, un jeune Vendéen vient supplier Olivier de le sauver. Extrait : Puis quelques ordres donnés à voix basse allèrent agiter cette ligne rompue de soldats qui s'étendait alentour des cendres qui avaient été un village. Ces groupes s'allongèrent, chaque peloton sembla se souder à l'autre. Une ligne noire se forma, descendit dans le long chemin creux qui sépare Saint-Crépin de Mont-faucon, s'y emboîta comme une roue dans une ornière, et, lorsque, quelques minutes après, la lune passa entre deux nuages, et se réfléchit un instant sur ce ruban de baïonnettes qui glissaient sans bruit, on eût cru voir ramper dans l'ombre un immense serpent noir à écailles d'acier.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1363-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1363-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_blanche_de_beaulieu_et_autres_histoires</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>conte</dc:subject>
+        <dc:subject>nouvelle</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:49.989156+00:00" name="calibre:timestamp"/>
+        <meta content="Blanche de Beaulieu et autres histoires" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

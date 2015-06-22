@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1090</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b89b1220-74ef-4c0c-8af1-1472f46db5e8</dc:identifier>
+        <dc:title>La main froide</dc:title>
+        <dc:creator opf:file-as="Boisgobey, Fortuné du" opf:role="aut">Fortuné du Boisgobey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Jeune étudiant, Paul fréquente les bals du quartier latin en compagnie de son ami Jean. Il y rencontre une jeune femme. Suite à un quiproquo, il se fait passer pour le mari de cette dame. Il s'ensuit bien des aventures, notamment quand le vrai mari réapparaît... Extrait : Jean de Mirande s'était bien aperçu que la blonde inconnue le trouvait ridicule ; et il était d'autant plus vexé que Paul Cormier assistait de loin à sa défaite. Paul Cormier qu'il comptait éblouir en faisant, au pied levé, la conquête d'une femme jeune, jolie et parfaitement distinguée, quoi qu'il en eût dit, avant de l'aborder. Et pour se relever aux yeux de son ami de cet échec humiliant, il n'avait rien imaginé de mieux que d'apostropher un monsieur, père, frère ou mari, très probablement, de cette grande mondaine, fourvoyée au Luxembourg. Ce personnage qui venait de surgir tout à coup, comme un diable jaillit d'une boîte à surprise, montrait un visage complètement rasé, sauf une paire de favoris, coupés au niveau de l'oreille et portait à la boutonnière de sa longue redingote un mince ruban rouge. Il avait tout à fait l'air d'un officier en demi-solde, un de ces types de grognards licenciés comme on en voyait du temps de la Restauration et comme on en voit encore dans les dessins de Charlet. Grands traits qui semblaient avoir été taillés à coups de hache, regard dur, physionomie chagrine. Au lieu d'interpeller Mirande qui s'y attendait et se préparait à répliquer vertement, l'homme vêtu de noir vint, sans dire un mot, se placer entre l'étudiant et la liseuse qui ne lisait plus.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0714-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0714-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">boisgobey_fortune_du_-_la_main_froide</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Fortuné du Boisgobey&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:29.838380+00:00" name="calibre:timestamp"/>
+        <meta content="main froide, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

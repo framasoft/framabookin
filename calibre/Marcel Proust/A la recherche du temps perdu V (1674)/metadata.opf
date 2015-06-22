@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1674</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">decf4bee-6ffa-45ec-be1e-ac38792af1f5</dc:identifier>
+        <dc:title>À la recherche du temps perdu V</dc:title>
+        <dc:creator opf:file-as="Proust, Marcel" opf:role="aut">Marcel Proust</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1919-06-02T22:00:00+00:00</dc:date>
+        <dc:description>À l'ombre des jeunes filles en fleurs est le second tome d'À la recherche du temps perdu de Marcel Proust publié en 1919 chez Gallimard. Il reçoit la même année le prix Goncourt. Extrait : Cette importance illusoire de M. Bloch père était d'ailleurs étendue un peu au delà du cercle de sa propre perception. D'abord ses enfants le considéraient comme un homme supérieur. Les enfants ont toujours une tendance soit à déprécier, soit à exalter leurs parents, et pour un bon fils, son père est toujours le meilleur des pères, en dehors même de toutes raisons objectives de l'admirer. Or celles-ci ne manquaient pas absolument pour M. Bloch, lequel était instruit, fin, affectueux pour les siens. Dans la famille la plus proche, on se plaisait d'autant plus avec lui que si dans la « société », on juge les gens d'après un étalon, d'ailleurs absurde, et selon des règles fausses mais fixes, par comparaison avec la totalité des autres gens élégants, en revanche dans le morcellement de la vie bourgeoise, les dîners, les soirées de famille tournent autour de personnes qu'on déclare agréables, amusantes, et qui dans le monde ne tiendraient pas l'affiche deux soirs. Enfin, dans ce milieu où les grandeurs factices de l'aristocratie n'existent pas, on les remplace par des distinctions plus folles encore. C'est ainsi que pour sa famille et jusqu'à un degré de parenté fort éloigné, une prétendue ressemblance dans la façon de porter la moustache et dans le haut du nez faisait qu'on appelait M. Bloch un « faux duc d'Aumale ». (Dans le monde des « chasseurs » de cercle, l'un porte sa casquette de travers et sa vareuse très serrée de manière à se donner l'air, croit-il, d'un officier étranger, n'est-il pas une manière de personnage pour ses camarades ?)</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1571-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1571-1</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0884-3</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">proust_marcel_-_a_la_recherche_du_temps_perdu_v</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Marcel Proust&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:29.263960+00:00" name="calibre:timestamp"/>
+        <meta content="À la recherche du temps perdu V" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

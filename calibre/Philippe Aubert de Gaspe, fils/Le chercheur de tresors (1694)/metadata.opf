@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1694</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8d39c45f-d946-40b3-b83d-9a019cc0c4e4</dc:identifier>
+        <dc:title>Le chercheur de trésors</dc:title>
+        <dc:creator opf:file-as="Gaspé (de) (fils), Philippe Aubert" opf:role="aut">Philippe Aubert de Gaspé, fils</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1837-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Philippe-Ignace-François Aubert de Gaspé est un journaliste et écrivain canadien. Il est l'auteur du premier roman canadien français publié au Canada, intitulé L'influence d'un livre. L'Influence d'un livre, a aussi été publié ultérieurement dans une version tronquée sous le titre " Le chercheur de trésors". Il met en scène les mésaventures d'un paysan dénommé Charles Amand, qui, aidé par son ami Dupont veut percer le secret de l'alchimie. Extrait : Dupont, en se jetant sur sa couche, n'avait pas trouvé des rêves aussi agréables ; l'idée de l'action qu'il allait commettre le lendemain ne l'abandonnait pas, et le sommeil fuyait sa paupière. Lorsque le jour parut, il se leva fiévreux et fatigué, et s'étant assis près du foyer, il alluma sa pipe. Livré à ses réflexions, il songeait s'il ferait bien de suivre, à la lettre, les injonctions d'Amand. Il était honnête ; et ce crime lui répugnait. Après avoir délibéré près d'une heure, il prit son chapeau, sortit et traversa le champ qui le séparait de la ferme voisine en se disant à lui-même : -- Bah, je vais l'acheter et je lui ferai accroire que je l'ai volée.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1535-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1535-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">philippe_aubert_de_gaspe_fils_-_le_chercheur_de_tresors</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Philippe Aubert de Gaspé, fils&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:33.319672+00:00" name="calibre:timestamp"/>
+        <meta content="chercheur de trésors, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

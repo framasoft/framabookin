@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1464</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b4bddc2c-4abd-43d0-9601-8d928e8339c9</dc:identifier>
+        <dc:title>La terre paternelle</dc:title>
+        <dc:creator opf:file-as="Lacombe, Patrice" opf:role="aut">Patrice Lacombe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1846-06-02T23:00:00+00:00</dc:date>
+        <dc:description>En 1846, Lacombe fait paraître dans l'Album littéraire de la Revue canadienne un roman, La Terre paternelle, dont le caractère significatif est d'avoir fondé le genre littéraire dit du roman du terroir, c'est-à-dire le roman agricole canadien. La terre paternelle, parut, en première édition, dans l'Album littéraire et musical de la Revue canadienne (février 1846, pp. 14-25). Puis, en 1848, dans le Répertoire national de John Huston. Notaire, Patrice Lacombe n'a publié que ce seul roman, et sous le couvert de l'anonymat. Extrait : Le jour arrivé, le père, la mère et leur garçon se préparèrent à se rendre chez le notaire. Comme c'était une affaire qui intéressait toute la famille, Marguerite fut invitée à les accompagner ; on invita même, suivant l'usage, quelques parents et quelques voisins, amis intimes de la famille ; et tous ensemble se dirigèrent vers la demeure du notaire. Au moment du départ, on fut indécis si l'on irait chez l'ancien ou le nouveau notaire ; mais les avis étant pris, la majorité décida que l'on donnerait la préférence au nouveau, parce qu'il s'était fait annoncer comme un bon notaire, et qu'il faisait les actes à meilleur marché que l'ancien. Un quart d'heure après, on arrivait chez le nouveau praticien. M. Dunoir était en ce moment à sa fenêtre, lorsqu'il vit plusieurs voitures s'arrêter devant sa porte et une dizaine de personnes en descendre : - Bon, dit-il, mes annonces font effet ; voilà déjà des pratiques.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1583-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1583-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">lacombe_patrice_-_la_terre_paternelle</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Patrice Lacombe&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:47.098396+00:00" name="calibre:timestamp"/>
+        <meta content="terre paternelle, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

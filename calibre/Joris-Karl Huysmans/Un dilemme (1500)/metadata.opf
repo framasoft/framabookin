@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1500</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">830a410e-2ddf-4549-8510-5cf570b124a9</dc:identifier>
+        <dc:title>Un dilemme</dc:title>
+        <dc:creator opf:file-as="Huysmans, Joris-Karl" opf:role="aut">Joris-Karl Huysmans</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1887-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Une nouvelle de Joris-Karl Huysmans publièe en 1887. Extrait : quand le médecin m'a écrit que Jules était très malade, j'ai pris le train, suis arrivé à Paris, ai trouvé la drôlesse installée chez monsieur mon fils et le soignant. Jules m'a assuré que cette fille était employée chez lui, en qualité de bonne. Je n'en ai pas cru un traître mot, mais, pour obéir aux prescriptions du médecin qui m'ordonnait de ne pas contrarier le malade, j'ai consenti à me taire et, comme la fièvre typhoïde s'aggravait malheureusement d'heure en heure, je suis resté là, subissant jusqu'au dénouement la présence de cette fausse bonne. Elle s'est d'ailleurs montrée convenable, je dois lui rendre cette justice ; puis le transfert du corps de mon pauvre Jules a eu lieu sans retard, vous le savez. Absorbé par des achats, par des courses, je n'ai plus eu l'occasion de la voir et je n'avais même plus entendu parler d'elle, lorsqu'est arrivée cette lettre où elle se déclare enceinte et me demande, en grâce, un peu d'argent.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1545-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1545-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">huysmans_joris-karl_-_un_dilemme</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>nouvelle</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Joris-Karl Huysmans&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:54.330171+00:00" name="calibre:timestamp"/>
+        <meta content="dilemme, Un" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

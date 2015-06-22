@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1485</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7732a3f3-12d1-4a65-bbc2-6f8e461d411c</dc:identifier>
+        <dc:title>Les Koumiassine</dc:title>
+        <dc:creator opf:file-as="Gréville, Henry" opf:role="aut">Henry Gréville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1877-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Henry Gréville, pseudonyme de Alice Marie Céleste Durand née Fleury (1842-1902), a publié de nombreux romans, des nouvelles, des pièces, de la poésie ; elle a été à son époque un écrivain à succès. Extrait : Les jeunes filles, de leur côté, étaient si sérieuses, que le récit de l'escapade de Dmitri ne les fit rire qu'un moment. À l'idée de Pétersbourg, le petit comte faisait la roue sur le parquet, -- c'était encore le menin français qui lui avait inculqué ces mauvaises manières. -- Il allait retrouver le Skating-Club et les leçons de gymnastique ! On le menaçait bien de lui faire commencer le piano, mais c'était encore hypothétique pour cet hiver-là. Il trouva bientôt ses cousines maussades et se mit à découper avec beaucoup d'art une masse de profils de l'intendant dans une feuille de papier ; -- toujours les fruits de l'éducation de son menin français, le misérable !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1514-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1514-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">greville_henry_-_les_koumiassine</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Henry Gréville&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:51.343678+00:00" name="calibre:timestamp"/>
+        <meta content="Koumiassine, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

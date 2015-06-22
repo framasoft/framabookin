@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1834</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4bfc65f0-9b55-4a2a-b31c-e8c1b2fd4df2</dc:identifier>
+        <dc:title>Douce Lumière</dc:title>
+        <dc:creator opf:file-as="Audoux, Marguerite" opf:role="aut">Marguerite Audoux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Marguerite Audoux est née à Sancoins dans le Cher, en 1863. Élevée dans un orphelinat, fille de ferme en Sologne, puis couturière à Paris, elle raconta sa vie dans Marie-Claire (1910), qui obtint le prix Fémina. Elle publia ensuite L'Atelier de Marie-Claire (1920), De la ville au moulin (1926), et Douce Lumière (1937). Extrait : Elle se laissa entraîner dans la ronde, mais il lui fut impossible de sauter. Ses jambes étaient devenues aussi lourdes que sa tête, dans laquelle la voix triste et dure de son grand-père redisait sans cesse : « Au frais matin les coqs ont chanté sa naissance, et, au soir tombant, la cloche de l'église a sonné le glas pour son père et sa mère. » Ses compagnes la tiraient et la poussaient en se moquant de sa maladresse. Elle n'y était pas sensible. Un étonnement sans bornes était en elle. Ainsi, comme son ami Noël et les autres enfants, elle avait eu un père et une mère, et pour eux le glas avait sonné, comme il sonnait pour tous ceux qui mouraient au village.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1243-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1243-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">audoux_marguerite_-_douce_lumiere</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Marguerite Audoux&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:19:01.549543+00:00" name="calibre:timestamp"/>
+        <meta content="Douce Lumière" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

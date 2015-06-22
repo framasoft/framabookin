@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1621</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6101b665-5c71-4387-a1a6-86a89c63c97f</dc:identifier>
+        <dc:title>Rouletabille chez Krupp</dc:title>
+        <dc:creator opf:file-as="Leroux, Gaston" opf:role="aut">Gaston Leroux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1917-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Dans cette aventure, Rouletabille est envoyé en Allemagne (dans une usine de machines à coudre) pour récupérer un savant français enlevé par les Allemands. Le Kaiser veut contraindre le professeur à mettre au point une invention qui risquerait de faire basculer la victoire dans le camp allemand. Extrait : « -- Si imaginatif qu'ait été Jules Verne, s'exclama-t-il, il n'eût jamais  osé rêver ce que la science actuelle est susceptible de  matérialiser. Dans mon affaire à moi, il ne s'agit pas d'un obus, mais d'une torpille. Et d'une torpille qu'aucun canon au monde ne pourrait contenir et qu'aucune charge d'explosif connue ne pourrait envoyer bien loin !  Ma torpille est plus grande que le Titanic ! Entendez-vous, je dis plus grande que le  Titanic  !  Elle a trois cents mètres de long. Elle est douée d'une vitesse de quatre cents kilomètres à l'heure ! rien ne saurait l'arrêter ! Elle ruine tout, brûle tout, anéantit tout, dans un cercle de plusieurs lieues ! On ne peut rien contre elle, une fois lancée ! Rien au monde n'est capable de l'empêcher d'atteindre exactement son but, ni d'éclater à l'heure fixée et à l'endroit fixé ! Elle s'appelle Titania !...  « Je ne sais si vous avez vu quelquefois Théodore Fulber, continua le directeur de  L'Époque. Il a des yeux d'une clarté, d'une pureté enfantines, une figure de petit ange inspiré, dans un cadre farouche de mèches blanches qui se tordent comme des flammes autour de son front phénoménal !... et le tout constitue un mélange des plus curieux qui étonne et inquiète. « Ce soir-là, il était très, très inquiétant. Quand il se leva de table, après nous avoir lancé sa formidable tirade, il avait littéralement l'air d'un fou !... et j'ai pu croire qu'il allait tomber devant nous, d'une attaque d'apoplexie.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0289-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0289-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leroux_gaston_-_rouletabille_chez_krupp</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture intermédiaire</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gaston Leroux&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:18.653426+00:00" name="calibre:timestamp"/>
+        <meta content="Rouletabille chez Krupp" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

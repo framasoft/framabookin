@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1193</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">506b85b0-63c2-469e-8445-4834e2a619af</dc:identifier>
+        <dc:title>Entre deux âmes</dc:title>
+        <dc:creator opf:file-as="Delly" opf:role="aut">Delly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Delly est le nom de plume conjoint d'un frère et d'une sœur, Jeanne-Marie Petitjean de La Rosière, née à Avignon en 1875, et Frédéric Petitjean de La Rosière, né à Vannes en 1876, auteurs de romans d'amour populaires. Les romans de Delly, peu connus des lecteurs actuels et ignorés par le monde universitaire, furent extrêmement populaires entre 1910 et 1950, et comptèrent parmi les plus grands succès de l'édition mondiale à cette époque. Extrait : Nous n'avons pas de raisons absolument sérieuses pour ne pas prêter les mains à ce projet, Jacques. Il y a beaucoup de contre, c'est vrai, mais beaucoup de pour aussi. Cette enfant sera impossible à marier dans sa lamentable situation de fortune. Puis, un jour ou l'autre, ils n'auront peut-être même plus de pain. Dans de tels cas, des sacrifices s'imposent devant une solution aussi inespérée que le serait une demande en mariage du marquis de Ghiliac. Si Valderez est romanesque, si elle a fait même seulement quelques-uns des rêves habituels aux jeunes filles, il est à craindre qu'elle souffre près d'Élie ; mais il est bien possible qu'elle n'ait jamais pris le temps de rêver, pauvre petite ! et qu'elle accepte bien simplement ce mariage de raison, cette existence sacrifiée, et la courtoise indifférence de son mari. En ce cas elle pourra trouver des satisfactions dans cette union, -- quand ce ne serait que de voir les siens à l'abri de la gêne pour toujours, car Élie se montrera royalement généreux, c'est dans ses habitudes...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1338-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1338-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">delly_-_entre_deux_ames</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Delly&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:50.977049+00:00" name="calibre:timestamp"/>
+        <meta content="Entre deux âmes" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

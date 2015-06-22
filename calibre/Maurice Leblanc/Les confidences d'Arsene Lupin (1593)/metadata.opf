@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1593</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0cb1896c-66d0-4705-8aa4-0f39cc67190b</dc:identifier>
+        <dc:title>Les confidences d'Arsène Lupin</dc:title>
+        <dc:creator opf:file-as="Leblanc, Maurice" opf:role="aut">Maurice Leblanc</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1913-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Après le noir 813, Maurice Leblanc revint aux nouvelles plus légères, dans le style de celles de son premier recueil, Arsène Lupin gentleman cambrioleur. Elles ont paru dans Je sais tout à partir d'avril 1911. Les trois dernières nouvelles, lors de leur publication initiale, ne portaient pas le sur-titre Les Confidences d'Arsène Lupin. On y retrouve le Lupin des débuts, charmeur, à qui tout réussit, dans les situations perdues. Les Jeux du soleil, publication initiale in Je sais tout n° 75, 15 avril 1911, sous le titre Les Confidences d'Arsène Lupin : Les Jeux du soleil -- L'Anneau nuptial, publication initiale in Je sais tout n° 76, 15 mai 1911, sous le titre Les Confidences d'Arsène Lupin : L'Anneau nuptial -- Le Signe de l'ombre, publication initiale in Je sais tout n° 77, 15 juin 1911, sous le titre Les Confidences d'Arsène Lupin : Le Signe de l'ombre -- Le Piège infernal, publication initiale in Je sais tout n° 78, 15 juillet 1911, sous le titre Les Confidences d'Arsène Lupin : Le Piège infernal -- L'Écharpe de soie rouge, publication initiale in Je sais tout n° 79, 15 août 1911, sous le titre Les Confidences d'Arsène Lupin : L'Écharpe de soie rouge -- La Mort qui rôde, publication initiale in Je sais tout n° 80, 15 septembre 1911, sous le titre Les Confidences d'Arsène Lupin : La Mort qui rôde -- Le Mariage d'Arsène Lupin, publication initiale in Je sais tout n° 94, 15 novembre 1912 -- Le Fétu de paille, publication initiale in Je sais tout n° 96, 15 janvier 1913 -- Édith au cou de cygne, publication initiale in Je sais tout n° 97, 15 février 1913 -- Extrait : Sans en dire davantage, Lupin m'entraîna de nouveau, redescendit et, une fois dans la rue, tourna sur la droite, ce qui nous fit passer devant mon appartement. Quatre numéros plus loin, il s'arrêtait en face du 92, petite maison basse dont le rez-de-chaussée était occupé par un marchand de vins qui, justement, fumait sur le pas de sa porte, auprès du couloir d'entrée. Lupin s'informa si M. Dulâtre se trouvait chez lui. - M. Dulâtre est parti, répondit le marchand... voilà peut-être une demi-heure... Il semblait très agité, et il a pris une automobile, ce qui n'est pas son habitude.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1612-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1612-1</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1608-4</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leblanc_maurice_-_les_confidences_d_arsene_lupin</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>nouvelle</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Maurice Leblanc&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:12.969414+00:00" name="calibre:timestamp"/>
+        <meta content="confidences d'Arsène Lupin, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

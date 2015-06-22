@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1632</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f411c1da-dc95-4fa0-a6a7-a6c27302eb65</dc:identifier>
+        <dc:title>Les Mohicans de Babel</dc:title>
+        <dc:creator opf:file-as="Leroux, Gaston" opf:role="aut">Gaston Leroux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1926-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Dans le Paris débridé des année folles, alors que le gouvernement est aux abois, on ne parle que d'un mystérieux malfaiteur, tout-puissant, «le Grand X». Un riche banquier et homme politique, Milion-Lauenbourg, est le père d'une très jolie fille, Sylvie, amoureuse d'un député adversaire de son père, Claude Corbières. Celui-ci dirige la ligue anti parlementaire. Milion-Lauenbourg dirige ses affaires grâce à l'aide inestimable de M. Barnabé, aux allures de petit bureaucrate radin, mais qui en fait connaît tout de la banque. Il a recours aux services de Dumont, chef de la Sureté, prototype du policier avide de pouvoir. D'autres comparses gravitent autour de ces personnages, hommes politiques, truands, parents... L'intrigue est foisonnante, délirante, les nuits de Paris sont pleines de stupre et de sang. L'auteur se livre à une féroce satire de la société de son temps et dénonce la médiocrité des élites, la dégénérescence de la noblesse et la corruption des politiciens. Extrait : Cependant, la jeunesse ne demandait qu'à remuer, faire quelque chose, mais elle ne savait pas exactement quelle chose et les chefs qui jusqu'alors avaient tenté de la grouper concevaient des buts tellement différents qu'ils annihilaient par cela même leurs efforts. Seul, un jeune député, indépendant, détaché de toute coterie, s'était retourné vers eux, mais pour faire entendre des paroles tellement nouvelles qu'il avait eu, du premier coup, les chefs contre lui qui le traitaient d'anarchiste. Il paraissait redoutable, moins parce qu'il voulait construire que parce qu'il voulait détruire. Il mettait dans le même sac communistes, fascistes, et tous les parlementaires, même ceux qui, revenus de l'extrême-gauche, prétendaient maintenant à une politique «~nationale~». Il était antidictatorial et décentraliseur. Il s'appelait Claude Corbières, avait déjà porté des coups terribles et gênait tout le monde. Néanmoins ses conférences en province avaient eu un succès considérable, surtout chez ceux qui ne se mêlaient point de politique. En général, il n'apparaissait que comme un nouvel élément de désordre. Au fond, le pays n'attendait plus qu'un miracle qui viendrait peut-être de l'excès de ses maux. On cherchait de la consolation dans le souvenir des assignats le jour où ils n'avaient plus rien valu, on avait cessé de se leurrer de chimères et la vie avait repris son cours normal. Certains trouvaient que la faillite était lente à venir. On repartirait du bon pied. Mais ceux qui avaient des rhumatismes goûtaient peu cette perspective. Malheur aux vieillards~! Il fallait rester jeune ou le paraître.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0281-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0281-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leroux_gaston_-_les_mohicans_de_babel</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gaston Leroux&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:20.866663+00:00" name="calibre:timestamp"/>
+        <meta content="Mohicans de Babel, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1563</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4560616c-51a1-4f1e-8d90-f422ed9b49b0</dc:identifier>
+        <dc:title>L'énigme</dc:title>
+        <dc:creator opf:file-as="Lermina, Jules" opf:role="aut">Jules Lermina</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1895-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Mr de Morlaines, un veuf ancien militaire, vit retiré en compagnie de sa vieille gouvernante. Il recueille auprès de lui une jeune orpheline, parente éloignée, il s'en éprend et l'épouse. Mais si cette jeune épouse est bien acceptée par le fils de Mr de Morlaines, elle l'est beaucoup moins par la vieille gouvernante qui déteste «l'usurpatrice». Après un an de mariage, on retrouve le corps de Mr de Morlaine qui s'est suicidé. Ce suicide est une véritable énigme pour tout le monde, le mariage ayant été heureux jusque là. La vieille gouvernante, tout à sa haine, est persuadée d'en connaître la cause... Extrait : Une civière fut improvisée et le cadavre y fut étendu. Un drap fut jeté sur le corps, puis le funèbre cortège prit le chemin des Petites-Tuileries. Par respect pour le mort et aussi avec la généreuse pensée d'adoucir l'amertume du coup qui allait frapper Madame de Morlaines, le maire accompagnait les porteurs.Huit heures du matin sonnaient au moment où le triste convoi déboucha sur la route, en face de la grille des Petites-Tuileries.À ce moment, Diane, la chienne favorite du général, qui était attachée dans la première cour, poussa un hurlement douloureux, et, obéissant à cet instinct mystérieux que la science tente en vain d'expliquer, elle fit un effort désespéré, brisa sa chaîne, bondit par dessus le mur de clôture et, s'élançant sur la civière, eût sauté sur le cadavre, si on ne l'eût écartée... La vieille Germaine, de l'intérieur où elle vaquait aux occupations, avait entendu le cri de l'animal, et était sortie vivement, saisie par ces pressentiments qui ont leur racine dans de légendaires superstitions, et que cependant l'évènement allait tristement confirmer...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0853-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0853-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">lermina_jules_-_l_enigme</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Jules Lermina&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:06.692833+00:00" name="calibre:timestamp"/>
+        <meta content="énigme, L'" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

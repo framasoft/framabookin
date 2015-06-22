@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">957</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0b0344c9-b2b8-4cf6-970b-fc3c1e7f11ab</dc:identifier>
+        <dc:title>La terre qui meurt</dc:title>
+        <dc:creator opf:file-as="Bazin, René" opf:role="aut">René Bazin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Le plus célèbre de ses romans. Sur fond d'abandon de la terre par ses propriétaires aristocratiques, les enfants d'un métayer sont attirés par la ville et même l'émigration. Où il se joue deux passions : celle, malheureuse, de l'infirme Mathurin Lumineau, et l'amour combattu et vainqueur de Rousille et Jean Nesmy, qui verra alors le renouveau de la Terre. Puissante évocation de ce qui était alors Terre incognita : le Marais Vendéen. Extrait : Avec sa taille plate, sa fraîcheur de Maraîchine, l'ovale plein de ses joues, la courbe pure du front, que resserraient sur les tempes deux bandeaux bien lissés, ses lèvres droites, dont on ne savait si elles se redresseraient pour rire ou s'abaisseraient pour pleurer, elle ressemblait à ces vierges grandissantes qui marchent dans les processions, portant une banderole. Seuls les yeux étaient d'une femme, ses yeux couleur de châtaigne mûre, de la même nuance que les cheveux, et où vivait, où luisait une tendresse toute jeune, mais sérieuse déjà, et digne, et comme sûre de durer. Sans le savoir, elle avait été aimée longtemps par ce valet de son père. Depuis un an, elle s'était secrètement engagée envers lui. Sous la coiffe de mousseline à fleurs, en forme de pyramide, qui est celle de Sallertaine, quand elle sortait de la messe, le dimanche, bien des fils de métayers, éleveurs de chevaux et de bœufs, la regardaient pour qu'elle les regardât. Elle ne faisait point attention à eux, s'étant promise à Jean Nesmy, un taciturne, un étranger, un pauvre, qui n'avait de place, d'autorité ou d'amitié, que dans le cœur de cette petite. Déjà elle lui obéissait. À la maison, ils ne se disaient rien. Dehors, quand ils pouvaient se joindre, ils se parlaient, toujours en hâte, à cause de la surveillance des frères, et de Mathurin surtout, l'infirme, terriblement rôdeur et jaloux. Cette fois encore, il ne fallait pas qu'on les surprît.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0480-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0480-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">bazin_rene_-_la_terre_qui_meurt</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;René Bazin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:03.203076+00:00" name="calibre:timestamp"/>
+        <meta content="terre qui meurt, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

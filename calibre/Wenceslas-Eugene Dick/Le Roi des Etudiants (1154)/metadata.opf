@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1154</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0c6bbf62-7f22-4d8d-9b51-b5034e8f2e43</dc:identifier>
+        <dc:title>Le Roi des Étudiants</dc:title>
+        <dc:creator opf:file-as="Dick, Wenceslas-Eugène" opf:role="aut">Wenceslas-Eugène Dick</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Un jeune homme, après avoir été dupé par un collègue, est envoyé au pénitencier à cause de ce dernier. Il le suite à la trace, pendant la guerre de sécession, afin d'accumuler des preuves de ses malversations, et le confondre... Extrait : Champfort, ne joue pas au plus fin avec moi. Depuis plusieurs mois, je t'observe, et j'ai suivi pas à pas le travail lent, mais continu, mais implacable qui se fait chez toi. Le peu de gaieté, de bonne humeur et d'insouciance joyeuse qui te reste du Champfort d'autrefois n'est que du vernis, et, sous ce vernis, il y a une grande douleur, une de ces douleurs incurables qui terrassent l'âme la plus fortement trempée. Le jeune étudiant baissa la tête et ne répondit pas. Mais sa main se porta instinctivement à son cœur, comme s'il eût craint d'y laisser voir la plaie qu'y devinait Després. Celui-ci se leva et, saisissant cette main indiscrète, il dit à Champfort d'une voix douce : -- Mon pauvre ami, ta main t'a trahi ; tu souffres réellement et je vais te dire qu'elle est ta maladie. -- Tais-toi, Després, tais-toi ! fit vivement Champfort, en relevant la tête et regardant l'étudiant avec des yeux presque hagards.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0509-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0509-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dick_wenceslas-eugene_-_le_roi_des_etudiants</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Wenceslas-Eugène Dick&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:43.158748+00:00" name="calibre:timestamp"/>
+        <meta content="Roi des Étudiants, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

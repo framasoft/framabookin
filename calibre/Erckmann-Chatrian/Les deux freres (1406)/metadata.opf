@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1406</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">198f4ea6-6ef5-429a-9cb8-fa28301aba06</dc:identifier>
+        <dc:title>Les deux frères</dc:title>
+        <dc:creator opf:file-as="Erckmann-Chatrian" opf:role="aut">Erckmann-Chatrian</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1871-01-01T00:00:00+00:00</dc:date>
+        <dc:description>M. Florence est instituteur dans le petit hameau des Chaumes. Dans ce village vivent les frères Rantzau, les deux plus riches propriétaires de la région, qui se détestent et se jalousent mutuellement. Tout le village subit cet affrontement entre les deux hommes, qui inculquent cette animosité à leurs enfants. Seuls M. Florence, ainsi que M. Jannequin, le curé, essaient tant bien que mal de se maintenir entre les deux camps et de les réconcilier... Extrait : Toutes ces figures rondes de petites filles embéguinées dans leurs haillons, le petit nez rouge hors de la capuche, et les garçons, plus hardis, se balançant sur les reins pour reprendre l'équilibre, formaient un spectacle réjouissant. Je les regardais depuis une minute, quand la petite Louise passa sur la glissade, toute gaie et riante, au milieu des garçons. Elle allait comme un oiseau, les ailes de son petit manteau déployées, sans méfiance et sans crainte ; mais, dans la même seconde, je vis Georges partir derrière elle aussi vite qu'un tiercelet, et lui donner, en passant, un grand coup de coude qui l'étendit dans la neige. J'étais déjà dehors, indigné, courant la relever et criant</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0693-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0693-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">erckmann-chatrian_-_les_deux_freres</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Erckmann-Chatrian&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:34.805323+00:00" name="calibre:timestamp"/>
+        <meta content="deux frères, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

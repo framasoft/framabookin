@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1840</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">14fde888-a752-4f21-b41a-468376b18da3</dc:identifier>
+        <dc:title>La destinée</dc:title>
+        <dc:creator opf:file-as="Ages, Lucie des" opf:role="aut">Lucie des Ages</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : La pauvre innocente portait au cou une médaille d'or sur laquelle était inscrit son nom : Sarah Alain, et la date de son baptême. Comment ce bijou avait-il échappé à la rapace convoitise de son grand-père ? Lorsqu'il s'était trouvé l'unique protecteur de l'enfant, il avait, il est vrai, essayé de s'emparer de cette médaille ; mais Sarah s'était révoltée, et cédant à ses pleurs, il s'était contenté de prendre, pour la vendre, la chaîne à laquelle elle était suspendue. Un matin, en s'éveillant, la petite fille l'avait trouvée remplacée par une ganse, ce dont elle avait été étonnée. La présence de la médaille l'avait pourtant consolée de cette disparition, et depuis, Nicolas avait oublié le fragile souvenir qu'elle gardait comme un talisman.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1203-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1203-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">ages_lucie_des_-_la_destinee</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Lucie des Ages&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:19:02.741426+00:00" name="calibre:timestamp"/>
+        <meta content="destinée, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

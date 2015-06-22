@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1096</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b7727aa6-cb8a-41ab-a3e8-679c676af2c5</dc:identifier>
+        <dc:title>Angéline de Montbrun</dc:title>
+        <dc:creator opf:file-as="Conan, Laure" opf:role="aut">Laure Conan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Marie-Louise Félicité Angers, dite Laure Conan, née à La Malbaie (Canada-Est, aujourd'hui le Québec) le 9 janvier 1845, décédée le 6 juin 1924 à l'Hôtel-Dieu de Québec, est une écrivaine canadienne-française. En 1862, elle fait la connaissance de l'arpenteur-géomètre Pierre-Alexis Tremblay qui lui fait une cour assidue. Leur rupture, en 1868, met un terme à sa vie publique. Elle s'isole dans sa vaste demeure et remet en cause les conventions sociales, puis décide de se consacrer à l'écriture. Extrait : Chère Mina, je suis bien inquiet, bien troublé, bien malheureux. Que dire de M. de Montbrun ? Il est venu lui-même me conduire à ma chambre, et m'a laissé avec la plus cordiale poignée de main. J'aurais voulu le retenir, lui dire pourquoi je suis venu, mais j'ai pensé : « Puisque j'ai encore l'espérance, gardons-la. » J'ai passé la nuit à la fenêtre, mais le temps ne m'a pas duré. Que la campagne est belle ! quelle tranquillité ! quelle paix profonde ! et quelle musique dans ces vagues rumeurs de la nuit ! On a ici des habitudes bien différentes des nôtres. Figure-toi qu'avant cinq heures M. de Montbrun se promenait dans son jardin. J'étais à le considérer, lorsque Angéline parut, belle comme le jour, radieuse comme le soleil levant. Elle avait à la main son chapeau de paille, et elle rejoignit son père, qui l'étreignit contre son cœur. Il avait l'air de dire : « Qu'on vienne donc me prendre mon trésor ! » Chère Mina, que ferai-je s'il me refuse ? Que puis-je contre lui ? Ah ! s'il ne s'agissait que de la mériter.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1312-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1312-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">conan_laure_-_angeline_de_montbrun</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Laure Conan&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:31.266541+00:00" name="calibre:timestamp"/>
+        <meta content="Angéline de Montbrun" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1820</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9cbfb6ff-05be-404c-b5db-313e8d95d908</dc:identifier>
+        <dc:title>Le forestier</dc:title>
+        <dc:creator opf:file-as="Aimard, Gustave" opf:role="aut">Gustave Aimard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Les salteadores de la sierra de Tolède, ou pour mieux dire les gentilshommes de la montagne, ainsi qu'ils s'intitulaient pompeusement eux-mêmes, étaient des gens assez peu scrupuleux de leur nature ; et n'ayant de préjugés d'aucune sorte, pas même celui du respect de la vie humaine, ils avaient d'abord vu d'un assez mauvais œil l'établissement d'un étranger dans le voisinage de leurs impénétrables retraites ; la première pensée qui leur était venue, pensée essentiellement logique, du reste, au point de vue de leur intérêt particulier, était qu'ils avaient affaire à un espion. En conséquence, ils résolurent de surveiller l'étranger, déterminés à le tuer sans rémission à la moindre démarche suspecte qu'ils lui verraient faire.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1210-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1210-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">aimard_gustave_-_le_forestier</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture aisée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gustave Aimard&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:58.783410+00:00" name="calibre:timestamp"/>
+        <meta content="forestier, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

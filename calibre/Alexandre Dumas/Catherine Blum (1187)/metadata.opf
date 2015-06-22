@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1187</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">63bcbcc3-ed27-4c74-bf91-abb30fcbd765</dc:identifier>
+        <dc:title>Catherine Blum</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Forêt de Villers-Cotterêts, mai 1829. Les époux Watrin, dont le mari est garde-chasse du duc d'Orléans, ont élevé trois enfants : Bernard, leur fils, maintenant garde-chasse lui aussi, Catherine, leur nièce, dont le père était un prisonnier allemand blessé recueilli par la famille, et Mathieu, un enfant abandonné qu'ils ont recueilli. Catherine et Bernard ont peu à peu appris à s'aimer, d'abord comme frère et soeur, puis comme des amants. Après dix-huit mois passés à Paris en apprentissage, Catherine revient chez les Watrin pour s'établir comme modiste à la ville toute proche. La longue séparation a conforté les deux jeunes gens dans leur amour. Mathieu, qui a un fond méchant et une rancune tenace envers Bernard, va inventer un piège diabolique pour faire échouer leur projet de mariage en manipulant l'honnête famille et en provoquant habilement la jalousie du jeune amant. Catherine Blum tient à la fois du théâtre, de l'étude de moeurs, du conte et du roman policier. Dumas s'y essaye avec bonheur au roman contemporain, sans dimension historique, et s'implique intimement en décrivant avec émotion, dans un long premier chapitre, les lieux de son enfance. Extrait : Le cœur me battit fort, je me mis à chanter cependant ; j'ai toujours chanté abominablement faux : un loup tant soit peu musicien se fût sauvé ! Le mien ne l'était pas ; la musique, au contraire, lui plut, à ce qu'il paraît : il fit le second dessous avec un hurlement plaintif et affamé. Je me tus, et je continuai ma route en silence, pareil à ces damnés à qui Satan a tordu le cou, et que Dante rencontre dans le troisième cercle de l'enfer, marchant en avant et regardant en arrière. Mais je m'aperçus bientôt que je commettais une grave imprudence ; en regardant du côté du loup, je ne voyais pas à mes pieds ; je trébuchai, le loup prit un élan.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0004-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0004-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_catherine_blum</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:49.788170+00:00" name="calibre:timestamp"/>
+        <meta content="Catherine Blum" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

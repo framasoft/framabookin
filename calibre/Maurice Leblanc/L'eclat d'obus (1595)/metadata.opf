@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1595</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">135c4609-dc91-458c-b912-2a193306ca64</dc:identifier>
+        <dc:title>L’éclat d’obus</dc:title>
+        <dc:creator opf:file-as="Leblanc, Maurice" opf:role="aut">Maurice Leblanc</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1915-06-02T23:00:00+00:00</dc:date>
+        <dc:description>L'Éclat d'obus est un roman de Maurice Leblanc, dont l'action se déroule durant la Première Guerre mondiale. L'intrigue du roman suit les pérégrinations d'un personnage à la fois en quête de son épouse et du meurtrier de son père. Arsène Lupin apparaît en médecin vers le milieu du récit. Extrait : - Vous la reconnaîtriez, Paul ? - Si je la reconnaîtrais ? Entre mille et mille femmes. Et fût-elle transformée par l'âge, je retrouverais sous les rides de la vieille femme, le visage même de la jeune femme qui assassina mon père, une fin d'après-midi du mois de septembre. Ne pas la reconnaître ! Mais la couleur même de sa robe, je l'ai notée ! N'est-ce pas incroyable ? une robe grise avec un fichu de dentelle noire autour des épaules, et là, au corsage, en guise de broche, un lourd camée encadré d'un serpent d'or dont les yeux étaient faits de rubis. Vous voyez, Élisabeth, que je n'ai pas oublié ce que je n'oublierai jamais. Il se tut. Élisabeth pleurait. Comme son mari, ce passé l'enveloppait d'horreur et d'amertume. Il l'attira contre lui et la baisa au front.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1610-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1610-7</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1616-9</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leblanc_maurice_-_l_eclat_d_obus</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Maurice Leblanc&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:13.372916+00:00" name="calibre:timestamp"/>
+        <meta content="L’éclat d’obus" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

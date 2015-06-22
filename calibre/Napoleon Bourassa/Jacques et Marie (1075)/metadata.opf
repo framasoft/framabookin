@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1075</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">26824939-3c44-4bd8-9c50-ccbc59b33380</dc:identifier>
+        <dc:title>Jacques et Marie</dc:title>
+        <dc:creator opf:file-as="Bourassa, Napoléon" opf:role="aut">Napoléon Bourassa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Napoléon Bourassa (21 octobre 1827- 27 août 1916) est un architecte, un peintre et un écrivain québécois. Extrait : Or, le curé ne pouvant pas se marier, personne n'avait donc à se disputer sa main ; lui, de son côté, tenait beaucoup à faire des mariages. Quant au notaire, comme il était ordinairement seul dans le canton, on ne pouvait toujours le ravir qu'une fois, ou deux tout au plus, dans le cas d'un veuvage, ce qui le rendait déjà moins ravissant. Cet énorme parti, ce suprême personnage une fois fixé, les grandes ambitions du village n'avaient plus de but, car il n'y avait pas d'avocat -- ô le beau temps !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1272-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1272-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">bourassa_napoleon_-_jacques_et_marie</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Napoléon Bourassa&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:26.790520+00:00" name="calibre:timestamp"/>
+        <meta content="Jacques et Marie" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

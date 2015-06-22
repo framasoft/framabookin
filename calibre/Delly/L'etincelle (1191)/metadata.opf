@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1191</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">30195ce1-3d70-4e06-9b48-0b008bf321cd</dc:identifier>
+        <dc:title>L'étincelle</dc:title>
+        <dc:creator opf:file-as="Delly" opf:role="aut">Delly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Ce roman fut d'abord publié dans la revue Le Noël, puis dans les Veillées des Chaumières et enfin en volume en 1905. Les éditions ultérieures du roman, avec de nombreuses modifications, sont parues sous le titre « La jeune fille emmurée ». Extrait : De temps à autre, par les portes un instant entrouvertes, arrivaient des éclats de voix joyeuses ou le son du piano supérieurement travaillé par l'un des invités... Mais le blanc visage d'Isabelle restait impassible, et lentement, doucement, elle continuait à passer la serviette de fine toile sur les tasses précieuses, don d'une princesse russe admiratrice passionnée de Valentina. L'aimable grande dame se fût pâmée d'étonnement si elle avait pu apercevoir la besogne à laquelle se livrait la fille du vicomte d'Effranges et de l'élégante Lucienne Norand -- la belle jeune fille qu'un impitoyable système d'éducation reléguait à l'office, parmi les servantes.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1340-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1340-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">delly_-_l_etincelle</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Delly&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:50.584230+00:00" name="calibre:timestamp"/>
+        <meta content="étincelle, L'" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

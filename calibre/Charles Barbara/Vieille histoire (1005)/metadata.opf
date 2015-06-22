@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1005</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b44b1b7e-7b7a-4ab8-b832-bed58c14c816</dc:identifier>
+        <dc:title>Vieille histoire</dc:title>
+        <dc:creator opf:file-as="Barbara, Charles" opf:role="aut">Charles Barbara</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1857-03-05T23:00:00+00:00</dc:date>
+        <dc:description>extrait : ... je revenais de voyage. On m'accueillit avec une nouvelle qui me fit dresser l'oreille. Pendant mon absence, un locataire de la maison, un jeune homme, s'était pendu à sa fenêtre, et cela à cause d'une femme presque ma voisine. J'eus quelque peine d'abord à me souvenir du jeune homme, de M. Paul, comme on disait, garçon joufflu, qu'un mot suffisait à rendre rouge. Quant à la femme, madame Clémence, ironie du hasard ! je me rappelai fort bien m'être croisé fréquemment avec elle dans l'escalier, et avoir même remarqué plus d'une fois son œil vif, ses cheveux noirs, ses épaules, sa taille, son air jeune et riant ...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1194-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1194-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">barbara_charles_-_vieille_histoire</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Charles Barbara&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:12.782672+00:00" name="calibre:timestamp"/>
+        <meta content="Vieille histoire" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

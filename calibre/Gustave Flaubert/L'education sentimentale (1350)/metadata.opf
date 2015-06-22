@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1350</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4a974b0d-1aeb-4a14-bd91-c2a3c8bb189d</dc:identifier>
+        <dc:title>L'éducation sentimentale</dc:title>
+        <dc:creator opf:file-as="Flaubert, Gustave" opf:role="aut">Gustave Flaubert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>L’Éducation sentimentale comporte de nombreux éléments autobiographiques (tels la rencontre de Madame Arnoux, inspirée de la rencontre de Flaubert avec Élisa Schlésinger). Le cœur du récit est tiré du roman de Sainte-Beuve : Volupté, qu’Honoré de Balzac avait déjà traité et d’une certaine manière réécrit avec le Lys dans la vallée. Plusieurs femmes (Rosanette, Mme Dambreuse) traversent l'existence du personnage principal Frédéric Moreau, jeune provincial de dix-huit ans venant faire ses études à Paris, mais aucune ne peut se comparer à Marie Arnoux, épouse d’un riche marchand d’art, dont il est éperdument amoureux. C’est au contact de cette passion inactive et des contingences du monde qu’il fera son éducation sentimentale, qui se résumera pour l’essentiel à brûler, peu à peu, ses illusions. Extrait : Il lui semblait, cependant, qu'on devait l'aimer ! Quelquefois, il se réveillait le cœur plein d'espérance, s'habillait soigneusement comme pour un rendez-vous, et il faisait dans Paris des courses interminables. À chaque femme qui marchait devant lui, ou qui s'avançait à sa rencontre, il se disait : « La voilà ! » C'était, chaque fois, une déception nouvelle.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0722-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0722-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">flaubert_gustave_-_l_education_sentimentale</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gustave Flaubert&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:23.455674+00:00" name="calibre:timestamp"/>
+        <meta content="éducation sentimentale, L'" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">988</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c0ce9369-82ef-4907-98b5-6b8fc4d9e5f7</dc:identifier>
+        <dc:title>Les Chouans</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études de moeurs. Cinquième livre, Scènes de la vie militaire. Treizième volume de l'édition Furne 1842. Extrait : La marche de cette colonne sur Mayenne, les éléments hétérogènes qui la composaient et les divers sentiments qu’elle exprimait s’expliquaient assez naturellement par la présence d’une autre troupe formant la tête du détachement. Cent cinquante soldats environ marchaient en avant avec armes et bagages, sous le commandement d’un *chef de demi-brigade*. Il n’est pas inutile de faire observer à ceux qui n’ont pas assisté au drame de la Révolution, que cette dénomination remplaçait le titre de colonel, proscrit par les patriotes comme trop aristocratique. Ces soldats appartenaient au dépôt d’une demi-brigade d’infanterie en séjour à Mayenne. Dans ces temps de discordes, les habitants de l’Ouest avaient appelé tous les soldats de la République, des *Bleus*. Ce surnom était dû à ces premiers uniformes bleus et rouges dont le souvenir est encore assez frais pour rendre leur description superflue. Le détachement des Bleus servait donc d’escorte à ce rassemblement d’hommes presque tous mécontents d’être dirigés sur Mayenne, où la discipline militaire devait promptement leur donner un même esprit, une même livrée et l’uniformité d’allure qui leur manquait alors si complétement.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1016-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1016-7</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1041-9</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_les_chouans</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:09.409822+00:00" name="calibre:timestamp"/>
+        <meta content="Chouans, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

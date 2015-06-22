@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1056</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">957aa2fe-98f3-4099-9347-2f4bce458b47</dc:identifier>
+        <dc:title>Sainte-Marie-des-Fleurs</dc:title>
+        <dc:creator opf:file-as="Boylesve, René" opf:role="aut">René Boylesve</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>René Tardiveau, dit René Boylesve, est un écrivain français, né le 14 avril 1867 et mort à Paris le 14 janvier 1926. Extrait : Elle me donna un petit coup si voluptueux et si amer que je sentis les larmes me suffoquer. Je me contins par un brusque effort, mais je dus rester quelques instants sans répondre. Mon ravissement vis-à-vis d'elle était dans la nuance des paroles. Je vis si clair et si proche l'instant où cette douce intimité minutieuse allait être rompue, que j'eus la tentation de briser tout à coup, pour en demeurer sur le pur parfum. Paris et la pensée de l'homme de Chicago, pensai-je, vont me corrompre et m'empoisonner tout cela. Tournons sur nos talons, emportons le baume encore si délicat ! Puis, je réfléchis qu'il y avait quelques minutes à peine qu'elle m'avait annoncé ses fiançailles -- il me semblait déjà que j'en avais souffert depuis plusieurs jours ; -- la quitter si soudainement, ne serait-ce donner à cet événement une importance que je ne voulais pas laisser paraître ? Enfin, ces dames nous avaient rejoints, et mon adieu non préparé eût été d'une sécheresse indécente. Je n'osai pas l'exécuter. Mais je résolus de me comporter immédiatement vis-à-vis de moi-même, comme si ma séparation eût eu lieu en effet ; de me tuer le sentiment ; de n'être plus là qu'un étranger retenu par la politesse.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1278-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1278-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">boylesve_rene_-_sainte-marie-des-fleurs</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;René Boylesve&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:22.960868+00:00" name="calibre:timestamp"/>
+        <meta content="Sainte-Marie-des-Fleurs" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1366</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d75b5ba6-96b2-40ac-bc7c-8591a72bc72c</dc:identifier>
+        <dc:title>Les affinités électives</dc:title>
+        <dc:creator opf:file-as="Goethe, Johann Wolfgang von" opf:role="aut">Johann Wolfgang von Goethe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1809-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Un couple d’aristocrates unis après un premier mariage, invitent un ami d’enfance d’Edouard nommé le Capitaine, puis, malgré le pressentiment funeste de Charlotte, Odile, la nièce de Charlotte, belle et orpheline, les rejoint. La description d’une expérience scientifique, celle des « Affinités électives », au chapitre quatre de la première partie, nous permet déjà de présager de la suite de la narration dans laquelle l'attachement de plus en plus exclusif d'Edouard pour Odile aura des suites funestes. Extrait : Ce fut ainsi que la société du Capitaine devint peu à peu agréable à Charlotte. En utilisant à sa manière ses vastes connaissances, elle acheva de se tranquilliser sur les suites de sa présence au château. Elle prit même insensiblement l'habitude de le consulter sur une foule de précautions hygiéniques, car elle aimait la vie. Plus d'une fois déjà le vernis de certaines poteries dans lequel il entre du plomb et le vert de gris qui s'attache aux vases de cuivre, lui avaient causé de l'inquiétude. Le Capitaine lui donna à ce sujet des éclaircissements qui les conduisirent à d'instructifs entretiens sur la physique et la chimie.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1493-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1493-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">goethe_johann_wolfgang_von_-_les_affinites_electives</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Allemagne</dc:subject>
+        <meta content="{&quot;Johann Wolfgang von Goethe&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:26.727235+00:00" name="calibre:timestamp"/>
+        <meta content="affinités électives, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

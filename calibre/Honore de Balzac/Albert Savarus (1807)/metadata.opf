@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1807</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c98cc41f-2b9d-4db2-88a0-5a31c64ed554</dc:identifier>
+        <dc:title>Albert Savarus</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>1842. La Comédie humaine - Études de moeurs. Premier livre, Scènes de la vie privée - Tome I. Premier volume de l'édition Furne 1842. Extrait : Le jeune monsieur de Soulas ne pouvait pas se dispenser d’avoir un tigre. Ce tigre était le fils d’un de ses fermiers, un petit domestique âgé de quatorze ans, trapu, nommé Babylas. Le lion avait très-bien habillé son tigre : redingote courte en drap gris de fer, serrée par une ceinture de cuir verni, culotte de panne gros-bleu, gilet rouge, bottes vernies et à revers, chapeau rond à bourdaloue noir, des boutons jaunes aux armes des Soulas. Amédée donnait à ce garçon des gants de coton blanc, le blanchissage et trente-six francs par mois, à la charge de se nourrir, ce qui paraissait monstrueux aux grisettes de Besançon : quatre cent vingt francs à un enfant de quinze ans, sans compter les cadeaux ! Les cadeaux consistaient dans la vente des habits réformés, dans un pourboire quand Soulas troquait l’un de ses deux chevaux, et la vente des fumiers. Les deux chevaux, administrés avec une sordide économie, coûtaient l’un dans l’autre huit cents francs par an. Le compte des fournitures à Paris en parfumeries, cravates, bijouterie, pots de vernis, habits, allait à douze cents francs. Si vous additionnez groom ou tigre, chevaux, tenue superlative, et loyer de six cents francs, vous trouverez un total de trois mille francs. Or, le père du jeune monsieur de Soulas ne lui avait pas laissé plus de quatre mille francs de rentes produits par quelques métairies assez chétives qui exigeaient de l’entretien, et dont l’entretien imprimait une certaine incertitude aux revenus. A peine restait-il trois francs par jour au lion pour sa vie, sa poche et son jeu.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0963-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0963-5</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1031-0</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_albert_savarus</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:56.271969+00:00" name="calibre:timestamp"/>
+        <meta content="Albert Savarus" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

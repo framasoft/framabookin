@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1600</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">07c6851d-104c-4b84-b78c-21046f052d2f</dc:identifier>
+        <dc:title>Figures et choses qui passaient</dc:title>
+        <dc:creator opf:file-as="Loti, Pierre" opf:role="aut">Pierre Loti</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>«Ce que je vais écrire est pour ceux qui, dans les cimetières, contemplant quelque fosse à peine fermée que les premiers bouquets blancs recouvrent encore, se sont sentis tenaillés jusqu'au fond et déchirés, au souvenir de petits yeux candides, éteints là sous la terre affreuse... Oh ! l'énigme déroutante et sombre, que la mort des petits enfants !... Pourquoi ceux-là, au lieu de nous, qui avons fini et qui, si volontiers, accepterions de partir ?... Ou plutôt, pourquoi étaient-ils venus, alors, puisqu'ils devaient s'en retourner si vite après avoir subi l'inique châtiment d'une agonie ?... Devant leurs tombes blanches, notre raison et notre coeur se débattent, en détresse révoltée, au milieu de ténèbres...»</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1090-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1090-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">loti_pierre_-_figures_et_choses_qui_passaient</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Pierre Loti&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:14.379114+00:00" name="calibre:timestamp"/>
+        <meta content="Figures et choses qui passaient" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

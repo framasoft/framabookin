@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1762</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f0bd7a9c-3118-4c92-bd44-3fe75d13270c</dc:identifier>
+        <dc:title>La maison Nucingen</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études de moeurs. Troisième livre, Scènes de la vie parisienne - Tome XI (sic, erreur pour le tome III). Onzième volume de l'édition Furne 1842. Extrait : ― Messieurs, dit Bixiou, l’amour qui ne comporte pas une indissoluble amitié me semble un libertinage momentané. Qu’est-ce qu’un entier abandon où l’on se réserve quelque chose ? Entre ces deux doctrines, aussi opposées et aussi profondément immorales l’une que l’autre, il n’y a pas de conciliation possible. Selon moi, les gens qui craignent une liaison complète ont sans doute la croyance qu’elle peut finir, et adieu l’illusion ! La passion qui ne se croit pas éternelle est hideuse. (Ceci est du Fénelon tout pur.) Aussi, ceux à qui le monde est connu, les observateurs, les gens comme il faut, les hommes bien gantés et bien cravatés, qui ne rougissent pas d’épouser une femme pour sa fortune, proclament-ils comme indispensable une complète scission des intérêts et des sentiments. Les autres sont des fous qui aiment, qui se croient seuls dans le monde avec leur maîtresse ! Pour eux, les millions sont de la boue ; le gant, le camélia porté par l’idole vaut des millions ! Si vous ne retrouvez jamais chez eux le vil métal dissipé, vous trouvez des débris de fleurs cachés dans de jolies boîtes de cèdre ! Ils ne se distinguent plus l’un de l’autre. Pour eux, il n’y a plus de *moi*. TOI, voilà leur Verbe incarné. Que voulez-vous ? Empêcherez-vous cette maladie secrète du cœur ? Il y a des niais qui aiment sans aucune espèce de calcul, et il y a des sages qui calculent en aimant.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0989-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0989-5</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1034-1</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_la_maison_nucingen</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:47.337355+00:00" name="calibre:timestamp"/>
+        <meta content="maison Nucingen, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

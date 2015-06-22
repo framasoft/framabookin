@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1567</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">79e57cd1-e2ee-4a48-bf9f-3ba52e4f574e</dc:identifier>
+        <dc:title>Histoires incroyables</dc:title>
+        <dc:creator opf:file-as="Lermina, Jules" opf:role="aut">Jules Lermina</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1885-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Jules Lermina - « J'ai toujours beaucoup aimé les histoires fantastiques. L'incroyable est une des formes de la poésie. Le réel, lorsqu'il se déforme par l'hallucination ou le rêve, devient tout aussitôt énorme et plus attirant peut-être que la vérité même. Tels ces visages que certains miroirs concaves ou convexes allongent ou dépriment de façons bizarres. Ils nous fascinent. On les regarde avec une fixité un peu hagarde, tandis qu'on laisserait peut-être passer une jolie femme sans l'admirer? » Extrait : Cependant une forte prime avait été offerte à qui les sauverait. Je ne me rappelle pas bien le chiffre, je crois que c'était deux cents dollars. Quelqu'un se dévouerait-il ? Si je tentais moi-même ce sauvetage impossible ! non pour la misérable prime ; sur mon âme, j'aurais donné le quintuple pour qu'ils fussent sains et saufs, car avec eux le problème m'échappait. Et je ne savais rien. Cette pensée me torturait, je me déchirais la poitrine avec mes ongles. Et la flamme montait, montait. Parfois les trois hommes disparaissaient derrière un voile de feu et de fumée. Alors il me semblait qu'ils m'échappaient et, malgré moi, je laissais échapper un cri de douleur. Tout à coup j'entendis un fracas épouvantable. Malédiction ! ce fut un effondrement, un écroulement au milieu des clameurs ; des gerbes tourbillonnantes s'élancèrent vers le ciel, puis des milliers de paillettes étincelantes. Et le cri des travailleurs, s'excitant les uns les autres ! et le bruissement de l'eau tombant sur les charpentes embrasées ! Puis, quelque chose me frappa au front. Je chancelai, étourdi. Je voulus résister à cette force inerte qui m'entraînait. Mais il me sembla que mon cerveau se faisait de plomb, des lueurs rouges scintillèrent devant mes yeux, mes jambes titubèrent comme celles d'un homme ivre...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0849-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0849-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">lermina_jules_-_histoires_incroyables</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Jules Lermina&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:07.462283+00:00" name="calibre:timestamp"/>
+        <meta content="Histoires incroyables" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

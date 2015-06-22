@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1277</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e98d8939-621b-4a5c-a1c4-6d53d079febf</dc:identifier>
+        <dc:title>Le capitaine Richard</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Napoléon est devant Ratisbonne. Frédéric Staps, étudiant bavarois, membre de «l'Union de la Vertu», est bien décidé à libérer l'Allemagne du joug français et ce malgré les peurs de sa fiancée Margueritte Stiller. Dans le camp français, Louis et Paul Richard, frères jumeaux que seul distingue leur uniforme, se retrouvent. Paul est chargé d'infiltrer «l'Union de la Vertu» qui se réunit dans les ruines du château d'Abensberg. Il est accompagné du major Schlick, espion badois au service de la France. Au cours de la séance, Staps est désigné pour assassiner Napoléon. Extrait : - Ah ! les circonstances étaient bien différentes ; puis ce fut un grand bonheur pour César d'être tué. Il avait quelque chose comme cinquante-trois ans, c'est-à-dire l'âge où le génie de l'homme commence à baisser ; il avait toujours été heureux. « La Fortune aime les jeunes gens ! » comme disait Louis XIV à M. de Villeroy ; elle allait peut-être lui tourner le dos. Une ou deux défaites, et César n'était plus un Alexandre : c'était un Pyrrhus ou un Annibal. Il a eu le bonheur de trouver une vingtaine de niais qui n'ont pas compris que César n'était point un Romain, que c'était l'esprit de Rome ; ils ont tué l'empereur ; mais, du sang même de l'empereur, est né l'empire ! Sois tranquille, je n'ai point l'âge de César ; la France n'en est point, en 1809, où en était Rome l'an 44 avant Jésus-Christ : on ne me tuera pas, maître Schlick.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1387-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1387-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_le_capitaine_richard</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:08.531585+00:00" name="calibre:timestamp"/>
+        <meta content="capitaine Richard, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

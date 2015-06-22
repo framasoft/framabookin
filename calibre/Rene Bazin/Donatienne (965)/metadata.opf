@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">965</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f28bf9dd-4670-4b55-b04e-ed1fc97a6521</dc:identifier>
+        <dc:title>Donatienne</dc:title>
+        <dc:creator opf:file-as="Bazin, René" opf:role="aut">René Bazin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Donatienne est l'histoire d'une jeune bretonne mariée et mère de famille qui part à la ville comme nourrice pour aider financièrement son mari et ses enfants. Happée par le tourbillon des conversations des autres bonnes, par leur amoralité, enivrée par le luxe, l'argent gagné sans efforts, elle oublie les siens et devient la maîtresse d'un valet déluré. Son mari chassé par la misère de sa ferme erre sur les routes avec les trois enfants et finit par échouer en Auvergne où il travaille comme manoeuvre dans une carrière... Donatienne est un personnage complexe et très humain avec ses failles et son courage. Ce personnage a parcouru un cycle de vie et de réflexions. Désir de fuir l'enfermement et la misère de la campagne, fascination de la ville et du luxe, oubli et mépris de son origine et de ses valeurs, échec, malheur, remords, solitude, remise en cause puis décision et enfin retrouvailles avec les siens et sa culture. La coiffe bretonne étant le symbole de son appartenance culturelle, elle la retire sous les moqueries des camarades en arrivant à Paris et la remet quand elle retrouve les siens. Ce roman, certes moraliste, s'attache à décrire, comme ceux des naturalistes, la condition sociale des bonnes, leurs logements, les bureaux de placement mais s'attarde aussi sur l'intériorité, la psychologie de Donatienne et surtout la complexité de son cheminement. La chute et la rédemption réunissent en un même personnage les figures de Madeleine et de Marie et lui confèrent une richesse qui l'éloigne de la caricature.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0479-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0479-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">bazin_rene_-_donatienne</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;René Bazin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:04.811564+00:00" name="calibre:timestamp"/>
+        <meta content="Donatienne" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1715</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">719b91bb-507c-40be-9575-f03fc3af98a9</dc:identifier>
+        <dc:title>Les mémoires d’un veuf</dc:title>
+        <dc:creator opf:file-as="Verlaine, Paul" opf:role="aut">Paul Verlaine</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>J'entreprends de décrire aussi minutieusement que possible quelques-uns de mes rêves de chaque nuit, ceux, bien entendu, qui m'en paraissent dignes par leur allure arrêtée ou par leur évolution dans une atmosphère quelque peu respirable à des gens réveillés. Je vois souvent Paris.. Jamais comme il est. C'est une ville inconnue, absurde et de tous aspects. Je l'entoure d'une rivière étroite très encaissée entre deux files d'arbres quelconques. Des toits rouges luisent entre des verdures très vertes. Il fait un lourd temps d'été, avec de gros nuages extrêmement foncés, à ramages, comme dans les ciels des paysages historiques, et du soleil des plus jaunes à travers. Un paysage paysan, vous voyez.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1166-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1166-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">verlaine_paul_-_les_memoires_d_un_veuf</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Paul Verlaine&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:37.782737+00:00" name="calibre:timestamp"/>
+        <meta content="mémoires d’un veuf, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

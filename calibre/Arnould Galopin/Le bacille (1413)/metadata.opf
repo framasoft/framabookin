@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1413</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ef259c95-cc65-46d6-b5e0-efc55fa16d3b</dc:identifier>
+        <dc:title>Le bacille</dc:title>
+        <dc:creator opf:file-as="Galopin, Arnould" opf:role="aut">Arnould Galopin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1928-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Martial Procas est un scientifique reconnu, spécialiste des microbes pathogènes. De plus il est beau et le tout-Paris, en particulier féminin, accourt à ses conférences universitaires. Un jour, une belle Américaine attire son regard et il tombe éperdument amoureux de cette femme qui se révèle une aventurière et le quitte quelques semaines à peine après leur mariage. Quand il s'en rend compte, Procas est victime d'une crise très grave, un cas de cyanose dû à un rétrécissement de l'artère pulmonaire. Procas prend une teinte bleue qui ne le quittera plus. Dès lors, victime de la haine de ses semblables, il doit fuir car «rien n'était impressionnant comme cette face qui semblait celle d'un cadavre en décomposition et qui était cependant éclairée par deux yeux jeunes où se lisaient la douleur de vivre encore et l'exaspération de ne plus compter parmi les vivants...». Extrait : Tout à coup il s'arrêta. Un portrait de Meg accroché au mur le regardait de ses grands yeux étonnés. Il le contempla quelques instants, puis baissa lentement la tête, comprimant de ses deux mains les battements désordonnés de son cœur. Maintenant que sa fureur était calmée, que sa haine avait fait place à un grand abattement, il se sentait devenir lâche, et si Meg fût revenue à cet instant, peut-être se serait-il jeté à ses pieds comme un coupable. Il regarda de nouveau le portrait, la poitrine secouée de petits sanglots convulsifs, puis passa dans le salon, qui s'illumina dès qu'il en ouvrit la porte. Le piano était demeuré ouvert et, sur le pupitre, s'étalait encore une berceuse de Grieg, qu'il aimait à entendre et qu'il faisait souvent jouer à Meg, car il trouvait à cette mélodie un charme mélancolique et doux, dont son cœur d'amant était étrangement troublé.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0127-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0127-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">galopin_arnould_-_le_bacille</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Arnould Galopin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:36.219890+00:00" name="calibre:timestamp"/>
+        <meta content="bacille, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1499</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">be50bbd8-bfc4-4121-ab24-68421548257d</dc:identifier>
+        <dc:title>Contes d'un voyageur I</dc:title>
+        <dc:creator opf:file-as="Irving, Washington" opf:role="aut">Washington Irving</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1824-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Avec ses Contes du voyageur, Irving nous convie autant au voyage et à l'exotisme, qu'aux vagabondages de l'imagination, humaine et littéraire, dans toute sa splendeur. Ajoutez à ces récits la traduction française bancale et délicieusement vieillotte de 1825. Extrait : J'assistais un jour à un dîner de chasseurs donné par un vieux baronnet, grand amateur de la chasse au renard, qui tenait gaiement son ménage de garçon, et habitait, dans une de nos provinces du centre, un château à tourelles, ancienne propriété de famille. Il avait été autrefois admirateur passionné du beau sexe ; mais, après avoir étudié avec beaucoup de succès les femmes des divers pays pendant le cours de ses nombreux voyages, il était revenu chez lui, possédant, à ce qu'il s'imaginait, une profonde connaissance des ruses féminines, se croyant, de plus, passé maître, en l'art de plaire : mais il essuya la mortification d'être trompé par une petite pensionnaire à peine à l'alphabet de la science de l'amour. Le baronnet, complètement abattu par une si incroyable défaite, se retira, dégoûté du monde ; il se mit sous la domination d'une vieille domestique de confiance, et il s'occupa de la chasse au renard, comme un vrai Nemrod. Quoi qu'en puissent dire les poètes, l'homme guérit de l'amour en vieillissant ; et une meute de chiens peut chasser de son cœur jusqu'au souvenir même d'une divinité de pensionnat. Le baronnet, à l'époque où je le vis, était bien le plus gai, le plus vert des vieux garçons que jamais chien courant ait accompagné ; l'amour qu'il avait éprouvé jadis pour une seule femme s'était répandu sur le sexe entier ; de sorte qu'il n'y avait pas dans toute la province un seul joli minois qui n'eût part à l'affection du vieillard.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1557-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1557-5</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1558-2</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">irving_washington_-_contes_d_un_voyageur_i</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>conte</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Etats-Unis</dc:subject>
+        <meta content="{&quot;Washington Irving&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:54.128048+00:00" name="calibre:timestamp"/>
+        <meta content="Contes d'un voyageur I" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

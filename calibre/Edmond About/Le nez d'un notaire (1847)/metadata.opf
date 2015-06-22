@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1847</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f53a46fa-4492-4361-8e54-e466043fe254</dc:identifier>
+        <dc:title>Le nez d'un notaire</dc:title>
+        <dc:creator opf:file-as="About, Edmond" opf:role="aut">Edmond About</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>C'est une bien terrible aventure que va vivre Alfred L'Ambert : perdre son nez pour les beaux yeux d'une demoiselle. Ne pouvant se résoudre à voir Victorine Tompain, courtisée par Ayvaz-Bey, le jeune notaire frappe son rival au nez. Le Turc, atteint au plus profond de son amour propre, n'a plus désormais qu'une seule idée : couper le nez de maître L'Ambert durant le duel qui aura lieu le lendemain matin, à dix heures, au petit village de Parthenay... Et ce qui devait arriver arriva, Alfred L'Ambert perdit son nez et pour toujours. Il était prêt à tout pour retrouver un nez digne de ce nom, à tout sauf à souffrir. Aussi eut-il une idée lumineuse...Extrait : Le notaire se suspendit une sangsue au bout du nez. Lorsqu'elle tomba, gorgée de sang, on la remplaça par une autre et ainsi de suite, durant deux jours et deux nuits. L'enflure et la coloration disparurent pour un temps~; mais ce mieux ne fut pas de longue durée. Il fallut chercher autre chose. M. Bernier demanda vingt-quatre heures de réflexion, et en prit quarante-huit.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0219-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0219-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">about_edmond_-_le_nez_d_un_notaire</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Edmond About&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:19:04.142283+00:00" name="calibre:timestamp"/>
+        <meta content="nez d'un notaire, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

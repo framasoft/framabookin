@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1514</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">39221919-e2a6-4330-8474-3629cdda696a</dc:identifier>
+        <dc:title>Clairefontaine</dc:title>
+        <dc:creator opf:file-as="Gréville, Henry" opf:role="aut">Henry Gréville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1885-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Les autres s'éloignèrent, et Boirot entra dans la maison ouverte où il n'y avait plus rien à prendre. Il la parcourut dans tous les sens, du haut en bas, sans y trouver rien que de la paille et des papiers déchirés. L'endroit où avait été le lit se reconnaissait à la boiserie moins enfumée, protégée jadis par les vieilles courtines d'indienne ou de toile bleue en usage dans ce pays. Involontairement Boirot se découvrit et fit un signe de croix, comme s'il eût été devant le corps de la défunte, tel qu'on l'y avait vu si peu de jours auparavant. Presque honteux de cette action machinale, il se détournait, lorsqu'il vit dans la porte l'enfant qu'il cherchait.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1502-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1502-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">greville_henry_-_clairefontaine</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Henry Gréville&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:57.111470+00:00" name="calibre:timestamp"/>
+        <meta content="Clairefontaine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

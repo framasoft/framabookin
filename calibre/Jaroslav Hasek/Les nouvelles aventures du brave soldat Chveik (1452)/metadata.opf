@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1452</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a1884ad9-6e3e-4ce8-9600-51fbfee2b408</dc:identifier>
+        <dc:title>Les nouvelles aventures du brave soldat Chvéïk</dc:title>
+        <dc:creator opf:file-as="Hasek, Jaroslav" opf:role="aut">Jaroslav Hasek</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1932-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Jaroslav Hašek (30 avril 1883 - 3 janvier 1923) est un romancier, un humoriste et un journaliste d'origine tchèque, rendu célèbre par son chef-d'œuvre satirique Le Brave Soldat Chvéïk. Tout en continuant à boire énormément, Hašek entama l'écriture rapide des aventures du brave soldat Chvéïk, un personnage qu'il avait déjà créé dans d'autres histoires, aujourd'hui perdues. La verve noire et comique de Jaroslav Hašek s'adressait directement au petit peuple. Hašek avait l'intention d'en écrire six volumes, mais il ne put en terminer que trois. Extrait : Un maréchal des logis de la gendarmerie arrêta un citoyen dans la foule : « Vous répondrez de ces paroles, criait-il. Je vous apprendrai, moi, à exciter les gens en disant : « S'ils traitent les hommes comme ça, personne ne peut leur demander de gagner la guerre. » Le malheureux citoyen ne put que balbutier qu'il n'avait rien voulu dire de séditieux, qu'il était au contraire un bouclier de la vieille garde. Le brave homme qui était convaincu de l'innocence de Chvéïk, paya l'amende et l'emmena au buffet des troisièmes classes, où il lui offrit un bock. Ayant appris que tous les papiers de Chvéïk, ainsi que son billet, étaient restés entre les mains du lieutenant Lukach, il lui donna généreusement cinq couronnes pour continuer sa route et lui confia avant de s'en aller : - Allons, mon cher ami, comme je vous l'ai dit, quand vous serez prisonnier en Russie, donnez le bonjour de ma part au brasseur Zéman de Zdolbounov. Vous avez noté le nom ? Soyez malin et restez le moins possible au front.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0795-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0795-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">hasek_jaroslav_-_les_nouvelles_aventures_du_brave_soldat_chveik</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Tchéquie</dc:subject>
+        <meta content="{&quot;Jaroslav Hasek&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:44.615585+00:00" name="calibre:timestamp"/>
+        <meta content="nouvelles aventures du brave soldat Chvéïk, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

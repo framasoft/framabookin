@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1716</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4dd250f2-b998-4efe-ad51-d368b5801129</dc:identifier>
+        <dc:title>La bonne chanson</dc:title>
+        <dc:creator opf:file-as="Verlaine, Paul" opf:role="aut">Paul Verlaine</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Le soleil du matin doucement chauffe et dore. - Les seigles et les blés tout humides encore, - Et l'azur a gardé sa fraîcheur de la nuit. - L'on sort sans autre but que de sortir ; on suit, - Le long de la rivière aux vagues herbes jaunes, - Un chemin de gazon que bordent de vieux aunes. - L'air est vif. Par moments un oiseau vole avec - Quelque fruit de la haie ou quelque paille au bec, - Et son reflet dans l'eau survit à son passage. - C'est tout. - C'est tout.Mais le songeur aime ce paysage - Dont la claire douceur a soudain caressé - Son rêve de bonheur adorable, et bercé - Le souvenir charmant de cette jeune fille, - Blanche apparition qui chante et qui scintille, - Dont rêve le poète et que l'homme chérit, - Évoquant en ses vœux dont peut-être on sourit - La Compagne qu'enfin il a trouvée, et l'âme - Que son âme depuis toujours pleure et réclame.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1165-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1165-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">verlaine_paul_-_la_bonne_chanson</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>poesie</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Paul Verlaine&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:37.981559+00:00" name="calibre:timestamp"/>
+        <meta content="bonne chanson, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

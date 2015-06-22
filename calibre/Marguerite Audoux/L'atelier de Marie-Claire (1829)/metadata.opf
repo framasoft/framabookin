@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1829</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">22c3c68e-050e-4229-96b6-667b9e8728f8</dc:identifier>
+        <dc:title>L'atelier de Marie-Claire</dc:title>
+        <dc:creator opf:file-as="Audoux, Marguerite" opf:role="aut">Marguerite Audoux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Ce livre constitue la suite de Marie-Claire. L'atelier de couture où Marie-Claire a trouvé du travail est dépeint comme une grande famille. Les patrons, M. et Mme Dalignac, et les ouvrières, obligées de s'embaucher en usine lors des périodes de chômage, dépendent de la même façon des clientes, exigeantes et souvent mauvaises payeuses. Ainsi ce roman est à la fois la peinture d'un milieu social et une suite d'anecdotes variées qui, tout en campant avec précision les personnages des ouvrières, permettent au récit de progresser. Après la mort des patrons, on ne sait si Marie-Claire épousera Clément, le neveu de Mme Dalignac, qu'au demeurant elle n'aime pas.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1236-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1236-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">audoux_marguerite_-_l_atelier_de_marie-claire</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Marguerite Audoux&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:19:00.550538+00:00" name="calibre:timestamp"/>
+        <meta content="atelier de Marie-Claire, L'" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

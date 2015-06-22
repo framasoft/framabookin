@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1063</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">434d74a1-8d29-4432-9171-8bc8354a2108</dc:identifier>
+        <dc:title>Dictionnaire de l’argot des typographes</dc:title>
+        <dc:creator opf:file-as="Boutmy, Eugène" opf:role="aut">Eugène Boutmy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1883-12-14T23:00:00+00:00</dc:date>
+        <dc:description>Dictionnaire de l'argot des typographes, précédé d'une monographie du compositeur d'imprimerie et suivi d'un choix de coquilles typographiques curieuses ou célèbres. Extrait : On trouve dans un livre de chimie l’ânerie suivante : « On peut augmenter progressivement la force d’un aimant en accrochant à l’armature un bassin dans lequel on met tous les jours un poids ; c’est ce qu’on nomme -mourir en aimant-. » L’auteur avait écrit : -Nourrir un aimant-. Dans un roman sentimental, composé par des dames dans une imprimerie de la banlieue parisienne, au moment psychologique, l’héroïne, s’adressant au traître, s’écrie douloureusement : « Monstre, vous avez rompu mon bouchon ! » Quel sens la compositrice attachait-elle à cette plainte ? Mystère ! L’auteur avait écrit : « Monsieur, vous avez rompu mon bonheur ! »</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1062-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1062-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">boutmy_eugene_-_dictionnaire_de_l_argot_des_typographes</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>non-fiction</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Eugène Boutmy&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:24.388991+00:00" name="calibre:timestamp"/>
+        <meta content="Dictionnaire de l’argot des typographes" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

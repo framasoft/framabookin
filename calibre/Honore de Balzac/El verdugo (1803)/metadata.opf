@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1803</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9c9a1e54-93a2-4497-ab7c-0861389f5ab7</dc:identifier>
+        <dc:title>El verdugo</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études philosophiques - Tome II. Quinzième volume de l'édition Furne 1842. Extrait : Tout à coup Clara se leva, le groupe qui s’était formé autour de Juanito se sépara ; et cet enfant, rebelle à bon droit, vit devant lui, debout, son vieux père, qui d’un ton solennel s’écria : Juanito, je te l’ordonne. Le jeune comte restant immobile, son père tomba à ses genoux. Involontairement, Clara, Manuel et Philippe l’imitèrent. Tous tendirent les mains vers celui qui devait sauver la famille de l’oubli, et semblèrent répéter ces paroles paternelles : ― Mon fils, manquerais-tu d’énergie espagnole et de vraie sensibilité ? Veux-tu me laisser longtemps à genoux, et dois-tu considérer ta vie et tes souffrances ? Est-ce mon fils, madame ? ajouta le vieillard en se retournant vers la marquise.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0969-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0969-7</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1038-9</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_el_verdugo</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:55.491884+00:00" name="calibre:timestamp"/>
+        <meta content="El verdugo" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1438</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9233a4c1-2f67-4dac-912e-8cdfe9effa99</dc:identifier>
+        <dc:title>Les contes de Jacques Tournebroche</dc:title>
+        <dc:creator opf:file-as="France, Anatole" opf:role="aut">Anatole France</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1908-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Les Contes de Jacques Tournebroche parurent en décembre 1908. Le recueil fut associé en 1921 à Sous l'invocation de Clio, c'est-à-dire au petit recueil publié en novembre 1899, sous le titre Clio. Comme lui, il est formé de contes d'Anatole France parus en journaux et en revues à des dates très diverses. Extrait : Au bout de très peu de temps une rumeur terrible comme celle qui annoncera aux hommes la fin du monde gronda jusque dans la salle du palais, fit trembler les oiseaux de rubis sur leurs grappes d'émeraude et secoua le roi Hugon dans son trône d'or. C'était un bruit de murailles écroulées et de flots mugissants, que dominait le son déchirant d'un cor. Cependant des messagers accourus de tous les coins de la ville se prosternaient en tremblant aux pieds du roi, apportant d'étranges nouvelles.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1465-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1465-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">france_anatole_-_les_contes_de_jacques_tournebroche</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>conte</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Anatole France&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:41.233922+00:00" name="calibre:timestamp"/>
+        <meta content="contes de Jacques Tournebroche, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

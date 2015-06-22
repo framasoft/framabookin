@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1754</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0640b17a-02a0-4bd4-82ef-2fbf06b68742</dc:identifier>
+        <dc:title>Contes</dc:title>
+        <dc:creator opf:file-as="Andersen, Hans Christian" opf:role="aut">Hans Christian Andersen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Le poisson s'agitait en tous sens et faisait d'affreux mouvements ; enfin il s'arrêta, et un éclair parut le transpercer. Le jour se laissa voir, et quelqu'un s'écria : « Un soldat de plomb ! » Le poisson avait été pris, exposé au marché, vendu, porté dans la cuisine, et la cuisinière l'avait ouvert avec un grand couteau. Elle prit avec deux doigts le soldat de plomb par le milieu du corps, et l'apporta dans la chambre, où tout le monde voulut contempler cet homme remarquable qui avait voyagé dans le ventre d'un poisson. Cependant le soldat n'en était pas fier. On le plaça sur la table, et là -- comme il arrive parfois des choses bizarres dans le monde ! -- il se trouva dans la même chambre d'où il était tombé par la fenêtre. Il reconnut les enfants et les jouets qui étaient sur la table, le charmant château avec la gentille petite danseuse ; elle tenait toujours une jambe en l'air, elle aussi était intrépide. Le soldat de plomb fut tellement touché qu'il aurait voulu pleurer du plomb, mais cela n'était pas convenable. Il la regarda, elle le regarda aussi, mais ils ne se dirent pas un mot.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1228-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1228-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">andersen_hans_christian_-_contes</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Danemark</dc:subject>
+        <meta content="{&quot;Hans Christian Andersen&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:45.761537+00:00" name="calibre:timestamp"/>
+        <meta content="Contes" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1770</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ae62b86b-db75-4238-b408-4b234d8b245d</dc:identifier>
+        <dc:title>La femme de trente ans</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>1842. La Comédie humaine - Études de moeurs. Premier livre, Scènes de la vie privée - Tome III. Troisième volume de l'édition Furne 1842. Comment un mariage, même souhaité et même socialement brillant, peut conduire une jeune fille au malheur. Comment une jeune mère résiste à une passion adultère, mais sombre dans le chagrin. Comment une jeune femme dans tout l'éclat de sa maturité retrouve le goût de l'amour puis se trouve punie dans le destin tragique de ses propres enfants. Voilà la trame du roman. Extrait : La marquise, laissée à elle-même, put donc rester parfaitement silencieuse au milieu du silence qu’elle avait établi autour d’elle, et n’eut aucune occasion de quitter la chambre tendue de tapisseries où mourut sa grand’mère, et où elle était venue pour y mourir doucement, sans témoins, sans importunités, sans subir les fausses démonstrations des égoïsmes fardés d’affection qui, dans les villes, donnent aux mourants une double agonie. Cette femme avait vingt six ans. A cet âge, une âme encore pleine de poétiques illusions aime à savourer la mort, quand elle lui semble bienfaisante. Mais la mort a de la coquetterie pour les jeunes gens ; pour eux, elle s’avance et se retire, se montre et se cache ; sa lenteur les désenchante d’elle, et l’incertitude que leur cause son lendemain finit par les rejeter dans le monde où ils rencontreront la douleur, qui, plus impitoyable que ne l’est la mort, les frappera sans se laisser attendre. Or, cette femme qui se refusait à vivre allait éprouver l’amertume de ces retardements au fond de sa solitude, et y faire, dans une agonie morale que la mort ne terminerait pas, un terrible apprentissage d’égoïsme qui devait lui déflorer le cœur et le façonner au monde.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0987-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0987-1</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1005-1</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_la_femme_de_trente_ans</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:48.915701+00:00" name="calibre:timestamp"/>
+        <meta content="femme de trente ans, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

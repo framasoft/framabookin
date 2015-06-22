@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1459</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e18b47e0-0384-4edb-b141-55143d2fa9d4</dc:identifier>
+        <dc:title>Un crime</dc:title>
+        <dc:creator opf:file-as="Gréville, Henry" opf:role="aut">Henry Gréville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1884-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Henry Gréville, pseudonyme de Alice Marie Céleste Durand née Fleury (1842-1902), a publié de nombreux romans, des nouvelles, des pièces, de la poésie ; elle a été à son époque un écrivain à succès. Extrait : - Que voulez-vous que je vous dise ? répondit la jeune fille en levant la tête. Je vous ai demandé la permission de me marier, vous m'avez défendu d'y songer. Je vous ai demandé la permission de m'en aller ; vous n'avez pas dit non ! Je pense alors que vous aimez mieux me voir loin que de me voir mariée. Je pense aussi qu'au fond vous m'aimez tout de même, et que vous vous ennuierez quand je ne serai plus là. Il n'y a pas de quoi vous fâcher, ma mère. Clémence reprit un peu de lin et rattacha son fil sans répondre. Monique jeta un regard par la porte entrouverte, et poussa un profond soupir.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1529-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1529-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">greville_henry_-_un_crime</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Henry Gréville&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:46.101168+00:00" name="calibre:timestamp"/>
+        <meta content="crime, Un" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

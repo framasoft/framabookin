@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">978</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d72daee-eb7c-4f06-8fbe-6eb6d51032af</dc:identifier>
+        <dc:title>La Fanfarlo</dc:title>
+        <dc:creator opf:file-as="Baudelaire, Charles" opf:role="aut">Charles Baudelaire</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : D'ailleurs, gardez-vous de croire qu'il fût incapable de connaître les sentiments vrais, et que la passion ne fît qu'effleurer son épiderme. Il eût vendu ses chemises pour un homme qu'il connaissait à peine, et qu'à l'inspection du front et de la main il avait institué hier son ami intime. Il apportait dans les choses de l'esprit et de l'âme la contemplation oisive des natures germaniques, -- dans les choses de la passion l'ardeur rapide et volage de sa mère, -- et dans la pratique de la vie tous les travers de la vanité française. Il se fût battu en duel pour un auteur ou un artiste mort depuis deux siècles. Comme il avait été dévot avec fureur, il était athée avec passion. Il était à la fois tous les artistes qu'il avait étudiés et tous les livres qu'il avait lus, et cependant, en dépit de cette faculté comédienne, il restait profondément original. Il était toujours le doux, le fantasque, le paresseux, le terrible, le savant, l'ignorant, le débraillé, le coquet Samuel Cramer, la romantique Manuela de Monteverde. Il raffolait d'un ami comme d'une femme, aimait une femme comme un camarade. Il possédait la logique de tous les bons sentiments et la science de toutes les roueries, et néanmoins il n'a jamais réussi à rien, parce qu'il croyait trop à l'impossible. -- Quoi d'étonnant ? il était toujours en train de le concevoir.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1245-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1245-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">baudelaire_charles_-_la_fanfarlo</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Charles Baudelaire&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:07.389644+00:00" name="calibre:timestamp"/>
+        <meta content="Fanfarlo, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

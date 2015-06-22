@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1043</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a3e740ea-a667-40a2-aacc-ec168b2c81f2</dc:identifier>
+        <dc:title>Une ténébreuse affaire</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études de moeurs. Troisième et quatrième livres, Scènes de la vie parisienne et scènes de la vie politique - Tome XII (sic, erreur pour le tome IV). Douzième volume de l'édition Furne 1842. Extrait : Madame Michu leva douloureusement les yeux au ciel. Belle blonde aux yeux bleus, faite comme une statue antique, pensive et recueillie, elle paraissait être dévorée par un chagrin noir et amer. L’aspect du mari pouvait expliquer jusqu’à un certain point la terreur des deux femmes. Les lois de la physionomie sont exactes, non-seulement dans leur application au caractère, mais encore relativement à la fatalité de l’existence. Il y a des physionomies prophétiques. S’il était possible, et cette statistique vivante importe à la Société, d’avoir un dessin exact de ceux qui périssent sur l’échafaud, la science de Lavater et celle de Gall prouveraient invinciblement qu’il y avait dans la tête de tous ces gens, même chez les innocents, des signes étranges. Oui, la Fatalité met sa marque au visage de ceux qui doivent mourir d’une mort violente quelconque ! Or, ce sceau, visible aux yeux de l’observateur, était empreint sur la figure expressive de l’homme à la carabine.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1043-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1043-3</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1048-8</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_une_tenebreuse_affaire</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:20.402590+00:00" name="calibre:timestamp"/>
+        <meta content="ténébreuse affaire, Une" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

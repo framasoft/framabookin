@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1467</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">56f988d3-295e-455a-91b0-8b31223a7a85</dc:identifier>
+        <dc:title>La veillée au mort et autres nouvelles</dc:title>
+        <dc:creator opf:file-as="Laberge, Albert" opf:role="aut">Albert Laberge</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Influencé par Guy de Maupassant, Laberge est le premier écrivain canadien-français à faire du réalisme. Extrait : Ça faisait bien des années de cela, mais aucune ne lui rappelait un événement spécial, car toutes se ressemblaient, s'étaient écoulées de la même manière : vider des crachoirs, nettoyer des latrines et se droguer à l'élixir parégorique. À la vérité, elle s'était mariée et c'était là qu'elle avait pris son nom de mame Pouliche, mais ce mariage n'avait jamais été bien sérieux et la pauvre femme aimait mieux ne pas y penser, car il lui avait apporté plus d'ennuis que d'agréments. Vers ses trente ans, elle avait fait la connaissance de M. Pouliche, un petit vieux grêle d'une cinquantaine d'années, qui vivotait du revenu d'une salle qu'il louait un soir par semaine ou par mois à des sociétés, des clubs, des organisations qui y tenaient leurs réunions. Lui-même avait fondé un club musical dont il était directeur. La femme de peine l'avait rencontré à plusieurs reprises alors qu'il portait son uniforme de chef d'orchestre : un petit veston à boutons de métal et une casquette à galons d'or. Pour dire la vérité, il n'avait pas du tout la mine d'un don Juan, d'un séducteur, M. Pouliche. Même, il avait un petit air insignifiant, plutôt niais, mais la casquette et le veston à ornements dorés avaient fait impression sur la femme de trente ans. Un soir, elle l'avait vu dirigeant ses musiciens à une réunion où il remplissait un engagement. Il aimait les petits airs : Et digue et digue don.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1579-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1579-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">laberge_albert_-_la_veillee_au_mort_et_autres_nouvelles</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Albert Laberge&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:47.694486+00:00" name="calibre:timestamp"/>
+        <meta content="veillée au mort et autres nouvelles, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

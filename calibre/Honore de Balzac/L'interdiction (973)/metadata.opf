@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">973</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e1e1d5df-36ee-4266-a32d-2f98a0a0ec7e</dc:identifier>
+        <dc:title>L’interdiction</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études de moeurs. Troisième livre, Scènes de la vie parisienne - Tome II. Dixième volume de l'édition Furne 1842. Extrait : Le magistrat n’était pas le personnage le moins pittoresque au milieu de cette assemblée. Il avait sur la tête un bonnet de coton roussâtre. Comme il était sans cravate, son cou, rouge de froid et ridé, se dessinait nettement au-dessus du collet pelé de sa vieille robe de chambre. Sa figure fatiguée offrait l’expression à demi stupide que donne la préoccupation. Sa bouche, pareille à celle de tous ceux qui travaillent, s’était ramassée comme une bourse dont on a serré les cordons. Son front contracté semblait supporter le fardeau de toutes les confidences qui lui étaient faites : il sentait, analysait et jugeait. Attentif autant qu’un prêteur à la petite semaine, ses yeux quittaient ses livres et ses renseignements pour pénétrer jusqu’au for intérieur des individus qu’il examinait avec la rapidité de vision par laquelle les avares expriment leurs inquiétudes. Debout derrière son maître, prêt à exécuter ses ordres, Lavienne faisait sans doute la police et accueillait les nouveaux venus en les encourageant contre leur propre honte. Quand le médecin parut, il se fit un mouvement sur les bancs. Lavienne tourna la tête et fut étrangement surpris de voir Bianchon.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1025-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1025-9</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0977-2</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_l_interdiction</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:06.402159+00:00" name="calibre:timestamp"/>
+        <meta content="L’interdiction" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

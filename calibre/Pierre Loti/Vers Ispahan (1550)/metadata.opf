@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1550</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">92396181-202c-44f0-b657-e7be5d9364d3</dc:identifier>
+        <dc:title>Vers Ispahan</dc:title>
+        <dc:creator opf:file-as="Loti, Pierre" opf:role="aut">Pierre Loti</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>En 1903, au retour de l'Inde, Pierre Loti visite la Perse pendant six semaines environ : Chiraz, Persépolis et Ispahan, voilà les grandes étapes. Les mosquées, les bazars, les jardins pleins de roses et les Persans, voilà le champ d'observation. Vers Ispahan est une peinture fastueuse de la Perse aux mœurs féodales, alors tenue à l'écart du monde. Extrait : Qui veut venir avec moi voir apparaître, dans sa triste oasis, au milieu de ses champs de pavots blancs et de ses jardins de roses roses, la vieille ville de ruines et de mystère, avec tous ses dômes bleus, tous ses minarets bleus d’un inaltérable émail ; qui veut venir avec moi voir Ispahan sous le beau ciel de mai, se prépare à de longues marches, au brûlant soleil, dans le vent âpre et froid des altitudes extrêmes, à travers ces plateaux d’Asie, les plus élevés et les plus vastes du monde, qui furent le berceau des humanités, mais sont devenus aujourd’hui des déserts.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1113-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1113-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">loti_pierre_-_vers_ispahan</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Pierre Loti&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:04.184213+00:00" name="calibre:timestamp"/>
+        <meta content="Vers Ispahan" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

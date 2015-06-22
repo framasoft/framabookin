@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1539</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37dc02c3-8614-4a87-92a2-79e08efa7d94</dc:identifier>
+        <dc:title>Contes fantastiques IV</dc:title>
+        <dc:creator opf:file-as="Hoffmann, E.T.A." opf:role="aut">E.T.A. Hoffmann</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1829-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Il est l'auteur de nombreux contes (Märchen en allemand) comme : L'Homme au sable, Les Mines de Falun ou Casse-noisette et le Roi des souris et de plusieurs romans, dont son œuvre principale Le Chat Murr. Il devient alors, dès les années 1820, l'une des illustres figures du romantisme allemand et il inspire de nombreux artistes, en Europe comme dans le reste du monde. Par exemple, Jacques Offenbach écrit l'opéra fantastique en cinq actes Les Contes d'Hoffmann en s'inspirant de l'univers du romantique allemand. Extrait : Les regards qu'à cette époque il commença à lancer à Aurélie pénétrèrent celle-ci d'une horreur secrète dont elle ne pouvait s'expliquer la cause. Pourtant la baronne ne s'était jamais avisée d'entretenir Aurélie de ce qui était relatif à l'étranger. Ce ne fut qu'alors qu'elle lui en apprit le nom, en ajoutant que le baron était un parent éloigné et possesseur d'une fortune colossale. Elle vanta son extérieur, ses bonnes qualités, et finit par demander à Aurélie comment elle le trouvait. Celle-ci ne dissimula point l'aversion qu'elle ressentait pour l'étranger. Là-dessus la baronne la traita de sotte, et lui lança un regard qui la fit trembler. Mais bientôt la baronne eut pour elle plus de bonté que jamais. Aurélie reçut de belles robes, de riches parures de toute espèce, et on lui permit de prendre part aux amusements publics. L'étranger manifestait à Aurélie un désir de plaire et un empressement qui le rendaient de plus en plus insupportable à ses yeux.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1554-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1554-4</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1555-1</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">hoffmann_e_t_a_-_contes_fantastiques_iv</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>conte</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Allemagne</dc:subject>
+        <meta content="{&quot;E.T.A. Hoffmann&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:02.052408+00:00" name="calibre:timestamp"/>
+        <meta content="Contes fantastiques IV" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

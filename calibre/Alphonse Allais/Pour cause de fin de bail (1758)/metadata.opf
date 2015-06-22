@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1758</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2bd1968a-8de6-49bf-8ff4-a1aa11c93343</dc:identifier>
+        <dc:title>Pour cause de fin de bail</dc:title>
+        <dc:creator opf:file-as="Allais, Alphonse" opf:role="aut">Alphonse Allais</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Tout à coup, pareillement au crépitus d'un canon à tir rapide, une série de détonations déchira l'air. Les vingt pneux des camarades venaient d'éclater.  (Accident ? Malveillance ? C'est ce que l'enquête ouverte par l'A.T.C.H.O.U.M. établira.) Nos gaillards eurent bientôt fait de réparer le désastre, mais au moment où, d'un énergique et simultané travail, ils regonflaient leurs pneumatiques, voici qu'ils tombèrent tous sur le sol, en proie à des mouvements spasmodiques, et comme asphyxiés, les pauvres ! L'explication du phénomène est bien simple : les vingt-cinq pompes de ces messieurs, absorbant l'air ambiant pour l'enfourner au sein des caoutchoucs, avaient fait le vide dans le chemin creux et les cyclistes subissaient les affres du petit oiseau que, dans les laboratoires, on met sous la cloche de la machine pneumatique. L'accident, par bonheur, n'eut pas de suite, une forte brise ayant ramené de l'air dans ces parages ; mais tous les affiliés de l'A.T.C.H.O.U.M. ont bien juré que cette mésaventure leur servirait de leçon.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1225-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1225-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">allais_alphonse_-_pour_cause_de_fin_de_bail</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alphonse Allais&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:46.551438+00:00" name="calibre:timestamp"/>
+        <meta content="Pour cause de fin de bail" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1536</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5372f98c-bfdb-4ddf-8c36-d41ec83d380d</dc:identifier>
+        <dc:title>Les douze nouvelles nouvelles</dc:title>
+        <dc:creator opf:file-as="Houssaye, Arsène" opf:role="aut">Arsène Houssaye</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1883-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Autrefois, les jeunes filles rêvaient un château gothique au bord d'un lac ou d'un étang, un hôtel aux Champs-Élysées, un palais d'été à Deauville ; aujourd'hui, grâce au progrès des lumières, leur rêve est une écurie. Les hommes sont bien quelque chose pour elles, mais les chevaux ! Elles n'ont pourtant pas lu M. de Buffon ; mais leur journal officiel n'est-il pas le Sport ou le Jockey ? Arthur fit merveille, avec la rapidité d'une locomotive à toute vapeur. Le lendemain, il avait acheté au plus célèbre sportsman les plus illustres chevaux. La moitié de sa fortune y passa, mais il pouvait dire, non pas comme le sultan : « J'ai dans mon sérail Fatma, Java, Lama, Diva, Diana : toutes les sultanes en a », mais : « J'ai dans mon écurie Labrador, Spectator, Gladiator, Chancellor : tous les chevaux en or. » Huit jours après, Spectator gagnait un prix aux courses du printemps ; le nom d'Arthur Dupont était désormais un nom historique dans l'empire des turfistes et des hautes mondaines. Seulement, c'était toujours Arthur Dupont ! Laure, tout en le félicitant, lui dit avec une pointe de raillerie qui le perça au cœur : - Pourquoi n'êtes-vous pas comte, comme M. de Lagrange ? To be or not to be ! - Qu'à cela ne tienne, murmura le triomphateur des courses, je vais demander cela au pape ; c'est une petite affaire de cent mille ; mes chevaux payeront mon titre. Arthur ne s'était pas trompé de chiffre. Il fut, de par la cour de Rome, comte romain, ce qui est tout aussi bon que d'être comte français, quand on n'a rien fait pour cela</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1549-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1549-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">houssaye_arsene_-_les_douze_nouvelles_nouvelles</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>nouvelle</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Arsène Houssaye&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:01.466049+00:00" name="calibre:timestamp"/>
+        <meta content="douze nouvelles nouvelles, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

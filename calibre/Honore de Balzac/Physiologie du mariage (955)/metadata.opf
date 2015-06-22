@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">955</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4bd8bcf8-784a-4934-b27b-ee5a2051de84</dc:identifier>
+        <dc:title>Physiologie du mariage</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études analytiques. Seizième volume de l'édition Furne 1842. Extrait : La femme qui, sur le titre de ce livre, serait tentée de l’ouvrir, peut s’en dispenser, elle l’a déjà lu sans le savoir. Un homme, quelque malicieux qu’il puisse être, ne dira jamais des femmes autant de bien ni autant de mal qu’elles en pensent elles-mêmes. Si, malgré cet avis, une femme persistait à lire l’ouvrage, la délicatesse devra lui imposer la loi de ne pas médire de l’auteur, du moment où, se privant des approbations qui flattent le plus les artistes, il a en quelque sorte gravé sur le frontispice de son livre la prudente inscription mise sur la porte de quelques établissements : Les dames n’entrent pas ici.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1051-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1051-8</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1050-1</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_physiologie_du_mariage</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:02.795480+00:00" name="calibre:timestamp"/>
+        <meta content="Physiologie du mariage" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

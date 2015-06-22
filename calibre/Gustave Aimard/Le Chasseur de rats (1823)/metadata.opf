@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1823</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0f1fc22b-812b-460a-9520-e0adeed99d40</dc:identifier>
+        <dc:title>Le Chasseur de rats</dc:title>
+        <dc:creator opf:file-as="Aimard, Gustave" opf:role="aut">Gustave Aimard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Les Français ont été souvent accusés, avec une apparence de raison, de connaître beaucoup moins leur propre histoire que celle des autres peuples anciens ou modernes. On pourrait ajouter, mais cette fois avec raison, que la partie la plus négligée et par conséquent presque entièrement ignorée de cette histoire, est celle qui se rapporte à nos colonies ; que ces colonies soient en Afrique, en Amérique on en Océanie~ ; c'est-à-dire qu'elles soient situées aux confins du monde, ou seulement à quelques centaines de lieues de nos côtes.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1207-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1207-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">aimard_gustave_-_le_chasseur_de_rats</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture aisée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gustave Aimard&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:59.364798+00:00" name="calibre:timestamp"/>
+        <meta content="Chasseur de rats, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

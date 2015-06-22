@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1254</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">012a0d9d-d750-4f87-bc25-17bfcc0fab12</dc:identifier>
+        <dc:title>Le docteur mystérieux I</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Le docteur mystérieux et sa suite, La fille du marquis, constituent un ensemble également connu sous le nom Création et rédemption. le docteur Jacques Mérey, médecin passionné par les recherches scientifiques et ésotériques, qui se refuse aux riches mais soigne les pauvres et les animaux, les guérissant même miraculeusement. Il découvre un jour, dans une misérable cabane, soignée par un bûcheron et sa mère, une petite «chose» complètement désarticulée et muette, une fillette abandonnée de ses parents. Pour Mérey, il s'agit là d'un grand défi à sa science: transformer ce tas de chair à peine vivant en une «personne». On lui confie l'enfant et il se met, dès lors, au travail. Extrait : Les rêveries des rose-croix, des illuminés, des alchimistes, des astrologues, des nécromanciens, des mages, des physiognomonistes, il avait tout parcouru, tout sondé, tout analysé, et de tout cela il était ressorti pour son esprit et pour sa conscience une religion à laquelle il eût été bien difficile de donner un nom. Il n'était ni juif, ni chrétien, ni turc, ni schismatique, ni huguenot ; il n'était ni déiste, ni animiste, il était panthéiste, plutôt ; il croyait à un fluide universel répandu dans tout l'univers et reliant par une atmosphère vivante et pleine d'intelligence les mondes entre eux. Il croyait, ou plutôt il espérait, que ce fluide créateur et conservateur des êtres pouvait se diriger selon la puissante volonté de l'homme et recevoir son application de la main de la science. C'est sur cette base qu'il avait élevé un système médical dont l'audace aurait fait hurler toutes les académies et tous les corps savants ; mais une fois que notre docteur s'était dit, je dois croire ceci, ou je dois faire cela, il tenait peu au jugement des hommes, à leur blâme ou à leur approbation ; il aimait la science pour la science elle-même et pour le bien qu'il pouvait en tirer et appliquer au profit de l'humanité.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1382-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1382-3</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1381-6</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_le_docteur_mysterieux_i</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:03.999239+00:00" name="calibre:timestamp"/>
+        <meta content="docteur mystérieux I, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1022</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">835af2d3-037e-43d2-a17d-ea6e0ec67db8</dc:identifier>
+        <dc:title>Le rideau</dc:title>
+        <dc:creator opf:file-as="Barbara, Charles" opf:role="aut">Charles Barbara</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1857-03-05T23:00:00+00:00</dc:date>
+        <dc:description>Extrait : « Voisin, me dit-il un jour en passant sa tête chenue au travers des pois de senteur et des capucines qui enjolivaient sa fenêtre, vous m'inquiétez. Voilà quinze jours que vous êtes emménagé, et en voilà quatorze, sans compter les nuits, que vous passez à votre fenêtre, les yeux fixés sur ce lambeau de toile verte qui est en face. Je concevrais votre patience si, au lieu de cela, vous aviez pour vis-à-vis quelque jolie fille perchée là comme un oiseau en cage ; mais... »</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1186-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1186-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">barbara_charles_-_le_rideau</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Charles Barbara&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:16.206173+00:00" name="calibre:timestamp"/>
+        <meta content="rideau, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">999</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e3ff8aee-8876-47bb-a2ae-2951f6a4dd86</dc:identifier>
+        <dc:title>Le message</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>1832. La Comédie humaine - Études de moeurs. Premier livre, Scènes de la vie privée - Tome II. Deuxième volume de l'édition Furne 1842. Deux jeunes gens voyagent en diligence vers Moulins. Un accident interrompt ce voyage. Un des deux jeunes hommes, grièvement blessé et se sachant mourrant, confie à son compagnon le soin d'annoncer sa mort à sa maîtresse, la comtesse Juliette de Montpersan. Le messager raconte comment il a rempli sa triste mission. Extrait : Une jolie petite fille à cheveux bouclés, à ceinture rose, à robe blanche, à pèlerine plissée, arriva sur ces entrefaites, entendit ou saisit la demande et la réponse. A mon aspect, elle disparut en criant d’un petit accent fin : ― Ma mère, voilà un monsieur qui veut vous parler. Et moi de suivre, à travers les détours des allées, les sauts et les bonds de la pèlerine blanche, qui, semblable à un feu follet, me montrait le chemin que prenait la petite fille.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0348-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0348-0</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1049-5</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_le_message</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:11.597568+00:00" name="calibre:timestamp"/>
+        <meta content="message, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

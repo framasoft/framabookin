@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1135</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">04a5b3d4-9a53-440c-998e-70dcf9027cca</dc:identifier>
+        <dc:title>La petite Jeanne</dc:title>
+        <dc:creator opf:file-as="Carraud, Zulma" opf:role="aut">Zulma Carraud</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Zulma Carraud est née le 24 mars 1796 à Issoudun, dans la maison de ses parents qui étaient commerçants (mercerie-draperie) et morte le 24 avril 1889 à Paris, est un écrivain français, amie et égérie de Balzac. C'était une famille très aisée jusqu'en 1847, date à laquelle ils sont expropriés par le chemin de fer. Extrait : « Payez-les-moi ce que vous voudrez ; c'est pour maman qui est malade. » On lui en donnait dix centimes ; quelques dames qui étaient venues au marché les lui payèrent quinze ou vingt, tant elles la trouvaient jolie et modeste. Elle vendit tous ses bouquets, et rapporta un franc à sa mère. Depuis elle ne manqua pas, quand il faisait beau, de faire des bouquets pour aller les vendre. On ne les lui payait pas toujours aussi cher ; mais elle aimait mieux cela que d'aller aux portes.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1286-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1286-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">carraud_zulma_-_la_petite_jeanne</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Zulma Carraud&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:39.387643+00:00" name="calibre:timestamp"/>
+        <meta content="petite Jeanne, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

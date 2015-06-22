@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1251</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e9fd5738-5432-46c1-910a-a13ab01c655b</dc:identifier>
+        <dc:title>Le maître d'armes</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Grisier, jeune maître d'armes français, part pour Saint-Pétersbourg en quête de gloire et de fortune. Après un voyage éprouvant, il se lie d'amitié avec Louise Dupuis, une modiste française expatriée, et son amant le comte Alexis Vaninkoff, jeune lieutenant dans les chevaliers gardes de l'empereur. A la mort de l'empereur Alexandre, des conspirateurs, avec lesquels le comte Alexis s'est laissé entraîner par désoeuvrement, profitent du trouble faisant suite à la renonciation à la couronne de Constantin au profit de Nicolas, son jeune frère, pour essayer d'instaurer une république. Extrait : Je ne sais pas si mon ivoschik était voleur, mais à coup sûr il craignait fort d'être volé, car en arrivant à la grille du palais de Tauride, il me fit entendre que, comme le palais avait deux sorties, il désirait fort que je lui donnasse sur ses cinq roubles un acompte équivalent au prix de la course que je venais de faire. À Paris, j'aurais sévèrement répondu à l'insolent demandeur ; à Saint-Pétersbourg, je n'en fis que rire, car cela arrivait à de plus grands que moi, qui ne s'en formalisaient pas. En effet, deux mois auparavant, l'empereur Alexandre, se promenant à pied, comme c'était son habitude, et se voyant menacé d'une pluie, prit un droschki sur la place et se fit conduire au palais impérial ; arrivé là, il fouilla dans sa poche et s'aperçut qu'il n'avait pas d'argent ; alors, descendant du droschki : - Attends, dit-il à l'ivoschik, je vais t'envoyer le prix de ta course. - Ah ! oui, dit le cocher, je peux compter là-dessus. - Comment cela ? demanda l'Empereur étonné. - Oh ! je sais bien ce que je dis : autant de personnes que je mène devant une maison à deux portes, et qui descendent sans me payer, autant de débiteurs que je ne revois plus. - Comment, même devant le palais de l'Empereur ? - Plus souvent encore là qu'ailleurs. Les grands seigneurs ont très peu de mémoire.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0047-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0047-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_le_maitre_d_armes</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:03.398626+00:00" name="calibre:timestamp"/>
+        <meta content="maître d'armes, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

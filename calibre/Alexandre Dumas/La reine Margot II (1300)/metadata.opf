@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1300</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fcfb7344-f65b-4c07-8b63-f9ef89c7a2d6</dc:identifier>
+        <dc:title>La reine Margot II</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Première partie de la trilogie sur les guerres de religion, entre La Reine Margot et Les Quarante-Cinq. Catherine de Médicis règne, toute puissante, sur la France que gouverne tant bien que mal Charles IX, et sur ses enfants : ses fils, Charles évidemment, Henri duc d'Anjou, François duc d'Alençon, et sa fille Marguerite. Le roman s'ouvre sur le mariage de Marguerite de Valois, surnommée Margot, et Henri de Bourbon, roi de Navarre. Ce mariage entre une catholique et un protestant est destiné à ramener la paix dans le royaume. Mais Catherine et le roi Charles IX se préparent dans l'ombre à mater le parti protestant. Extrait : - Grand Dieu ! s'écria d'Alençon ne pouvant réprimer sa terreur, que dites-vous là ?... Quoi ! Vous, vous la seule espérance du parti depuis la mort de l'amiral ; vous, un huguenot converti, mal converti, on le croyait du moins, vous lèveriez le couteau sur vos frères ! Henri, Henri, en faisant cela, savez-vous que vous livrez à une seconde Saint-Barthélemy tous les calvinistes du royaume ? Savez-vous que Catherine n'attend qu'une occasion pareille pour exterminer tout ce qui a survécu ?</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1378-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1378-6</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0019-9</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_la_reine_margot_ii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:13.191501+00:00" name="calibre:timestamp"/>
+        <meta content="reine Margot II, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

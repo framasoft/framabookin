@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1138</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">98c63331-2835-460d-9d98-82195f60532a</dc:identifier>
+        <dc:title>Le vieux muet</dc:title>
+        <dc:creator opf:file-as="Caouette, Jean-Baptiste" opf:role="aut">Jean-Baptiste Caouette</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Depuis soixante ans le roman est un des plus exécrables dissolvants de la morale publique. Son nom même est devenu presque synonyme de mauvais livre. Quiconque s'intéresse aux bonnes mœurs est obligé de dénoncer ce séduisant corrupteur. On lui ferme l'entrée des maisons honnêtes, et les jeunes filles qui se commettent en sa compagnie risquent d'y perdre et la pudeur et le sens chrétien. Les héros de M. Caouette ne sont pas seulement de bons chrétiens, ce sont aussi de vrais canadiens-français. Il me fait plaisir de signaler ici le beau souffle patriotique qui circule à travers toutes les pages de cet ouvrage, et qui en constitue, à mes yeux, le premier mérite et le plus grand attrait. La génération nouvelle n'est peut-être pas assez inclinée aux travaux intellectuels. Les nations pas plus que les individus ne vivent seulement de pain. Il faut que les esprits se tiennent haut pour que les cœurs ne défaillent point ; et l'on aurait bien tort de penser que la prospérité matérielle est le dernier mot du progrès et de la civilisation. : Le lendemain soir, en face de la maison servant de poste aux sapeurs-pompiers, un groupe nombreux et animé parlait de l'événement de la veille, qui avait créé tant d'émoi au sein de la paroisse. Tous faisaient l'éloge du vieux muet, à l'exception du père Latourelle, qui fumait nerveusement sa pipe, en réprimant, tantôt un geste et tantôt une parole menaçant de lui échapper.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1326-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1326-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">caouette_jean-baptiste_-_le_vieux_muet</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Jean-Baptiste Caouette&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:39.995542+00:00" name="calibre:timestamp"/>
+        <meta content="vieux muet, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

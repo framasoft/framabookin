@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1625</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">45a98a92-12fe-4e74-97f2-36773b0f74f7</dc:identifier>
+        <dc:title>Les Ténébreuses I</dc:title>
+        <dc:creator opf:file-as="Leroux, Gaston" opf:role="aut">Gaston Leroux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1924-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Le grand duc Ivan est amoureux de la modeste Prisca et s'oppose à sa mère qui veut le voir épouser la fille du prince Khirkof. De plus, il dénonce l'attitude de Raspoutine qui entraîne les dames de la cour dans une secte où elles deviennent les Ténébreuses. Il reçoit l'aide de la Kouliguine, célèbre danseuse qui dirige un complot contre le Tsar. Ivan et Prisca se réfugient en Finlande. Mais Prisca est enlevée, et promise à devenir une soeur des Ténébreuses... Extrait : Dans sa détresse, sur le fond des ténèbres se détacha peu à peu la figure de l'Autre, de l'Autre empereur, qui avait été souvent sa force occulte, qu'il avait toujours senti derrière lui, à côté de lui, comme son grand frère d'Orgueil et de Pouvoir, comme la seconde face de la Toute-Puissance autocratique sur les peuples, de l'Autre dont il entendait, encore la voix qui lui parlait de leur mission divine sur la terre et qui, au nom de cette mission divine, lui faisait signer, dans le désert des flots de Bjoërkoë, ce traité d'alliance qui n'était point dans le programme de son père et que ses hommes d'État avaient déchiré à son retour, comme on déchire les mauvaises pages entre les mains d'un enfant qui a mal compris son devoir... de l'Autre qui s'était joué de lui et qui l'avait jeté dans cet affreux chaos.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0282-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0282-7</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0283-4</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leroux_gaston_-_les_tenebreuses_i</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gaston Leroux&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:19.459161+00:00" name="calibre:timestamp"/>
+        <meta content="Ténébreuses I, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

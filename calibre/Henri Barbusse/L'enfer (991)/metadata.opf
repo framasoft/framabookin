@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">991</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7e1b30ad-8452-45f6-87b4-eef6abf57790</dc:identifier>
+        <dc:title>L'enfer</dc:title>
+        <dc:creator opf:file-as="Barbusse, Henri" opf:role="aut">Henri Barbusse</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Un homme las, blasé de tout, fatigué de la vie et de l'amour, qui n'a plus goût à rien, échoue dans un hôtel de province. On ne sait rien de lui, si ce n'est qu'il est âgé d'une trentaine d'années. Des bruits venant de la chambre voisine, attirent son attention. Il se lève, intrigué, et remarque en hauteur, sous le plafond, un trou qui lui permet de voir... Et il regardera... fasciné, les épisodes de la vie humaine qui se déroulent de l'autre coté. Le sexe, bien sûr, tient une place importante, chambre d'hôtel oblige. Par le prisme du héros, qui reprend goût à la vie, tout en se perdant, nous devenons également voyeurs. Le réalisme cru, mais empreint de lyrisme, et le sujet même de ce roman paru en 1908, n'ont probablement pas été du goût de tout le monde à l'époque... Extrait : Mais, j'aurai beau supplier, j'aurai beau me révolter, il n'y aura plus rien pour moi ; je ne serai, désormais, ni heureux, ni malheureux. Je ne peux pas ressusciter. Je vieillirai aussi tranquille que je le suis aujourd'hui dans cette chambre où tant d'êtres ont laissé leur trace, où aucun être n'a laissé la sienne. Cette chambre, on la retrouve à chaque pas. C'est la chambre de tout le monde. On croit qu'elle est fermée, non : elle est ouverte aux quatre vents de l'espace. Elle est perdue au milieu des chambres semblables, comme de la lumière dans le ciel, comme un jour dans les jours, comme moi partout.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0747-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0747-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">barbusse_henri_-_l_enfer</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Henri Barbusse&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:10.022838+00:00" name="calibre:timestamp"/>
+        <meta content="enfer, L'" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

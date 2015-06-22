@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1155</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">891341b0-6622-4f5a-894c-f1a1023a89fe</dc:identifier>
+        <dc:title>L'enfant mystérieux</dc:title>
+        <dc:creator opf:file-as="Dick, Wenceslas-Eugène" opf:role="aut">Wenceslas-Eugène Dick</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>L'enfant mystérieux} est le troisième roman de Wenceslas-Eugène Dick. Il a d'abord paru en feuilleton en 1880-81. L'action se déroule vers 1840 à l'île d'Orléans. Un enfant adopté, à la suite de la disparition de ses parents, gêne l'héritier légal de la famille... Extrait : Nouveau silence. Les deux vieux évoquaient dans leur esprit les vives espérances, les alertes joyeuses et les déceptions réitérées que ce tenace désir de paternité leur avait values. Les cinquante ans de Marianne fermaient maintenant pour toujours la route à toutes ces illusions, qui n'avaient pas été sans charmes, pour ne laisser comme réalité que le foyer vide et le petit berceau à l'état de rêve évanoui. Pierre Bouet lança un véritable nuage de fumée et reprit d'une voix amère : -- Et dire, ratatinette ! qu'il y a des fainéants et des propres à rien dont les maisons sont pleines d'enfants !... Vois, par exemple, mon garnement de frère, Antoine. Ça vous a mangé un beau bien en moins de vingt ans ; ça vit on ne sait comment ; c'est plaideur, dépensier, sans talents, sans religion et, par-dessus tout ça, ivrogne comme une éponge... Eh bien ! ça vous a un gars et une fille qui sont pris comme des sapins. C'est pas juste, à la fin des fins !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0510-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0510-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dick_wenceslas-eugene_-_l_enfant_mysterieux</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Wenceslas-Eugène Dick&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:43.359997+00:00" name="calibre:timestamp"/>
+        <meta content="enfant mystérieux, L'" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

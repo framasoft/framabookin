@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1586</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a622cf78-2c76-4ef5-ae8e-1b0a210ded7f</dc:identifier>
+        <dc:title>Les huit coups de l’horloge</dc:title>
+        <dc:creator opf:file-as="Leblanc, Maurice" opf:role="aut">Maurice Leblanc</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1923-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Les Huit Coups de l'horloge est un recueil de 6 nouvelles et deux textes d'encadrement de Maurice Leblanc, mettant en scène les aventures d'Arsène Lupin, gentleman-cambrioleur. Les huit textes de ce recueil ont un fil directeur. Pour distraire et séduire une jeune femme, Hortense Daniel, Arsène Lupin, sous l'identité du prince Serge Rénine, va s'attacher à résoudre huit énigmes en sa compagnie. Extrait : Ils étaient arrivés près de l'automobile. Rossigny, tout en bégayant des mots de joie, mit en mouvement le moteur. Hortense monta et se couvrit d'un vaste manteau. La voiture suivit sur l'herbe l'étroit sentier qui la ramena au carrefour, et Rossigny accélérait la vitesse, lorsque subitement il dut freiner. Un coup de feu avait claqué dans le bois voisin, sur la droite. L'auto allait de côté et d'autre. - C'est une crevaison, un pneu d'avant, proféra Rossigny, qui sauta à terre.  - Mais pas du tout ! s'écria Hortense. On a tiré. - Impossible, chère amie ! Voyons, que dites-vous !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1614-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1614-5</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1593-3</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leblanc_maurice_-_les_huit_coups_de_l_horloge</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <dc:subject>nouvelle</dc:subject>
+        <meta content="{&quot;Maurice Leblanc&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:11.554995+00:00" name="calibre:timestamp"/>
+        <meta content="huit coups de l’horloge, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

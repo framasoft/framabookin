@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1333</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b6eb4552-005c-4298-8a61-f87fcf03f110</dc:identifier>
+        <dc:title>Les Mohicans de Paris 4</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Comment, lors du Mardi Gras de 1827, trois compères (Jean Robert le poète, Ludovic le médecin et Pétrus le peintre) font la connaissance de Monsieur Salvator, de son état commissionnaire rue aux Fers et bien plus que cela. Comment ils favorisent les amours du sympathique musicien Justin, et ne négligent pas les leurs propres. Comment nos héros (sans oublier le chien Roland) découvrent la vérité sur l'horrible assassinat, en 1820, de la famille Tardieu. Comment , au service de la Charbonnerie, ils mènent la vie dure aux sbires du roi Charles X, et en particulier au policier Jackal (qui ressemble fort à Vidocq, et qui n'a pas tort de répéter en toute affaire « Cherchez la femme ! »). Comment Salvator règle de vieux comptes avec l'exécrable famille des marquis de Valgeneuse. Comment l'histoire finit par des chansons, et même par un opéra. Tout cela, et bien plus, s'entremêle et se tient parfaitement, avec (entre autres), dans leurs propres rôles, Chateaubriand, La Fayette et Napoléon II. Extrait : L'ex-forçat pâlit en apercevant cette fameuse rue du Puits-qui-parle, et, dans cette rue, le puits où il avait passé de si longues et si tristes heures. Un vague frisson lui passa par tout le corps et une sueur froide mouilla son front. Pour la première fois, depuis son départ de l'Hôtel-Dieu pour Kehl, il éprouva une douloureuse impression. La rue était solitaire. M. Sarranti, arrivé devant la maison, s'arrêta, attendant sans doute pour entrer les quatre autres compagnons nécessaires à l'introduction qui, on se le rappelle, avait lieu cinq par cinq. Bientôt trois hommes enveloppés de manteaux apparurent, vinrent droit à M. Sarranti ; et, après avoir échangé le signe de reconnaissance, tous quatre attendirent le cinquième. Gibassier regarda autour de lui pour voir si le cinquième n'arrivait pas, et, n'en voyant pas même poindre l'ombre, il jugea que c'était le moment de faire un coup de maître.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1398-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1398-4</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1397-7</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_les_mohicans_de_paris_4</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:20.082873+00:00" name="calibre:timestamp"/>
+        <meta content="Mohicans de Paris 4, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

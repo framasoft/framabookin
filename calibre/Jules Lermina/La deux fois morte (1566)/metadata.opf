@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1566</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b91148f7-ecdf-401c-81ca-14a57d773431</dc:identifier>
+        <dc:title>La deux fois morte</dc:title>
+        <dc:creator opf:file-as="Lermina, Jules" opf:role="aut">Jules Lermina</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1895-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Le jeune Paul et la petite Virginie sont éperdument amoureux l'un de l'autre, il se marient. Le narrateur, un savant dont Paul est l'élève, part à l'étranger. Il revient 3 ans plus tard et apprend que Virginie est morte et Paul cloîtré dans son château. Il s'empresse de retrouver ce dernier : celui-ci n'a pas l'air peiné, à sa grande stupéfaction. En fait, Paul s'enferme pendant des heures, et à l'aide de l'incroyable mémoire dont la nature l'a doté, fait revivre Virginie... Extrait : Environ un mois après la mort de Madame, comme j'entrais un matin dans la chambre de Monsieur, je fus tout surpris de voir qu'il ne s'était pas couché. Le plus étonnant de tout, c'est ceci, oui, il souriait pour la première fois depuis de longs jours. Il mangea beaucoup, avec un appétit que je ne lui connaissais plus, il but même à mon avis plus que de raison. Puis, à la fin du repas, il tomba dans un sommeil si profond, si rapide surtout, que je le laissai étendu sur le canapé et me retirai discrètement. Plusieurs fois dans la journée, je montai pour m'assurer qu'il n'avait besoin de rien ; il dormit ainsi jusqu'au soir. Enfin il s'éveilla et je lui conseillai de se mettre au lit. J'admettais fort bien que le désespoir l'eût brisé au point de lui imposer un repos de vingt-quatre heures. Mais il me répondit assez vivement que j'eusse à lui épargner mes conseils. Tout ce qu'il me demandait, c'était de ne monter dans son appartement sous aucun prétexte, à moins d'appel. Je me le tins pour dit, et, depuis ce jour-là, jamais je ne suis entré chez mon maître de six heures du soir à dix heures du matin.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0850-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0850-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">lermina_jules_-_la_deux_fois_morte</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Jules Lermina&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:07.267381+00:00" name="calibre:timestamp"/>
+        <meta content="deux fois morte, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

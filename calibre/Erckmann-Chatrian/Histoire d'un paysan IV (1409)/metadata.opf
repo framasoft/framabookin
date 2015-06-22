@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1409</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b75f06d0-f164-4183-9536-e998a999c2b9</dc:identifier>
+        <dc:title>Histoire d'un paysan IV</dc:title>
+        <dc:creator opf:file-as="Erckmann-Chatrian" opf:role="aut">Erckmann-Chatrian</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>«Moi, je suis un homme du peuple, et j'écris pour le peuple. Je raconte ce qui s'est passé sous mes yeux.J'ai vu l'ancien régime avec ses lettres de cachet, son gouvernement du bon plaisir, sa dîme, ses corvées, ses jurandes, ses barrières, ses douanes intérieures, ses capucins crasseux mendiant de porte en porte, ses privilèges abominables, sa noblesse et son clergé, qui possédaient à eux seuls les deux tiers du territoire de la France! J'ai vu les états-généraux de 1789 et l'émigration, l'invasion des Prussiens et des Autrichiens, et la patrie en danger, la guerre civile, la Terreur, la levée en masse! enfin toutes ces choses grandes et terribles, qui étonneront les hommes jusqu'à la fin des siècles.C'est donc l'histoire de vos grands-pères, à vous tous, bourgeois, ouvriers, soldats et paysans, que je raconte, l'histoire de ces patriotes courageux qui ont renversé les bastilles, détruit les privilèges, aboli la noblesse, proclamé les Droits de l'homme, fondé l'égalité des citoyens devant la loi sur des bases inébranlables, et bousculé tous les rois de l'Europe, qui voulaient nous remettre la corde au cou.» Extrait : Toutes nos grandes guerres alors étaient finies ; nous avions conquis la Belgique et la Hollande, la rive gauche du Rhin, une partie du Piémont et de l'Espagne ; les autres ne demandaient plus que la paix. Charette lui-même, dans ses marais, n'en pouvait plus ; la république venait de faire grâce aux rebelles, en leur permettant de rebâtir leurs maisons, de relever leurs églises et de cultiver leurs terres comme d'honnêtes gens ; elle leur avait même promis des indemnités, à la seule condition de rester tranquilles. Carrier, Pinard et Grandmaison avaient été guillotinés, pour avoir dépassé les ordres du Comité de salut public. Qu'est-ce que les Vendéens pouvaient demander de plus ? On pensait que le bon sens allait leur revenir et que nous aurions longtemps la paix.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0689-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0689-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">erckmann-chatrian_-_histoire_d_un_paysan_iv</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Erckmann-Chatrian&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:35.415565+00:00" name="calibre:timestamp"/>
+        <meta content="Histoire d'un paysan IV" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

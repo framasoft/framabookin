@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1763</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">47e26d08-2021-42e1-9176-2f90471f0745</dc:identifier>
+        <dc:title>La maison du chat-qui-pelote</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>1829. La Comédie humaine - Études de moeurs. Premier livre, Scènes de la vie privée - Tome I. Premier volume de l'édition Furne 1842. Drapier, monsieur Guillaume tient boutique à Paris. Il a deux filles à marier, et prévoit d'unir l'aînée, mademoiselle Virginie, à son premier commis. La cadette, mademoiselle Augustine, va s'éprendre d'un jeune artiste. Deux mariages, deux destins opposés. Dans ce roman placé en tête de La Comédie Humaine, Balzac traite plusieurs de ses thèmes favoris, les oppositions entre le passé et le présent, la vie d'artiste et la bourgeoisie, la prudence qui dure et la passion qui détruit. Extrait : Guillaume avait deux filles. L’aînée, mademoiselle Virginie, était tout le portrait de sa mère. Madame Guillaume, fille du sieur Chevrel, se tenait si droite sur la banquette de son comptoir, que plus d’une fois elle avait entendu des plaisants parier qu’elle y était empalée. Sa figure maigre et longue trahissait une dévotion outrée. Sans grâces et sans manières aimables, madame Guillaume ornait habituellement sa tête presque sexagénaire d’un bonnet dont la forme était invariable et garni de barbes comme celui d’une veuve. Tout le voisinage l’appelait la sœur tourière. Sa parole était brève, et ses gestes avaient quelque chose des mouvements saccadés d’un télégraphe. Son œil, clair comme celui d’un chat, semblait en vouloir à tout le monde de ce qu’elle était laide. Mademoiselle Virginie, élevée comme sa jeune sœur sous les lois despotiques de leur mère, avait atteint l’âge de vingt-huit ans. La jeunesse atténuait l’air disgracieux que sa ressemblance avec sa mère donnait parfois à sa figure ; mais la rigueur maternelle l’avait dotée de deux grandes qualités qui pouvaient tout contre-balancer : elle était douce et patiente. Mademoiselle Augustine, à peine âgée de dix-huit ans, ne ressemblait ni à son père ni à sa mère.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0990-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0990-1</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1001-3</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_la_maison_du_chat-qui-pelote</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:47.531406+00:00" name="calibre:timestamp"/>
+        <meta content="maison du chat-qui-pelote, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

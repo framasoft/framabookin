@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1532</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8fbc076a-0ca6-420a-b3a6-416b4cf728c9</dc:identifier>
+        <dc:title>Han d’Islande</dc:title>
+        <dc:creator opf:file-as="Hugo, Victor" opf:role="aut">Victor Hugo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Han d’Islande est un roman de jeunesse de Victor Hugo, publié en 1823.Ce roman de jeunesse de Victor Hugo a été écrit en 1821 à 19 ans. Quelque temps auparavant, il rencontre Adèle Foucher dont il tombe amoureux et avec qui il correspond en secret. Malheureusement la mère de Hugo découvre la correspondance et interdit aux jeunes gens de se voir. À la mort en 1821 de Madame Hugo, l’auteur peut renouer avec Adèle. Mais des problèmes d’argent éloignent encore le mariage. Après de longues fiançailles, le mariage a lieu en 1822 grâce à une pension accordée par Louis XVIII. C’est face à ces soucis financiers que Victor Hugo écrit Han d’Islande, qui reflète cet amour contrarié.  Han d’Islande se situe dans la région de Trondheim en Norvège en 1699. Ordener Guldenlew, personnage principal, jeune homme vertueux, noble et courageux, est le fils du Vice-Roi de Norvège et amoureux d'Ethel, douce jeune fille de Schumaker, ancien Comte de Griffenfeld déshonoré par le Roi et enfermé à la forteresse de Munkholm. Seuls certains papiers, enfermés dans une cassette en fer et aux mains de Han d’Islande, pourraient sauver Schumaker et sa fille ...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1070-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1070-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">hugo_victor_-_han_d_islande</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Victor Hugo&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:00.680967+00:00" name="calibre:timestamp"/>
+        <meta content="Han d’Islande" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

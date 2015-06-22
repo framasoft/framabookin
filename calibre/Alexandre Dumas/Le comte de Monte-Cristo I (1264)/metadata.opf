@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1264</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b58cf0ee-7911-4b1c-b6f1-690f1525da14</dc:identifier>
+        <dc:title>Le comte de Monte-Cristo I</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Edmond Dantès, victime d'une dénonciation calomnieuse alors qu'il allait épouser la belle Mercédès, est enfermé pour 14 ans dans un sinistre cachot du château d'If en rade de Marseille. Son salut viendra de l'abbé Faria, un autre prisonnier avec lequel il entretient une amitié clandestine des années durant. Celui-ci lui transmet sa vaste culture et à sa mort, un trésor caché... Extrait : « Je ne tirerai rien de ces niais-là, murmura-t-il, et j'ai grand-peur d'être ici entre un ivrogne et un poltron : voici un envieux qui se grise avec du vin, tandis qu'il devrait s'enivrer de fiel ; voici un grand imbécile à qui on vient de prendre sa maîtresse sous son nez et qui se contente de pleurer et de se plaindre comme un enfant. Et cependant, cela vous a des yeux flamboyants comme ces Espagnols, ces Siciliens et ces Calabrais, qui se vengent si bien ; cela vous a des poings à écraser une tête de bœuf aussi sûrement que le ferait la masse d'un boucher. Décidément, le destin d'Edmond l'emporte ; il épousera la belle fille, il sera capitaine et se moquera de nous ; à moins que</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0042-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0042-7</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0043-4</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_le_comte_de_monte-cristo_i</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture avancée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:05.957621+00:00" name="calibre:timestamp"/>
+        <meta content="comte de Monte-Cristo I, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

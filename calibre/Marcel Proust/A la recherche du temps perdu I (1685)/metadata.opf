@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1685</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ace18619-976b-4fd7-b497-e5b0e3bbbd80</dc:identifier>
+        <dc:title>À la recherche du temps perdu I</dc:title>
+        <dc:creator opf:file-as="Proust, Marcel" opf:role="aut">Marcel Proust</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1913-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Alors que le premier tome est publié à compte d’auteur chez Grasset en 1913 grâce à René Blum (Proust en conserve la propriété littéraire), la guerre stoppe la publication du deuxième tome et permet à Proust de remodeler son œuvre, cette dernière prenant de l'ampleur au fil des nuits de travail épuisant. L'auteur retravaille sans cesse ses dactylographies autant que ses brouillons et ses manuscrits, et souhaite interrompre sa collaboration avec l'éditeur. La Nouvelle Revue française, dirigée par Gaston Gallimard, est en pleine bataille éditoriale avec Grasset depuis 1914 mais a commis l'erreur de refuser en 1913 de publier Du côté de chez Swann par l'entremise d'André Gide, figure dominante du comité éditorial de la NRF qui juge que c'est un livre de snob dédié à Gaston Calmette, directeur du Figaro. Extrait : Mais Swann se disait que s'il montrait à Odette (en consentant seulement à la retrouver après dîner), qu'il y avait des plaisirs qu'il préférait à celui d'être avec elle, le goût qu'elle ressentait pour lui ne connaîtrait pas de longtemps la satiété. Et, d'autre part, préférant infiniment à celle d'Odette la beauté d'une petite ouvrière fraîche et bouffie comme une rose et dont il était épris, il aimait mieux passer le commencement de la soirée avec elle, étant sûr de voir Odette ensuite. C'est pour les mêmes raisons qu'il n'acceptait jamais qu'Odette vînt le chercher pour aller chez les Verdurin. La petite ouvrière l'attendait près de chez lui à un coin de rue que son cocher Rémi connaissait, elle montait à côté de Swann et restait dans ses bras jusqu'au moment où la voiture l'arrêtait devant chez les Verdurin. À son entrée, tandis que Mme Verdurin montrant des roses qu'il avait envoyées le matin lui disait : « Je vous gronde » et lui indiquait une place à côté d'Odette, le pianiste jouait, pour eux deux, la petite phrase de Vinteuil qui était comme l'air national de leur amour. Il commençait par la tenue des trémolos de violon que pendant quelques mesures on entend seuls, occupant tout le premier plan, puis tout d'un coup ils semblaient s'écarter et comme dans ces tableaux de Pieter de Hooch, qu'approfondit le cadre étroit d'une porte entr'ouverte, tout au loin, d'une couleur autre, dans le velouté d'une lumière interposée, la petite phrase apparaissait, dansante, pastorale, intercalée, épisodique, appartenant à un autre monde.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0882-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0882-9</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1573-5</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">proust_marcel_-_a_la_recherche_du_temps_perdu_i</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Marcel Proust&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:31.494335+00:00" name="calibre:timestamp"/>
+        <meta content="À la recherche du temps perdu I" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

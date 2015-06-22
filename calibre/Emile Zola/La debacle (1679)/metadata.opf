@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1679</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b04a74cd-ae4b-47b2-8fc6-62a33c67d283</dc:identifier>
+        <dc:title>La débâcle</dc:title>
+        <dc:creator opf:file-as="Zola, Émile" opf:role="aut">Émile Zola</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1892-12-14T23:00:00+00:00</dc:date>
+        <dc:description>La Débâcle est le dix-neuvième volume de la série les Rougon-Macquart, dont il constitue la conclusion historique. Le premier roman (la Fortune des Rougon) évoquait le coup d’État du 2 décembre, qui mit en place le second Empire ; celui-ci a pour cadre la déroute de l’armée française devant les Prussiens à Sedan, et donc la chute de l’empire, remplacé le 4 septembre 1870 par la troisième République. Extrait : Le jour baissait, la retraite partit d'un coin éloigné du camp, un roulement des tambours, une sonnerie des clairons, faibles encore, emportés par le grand air. Et Jean Macquart, qui s'occupait à consolider la tente, en enfonçant les piquets davantage, se leva. Aux premiers bruits de guerre, il avait quitté Rognes, tout saignant du drame où il venait de perdre sa femme Françoise et les terres qu'elle lui avait apportées ; il s'était réengagé à trente-neuf ans, retrouvant ses galons de caporal, tout de suite incorporé au 106\textsuperscript{e} régiment de ligne, dont on complétait les cadres ; et, parfois, il s'étonnait encore, de se revoir avec la capote aux épaules, lui qui, après Solférino, était si joyeux de quitter le service, de n'être plus un traîneur de sabre, un tueur de monde. Mais quoi faire ? quand on n'a plus de métier, qu'on n'a plus ni femme ni bien au soleil, que le cœur vous saute dans la gorge de tristesse et de rage ? Autant vaut-il cogner sur les ennemis, s'ils vous embêtent.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0241-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0241-4</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0249-0</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">zola_emile_-_la_debacle</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Émile Zola&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:30.278974+00:00" name="calibre:timestamp"/>
+        <meta content="débâcle, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

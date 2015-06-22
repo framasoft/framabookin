@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1372</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dfb6e5a2-4472-4305-998e-13d70d30d62c</dc:identifier>
+        <dc:title>Le loup blanc</dc:title>
+        <dc:creator opf:file-as="Féval, Paul" opf:role="aut">Paul Féval</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1845-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Nicolas Treml de La Tremlays, seigneur de Boüexis-en-Forêt, voit, chaque jour qui passe, sa terre natale, La Bretagne, asservie sous l'impôt par le régent de France Philippe d'Orléans. Pour éviter une nouvelle guerre meurtrière pour les bretons, il décide de porter un seul coup et de défier en duel le régent de France. Il confie son domaine, tous ses biens, et son petit-fils Georges à son cousin Hervé de Vaunoy et se dirige sur Paris avec son fidèle serviteur Jude... Extrait : - Soyez témoins ! reprit Nicolas Treml d'une voix haute et solennelle ; ne pouvant accuser le roi qui est un enfant, j'accuse le régent de France de tenir en servage la province de Bretagne, laquelle est libre de droit. Pour prouver la vérité de mon dire, j'offre le combat à outrance et sans merci. Si Dieu permet que je succombe, la Bretagne n'aura perdu qu'un de ses enfants. Si je suis vainqueur, elle recouvrera ses légitimes privilèges. -- Un combat en champ clos ! murmuraient ces messieurs qui commençaient à s'amuser de l'aventure. Un jugement de Dieu entre son Altesse Royale et M. Nicolas ! l'idée vaut quelque chose !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0569-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0569-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">feval_paul_-_le_loup_blanc</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Paul Féval&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:27.928095+00:00" name="calibre:timestamp"/>
+        <meta content="loup blanc, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

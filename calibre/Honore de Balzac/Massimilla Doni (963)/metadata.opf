@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">963</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">880c3552-dd4e-4b57-8724-8ecf9447b4e1</dc:identifier>
+        <dc:title>Massimilla Doni</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études philosophiques - Tome II. Quinzième volume de l'édition Furne 1842. Extrait : ― Et je suis prince ! En se disant ce dernier mot, Émilio Memmi jeta, sans l’achever, la lettre de Marco Vendramini dans la lagune, où elle flotta comme un esquif de papier lancé par un enfant. ― Mais Émilio, reprit-il, n’a que vingt-trois ans. Il vaut mieux ainsi que lord Wellington goutteux, que le régent paralytique, que la famille impériale d’Autriche attaquée du haut mal, que le roi de France...Mais en pensant au roi de France, le front d’Émilio se plissa, son teint d’ivoire jaunit, des larmes roulèrent dans ses yeux noirs, humectèrent ses longs cils ; il souleva d’une main digne d’être peinte par Titien son épaisse chevelure brune, et reporta son regard sur la gondole de la Cataneo.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1029-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1029-7</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0975-8</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_massimilla_doni</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:04.410966+00:00" name="calibre:timestamp"/>
+        <meta content="Massimilla Doni" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

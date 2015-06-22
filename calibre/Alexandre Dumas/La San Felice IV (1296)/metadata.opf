@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1296</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">733a0840-c3a7-4c61-8b28-1f5319a0b0f4</dc:identifier>
+        <dc:title>La San Felice IV</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Revenant d'Aboukir où la flotte britannique a vaincu Bonaparte, l'Amiral Nelson est reçu en triomphateur à la cour de Naples. Garat, ambassadeur de la République, fait irruption dans cette manifestation d'hostilité anti-française et promet la guerre au Royaume de Naples. Trop vite cependant : le soir même, Salvato Palmieri, agent envoyé de Rome par le général Championnet pour informer Garat de la situation des Français et l'inviter à gagner du temps, est attaqué par les sbires de la reine Marie-Caroline de Naples. Laissé pour mort, il est recueilli par Luisa San Felice, jeune Napolitaine épouse du chevalier San Felice, vieil homme de lumières et bibliothécaire à la cour. Extrait : C'est une chose remarquable, à Naples et dans les provinces méridionales, que la part que prennent les forçats à toutes les révolutions. Comme les gouvernements despotiques qui se sont succédé dans l'Italie méridionale, depuis les vice-rois espagnols jusqu'à la chute de François II, c'est-à-dire depuis 1503 jusqu'en 1860, ont toujours eu pour premier principe de pervertir le sens moral, il en résulte que le galérien n'y inspire point la même répulsion que chez nous. Au lieu d'être parqués dans leurs bagnes et sans communication avec la société qui les a repoussés de son sein, ils sont mêlés à la population, qui ne les rend pas meilleurs et qu'ils rendent plus mauvaise. Leur nombre est immense, presque le double de celui de la France, et, à un moment donné, ils sont pour les rois, qui ne dédaignent pas leur alliance, un puissant et terrible secours à Naples, -- et, par Naples, nous entendons toutes les provinces napolitaines. Il n'y a pas de galères à vie. Nous avons fait un calcul, bien facile à faire, du reste, qui nous a donné une moyenne de neuf ans pour les galères à vie. Ainsi, depuis 1799, c'est-à-dire depuis soixante-cinq ans, les portes des galères ont été ouvertes six fois, et toujours par la royauté, qui, en 1799, en 1806, en 1809, en 1821, en 1848 et en 1860, y recruta des champions. Nous verrons le cardinal Ruffo aux prises avec ces étranges auxiliaires, ne sachant comment s'en débarrasser, et, dans toutes les occasions, les poussant au feu.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0033-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0033-5</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0034-2</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_la_san_felice_iv</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:12.344009+00:00" name="calibre:timestamp"/>
+        <meta content="San Felice IV, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

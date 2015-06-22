@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1070</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e4595fc3-b276-4c53-a204-64118f471242</dc:identifier>
+        <dc:title>Adolphe</dc:title>
+        <dc:creator opf:file-as="Constant, Benjamin" opf:role="aut">Benjamin Constant</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Grand classique du roman d'amour, voici l'histoire malheureuse de Adolphe et Ellénore : Il l'a aimé tout de suite et avec passion... Mais, le coeur des hommes est souvent «girouette»... Elle l'a aimé trop tard, et pour son malheur... Extrait : Offerte à mes regards dans un moment où mon cœur avait besoin d'amour, ma vanité de succès, Ellénore me parut une conquête digne de moi. Elle-même trouva du plaisir dans la société d'un homme différent de ceux qu'elle avait vus jusqu'alors. Son cercle s'était composé de quelques amis ou parents de son amant et de leurs femmes, que l'ascendant du comte de P ** avait forcées à recevoir sa maîtresse. Les maris étaient dépourvus de sentiments aussi bien que d'idées ; les femmes ne différaient de leurs maris que par une médiocrité plus inquiète et plus agitée, parce qu'elles n'avaient pas, comme eux, cette tranquillité d'esprit qui résulte de l'occupation et de la régularité des affaires. Une plaisanterie plus légère, une conversation plus variée, un mélange particulier de mélancolie et de gaieté, de découragement et d'intérêt, d'enthousiasme et d'ironie étonnèrent et attachèrent Ellénore. Elle parlait plusieurs langues, imparfaitement à la vérité, mais toujours avec vivacité, quelquefois avec grâce. Ses idées semblaient se faire jour à travers les obstacles, et sortir de cette lutte plus agréables, plus naïves et plus neuves ; car les idiomes étrangers rajeunissent les pensées, et les débarrassent de ces tournures qui les font paraître tour à tour communes et affectées. Nous lisions ensemble des poètes anglais ; nous nous promenions ensemble. J'allais souvent la voir le matin ; j'y retournais le soir ; je causais avec elle sur mille sujets.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0173-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0173-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">constant_benjamin_-_adolphe</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Benjamin Constant&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:25.807204+00:00" name="calibre:timestamp"/>
+        <meta content="Adolphe" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

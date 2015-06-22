@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1728</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">05112b70-d902-4a23-b55d-e4a07743a024</dc:identifier>
+        <dc:title>Arsace et Isménie</dc:title>
+        <dc:creator opf:file-as="Montesquieu, Charles-Louis de Secondat" opf:role="aut">Montesquieu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>En Bactriane, un bel et jeune étranger, Arsace, éblouit la cour de la reine Isménie par sa valeur. Aspar, l’eunuque Premier  Ministre, sollicite ses confidences ; Arsace entame alors un long récit. Il raconte ses amours avec son épouse Ardasire en Médie, interrompues par un mariage imposé avec la princesse de Médie, qu’il refuse ; et comment il s’enfuit alors avec Ardasire, qui a essayé de le tuer pour ne pas le perdre. Arsace et Isménie est un roman très peu connu de Montesquieu. L’histoire de la rédaction d’Arsace et Isménie est conjecturale, mais Montesquieu en a suffisamment parlé pour qu’on puisse espérer la reconstituer. L’ouvrage serait né des sollicitations de Mlle de Charolais (lettre à Barbot du 8 septembre 1742) — mais il lui permet de reprendre un passage plus ancien, venu de l’Histoire véritable. Montesquieu semble l’avoir repris seulement quand il croit L’Esprit des lois achevé, à l’été 1747.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1116-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1116-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">montesquieu_charles-louis_de_secondat_-_arsace_et_ismenie</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Montesquieu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:40.303217+00:00" name="calibre:timestamp"/>
+        <meta content="Arsace et Isménie" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

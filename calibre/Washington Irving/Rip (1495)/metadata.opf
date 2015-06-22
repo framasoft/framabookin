@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1495</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">43682bdc-1d67-4c02-b752-8610c6e018ef</dc:identifier>
+        <dc:title>Rip</dc:title>
+        <dc:creator opf:file-as="Irving, Washington" opf:role="aut">Washington Irving</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1819-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Rip Van Winkle est une nouvelle publiée dans The Sketch Book of Geoffrey Crayon (1819). C'est le nom du protagoniste, personnage éponyme. L'action se situe dans les montagnes Catskill, ou Kaatskill, dans l'État de New York. Washington Irving se trouvant à Birmingham, en Angleterre, lorsqu'il écrivit ce recueil, avoua plus tard qu'à cette date, il n'avait jamais mis les pieds dans les montagnes de Catskill. Extrait : Il s'apprêta pourtant à descendre, mais à ce moment il entendit une voix appeler de loin «~Rip Van Winkle~! Rip Van Winkle~!~» Il regarda autour de lui, mais ne vit qu'un corbeau poursuivant son vol solitaire à travers la montagne. Se croyant la dupe de son imagination, il reprit son chemin lorsque le même cri retentit de nouveau dans le silence des airs «~Rip Van Winkle~! Rip Van Winkle~!~» À ce bruit son chien s'approcha de lui en grondant, hérissant le dos et jetant des regards craintifs dans le ravin. Rip se sentit alors envahir par une terreur vague, et se tournant avec inquiétude du même côté, il aperçut un personnage étrange qui gravissait lentement les rochers, plié sous le poids d'un fardeau qu'il portait sur le dos. Surpris de voir un être humain dans ce lieu solitaire et peu fréquenté, mais croyant que c'était un habitant des environs qui avait besoin de son secours, Rip se hâta de descendre pour lui venir en aide. Vu de plus près, l'aspect de l'inconnu l'étonna. C'était un petit vieux trapu, de forte carrure, à la chevelure épaisse et la barbe grisonnante. Vêtu à l'ancienne mode hollandaise, il portait une tunique en drap avec ceinturon de cuir, et des culottes superposées l'une à l'autre, dont celle de dessus, fort large, avait des rangs de boutons sur les côtés et des nœuds de ruban aux genoux. Il fit signe à Rip pour que ce dernier s'approchât et lui aidât à porter le lourd baril dont il était chargé. Tout en se méfiant un peu du personnage, Rip avec sa complaisance habituelle se hâta d'accéder à son désir, et se chargeant tour à tour du fardeau les deux hommes se mirent à monter un étroit ravin formé par le lit desséché d'un torrent.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1561-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1561-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">irving_washington_-_rip</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>nouvelle</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Etats-Unis</dc:subject>
+        <meta content="{&quot;Washington Irving&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:53.300242+00:00" name="calibre:timestamp"/>
+        <meta content="Rip" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

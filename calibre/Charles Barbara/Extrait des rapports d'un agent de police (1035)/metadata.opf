@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1035</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6d31608e-e1a3-4e66-b04d-4e690d6800ff</dc:identifier>
+        <dc:title>Extrait des rapports d’un agent de police</dc:title>
+        <dc:creator opf:file-as="Barbara, Charles" opf:role="aut">Charles Barbara</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1857-03-05T23:00:00+00:00</dc:date>
+        <dc:description>Extrait : A l'instar de l'araignée, j'ai tramé une si merveilleuse toile, que le plus imperceptible mouvement de l'ennemi ne saurait m'échapper. Pensez-vous qu'on ait jamais réalisé le moyen efficace d'entrer aussi avant dans une poitrine d'homme, dans sa cervelle, dans sa conscience ? Je m'applaudis d'autant plus volontiers, que le sujet soumis à mon analyse, soupçonné, à bon droit, j'en ai la conviction, de pensées ténébreuses et de projets coupables, est insondable comme la mer, discret comme la tombe, et semble se plaire à dérouter les yeux qui l'étudient.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1180-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1180-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">barbara_charles_-_extrait_des_rapports_d_un_agent_de_police</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Charles Barbara&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:18.786329+00:00" name="calibre:timestamp"/>
+        <meta content="Extrait des rapports d’un agent de police" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

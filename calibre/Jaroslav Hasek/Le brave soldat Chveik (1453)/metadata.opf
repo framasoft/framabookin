@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1453</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e5885100-76fd-46bc-85da-6c64d17d6747</dc:identifier>
+        <dc:title>Le brave soldat Chvéïk</dc:title>
+        <dc:creator opf:file-as="Hasek, Jaroslav" opf:role="aut">Jaroslav Hasek</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1923-06-02T22:00:00+00:00</dc:date>
+        <dc:description>L'oeuvre relate sur le mode de l'absurde et du grotesque les pérégrinations de Josef Chvéïk, brave Tchèque de Prague vivant à l'époque de la Grande Guerre, sous la domination austro-hongroise. Chvéïk s'affirme à lui tout seul, comme le symbole de l'absurdité de la Première Guerre mondiale, et peut-être de toutes les guerres en général. Le brave soldat Chvéïk est acclamé comme l'un des meilleurs récits satiriques de la littérature mondiale. Aujourd'hui souvent comparé à Don Quichotte, les milieux littéraires ont pourtant rejeté cette œuvre dans un premier temps, rebutés par le personnage de Chvéïk, jugé terne et simpliste. Extrait : Ce qui nous arrive à nous tous est évidemment plutôt grave, ainsi entreprit-il de les consoler. Vous vous trompez tous si vous croyez en sortir. La police veille, elle est là, justement, pour nous punir à cause de ce qui sort de nos gueules. Si les temps sont tellement graves qu'on est obligé de tuer les archiducs, personne ne peut s'étonner d'être conduit au poste. Tout ça est nécessaire, il faut du chambard, et il en faut pour faire de la réclame à l'archiduc avant son enterrement. Et tant mieux, si on est en nombre. Plus on sera nombreux, plus on rigolera, c'est moi qui vous le dis. Quand je faisais mon service militaire, il arrivait souvent que la moitié de ma compagnie passait son temps à la boîte. Et combien d'innocents payaient pour les autres ! Je ne vous parle pas seulement du militaire, je vous parle aussi du civil.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1537-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1537-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">hasek_jaroslav_-_le_brave_soldat_chveik</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Tchéquie</dc:subject>
+        <meta content="{&quot;Jaroslav Hasek&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:44.836894+00:00" name="calibre:timestamp"/>
+        <meta content="brave soldat Chvéïk, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

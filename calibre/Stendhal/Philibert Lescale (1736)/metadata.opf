@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1736</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">83574741-f100-41ee-8b8b-2c2f291c1c98</dc:identifier>
+        <dc:title>Philibert Lescale</dc:title>
+        <dc:creator opf:file-as="Stendhal" opf:role="aut">Stendhal</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1927-12-14T23:00:00+00:00</dc:date>
+        <dc:description>Son père lui avait dit : « Fais ce que tu voudras, peu m'importe : je serai mort quand tu feras des sottises. Tu as deux frères, je laisserai ma fortune au moins bête des trois, et aux deux autres cent louis de rente. » Philibert avait remporté tous les prix au collège ; le fait est qu'en sortant il ne savait rien. Depuis il a été trois ans hussard et a fait deux voyages en Amérique. A l'époque du dernier, il se prétendait amoureux d'une seconde chanteuse qui me semble une coquine fieffée, très propre à porter son amant à faire des dettes, puis des faux, et plus tard même quelque joli petit crime conduisant droit en cour d'assises ; ce que je dis au père.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1155-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1155-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">stendhal_-_philibert_lescale</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Stendhal&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:41.828064+00:00" name="calibre:timestamp"/>
+        <meta content="Philibert Lescale" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

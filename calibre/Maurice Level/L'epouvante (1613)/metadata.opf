@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1613</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0326d104-bb7a-49bd-a129-3107fc48ae6c</dc:identifier>
+        <dc:title>L'épouvante</dc:title>
+        <dc:creator opf:file-as="Level, Maurice" opf:role="aut">Maurice Level</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1906-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Un jeune journaliste parisien découvre, par hasard, trois assasins après leur forfait et, par déduction, le lieu du crime. A la vue de la victime et de son environnement, il décide de falsifier les preuves laissées par les meurtriers et d'en créer de nouvelles qui lui permettraient de réaliser un scoop... Mal lui en prend car il va vivre... l'Épouvante ! Après avoir fait des études de médecine, il fut journaliste au Figaro, à la Vie parisienne et au Matin. Écrivain, il s'était spécialisé, bien qu'il ait abordé à peu près tous les genres littéraires et notamment le fantastique, dans la littérature d'épouvante. Il a donné des romans (les plus connus sont Lady Harrington, L'Epouvante, La Cité des voleurs) et de très nombreux contes et nouvelles. Extrait : Dans la suite, il se souvint qu'en cette seconde, qui devait être décisive dans sa vie, ses sens avaient pris une acuité étrange : Ses yeux fouillaient la nuit, y découvrant mille détails. Son oreille distinguait les moindres froissements. Bien qu'il fût brave, et même téméraire, il mit la main sur son revolver, et éprouva, à en caresser la crosse, une sécurité joyeuse. Mille pensées confuses traversèrent son cerveau. Il aperçut nettement des choses qui, depuis des années, dormaient en lui. Pendant quelques secondes, il comprit l'angoisse de l'homme en péril qui revit, entre deux battements de son cœur toute sa vie, il connut l'avertissement redoutable et précis du danger présent, immédiat, et cet effort désespéré de la machine humaine dont les muscles, les sens et la raison, atteignent pour la défense de l'être, le maximum de leur perfection.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0897-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0897-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">level_maurice_-_l_epouvante</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Maurice Level&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:17.053961+00:00" name="calibre:timestamp"/>
+        <meta content="épouvante, L'" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

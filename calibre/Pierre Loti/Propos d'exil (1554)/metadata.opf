@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1554</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e3a260d4-a7e0-443e-958d-4fa2c3988de9</dc:identifier>
+        <dc:title>Propos d’exil</dc:title>
+        <dc:creator opf:file-as="Loti, Pierre" opf:role="aut">Pierre Loti</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Des dames jaunes, d’une grande laideur, en sortent et s’avancent, les pieds jusque dans l’eau, pour mieux nous regarder passer. Elles sont en toilette du matin. Elles tordent de superbes chevelures noires, rudes comme des queues de cheval, et affectent de les nouer devant nous en chignons négligés. Elles mâchent des feuilles de bétel et de la noix d’arek ; elles nous montrent, par de petits bâillements étudiés, des râteliers de longues dents saillantes, d’un noir d’ébène (une couleur qui est de mode en Annam pour la denture des personnes coquettes et s’obtient par l’application artificielle d’une couche de laque).</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1109-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1109-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">loti_pierre_-_propos_d_exil</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Pierre Loti&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:04.956524+00:00" name="calibre:timestamp"/>
+        <meta content="Propos d’exil" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1689</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8486c9cf-06ed-449f-8253-384ae9134c4d</dc:identifier>
+        <dc:title>J'accuse !</dc:title>
+        <dc:creator opf:file-as="Zola, Émile" opf:role="aut">Émile Zola</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1898-12-14T23:00:00+00:00</dc:date>
+        <dc:description>J'accuse…! est le titre d'un article rédigé par Émile Zola lors de l'affaire Dreyfus et publié dans le journal L'Aurore du 13 janvier 1898 sous forme d'une lettre ouverte au Président de la République Félix Faure. Zola s'est appuyé en partie sur un dossier écrit en 1896 par l'écrivain Bernard Lazare. J'accuse…! paraît deux jours après l'acquittement d'Esterhazy par le conseil de guerre (11 janvier), qui semble ruiner tous les espoirs nourris par les partisans d'une révision du procès condamnant Dreyfus. Zola y attaque nommément les généraux, les officiers responsables de l'erreur judiciaire ayant entraîné le procès et la condamnation, les experts en écritures coupables de « rapports mensongers et frauduleux. » Extrait : Un homme néfaste a tout mené, a tout fait, c'est le lieutenant-colonel du Paty de Clam, alors simple commandant. Il est l'affaire Dreyfus tout entière ; on ne la connaîtra que lorsqu'une enquête loyale aura établi nettement ses actes et ses responsabilités. Il apparaît comme l'esprit le plus fumeux, le plus compliqué, hanté d'intrigues romanesques, se complaisant aux moyens des romans-feuilletons, les papiers volés, les lettres anonymes, les rendez-vous dans les endroits déserts, les femmes mystérieuses qui colportent, de nuit, des preuves accablantes. C'est lui qui imagina de dicter le bordereau à Dreyfus ; c'est lui qui rêva de l'étudier dans une pièce entièrement revêtue de glaces ; c'est lui que le commandant Forzinetti nous représente armé d'une lanterne sourde, voulant se faire introduire près de l'accusé endormi, pour projeter sur son visage un brusque flot de lumière et surprendre ainsi son crime, dans l'émoi du réveil.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0237-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0237-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">zola_emile_-_j_accuse</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>non-fiction</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Émile Zola&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:32.309504+00:00" name="calibre:timestamp"/>
+        <meta content="J'accuse !" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

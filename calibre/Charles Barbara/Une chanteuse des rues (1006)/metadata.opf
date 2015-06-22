@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1006</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6969319c-8b7a-4088-9d32-7d8ebd5c4e0a</dc:identifier>
+        <dc:title>Une chanteuse des rues</dc:title>
+        <dc:creator opf:file-as="Barbara, Charles" opf:role="aut">Charles Barbara</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1857-03-05T23:00:00+00:00</dc:date>
+        <dc:description>extrait : Elle pouvait avoir quinze ans ; si elle était laide ou jolie, je ne l'avais pas encore remarqué. La vie de collège avait déjà singulièrement entamé mon bon naturel ; un petit monstre d'orgueil gonflait mon habit de collégien. Je savais parfaitement mesurer la distance qui me séparait de la jeune fille, et je commençais à trouver ses tutoiements à mon endroit d'une intolérable impertinence. Je m'appliquai à le lui faire sentir. Je m'efforçai de me donner en sa présence un air froid et hautain ...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1193-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1193-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">barbara_charles_-_une_chanteuse_des_rues</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Charles Barbara&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:12.981438+00:00" name="calibre:timestamp"/>
+        <meta content="chanteuse des rues, Une" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

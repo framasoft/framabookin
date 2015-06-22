@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">78c6ad74-aa67-41e8-9a06-d2e66dd52063</dc:identifier>
+        <dc:title>Le cycle des NoéNautes, I. #Smartarded</dc:title>
+        <dc:creator opf:file-as="Pouhiou" opf:role="aut">Pouhiou</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-09-30T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Bonjour,&lt;/p&gt;
+&lt;p&gt;Enguerrand, connard professionnel au chômage, NoéNaute à mes heures perdues, je suis en cavale. Je trace la route dans une 205 pourrie conduite par Fulbert. Je serre les fesses à la place du mort pour fuir des gens qui aimeraient bien que je le devienne. #pasquestion. #noway. Pas moyen que je me présente comme ça. #snif ma mère est morte. #snif mon papa préfère son jeune associé à moi. #snif j’ai un super pouvoir qui sent grave la malédiction. #snif j’ai des hémorroïdes. #fuckyou.&lt;/p&gt;
+&lt;p&gt;(Enguerrand Kunismos, narrateur du roman)&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Framasoft</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781291050851</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Framabook</dc:subject>
+        <dc:subject>roman</dc:subject>
+        <dc:subject>noénautes</dc:subject>
+        <dc:subject>cycle</dc:subject>
+        <meta content="{&quot;Pouhiou&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-05-26T16:23:20.329522+00:00" name="calibre:timestamp"/>
+        <meta content="cycle des NoéNautes, I. #Smartarded, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1392</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">54f061b2-613e-468e-89ca-42dd2b0fa31d</dc:identifier>
+        <dc:title>Mémoires</dc:title>
+        <dc:creator opf:file-as="Gaspé, Philippe Aubert de" opf:role="aut">Philippe Aubert de Gaspé</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1866-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Les Mémoires sont une compilation d'un ensemble de souvenirs de jeunesse de l'auteur. Philippe Aubert de Gaspé est âge soixante dix-neuf ans au moment de la rédaction des Mémoires. Les anecdotes datent pour l'essentiel des années 1780 aux années 1820 et se déroulent dans la ville de Québec ainsi qu'à Saint-Jean-Port-Joli, où se situe le manoir de la seigneurie familiale. Les Mémoires constituent un document historique de premier plan pour comprendre la société québécoise d'après la Conquête et des débuts du régime anglais.Extrait : l y avait jadis une femme nommée Fanchette : c'était une gaupe, sans ordre s'il en fût, qui laissait tout traîner dans son ménage. Aux reproches qu'on lui faisait, elle répondait constamment : « J'ai oublié de le mettre dans le coin ; mettez-le dans le coin. » Le pauvre coin n'en pouvait plus, encombré qu'il était de ce qu'elle y avait accumulé depuis vingt ans. Si un de ses marmots se cassait le nez et poussait des cris pitoyables en le tenant à deux mains, Fanchette prenait l'enfant dans ses bras et lui disait pour le consoler : Ne pleure pas, mon amour, j'ai oublié de mettre cette satanée bûche, qui t'a fait tomber, dans le coin. Sa fille aînée, sortant un jour de sa chambre, en toilette de bal et les cheveux poudrés à blanc, s'accroche les pieds sur un baquet, tombe la tête dans un seau rempli d'eau sale, qu'elle renverse sur elle, et se retire passée à l'empois depuis la tête jusqu'aux pieds en pleurant comme une Madeleine. Sa mère laisse sur le foyer une poêle pleine de graisse bouillante ; court à sa fille et lui dit : Ce n'est rien, ma chère miche : j'ai oublié de mettre ce chien de baquet et ce diable de seau dans le coin.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1479-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1479-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">gaspe_philippe_aubert_de_-_memoires</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Philippe Aubert de Gaspé&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:31.978637+00:00" name="calibre:timestamp"/>
+        <meta content="Mémoires" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

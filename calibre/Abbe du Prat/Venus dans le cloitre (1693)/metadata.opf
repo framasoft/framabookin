@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1693</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7ccce50f-a0a1-4235-bda7-fb915c78130b</dc:identifier>
+        <dc:title>Vénus dans le cloître</dc:title>
+        <dc:creator opf:file-as="Prat, Abbé du" opf:role="aut">Abbé du Prat</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Comme il me serait difficile de ne pas exécuter ce que vous me témoignez désirer, je n'ai aucunement délibéré sur la prière que vous m'avez faite, de réduire au plus tôt par écrit les doux entretiens où votre communauté a eu si bonne part. Je m'engageai trop solennellement à cette galante entreprise, pour vouloir m'en défendre à présent, et pour m'excuser de ce travail sur la difficulté qu'il y a de rendre à la voix et aux actions le beau feu dont elles ont été animées. Je ne sais si j'aurai bien rempli mes devoirs et vos espérances ; l'exercice de deux ou trois matinées vous en découvrira la vérité, et vous fera connaître que si je n'ai pas beaucoup d'éloquence, j'ai pour le moins assez de mémoire pour rapporter avec fidélité la plus grande partie des choses passées. Je me suis tellement proposé votre satisfaction dans cet ouvrage, que j'ai passé indifféremment sur toutes les raisons qui semblaient devoir m'en éloigner ; la crainte seule qu'il ne tombât en d'autres mains que les vôtres m'a fait un peu différer de vous l'envoyer, et j'en serais moi-même le porteur, si mes affaires présentes me le permettaient, plutôt que de confier au hasard de la poste, ou d'un messager, un paquet de cette conséquence.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1241-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1241-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">prat_abbe_du_-_venus_dans_le_cloitre</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Abbé du Prat&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:33.118349+00:00" name="calibre:timestamp"/>
+        <meta content="Vénus dans le cloître" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1676</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3058bd2b-68ff-44a6-89c2-25c04c052b6d</dc:identifier>
+        <dc:title>La joie de vivre</dc:title>
+        <dc:creator opf:file-as="Zola, Émile" opf:role="aut">Émile Zola</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1884-12-14T23:00:00+00:00</dc:date>
+        <dc:description>La Joie de Vivre est le douzième volume de la série Les Rougon-Macquart. Ce roman oppose le personnage de Pauline qui aime la vie même si celle-ci ne lui apporte guère de satisfactions, à celui de Lazare, être velléitaire et indécis, rongé par la peur de la mort. Il est possible que Zola ait mis une bonne partie de lui-même dans ces deux personnages : très affecté par la mort de sa mère et par celle de Gustave Flaubert, il traverse une crise de doute au moment où il écrit le roman, et les obsessions de Lazare sont un peu les siennes (la vie est inutile, puisque la mort emporte tout) ; mais la confiance reprend le dessus en lui, l’énergie qu’il prête à Pauline étant peut-être une façon d’exorciser ses propres peurs. Extrait : Sans s'effrayer des plaisanteries de son cousin, elle cherchait la mer, elle était tourmentée du désir de savoir jusqu'où cette eau allait monter ; et elle n'entendait que la clameur grandir, une voix haute, monstrueuse, dont la menace continue s'enflait à chaque minute, au milieu des hurlements du vent et du cinglement des averses. Plus une lueur, pas même une pâleur d'écume, sur le chaos des ombres ; rien que le galop des vagues, fouetté par la tempête, au fond de ce néant.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0244-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0244-5</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0236-0</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">zola_emile_-_la_joie_de_vivre</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Émile Zola&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:29.662551+00:00" name="calibre:timestamp"/>
+        <meta content="joie de vivre, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1804</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">02ecc7d9-c968-45d4-9a0c-05e4030636b6</dc:identifier>
+        <dc:title>Béatrix</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études de moeurs. Premier livre, Scènes de la vie privée - Tome III et IV. Troisième et quatrième volume de l'édition Furne 1842. Extrait : Le vieux Vendéen, le vieux Chouan avait eu quelques années auparavant comme un retour de jeunesse pour habituer ce fils aux exercices violents qui conviennent à un gentilhomme appelé d’un moment à l’autre à guerroyer. Dès que Calyste eut seize ans, son père l’avait accompagné dans les marais et dans les bois, lui montrant dans les plaisirs de la chasse les rudiments de la guerre, prêchant d’exemple, dur à la fatigue, inébranlable sur sa selle, sûr de son coup, quel que fût le gibier, à courre, au vol, intrépide à franchir les obstacles, conviant son fils au danger comme s’il avait eu dix enfants à risquer. Aussi, quand la duchesse de Berry vint en France pour conquérir le royaume, le père emmena-t-il son fils afin de lui faire pratiquer la devise de ses armes. Le baron partit pendant une nuit, sans prévenir sa femme qui l’eût peut-être attendri, menant son unique enfant au feu comme à une fête, et suivi de Gasselin, son seul vassal, qui détala joyeusement. Les trois hommes de la famille furent absents pendant six mois, sans donner de leurs nouvelles à la baronne, qui ne lisait jamais la *Quotidienne* sans trembler de ligne en ligne ; ni à sa vieille belle-sœur, héroïquement droite, et dont le front ne sourcillait pas en écoutant le journal. Les trois fusils accrochés dans la grande salle avaient donc récemment servi.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0966-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0966-6</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0991-8</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_beatrix</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:55.692924+00:00" name="calibre:timestamp"/>
+        <meta content="Béatrix" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

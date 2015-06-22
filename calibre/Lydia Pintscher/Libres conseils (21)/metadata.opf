@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ff8aa7d4-3d18-486d-9829-3565386d5b2b</dc:identifier>
+        <dc:title>Libres conseils</dc:title>
+        <dc:creator opf:file-as="Pintscher, Lydia &amp; al." opf:role="aut">Lydia Pintscher</dc:creator>
+        <dc:creator opf:file-as="Pintscher, Lydia &amp; al." opf:role="aut">al.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-10-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Les projets de logiciels libres bousculent le monde du logiciel parce qu'ils sont menés de façon originale, par des utilisateurs convaincus et impliqués. Chacun apporte quelque chose au mouvement à sa manière, selon ses aptitudes et ses connaissances. Cet engagement personnel et la puissance de la collaboration sur Internet donnent sa force particulière au logiciel libre.&lt;/p&gt;&lt;p&gt;
+&lt;/p&gt; Ce livre apporte 42 réponses à la question : &lt;p&gt;
+&lt;/p&gt;« Qu'auriez-vous aimé savoir quand vous avez commencé à contribuer ? »&lt;p&gt;
+&lt;/p&gt;Les 42 auteurs font part de leur expérience et décrivent les nombreux talents différents qui doivent se combiner comme les briques de construction du projet : l'art du code bien sûr, mais aussi le design, les compétences de documentation et de traduction, le marketing et bien d'autres domaines…&lt;p&gt;
+&lt;/p&gt;  Si vous êtes débutant, cet ouvrage vous donnera une longueur d'avance. Et si vous avez contribué depuis un certain temps déjà, il vous donnera un aperçu précieux d'autres domaines et projets.&lt;p&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Framasoft</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781092674040</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Framabook</dc:subject>
+        <dc:subject>témoignages</dc:subject>
+        <dc:subject>développement</dc:subject>
+        <dc:subject>logiciel libre</dc:subject>
+        <meta content="{&quot;al.&quot;: &quot;&quot;, &quot;Lydia Pintscher&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-05-26T16:50:51+00:00" name="calibre:timestamp"/>
+        <meta content="Libres conseils" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

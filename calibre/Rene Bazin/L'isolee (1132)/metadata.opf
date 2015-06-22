@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1132</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4910b600-8c7b-4818-ab09-1c71d2507de9</dc:identifier>
+        <dc:title>L'isolée</dc:title>
+        <dc:creator opf:file-as="Bazin, René" opf:role="aut">René Bazin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Les religieuses d'une école primaire à Lyon sont dispersées par la brutale application des lois laîques (1902-1905) et leur sécularisation rendue inévitable. L'une d'elles s'abandonnera jusqu'à la prostitution. Ce roman mêle la matière spirituelle et la fragilité humaine. D'un grand réalisme spirituel. Extrait : Ses quatre compagnes l'entouraient, et le sourire du revoir était encore sur leurs lèvres. Il fallait un instant pour que la nouvelle s'enfonçât jusqu'au cœur. Mais elle toucha partout le fond même de ces âmes, plus capables de souffrir que d'autres, parce qu'elles avaient plus d'amour. Il n'y eut pas de cris, mais des frémissements, des mots murmurés, appels à Dieu qui était leur force et leur refuge, des fronts qui se penchèrent, des mains qui se rapprochèrent, des paupières qui se fermèrent sur la première larme et tâchèrent de la retenir.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0482-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0482-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">bazin_rene_-_l_isolee</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;René Bazin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:38.788950+00:00" name="calibre:timestamp"/>
+        <meta content="isolée, L'" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

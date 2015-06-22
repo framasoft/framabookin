@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1645</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">96f40e9f-2114-43de-857e-aba06df395ad</dc:identifier>
+        <dc:title>Le coeur cambriolé</dc:title>
+        <dc:creator opf:file-as="Leroux, Gaston" opf:role="aut">Gaston Leroux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1920-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Un homme a réussi à "cambrioler" le cœur d'une femme, jeune mariée, qui du coup passe des moments intimes avec son amant "virtuel" par le biais d'une hypnose maitrisée par l'amant. Extrait : Je n’eus pas plus tôt prononcé ces derniers mots que Mathilde montra une agitation extrême. « Non ! Non ! Il ne faut pas aller à Hennequeville ! Monsieur ne serait pas content ! C’est une idée qu’il a comme ça ! » C’était une Rouennaise, du quartier de Darne’tal. C’est têtu et madré. Je compris que je n’en tirerais rien. Mais je résolus d’aller à Hennequeville. J’y fus dès le lendemain. J’y arrivai vers six heures du soir. Mon Dieu ! que cette campagne me plaisait et que ce domaine avait d’agrément ! Ah ! certes ! avec la verdure lustrée de ses plantureux herbages, l’encadrement odoriférant de ses haies en fleurs, Hennequeville n’avait rien de fantomatique… et, cependant, quand j’aperçus tout à coup, au détour du chemin, la maison fermée, mon cœur se remplit d’angoisse. Jamais la belle demeure ne m’avait accueilli avec un pareil visage de bois. Quelle étrange impression je reçus de ses persiennes closes et de ses portes verrouillées !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0268-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0268-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leroux_gaston_-_le_coeur_cambriole</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>nouvelle</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gaston Leroux&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:23.426087+00:00" name="calibre:timestamp"/>
+        <meta content="coeur cambriolé, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

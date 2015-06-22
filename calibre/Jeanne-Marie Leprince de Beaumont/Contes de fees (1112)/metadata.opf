@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1112</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">47f08e3b-a2b6-43f0-9508-707fb302f605</dc:identifier>
+        <dc:title>Contes de fées</dc:title>
+        <dc:creator opf:file-as="Beaumont, Jeanne-Marie Leprince de" opf:role="aut">Jeanne-Marie Leprince de Beaumont</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Il y avait une fois un marchand qui était extrêmement riche. Il avait six enfants, trois garçons et trois filles, et comme ce marchand était un homme d'esprit, il n'épargna rien pour l'éducation de ses enfants, et leur donna toutes sortes de maîtres. Ses filles étaient très belles ; mais la cadette surtout se faisait admirer, et on ne l'appelait, quand elle était petite, que la Belle Enfant ; en sorte que le nom lui en resta : ce qui donna beaucoup de jalousie à ses sœurs. Cette cadette, qui était plus belle que ses sœurs, était aussi meilleure qu'elles. Les deux aînées avaient beaucoup d'orgueil, parce qu'elles étaient riches ; elles faisaient les dames, et ne voulaient pas recevoir les visites des autres filles de marchands ; il leur fallait des gens de qualité pour leur compagnie. Elles allaient tous les jours au bal, à la comédie, à la promenade, et se moquaient de leur cadette, qui employait la plus grande partie de son temps à lire de bons livres.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1256-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1256-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">beaumont_jeanne-marie_leprince_de_-_contes_de_fees</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture aisée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Jeanne-Marie Leprince de Beaumont&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:34.497809+00:00" name="calibre:timestamp"/>
+        <meta content="Contes de fées" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

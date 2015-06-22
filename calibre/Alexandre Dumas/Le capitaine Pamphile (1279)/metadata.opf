@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1279</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b00a86c0-53e7-4901-974f-29cd949a8ce3</dc:identifier>
+        <dc:title>Le capitaine Pamphile</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Deux histoires parallèles: celle de l'auteur et de ses amis artistes (vie de bohème où les animaux occupent une part importante en tant que membres à part entière de la collectivité) et celle du Capitaine Pamphile (où tout est lié à l'argent, au profit, sans aucun sens moral et où les animaux occupent une place importante en tant que source de profit) Extrait : Notre chasseur se précipita sur le malheureux chien avec les imprécations les plus terribles, le saisit à la gorge et la lui serra avec tant de force, qu'il le força d'ouvrir la gueule, quelque envie qu'il eût de n'en rien faire. Le chasseur y plongea frénétiquement la main jusqu'au gosier, et en tira trois plumes de la queue de l'alouette. Quant au corps, il n'y fallait plus penser. Le propriétaire de l'alouette chercha dans sa poche un couteau pour éventrer Love, et rentrer par ce moyen en possession de son gibier ; mais, malheureusement pour lui, et heureusement pour Love, il avait prêté le sien, la veille au soir, à sa femme pour tailler d'avance les brochettes qui devaient enfiler ses perdrix, et sa femme avait oublié de le lui rendre. Forcé, en conséquence, de recourir à des moyens de punition moins violents, il donna à Love un coup de pied à enfoncer une porte cochère, mit soigneusement dans sa carnassière les trois plumes qu'il avait sauvées...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0036-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0036-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_le_capitaine_pamphile</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:08.933541+00:00" name="calibre:timestamp"/>
+        <meta content="capitaine Pamphile, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

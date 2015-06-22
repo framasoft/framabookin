@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1792</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">15da0aec-2c73-48cc-8557-a3a6c4bafa08</dc:identifier>
+        <dc:title>Facino Cane</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études de moeurs. Troisième livre, Scènes de la vie parisienne - Tome II. Dixième volume de l'édition Furne 1842. Extrait : Lorsque, entre onze heures et minuit, je rencontrais un ouvrier et sa femme revenant ensemble de l’Ambigu-Comique, je m’amusais à les suivre depuis le boulevard du Pont-aux-Choux jusqu’au boulevard Beaumarchais. Ces braves gens parlaient d’abord de la pièce qu’ils avaient vue ; de fil en aiguille, ils arrivaient à leurs affaires ; la mère tirait son enfant par la main, sans écouter ni ses plaintes ni ses demandes ; les deux époux comptaient l’argent qui leur serait payé le lendemain, ils le dépensaient de vingt manières différentes. C’était alors des détails de ménage, des doléances sur le prix excessif des pommes de terre, ou sur la longueur de l’hiver et le renchérissement des mottes, des représentations énergiques sur ce qui était dû au boulanger ; enfin des discussions qui s’envenimaient, et où chacun d’eux déployait son caractère en mots pittoresques. En entendant ces gens, je pouvais épouser leur vie, je me sentais leurs guenilles sur le dos, je marchais les pieds dans leurs souliers percés ; leurs désirs, leurs besoins, tout passait dans mon âme, ou mon âme passait dans la leur. C’était le rêve d’un homme éveillé. Je m’échauffais avec eux contre les chefs d’atelier qui les tyrannisaient, ou contre les mauvaises pratiques qui les faisaient revenir plusieurs fois sans les payer. Quitter ses habitudes, devenir un autre que soi par l’ivresse des facultés morales, et jouer ce jeu à volonté, telle était ma distraction. A quoi dois-je ce don ? Est-ce une seconde vue ? est-ce une de ces qualités dont l’abus mènerait à la folie ? Je n’ai jamais recherché les causes de cette puissance ; je la possède et m’en sers, voilà tout. Sachez seulement que, dès ce temps, j’avais décomposé les éléments de cette masse hétérogène nommée le peuple, que je l’avais analysée de manière à pouvoir évaluer ses qualités bonnes ou mauvaises. Je savais déjà de quelle utilité pourrait être ce faubourg, ce séminaire de révolutions qui renferme des héros, des inventeurs, des savants pratiques, des coquins, des scélérats, des vertus et des vices, tous comprimés par la misère, étouffés par la nécessité, noyés dans le vin, usés par les liqueurs fortes. Vous ne sauriez imaginer combien d’aventures perdues, combien de drames oubliés dans cette ville de douleur ! Combien d’horribles et belles choses ! L’imagination n’atteindra jamais au vrai qui s’y cache et que personne ne peut aller découvrir ; il faut descendre trop bas pour trouver ces admirables scènes ou tragiques ou comiques, chefs-d’œuvre enfantés par le hasard. Je ne sais comment j’ai si long-temps gardé sans la dire l’histoire que je vais vous raconter, elle fait partie de ces récits curieux restés dans le sac d’où la mémoire les tire capricieusement comme des numéros de loterie : j’en ai bien d’autres, aussi singuliers que celui-ci, également enfouis ; mais ils auront leur tour, croyez-le.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0973-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0973-4</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0988-8</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_facino_cane</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:53.289392+00:00" name="calibre:timestamp"/>
+        <meta content="Facino Cane" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

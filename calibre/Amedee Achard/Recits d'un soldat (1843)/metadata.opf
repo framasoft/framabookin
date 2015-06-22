@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1843</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4fb381a7-b766-4cb1-9d00-0cedd533705d</dc:identifier>
+        <dc:title>Récits d'un soldat</dc:title>
+        <dc:creator opf:file-as="Achard, Amédée" opf:role="aut">Amédée Achard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Les pages qu'on va lire sont extraites d'un cahier de notes écrites par un engagé volontaire. Il n'y faut point chercher de graves études sur les causes qui ont amené les désastres sous lesquels notre pays a failli succomber, ni de longues dissertations sur les fautes commises. Non~; c'est ici le récit d'un soldat qui raconte simplement ce qu'il a vu, ce qu'il a fait, ce qu'il a senti, au milieu de ces armées s'écroulant dans un abîme. À ce point de vue, ces souvenirs, qui ont au moins le mérite de la sincérité, ont leur intérêt~; c'est un nouveau chapitre de l'histoire de cette funeste guerre de 1870 que nous offrons à nos lecteurs.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1200-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1200-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">achard_amedee_-_recits_d_un_soldat</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Amédée Achard&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:19:03.345356+00:00" name="calibre:timestamp"/>
+        <meta content="Récits d'un soldat" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1800</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">321344bf-cc86-4ef2-9773-23efae6fa3ab</dc:identifier>
+        <dc:title>Les trappeurs de l'Arkansas</dc:title>
+        <dc:creator opf:file-as="Aimard, Gustave" opf:role="aut">Gustave Aimard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Aimard est le spécialiste français des romans du grand ouest Américain et ce livre est son premier qui se passe dans l'ouest américain. On y trouve les grands thèmes propres au genre : le rejet d'un fils par son père, le châtiment, l'expiation, la rédemption. Mais aussi la fierté des hommes affrontant leur destin, les pirates (des plaines), les indiens (et le bon sauvage), la camaraderie exaltée, les grands sentiments et les petits massacres, l'amour, TOUT... Coeur-Loyal, est un adolescent de 16 ans qui tue un vaquero. Chassé par son père, grand propriétaire terrien, il se transforme en courageux trappeur et se trouve mêlé à de nombreuses aventures. Se liant d'amitié, après une farouche haine, avec un indien comanche, Tête-d'Aigle, il combat ensuite une bande de pirates des prairies et finit par trouver l'amour... Extrait : Hélas ! que sont devenues aujourd'hui ces glorieuses conquêtes enviées par l'Europe entière, où le sang des bourreaux s'est confondu avec le sang des victimes au profit de cette autre nation si fière alors de ses vaillants capitaines, de son territoire fertile et de son commerce qui embrassait le monde entier ; le temps a marché et l'Amérique méridionale expie à l'heure qu'il est les crimes qu'elle a fait commettre. Déchirée par des factions qui se disputent un pouvoir éphémère, opprimée par des oligarchies ruineuses, désertée par les étrangers qui se sont engraissés de sa substance, elle s'affaisse lentement sous le poids de son inertie sans avoir la force de soulever le linceul de plomb qui l'étouffe, pour ne se réveiller qu'au jour où une race nouvelle, pure d'homicide et se gouvernant d'après les lois de Dieu, lui apportera le travail et la liberté qui sont la vie des peuples.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0406-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0406-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">aimard_gustave_-_les_trappeurs_de_l_arkansas</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture aisée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gustave Aimard&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:54.892950+00:00" name="calibre:timestamp"/>
+        <meta content="trappeurs de l'Arkansas, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

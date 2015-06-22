@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1597</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">78b63682-4bc7-42eb-a7ba-364097c02b3c</dc:identifier>
+        <dc:title>Le bouchon de cristal</dc:title>
+        <dc:creator opf:file-as="Leblanc, Maurice" opf:role="aut">Maurice Leblanc</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1912-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Ce roman parut en feuilleton dans Le Journal, de septembre à novembre 1912. Le volume sortira en librairie dans la foulée. Maurice Leblanc s'est inspiré dans ce roman du célèbre scandale de Panamá (1892-1893). Il emprunte par ailleurs à la nouvelle La Lettre volée d'Edgar Allan Poe l'idée consistant à mettre très en évidence l'objet que l'on veut cacher. Au cours d'un cambriolage chez le député Daubrecq, un crime est commis et deux complices d'Arsène Lupin sont arrêtés par la police. L'un est coupable du crime, l'autre innocent mais les deux seront condamnés à mort. Lupin va s'employer à délivrer la victime de l'erreur judiciaire. Extrait : Vaucheray donna son nom. Gilbert refusa de donner le sien, sous prétexte qu'il ne parlerait qu'en présence d'un avocat. Mais comme on l'accusait du crime il dénonça Vaucheray, lequel se défendit en l'attaquant, et tous deux péroraient à la fois, avec le désir évident d'accaparer l'attention du commissaire. Lorsque celui-ci se retourna vers Lupin pour invoquer son témoignage, il constata que l'inconnu n'était plus là.  Sans aucune défiance, il dit à l'un des agents : - Prévenez donc ce monsieur que je désire lui poser quelques questions. On chercha le monsieur. Quelqu'un l'avait vu sur le perron allumant une cigarette. On sut alors qu'il avait offert des cigarettes à un groupe de soldats, et qu'il s'était éloigné vers le lac, en disant qu'on l'appelât en cas de besoin. On l'appela, personne ne répondit.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1608-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1608-4</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1594-0</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leblanc_maurice_-_le_bouchon_de_cristal</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <meta content="{&quot;Maurice Leblanc&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:13.770017+00:00" name="calibre:timestamp"/>
+        <meta content="bouchon de cristal, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

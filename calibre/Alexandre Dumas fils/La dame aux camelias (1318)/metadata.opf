@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1318</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9dbad8e4-7c25-4990-a879-2798d135fd83</dc:identifier>
+        <dc:title>La dame aux camélias</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre (fils)" opf:role="aut">Alexandre Dumas fils</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Dame aux camélias raconte l’amour d'un jeune bourgeois, Armand Duval, pour une courtisane, Marguerite Gautier, atteinte de tuberculose. Extrait : J'avais remarqué que, depuis sa dernière visite au cimetière, depuis le spectacle qui avait déterminé en lui cette crise violente, la mesure de la douleur morale semblait avoir été comblée par la maladie, et que la mort de Marguerite ne lui apparaissait plus sous l'aspect du passé. Une sorte de consolation était résultée de la certitude acquise, et pour chasser l'image sombre qui se représentait souvent à lui, il s'enfonçait dans les souvenirs heureux de sa liaison avec Marguerite, et ne semblait plus vouloir accepter que ceux-là. Le corps était trop épuisé par l'atteinte et même par la guérison de la fièvre pour permettre à l'esprit une émotion violente, et la joie printanière et universelle dont Armand était entouré reportait malgré lui sa pensée aux images riantes. Il s'était toujours obstinément refusé à informer sa famille du danger qu'il courait, et, lorsqu'il avait été sauvé, son père ignorait encore sa maladie.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0007-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0007-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_la_dame_aux_camelias</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas fils&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:16.753383+00:00" name="calibre:timestamp"/>
+        <meta content="dame aux camélias, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

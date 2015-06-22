@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1559</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8f082407-b392-4d14-b7df-a4ff4c06db8c</dc:identifier>
+        <dc:title>Pêcheur d’Islande</dc:title>
+        <dc:creator opf:file-as="Loti, Pierre" opf:role="aut">Pierre Loti</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Le roman est celui de la passion d'une jeune bretonne issue d'un milieu aisé, Gaud Mével, pour un marin-pêcheur de Pors-Even, Yann Gaos, de condition plus modeste, qui part régulièrement pour de longues campagnes de pêche en Islande. Exilée à Paris avec son père, ancien pêcheur enrichi, Gaud revient dans son pays natal de Paimpol et tombe amoureuse de Yann au cours d'une noce. Mais celui-ci doit repartir, comme chaque année en Islande de février à fin août. Pêcheur d'Islande est un roman français de Pierre Loti paru en 1886 et qui fut le plus grand succès de son auteur. Extrait : C’était à Nantes, avec une chanteuse. Un soir, revenant de la mer, il était entré un peu gris dans un Alcazar. Il y avait à la porte une femme qui vendait des bouquets énormes au prix d’un louis de vingt francs. Il en avait acheté un, sans trop savoir qu’en faire, et puis tout de suite en arrivant, il l’avait lancé à tour de bras, en plein par la figure, à celle qui chantait sur la scène, — moitié déclaration brusque, moitié ironie pour cette poupée peinte qu’il trouvait par trop rose. La femme était tombée du coup ; après, elle l’avait adoré pendant près de trois semaines.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1108-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1108-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">loti_pierre_-_pecheur_d_islande</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture intermédiaire</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Pierre Loti&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:05.920070+00:00" name="calibre:timestamp"/>
+        <meta content="Pêcheur d’Islande" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

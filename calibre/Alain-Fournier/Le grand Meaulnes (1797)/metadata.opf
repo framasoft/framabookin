@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1797</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e5621c91-63db-4df0-b7c7-8bf664ae220e</dc:identifier>
+        <dc:title>Le grand Meaulnes</dc:title>
+        <dc:creator opf:file-as="Alain-Fournier" opf:role="aut">Alain-Fournier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>À la fin du XIXe siècle, par un froid dimanche de novembre, un garçon de quinze ans, François Seurel, qui habite auprès de ses parents instituteurs une longue maison rouge - l'école du village -, attend la venue d'Augustin que sa mère a décidé de mettre ici en pension pour qu'il suive le cours supérieur : l'arrivée du grand Meaulnes à Sainte-Agathe va bouleverser l'enfance finissante de François... Extrait : Découragé, presque à bout de forces, il résolut, dans son désespoir, de suivre ce sentier jusqu'au bout. À cent pas de là, il débouchait dans une grande prairie grise, où l'on distinguait de loin en loin des ombres qui devaient être des genévriers, et une bâtisse obscure dans un repli de terrain. Meaulnes s'en approcha. Ce n'était là qu'une sorte de grand parc à bétail ou de bergerie abandonnée. La porte céda avec un gémissement.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0024-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0024-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">alain-fournier_-_le_grand_meaulnes</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture avancée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alain-Fournier&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:54.295414+00:00" name="calibre:timestamp"/>
+        <meta content="grand Meaulnes, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

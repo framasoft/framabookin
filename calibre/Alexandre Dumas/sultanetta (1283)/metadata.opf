@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1283</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d53207a8-c5ce-42ac-b68c-db0fcec7e05b</dc:identifier>
+        <dc:title>sultanetta</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>En ce mois de mai 1819, le khan Ackmet sillonne le Caucase pour inciter ses habitants à la révolte contre les Russes. Venu chez Ammalat-beg pour essayer de le convaincre, il y tue un officier russe. Les représailles des Russes les obligent à fuir et à se réfugier chez le Khan dans les montagnes. Là, Ammalet-beg tombe éperdument amoureux de Sultanetta, la fille d'Ackmet-khan. Extrait : Mais, à mesure que les courses s'animaient, que le bruit des coups de feu retentissait, que la fumée de la poudre mêlait à l'atmosphère son âcre odeur, la froideur du jeune chamkal semblait se fondre. Il commença d'encourager les combattants de la voix, de les animer en se dressant sur les étriers, et, lorsque son nouker bien-aimé manqua, avec la balle de son fusil, le papak qu'il avait jeté en l'air et devant lui, il ne sut pas se contenir plus longtemps, prit son fusil et se jeta au grand galop au milieu des tireurs.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1361-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1361-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_sultanetta</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:09.737517+00:00" name="calibre:timestamp"/>
+        <meta content="sultanetta" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

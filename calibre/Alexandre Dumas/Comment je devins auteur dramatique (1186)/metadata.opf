@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1186</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b487c792-d4fc-48c7-a9d7-f858b109f73a</dc:identifier>
+        <dc:title>Comment je devins auteur dramatique</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Dans les deux textes présentés ici, Alexandre Dumas raconte ses débuts au théâtre. Le premier : Comment je devins auteur dramatique, a paru, le 20 décembre 1833, dans La Revue des Deux Mondes. Il figurera ensuite, comme préface du Théâtre complet de l'écrivain. Le second est un chapitre de ses Souvenirs dramatiques(1868), paru d'abord, en 1856, dans Paris et les Parisiens au XIXe siècle, moeurs, arts et monuments : Mon Odyssée à la Comédie-Française. Extrait : Ce fut une clameur qui s'éleva depuis le garçon de bureau jusqu'au directeur général : le garçon de bureau demanda aux employés de la grande chambre où il mettrait désormais ses bouteilles vides ; les employés de la grande chambre demandèrent au sous-chef si je me croirais déshonoré de travailler avec eux ; le sous-chef demanda au chef si j'étais venu à la direction des forêts pour y donner des ordres ou bien pour en recevoir ; le chef demanda au directeur général s'il était dans les usages administratifs qu'un employé à quinze cents francs eût un cabinet séparé, comme un chef de bureau à quatre mille francs ; le directeur répondit que, non seulement ce n'était point dans les usages administratifs, mais encore qu'aucun précédent ne militait en ma faveur, et que ma prétention était monstrueuse.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1364-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1364-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_comment_je_devins_auteur_dramatique</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>biographie</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:49.590513+00:00" name="calibre:timestamp"/>
+        <meta content="Comment je devins auteur dramatique" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

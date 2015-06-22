@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">989</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c9d82db-0bc5-4328-aee4-0fc25842f0cd</dc:identifier>
+        <dc:title>Le réquisitionnaire</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études philosophiques - Tome II. Quinzième volume de l'édition Furne 1842. Extrait : Âgée d’environ trente-huit ans, elle conservait encore, non cette beauté fraîche et nourrie qui distingue les filles de la Basse-Normandie, mais une beauté grêle et pour ainsi dire aristocratique. Ses traits étaient fins et délicats ; sa taille était souple et déliée. Quand elle parlait, son pâle visage paraissait s’éclairer et prendre de la vie. Ses grands yeux noirs étaient pleins d’affabilité, mais leur expression calme et religieuse semblait annoncer que le principe de son existence n’était plus en elle. Mariée à la fleur de l’âge avec un militaire vieux et jaloux, la fausseté de sa position au milieu d’une cour galante contribua beaucoup sans doute à répandre un voile de grave mélancolie sur une figure où les charmes et la vivacité de l’amour avaient dû briller autrefois. Obligée de réprimer sans cesse les mouvements naïfs, les émotions de la femme alors qu’elle sent encore au lieu de réfléchir, la passion était restée vierge au fond de son cœur. Aussi, son principal attrait venait-il de cette intime jeunesse que, par moments, trahissait sa physionomie, et qui donnait à ses idées une innocente expression de désir. Son aspect commandait la retenue, mais il y avait toujours dans son maintien, dans sa voix, des élans vers un avenir inconnu, comme chez une jeune fille ; bientôt l’homme le plus insensible se trouvait amoureux d’elle, et conservait néanmoins une sorte de crainte respectueuse, inspirée par ses manières polies qui imposaient.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1015-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1015-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_le_requisitionnaire</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:09.616229+00:00" name="calibre:timestamp"/>
+        <meta content="réquisitionnaire, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

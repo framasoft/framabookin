@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1352</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2aae0cb6-fa94-4c02-964a-d224a41d1983</dc:identifier>
+        <dc:title>Une histoire de revenants</dc:title>
+        <dc:creator opf:file-as="Féval, Paul" opf:role="aut">Paul Féval</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Entre Bretagne et Paris, des légendes et des fantômes traversent le pays pour accomplir des destinées fort tortueuses. Lorsque les prédictions et les croyances populaires s'invitent dans le grand monde, les vies se font et se défont d'étranges manières. Extrait : Quand la foudre se tut, on put entendre au revers de la montée, sur la route de Redon, une voix mâle et sonore qui chantait à tue-tête, malgré le tonnerre et malgré la pluie, une joyeuse chanson d'Ille-et-Vilaine. Douairière Le Brec crut rêver. La route de Redon était là devant elle ; mais il faisait noir maintenant comme dans une cave, et les objets disparaissaient à la distance de quinze pas. Du fond de ces ténèbres partit un double éclat de rire bien franc, et une autre voix se joignit à la première pour répéter à plein gosier le refrain de la ronde...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0580-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0580-4</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0577-4</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">feval_paul_-_une_histoire_de_revenants</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Paul Féval&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:23.854268+00:00" name="calibre:timestamp"/>
+        <meta content="histoire de revenants, Une" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

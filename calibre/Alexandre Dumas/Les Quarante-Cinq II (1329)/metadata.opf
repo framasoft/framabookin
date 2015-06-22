@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1329</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7e6f1868-e0fa-4e3e-b7e6-31045a7980ef</dc:identifier>
+        <dc:title>Les Quarante-Cinq II</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Les Quarante-Cinq est le troisième volume de la trilogie sur les guerres de religion. Henri III a perdu ses favoris, tous tués en duel à la fin de La Dame de Monsoreau, tandis que le brave Bussy trouvait la mort dans une embuscade tendue par son maître, le duc d'Anjou. Ne lui reste que le moins aimé, D'Epernon, devenu duc et courtisan paresseux. Il se console donc en reportant son affection sur le duc Anne de Joyeuse et son frère Henri. Extrait : À mesure qu'il avançait dans la lettre, Chicot s'enfonçait de plus en plus dans l'embarras qu'il s'était créé ; à certains passages scabreux il baissait le nez comme un confesseur embarrassé de ce qu'il entend ; et à ce jeu de physionomie, il avait un grand avantage, car il ne voyait pas étinceler les yeux de la reine et se crisper chacun de ses nerfs aux énonciations si positives de tous ses méfaits conjugaux. Marguerite n'ignorait pas la méchanceté raffinée de son frère ; assez d'occasions la lui avaient prouvée ; elle savait aussi, car elle n'était point femme à se rien dissimuler à elle-même, elle savait à quoi s'en tenir sur les prétextes qu'elle avait fournis et sur ceux qu'elle pouvait fournir encore ; aussi, au fur et à mesure que Chicot lisait, la balance s'établissait-elle dans son esprit entre la colère légitime et la crainte raisonnable.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0057-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0057-1</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0058-8</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_les_quarante-cinq_ii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:18.951801+00:00" name="calibre:timestamp"/>
+        <meta content="Quarante-Cinq II, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

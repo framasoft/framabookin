@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1735</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c917849a-fec6-456b-ab2c-3355ca54df11</dc:identifier>
+        <dc:title>Romans et nouvelles — Préface de l’éditeur</dc:title>
+        <dc:creator opf:file-as="Stendhal" opf:role="aut">Stendhal</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1927-12-14T23:00:00+00:00</dc:date>
+        <dc:description>Bien qu'il ait écrit un certain nombre de récits courts, Stendhal apparaît plus à l'aise dans le roman que dans la nouvelle. Il lui faut de l'espace pour développer ses beaux dons d'analyste et de psychologue. D'où vient donc qu'en plus d'une page de ses nouvelles, Stendhal atteint parfois une hauteur égale à celle des plus hauls sommets de ses romans ? C'est qu'il lui arrive d'oublier, ou presque, la situation traitée. Il donne en revanche tous ses soins à ses personnages. Il nous les explique si longuement, ils prennent tant d'importance par rapport à l'épisode où ils vont jouer leur rôle que tout l'équilibre du récit en est rompu.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1151-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1151-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">stendhal_-_romans_et_nouvelles_preface_de_l_editeur</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Stendhal&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:41.638085+00:00" name="calibre:timestamp"/>
+        <meta content="Romans et nouvelles — Préface de l’éditeur" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5e29cbdf-75f2-47ff-bab4-83f5dcedc187</dc:identifier>
+        <dc:title>Open Advice. FOSS: What We Wish We Had Known When We Started</dc:title>
+        <dc:creator opf:file-as="Pintscher, Lydia" opf:role="aut">Lydia Pintscher (dir.)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-03T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Open Advice is a knowledge collection from a wide variety of Free Software projects. It answers the question what 42 prominent contributors would have liked to know when they started so you can get a head-start no matter how and where you contribute.&lt;/p&gt;</dc:description>
+        <dc:publisher>Open-advice.org</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781105514937</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>FOSS</dc:subject>
+        <dc:subject>advice</dc:subject>
+        <dc:subject>project</dc:subject>
+        <dc:subject>development</dc:subject>
+        <meta content="{&quot;Lydia Pintscher (dir.)&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-05-27T18:38:44+00:00" name="calibre:timestamp"/>
+        <meta content="Open Advice. FOSS: What We Wish We Had Known When We Started" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1635</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">43508c84-bbd8-4ed9-8745-ea6c6f4c4e0b</dc:identifier>
+        <dc:title>Le parfum de la Dame en noir</dc:title>
+        <dc:creator opf:file-as="Leroux, Gaston" opf:role="aut">Gaston Leroux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1908-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Pour éclaircir l'énigme dans Le Mystère de la chambre jaune, le jeune reporter Rouletabille a voyagé en Amérique où il est remonté aux sources de sa propre enfance et au souvenir de la dame en noir, une belle inconnue au parfum unique qui venait à l'occasion rendre visiter au pauvre orphelin qu'il fût jadis. Maintenant que le jeune reporter a démasqué le coupable, les deux amoureux ont enfin pu s'épouser et une cérémonie de mariage a réuni presque tous les protagonistes du Mystère de la chambre jaune. Extrait : « Au fond, finit-il par dire, nous n'avions rien de mieux à faire pour cette nuit, que de nous barricader. Oh ! barricade provisoire, car je veux que la place soit mise en état de défense absolue dès demain. J'ai fait fermer la porte de fer et je la fais garder par le père Jacques. J'ai mis Mattoni en sentinelle dans la chapelle. J'ai rétabli ici un barrage, sous la poterne, le seul point vulnérable de la seconde enceinte et je garderai moi-même ce barrage. Le père Bernier veillera toute la nuit à la porte de la Tour Carrée, et la mère Bernier, qui a de très bons yeux, et à laquelle j'ai fait encore donner une lunette marine, restera jusqu'au matin sur la plate-forme de la tour. Sainclair s'installera dans le petit pavillon de feuilles de palmier, sur la terrasse de la Tour Ronde. Du haut de cette terrasse, il surveillera, avec moi du reste, toute la seconde cour et les boulevards et parapets. Mrs. Arthur Rance et M. Robert Darzac se rendront dans la baille et devront se promener jusqu'à l'aurore, le premier sur le boulevard de l'Ouest, le second sur celui de l'Est, boulevards qui bornent la première cour du côté de la mer. Le service sera dur cette nuit, parce que nous ne sommes pas encore organisés. Demain nous dresserons un état de notre petite garnison et des domestiques sûrs, dont nous pouvons disposer en toute sécurité.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0275-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0275-9</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0290-2</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leroux_gaston_-_le_parfum_de_la_dame_en_noir</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture intermédiaire</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gaston Leroux&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:21.466636+00:00" name="calibre:timestamp"/>
+        <meta content="parfum de la Dame en noir, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

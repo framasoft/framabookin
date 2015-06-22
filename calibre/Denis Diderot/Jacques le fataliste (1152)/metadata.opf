@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1152</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">593e8b62-9d91-4598-ba6b-fbc80e18313b</dc:identifier>
+        <dc:title>Jacques le fataliste</dc:title>
+        <dc:creator opf:file-as="Diderot, Denis" opf:role="aut">Denis Diderot</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Jacques le fataliste et son maître est un roman de Denis Diderot dont l'écriture s'étend de 1765 jusqu'à la mort de ce dernier en 1784. L'œuvre paraît initialement en feuilleton dans la Correspondance littéraire de Melchior Grimm entre 1778 et 1780. Jacques, qui voyage en compagnie de son maître, possède une personnalité plus complexe que celle d'un valet de comédie : il est bavard mais aussi quelque peu philosophe (« une espèce de philosophe ») et c'est à son fatalisme qu'il doit son surnom. Pour combler l’ennui, il promet à son maître de lui raconter la suite de ses aventures amoureuses. Mais ce récit est sans cesse interrompu soit par son maître, soit par des interventions ou incidents extérieurs, soit par des « histoires » autonomes venant se substituer au récit initial, soit par des discussions entre le narrateur et le lecteur. Extrait : Jacques s'échappe des mains de son maître, entre dans la chambre de ces coupe-jarrets, un pistolet armé dans chaque main. « Vite, qu'on se couche, leur dit-il, le premier qui remue je lui brûle la cervelle... » Jacques avait l'air et le ton si vrais, que ces coquins, qui prisaient autant la vie que d'honnêtes gens, se lèvent de table sans souffler mot, se déshabillent et se couchent. Son maître, incertain sur la manière dont cette aventure finirait, l'attendait en tremblant. Jacques rentra chargé des dépouilles de ces gens ; il s'en était emparé pour qu'ils ne fussent pas tentés de se relever ; il avait éteint leur lumière et fermé à double tour leur porte, dont il tenait la clef avec un de ses pistolets.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1347-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1347-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">diderot_denis_-_jacques_le_fataliste</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture avancée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Denis Diderot&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:42.760032+00:00" name="calibre:timestamp"/>
+        <meta content="Jacques le fataliste" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

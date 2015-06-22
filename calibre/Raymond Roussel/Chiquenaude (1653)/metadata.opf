@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1653</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">47e7e577-9184-4d67-9104-279633bf342f</dc:identifier>
+        <dc:title>Chiquenaude</dc:title>
+        <dc:creator opf:file-as="Roussel, Raymond" opf:role="aut">Raymond Roussel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1897-12-14T23:00:00+00:00</dc:date>
+        <dc:description>« Raymond Roussel est un homme d'une imagination fantastique et débordante et d'une érudition indiscutablement grande. Ses admirateurs l'appellent un génie. D'autres disent qu'il est proche parent du génie. Le cerveau de Raymond Roussel, vu dans ses œuvres, apparaît aux personnes non prévenues comme une antithèse, une confusion incohérente et lumineuse, comme si on le voyait à travers la lentille du premier appareil cinématographique plus la couleur. Il a franchi dix pages avant que le lecteur ordinaire ait compris la première phrase du chapitre. » (New-York Herald.) « Raymond Roussel, un génie dans son genre, a une leçon à exposer, et il sent qu’il faut la faire sortir de son cœur… »(The Era. Londres.)</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1138-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1138-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">roussel_raymond_-_chiquenaude</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Raymond Roussel&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:25.019661+00:00" name="calibre:timestamp"/>
+        <meta content="Chiquenaude" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1505</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0ffad4cb-800f-4e19-aa50-fae8ea770298</dc:identifier>
+        <dc:title>La maison de Maurèze</dc:title>
+        <dc:creator opf:file-as="Gréville, Henry" opf:role="aut">Henry Gréville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1883-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Henry Gréville, pseudonyme de Alice Marie Céleste Durand née Fleury (1842-1902), a publié de nombreux romans, des nouvelles, des pièces, de la poésie ; elle a été à son époque un écrivain à succès. Extrait : Gabrielle baissa les yeux sur son assiette et cessa de manger, car elle n'avait plus faim. Les deux heures qui la séparaient du repos lui parurent longues. Prétextant un malaise, elle s'était réfugiée dans sa chambre, sa grande chambre lambrissée de chêne, haute de plafond, sombre de couleur, où la clarté des bougies n'éclairait qu'un petit espace relativement à l'ampleur de l'appartement. Étendue sur son grand lit d'apparat, auquel on arrivait par un marchepied, elle pleurait silencieusement, le visage caché dans son mouchoir pour étouffer ses pleurs, quand le marquis entra enfin, fredonnant un air d'opéra.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1506-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1506-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">greville_henry_-_la_maison_de_maureze</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Henry Gréville&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:55.340906+00:00" name="calibre:timestamp"/>
+        <meta content="maison de Maurèze, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

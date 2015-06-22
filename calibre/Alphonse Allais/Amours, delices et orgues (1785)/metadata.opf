@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1785</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9809a06b-b6d3-4c1f-9916-12f48a109d21</dc:identifier>
+        <dc:title>Amours, délices et orgues</dc:title>
+        <dc:creator opf:file-as="Allais, Alphonse" opf:role="aut">Alphonse Allais</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Pour lui payer les 17 fr. 50, frais de notre match, je lui donnai un louis et, comme elle se disposait à me rendre la monnaie, je lui offris gracieusement (car elle me plaît beaucoup, cette petite) : « Gardez le tout, mademoiselle, ce sera pour votre dot. » – Et vous avez prononcé dot, sans faire sonner le t ? – Dame, oui, comme vous m’avez indiqué pour flot, pot, etc. – Alors, je m’explique tout ! La petite aura compris que vous lui donniez de l’argent pour son dos. – C’est moi qui ne comprends plus. – Dos est le terme argotique et bien parisien par lequel on désigne les gentlemen qui se font de détestables revenus avec l’inconduite de leurs compagnes. – Horrible ! Horrible ! Qu’est-ce que cette fillette va penser de moi ? Et Bott tint à revenir tout de suite au tir, porter ses excuses à la petite Charlotte et lui offrir une jolie bague, pour laquelle la petite citoyenne du dix-huitième arrondissement lui sauta au cou et l’embrassa de grand cœur.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0080-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0080-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">allais_alphonse_-_amours_delices_et_orgues</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alphonse Allais&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:51.906566+00:00" name="calibre:timestamp"/>
+        <meta content="Amours, délices et orgues" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

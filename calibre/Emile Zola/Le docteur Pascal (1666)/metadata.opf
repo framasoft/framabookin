@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1666</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aeec8d74-6618-4954-9402-133a0f71f531</dc:identifier>
+        <dc:title>Le docteur Pascal</dc:title>
+        <dc:creator opf:file-as="Zola, Émile" opf:role="aut">Émile Zola</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1893-12-14T23:00:00+00:00</dc:date>
+        <dc:description>Le Docteur Pascal est le vingtième et dernier volume de la série des Rougon-Macquart. L’intrigue se déroule entre 1872 et 1874, autrement dit après la chute du Second Empire, période qui constituait le cadre historique de l’ensemble de l’œuvre. En fait, il s’agit ici de donner une conclusion à l’histoire de la famille, et de développer les théories sur l’hérédité que Zola a empruntées aux docteurs Prosper Lucas et Bénédict Augustin Morel. Extrait : Souriante, Clotilde songeait aux commérages dont lui avait parlé Martine, à ce père Boutin qu'on accusait le docteur d'avoir tué. Il ne tuait donc pas tous ses malades, sa médication faisait donc de vrais miracles ? Et elle retrouvait sa foi en son maître, dans cette chaleur d'amour qui lui remontait au cœur. Quand ils partirent, elle était revenue à lui tout entière, il pouvait la prendre, l'emporter, disposer d'elle, à son gré.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0249-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0249-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">zola_emile_-_le_docteur_pascal</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Émile Zola&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:27.654443+00:00" name="calibre:timestamp"/>
+        <meta content="docteur Pascal, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

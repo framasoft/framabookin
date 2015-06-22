@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1397</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e1abb48d-d4de-4dc9-bb70-fc83fd3c3933</dc:identifier>
+        <dc:title>Le brigadier Floridor</dc:title>
+        <dc:creator opf:file-as="Faure, Georges Le" opf:role="aut">Georges Le Faure</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1934-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Georges Le Faure est un écrivain français . Il est l'auteur de nombreux romans populaires, notamment de cape et d'épée. Extrait : La diligence contenait deux voyageuses : celle qui, par la portière, venait de parler au postillon, et une autre assise sur la banquette. Celle-ci demanda avec quelque énervement : - Que t'a dit cet homme, Pascaline ? - Il m'a dit, mademoiselle Gilberte, qu'il était fort heureux qu'au lieu d'avancer on ne reculât pas. - L'insolent !... - Il faut prendre patience, mademoiselle. Nous ne sommes plus ici à la Jacotière, dans le château de votre oncle, le marquis de Vignerolles. « Ce peuple de Paris est effrayant à voir. L'autre haussa les épaules avec dédain, faisant de ses lèvres pâles et fines une moue dédaigneuse.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1054-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1054-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">faure_georges_le_-_le_brigadier_floridor</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Georges Le Faure&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:32.986034+00:00" name="calibre:timestamp"/>
+        <meta content="brigadier Floridor, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

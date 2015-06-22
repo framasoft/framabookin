@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1731</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">251b1d08-9e25-434d-b04b-381611c88382</dc:identifier>
+        <dc:title>Bonheur</dc:title>
+        <dc:creator opf:file-as="Verlaine, Paul" opf:role="aut">Paul Verlaine</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Après la chose faite, après le coup porté - Après le joug très dur librement accepté, - Et le fardeau plus lourd que le ciel et la terre, - Levé d'un dos vraiment et gaîment volontaire, - Après la bonne haine et la chère rancœur, - Le rêve de tenir, implacable vainqueur, - Les ennemis du cœur et de l'âme et les autres ; - De voir couler des pleurs plus affreux que les nôtres - De leurs yeux dont on est le Moïse au rocher, - Tout ce train mis en fuite, et courez le chercher ! - Alors on est content comme au sortir d'un rêve, - On se retrouve net, clair, simple, on sent que crève - Un abcès de sottise et d'erreur, et voici - Que de l'éternité, symbole en raccourci - Toute une plénitude afflue, aime et s'installe, - L'être palpite entier dans la forme totale, - Et la chair est moins faible et l'esprit moins prompt ; - Désormais, on le sait, on s'y tient, fleuriront - Le lys du faire pur, celui du chaste dire, - Et, si daigne Jésus, la rose du martyre.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1159-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1159-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">verlaine_paul_-_bonheur</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>poesie</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Paul Verlaine&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:40.876946+00:00" name="calibre:timestamp"/>
+        <meta content="Bonheur" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

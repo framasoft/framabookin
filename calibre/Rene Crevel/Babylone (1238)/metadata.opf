@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1238</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5617c3ed-44cf-4aa1-8ce6-0202566d17f4</dc:identifier>
+        <dc:title>Babylone</dc:title>
+        <dc:creator opf:file-as="Crevel, René" opf:role="aut">René Crevel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1927-06-02T22:00:00+00:00</dc:date>
+        <dc:description>"On le lira de plus en plus et on délaissera les grands noms gonflés de vent de ses ainés qui acceptèrent la pourriture" : Ezra Pound. «Crevel, écrivait André Breton en 1952 dans ses Entretiens, avec ce beau regard d'adolescent que nous gardent quelques photographies, les séductions qu'il exerce, les craintes et les bravades aussi promptes à s'éveiller en lui... à travers tout cela c'est l'angoisse qui domine. Il est d'ailleurs psychologiquement très complexe, contrecarré dans une sorte de frénésie qui le possède par son amour du XVIIIe et particulièrement de Diderot. » « Né révolté comme d'autres naissent avec les yeux bleus» écrira Philippe Soupault. René Crevel vient d'apprendre, qu'il souffrait d'une tuberculose rénale alors qu'il se croyait guéri. La nuit suivante, il se suicide au gaz dans son appartement, après avoir griffonné sur un papier « Prière de m'incinérer. Dégoût ». Klaus Mann qui fut un ami proche résuma dans son livre Le Tournant " Il se suicida parce qu'il avait peur de la démence, il se suicida parce qu'il tenait le monde pour dément". Extrait : Tu sais, Cynthia, je t'aime. Je suis ton amoureux. Quand on passe dans les couloirs, j'ai toujours une envie folle de t'embrasser. Tu es si belle avec tes cheveux rouges et ta robe verte. Je voudrais que ma petite fille, plus tard, te ressemble. De beaux jeunes gens lui feraient la cour et on la marierait avec celui qui jouerait le mieux au tennis. Ma femme, elle, connaissait un tas de choses. Bien sûr qu'elle était aussi savante que toi, mais on ne s'amuse pas souvent avec elle. Nous, quand on est tous les deux, on rit, on chante. Alors on va faire un voyage. Chaque soir on aura une nouvelle chambre, mais toujours avec des lits jumeaux, le plus près possible l'un de l'autre, et on parlera longtemps avant de s'endormir. On fera la grasse matinée. On mangera dans les wagons-restaurants et pour que personne ne nous reconnaisse, je t'appellerai mademoiselle Fourchette. Toi, tu m'appelleras monsieur Couteau, et on nous prendra pour des Espagnols en voyage de noces. On ira dans des endroits très gais, où il y aura des fleurs aussi douces que tes cheveux et des boutiques où je t'achèterai des belles robes décolletées. Dans les pays chauds on boira de la limonade si froide et si piquante qu'on éternuera. Au pôle nord, avant de se coucher, on mettra tant de rhum dans notre thé qu'on rira en dormant. On montera sur toutes les Tours Eiffel. Si on rencontre des tigres, je te donnerai le bras et tu n'auras pas peur. Sur les banquises on verra des phoques qui jouent à la balle avec leur nez et on en ramènera un, pour nous distraire quand nous serons vieux. On enverra des oiseaux-mouches et des cornes de rhinocéros à ma petite fille. On lui écrira aussi sur des belles cartes postales, car je pense qu'elle doit bien s'ennuyer avec sa mère qui lui donne tous les jours des leçons d'arithmétique. Alors il faut être gentils avec elle, puisque tous les deux on est si heureux ensemble. Je t'aime tant, Cynthia. Tu ne ressembles pas aux autres femmes. Tu es bien plus belle. Tu es comme la mort, Cynthia, tu es une putain comme la mort, Cynthia, ma chérie, ma petite putain...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1589-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1589-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">crevel_rene_-_babylone</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;René Crevel&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:00.790367+00:00" name="calibre:timestamp"/>
+        <meta content="Babylone" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

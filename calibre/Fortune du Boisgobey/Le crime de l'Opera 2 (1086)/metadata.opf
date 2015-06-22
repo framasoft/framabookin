@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1086</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7062deba-22cd-4f3c-b4ea-9cac5f92b944</dc:identifier>
+        <dc:title>Le crime de l'Opéra 2</dc:title>
+        <dc:creator opf:file-as="Boisgobey, Fortuné du" opf:role="aut">Fortuné du Boisgobey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Julia d'Orcival, femme du monde comme l'on disait alors, est assassinée dans sa loge lors du bal de l'Opéra. Trois personnage se mettent à la recherche du coupable : un juge d'instruction, son neveu et un ancien capitaine de hussards. Tome 2. Extrait : Ce nigaud ne se doute pas qu'il vient de m'indiquer le point le plus intéressant à vérifier. S'il était moins de trois heures du matin quand les sergents de ville ont trouvé le domino, mademoiselle Lestérel serait sauvée, puisqu'il est prouvé que le domino lui appartient et que Julia a été tuée à trois heures. Je me renseignerai moi-même, si Lolif ne me renseigne pas.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0718-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0718-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">boisgobey_fortune_du_-_le_crime_de_l_opera_2</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Fortuné du Boisgobey&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:29.012652+00:00" name="calibre:timestamp"/>
+        <meta content="crime de l'Opéra 2, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

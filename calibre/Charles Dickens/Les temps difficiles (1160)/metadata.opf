@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1160</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c1ef02be-a74c-4bbc-a087-6f17f911e57e</dc:identifier>
+        <dc:title>Les temps difficiles</dc:title>
+        <dc:creator opf:file-as="Dickens, Charles" opf:role="aut">Charles Dickens</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>M. Gradgrind a donné à ses enfants Tom et Louise, une éducation rigoureuse, sans tendresse, ne laissant place ni à l'imagination, ni à la rêverie, comme il nous l'explique: «Ce que je veux, ce sont des faits. Enseignez des faits à ces garçons et à ces filles, rien que des faits. Les faits sont la seule chose dont on ait besoin ici-bas.». Louise épouse M. Bounderby, l'ami de M Gradgrind, riche industriel parti de rien et fier de sa réussite. Il emploiera Tom dans sa banque comme comptable. Le destin semble tracé pour tout le monde, quand un nouveau personnage entre en scène, M. Harthouse, un jeune dandy qui a beaucoup d'influence sur Tom. De plus un vol survient à la banque de M. Bounderby. Un honnête ouvrier, Étienne Blackpool, est accusé du vol, mais qui est réellement le coupable?... Roman le plus engagé de Dickens, Les Temps difficiles nous plonge dans les débuts de la révolution industrielle qui transforme l'aimable campagne anglaise en un pandémonium d'usines, de canaux, d'installations minières, de fabriques, d'entrepôts, de banlieues misérables, où survit un prolétariat totalement exploité. Sous un ciel de suie, Coketown, la ville du charbon (Manchester en réalité), est d'autant plus l'image de l'enfer que la classe ouvrière n'y est pas encore organisée et qu'elle apparaît ainsi comme la victime toute désignée de politiciens sans scrupules et d'une bourgeoisie, parfois compatissante et troublée dans son confort moral, mais toujours persuadée de la divinité de ses droits. Le roman de Dickens correspond point pour point à l'analyse qu'en ces mêmes années et dans cette même Angleterre, Fr. Engels entreprenait de la naissance du capitalisme moderne. extrait : Bounderby, dit M. Gradgrind en approchant une chaise du feu, vous vous êtes toujours trop intéressé à mes jeunes gens, surtout à Louise, pour que j'aie besoin de m'excuser avant de vous confier que cette découverte m'a beaucoup, beaucoup peiné. Je me suis systématiquement dévoué, vous ne l'ignorez pas, à l'éducation de la raison chez mes enfants. La raison, vous savez, est la seule faculté à laquelle doive s'adresser l'éducation.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0206-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0206-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dickens_charles_-_les_temps_difficiles</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Angleterre</dc:subject>
+        <meta content="{&quot;Charles Dickens&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:44.379770+00:00" name="calibre:timestamp"/>
+        <meta content="temps difficiles, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

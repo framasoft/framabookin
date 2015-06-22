@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1354</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5af0a1d3-36ba-47cb-9bc2-6ac1b47aba8d</dc:identifier>
+        <dc:title>Les Habits Noirs VIII</dc:title>
+        <dc:creator opf:file-as="Féval, Paul" opf:role="aut">Paul Féval</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1863-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Bande Cadet, dont l'action centrale se déroule en 1853, conjugue à la recherche du fameux trésor, une nouvelle entreprise des Habits noirs contre la succession de Clare, et des substitutions d'identité compliquées, que le dénouement seul débrouille. Extrait : - Tiens-toi droit, dit-elle avec un regret stoïque. J'essaye de t'aimer un peu moins, mais je ne peux pas. Tu es toujours pour moi le pauvre petit martyr qui avait été mutilé par un tigre à face humaine et que j'emportai tout sanglant dans mes bras.., car je t'ai porté, mon Clément, toute enfant que j'étais, je t'ai porté, tu étais presque un jeune homme déjà, et je ne te trouvais pas lourd. D'où me venait cette force ?... Écoute ! il y a quelque chose entre nous, quelque chose de malheureux et de douloureux. Te souviens-tu ? La première fois que tu vins à moi, tu fis appel à des souvenirs qui ne m'appartenaient pas, Tu me prenais pour la Tilde du cimetière, la pauvre petite enfant qui avait froid et faim auprès d'une tombe, Et moi, esclave déjà, je répondais oui à tout ce que tu me disais. J'avais peur de t'éclairer. Je pensais, il me dira : « Ah ! ce n'est donc pas toi la Tilde que je réchauffai, à qui je donnai mon pain ! » Et je te voyais te détourner de moi, car je le sais bien, va, c'est elle que tu cherches...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0551-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0551-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">feval_paul_-_les_habits_noirs_viii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Paul Féval&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:24.251849+00:00" name="calibre:timestamp"/>
+        <meta content="Habits Noirs VIII, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

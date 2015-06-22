@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1282</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">139e4b0c-ee17-4353-95a8-bfed829fab60</dc:identifier>
+        <dc:title>Un cadet de famille</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Ce fait partie des récits publiés sous le nom d'Alexandre Dumas mais auxquels il n'a que peu contribué. Il s'agit en fait de la traduction par Victor Perceval (c'est à dire Marie de Fernand, sa maîtresse) d'un roman anglais d'Edward John Trelawney (1792-1881) Adventures of a younger son, qui connut un certain succès lors de sa parution en 1831. Très tôt, le jeune Trelawney se révolte contre la brutale autorité paternelle. Mis en pension, il en est rapidement renvoyé en raison de son comportement violent. Son père l'envoie alors faire son apprentissage naval d'abord dans une école où il ne reste que peu de temps, puis sur une frégate anglaise en route pour les Indes. Lors d'une escale à Bombay, il se venge des outrages et humiliations subis pendant le voyage en molestant l'officier responsable. Obligé de déserter, il est alors pris sous la protection de De Ruyter qui lui accorde confiance et amitié. Extrait : Je souffris mortellement de cet insensible abandon, et je restai bouche béante, immobile, terrifié, ne comprenant que trop la cruauté de la conduite de mon père, qui nous arrachait sans commisération du lieu de notre enfance, des bras de notre mère, dont il ne nous avait même pas été permis de rencontrer le regard. Cet exil, ce pouvoir étranger, cette maison à l'extérieur horrible, me causaient une si vive impression, que je ne m'aperçus pas que j'étais poussé par M. Sayers dans une vaste et triste cour, au milieu d'une quarantaine d'enfants. En les voyant tous, grands et petits, se grouper autour de moi, en entendant leurs questions déplacées, leurs rires moqueurs, je repris mes sens, et je souhaitai de toutes les puissances de mon âme que la terre s'entrouvrît pour me dérober à leur insolente inspection et à la misérable existence qui m'était promise. Le cœur gonflé par les larmes que je n'osais répandre, je demandai intérieurement au ciel, avec une énergie bien au-dessus de mon âge, la fin de ma vie, et je venais d'atteindre à peine ma neuvième année !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1409-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1409-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_un_cadet_de_famille</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:09.532831+00:00" name="calibre:timestamp"/>
+        <meta content="cadet de famille, Un" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

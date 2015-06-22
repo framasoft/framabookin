@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1401</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b7f2f669-8bf0-4bcb-932c-45cecad49ae8</dc:identifier>
+        <dc:title>Lisette Leigh</dc:title>
+        <dc:creator opf:file-as="Gaskell, Elizabeth" opf:role="aut">Elizabeth Gaskell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1855-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Elizabeth Gaskell nous dresse ici le portrait d'une mère courageuse qui vient de perdre son mari. Nous sommes en 1836 et cette femme quitte la ferme familiale avec ses deux fils pour retrouver sa fille partie en ville pour travailler. Mais tout ceci a mal tourné et elle s'est fait renvoyée. Depuis deux ans, la famille est sans nouvelle car le père a immédiatement renié sa fille. Extrait : -- Oh ! mon garçon, dit-elle d'une voix suppliante en se retournant vers lui, il faut que j'aille chercher ma Lisette. Je ne puis rester ici en repos, je pense trop à elle. Bien des fois, j'ai laissé ton père dans son lit, dormant tranquillement, pour aller à la fenêtre et regarder de toutes mes forces du côté de Manchester ; il me semblait quelquefois que j'allais partir et marcher à travers les bruyères jusqu'à la ville ; et puis que je relèverais toutes les têtes baissées, jusqu'à ce que j'aie trouvé notre Lisette. Souvent, souvent, quand le vent soufflait doucement dans le creux de la bruyère, je me suis figuré (c'était seulement une idée, tu sais bien), que je l'entendais m'appeler, et que la voix se rapprochait, se rapprochait ; je finissais par croire que je l'entendais sangloter à la porte et murmurer : « Ma mère ! » je suis descendue bien des fois tout doucement, j'ai ouvert la porte et j'ai regardé dans les ténèbres, croyant l'apercevoir ; et puis je suis rentrée désolée en n'entendant rien que le souffle du vent. Oh ! ne me parle pas de rester ici pendant qu'elle meurt peut-être de faim comme le pauvre enfant de la parabole.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1476-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1476-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">gaskell_elizabeth_-_lisette_leigh</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>nouvelle</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Angleterre</dc:subject>
+        <meta content="{&quot;Elizabeth Gaskell&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:33.793163+00:00" name="calibre:timestamp"/>
+        <meta content="Lisette Leigh" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

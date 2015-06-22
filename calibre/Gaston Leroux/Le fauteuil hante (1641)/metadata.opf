@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1641</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3175fc61-6e3e-41ee-b570-9e471157a17d</dc:identifier>
+        <dc:title>Le fauteuil hanté</dc:title>
+        <dc:creator opf:file-as="Leroux, Gaston" opf:role="aut">Gaston Leroux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1909-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Un livre drôle et réjouissant. Extrait : Lui-même était auteur. Il avait publié deux ouvrages qui étaient l’orgueil de sa vie, l’un sur les signatures des peintres célèbres et sur les moyens de reconnaître l’authenticité de leurs œuvres, l’autre sur l’art de l’encadrement, à la suite de quoi il avait été nommé officier d’Académie ; mais jamais il n’était entré à l’Académie, et surtout jamais l’idée qu’il avait pu se faire d’une séance publique à l’Académie n’avait concordé avec tout ce qu’il venait d’entendre et de voir depuis un quart d’heure. Jamais, par exemple, il n’eût pensé qu’il fût si utile, pour prononcer un discours de réception, d’être veuf, sans enfants, de n’avoir peur de rien et d’avoir fait son testament. Il donna ses vingt francs et, à travers mille horions, se vit installé tant bien que mal dans une tribune où tout le monde était debout, regardant dans la salle.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0272-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0272-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leroux_gaston_-_le_fauteuil_hante</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gaston Leroux&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:22.639420+00:00" name="calibre:timestamp"/>
+        <meta content="fauteuil hanté, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

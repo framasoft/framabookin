@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1636</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a810829a-abc5-4fc8-bf86-02f05e8fbaa9</dc:identifier>
+        <dc:title>Mémoires d’un collégien</dc:title>
+        <dc:creator opf:file-as="Laurie, André" opf:role="aut">André Laurie</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1881-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Jean-François Paschal Grousset, connu également sous les pseudonymes Docteur Flavius, André Laurie, Philippe Daryl, Léopold Virey et Tiburce Moray (...) est un journaliste, homme politique et écrivain français. Il a eu une vie très mouvementée et une formation variée. Il participe activement à la Commune de Paris, avant de devenir député de la Troisième République. Extrait : Par exemple, elle croyait hautement dangereux de me laisser courir ou m'amuser à des jeux tant soit peu violents, dans la crainte des « chaud et froid ». Le proverbe : « Jeux de mains, jeux de vilains » était un de ses axiomes. Elle trouvait indispensable en hiver de faire bassiner mon lit et de me faire apporter de l'eau tiède pour ma toilette. Elle aurait considéré comme une haute imprudence de me laisser grimper à un arbre et sauter par-dessus une barrière, et se serait probablement accusée d'homicide par négligence si je n'avais pas eu tous les matins mon café au lait dans mon lit, avant même d'ouvrir les yeux. Dans son opinion, l'étude ou la lecture, prolongée plus d'une heure de suite, entraînait pour le tendre cerveau d'un enfant un danger imminent de congestion avec accompagnement de fièvre et de délire. Mais ce qu'elle considérait surtout comme criminel, c'est qu'on osât me « contrarier » spécialement sur le chapitre de la gourmandise. Quand j'étais tout petit garçon, j'avais eu longtemps une recette infaillible pour obtenir ce qu'on me refusait avec le plus de raison ; c'était d'aller trouver ma tante en braillant à poings fermés.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0956-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0956-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">laurie_andre_-_memoires_d_un_collegien</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;André Laurie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:21.666227+00:00" name="calibre:timestamp"/>
+        <meta content="Mémoires d’un collégien" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

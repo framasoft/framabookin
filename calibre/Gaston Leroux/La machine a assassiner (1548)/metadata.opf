@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1548</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">858b4d5e-cd97-48a7-844f-edb426edee26</dc:identifier>
+        <dc:title>La machine à assassiner</dc:title>
+        <dc:creator opf:file-as="Leroux, Gaston" opf:role="aut">Gaston Leroux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1923-06-02T22:00:00+00:00</dc:date>
+        <dc:description>La suite de «La poupée sanglante»... Extrait : « Je vais tout vous dire, monsieur le commissaire… Faut jamais faire un vœu ni un souhait parce que, c’est comme dans la fable, ça peut vous sauter au nez !… Mlle Barescat, qui nous avait priées à sa camomille, venait à peine de dire : « Je voudrais bien le voir de près, votre Gabriel »… que le voilà justement qui entre, comme un démon de la tempête, tout couvert de sang avec ça… et portant Mlle Norbert, la demoiselle de l’horloger, évanouie sur son bras comme si elle ne pesait pas plus qu’un fichu de dentelle… à elle aussi le sang lui coulait de la figure… Nous avons tous poussé un cri comme vous pensez bien… un cri horrible ! Moi, j’ai crié : « C’est lui, Gabriel !… »</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0263-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0263-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leroux_gaston_-_la_machine_a_assassiner</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gaston Leroux&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:03.797245+00:00" name="calibre:timestamp"/>
+        <meta content="machine à assassiner, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

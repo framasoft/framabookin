@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1218</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c2835596-3d7f-4694-a3c8-0f7aaeeeab67</dc:identifier>
+        <dc:title>La Belle-Nivernaise</dc:title>
+        <dc:creator opf:file-as="Daudet, Alphonse" opf:role="aut">Alphonse Daudet</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Belle-Nivernaise - Histoire d’un vieux bateau et de son équipage. Suivi de Légendes et récits : Jarjaille chez le bon Dieu - La Figue et le paresseux - Premier habit - Les Trois Messes basses - Le Nouveau maitre Extrait : Sa mère l'avait assis sur une chaise et lui avait dit : « Sois sage. » Depuis, il attendait. Comme il criait la faim, la fruitière d'en face lui avait donné une tartine de confiture. Mais la tartine était finie depuis longtemps, et le marmot avait recommencé à pleurer. Il mourait de peur, le pauvre innocent ! Peur des chiens qui rôdaient autour de lui ; peur de la nuit qui venait ; peur des inconnus qui lui parlaient, et son petit cœur battait à grands coups dans sa poitrine, comme celui d'un oiseau qui va mourir.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0087-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0087-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">daudet_alphonse_-_la_belle-nivernaise</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alphonse Daudet&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:56.803552+00:00" name="calibre:timestamp"/>
+        <meta content="Belle-Nivernaise, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

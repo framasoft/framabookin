@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1557</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7c67e7cb-08b8-42df-9330-51fcf302337e</dc:identifier>
+        <dc:title>Chéri-Bibi et Cécily</dc:title>
+        <dc:creator opf:file-as="Leroux, Gaston" opf:role="aut">Gaston Leroux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1913-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Suite des Cages flottantes. Extrait : Et alors votre mari a administré une gifle formidable au baron, qui est allé rouler dans les placards en cassant de la porcelaine de prix. Oh ! ça a été admirablement fait ! Maxime a toujours eu une poigne très solide. Là-dessus, il est parti en disant : « J’attends vos témoins. » Le baron m’a prié d’être son premier témoin. Je me suis récusé. J’ai toujours été beaucoup plus l’ami de Maxime que celui du baron ; enfin, madame, je suis aussi votre ami, à vous, et je viens offrir mes services au marquis.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0259-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0259-9</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0287-2</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leroux_gaston_-_cheri-bibi_et_cecily</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gaston Leroux&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:05.537371+00:00" name="calibre:timestamp"/>
+        <meta content="Chéri-Bibi et Cécily" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

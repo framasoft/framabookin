@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1165</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f391c523-b0d4-4296-b63d-34657803bbb8</dc:identifier>
+        <dc:title>Ingénue</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Marat, médecin aux écuries du comte d'Artois, et Danton, avocat, font connaissance à l'occasion de l'annonce du remplacement de M. de Brienne par Necker au poste de ministre des finances. Au cours d'un déjeuner, Marat raconte à Danton un épisode de sa jeunesse qui a bouleversé sa vie aussi bien moralement que physiquement. En Pologne, il fut le professeur de la belle comtesse Cécile Obinska dont il tomba amoureux fou. Devant son mépris, il lui fit prendre un narcotique et abusa d'elle. A la suite de quoi il fut roué de coups et laissé pour mort. Le chemin du retour en France fut long, semé d'embûches et les souffrances endurées le rendirent laid et méchant... Extrait : C'est bientôt passé ! s'écria Marat en se levant ; êtes-vous si peu philosophe, jeune homme, que vous mesuriez la douleur par le temps qu'elle dure, et non par le coup qu'elle frappe, par le fait, et non par les suites ? Mais, songez donc à cela si une douleur insupportable dure une seconde, elle dure une éternité ; et, lorsque cette douleur, insupportable déjà, laisse assez de sentiment pour que celui qui l'éprouve comprenne, tout en l'éprouvant, que la fin de la douleur est la fin de la vie, et quand, malgré cette douleur insupportable, pour prolonger sa vie, il voudrait prolonger sa douleur, vous ne croyez pas qu'il y ait là un intolérable supplice ?</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1369-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1369-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_ingenue</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:45.385798+00:00" name="calibre:timestamp"/>
+        <meta content="Ingénue" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

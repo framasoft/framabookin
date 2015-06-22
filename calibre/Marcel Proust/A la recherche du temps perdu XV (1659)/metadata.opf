@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1659</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">66a7fa1c-4996-4ece-8a6b-33e14dbdaf44</dc:identifier>
+        <dc:title>À la recherche du temps perdu XV</dc:title>
+        <dc:creator opf:file-as="Proust, Marcel" opf:role="aut">Marcel Proust</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1927-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Le Temps retrouvé est le septième et dernier tome d’À la recherche du temps perdu de Marcel Proust publié en 1927 à titre posthume. L'oeuvre s'ouvre sur le séjour du Narrateur chez Gilberte de Saint-Loup à Tansonville. Une lecture d'un passage inédit du journal des Goncourt entraîne le Narrateur dans des réflexions sur l'art et la littérature, d'où il conclut que en se demandant si tous les gens que nous regrettons de ne pas avoir connus parce que Balzac les peignait dans ses livres [...] ne m'eussent pas paru d'insignifiantes personnes, soit par une infirmité de ma nature, soit qu'elles ne dussent leur prestige qu'à une magie illusoire de la littérature. L'action se poursuit ensuite à Paris, en 1916. Extrait : Tant de fois, au cours de ma vie, la réalité m'avait déçu parce que, au moment où je la percevais, mon imagination, qui était mon seul organe pour jouir de la beauté, ne pouvait s'appliquer à elle, en vertu de la loi inévitable qui veut qu'on ne puisse imaginer que ce qui est absent. Et voici que soudain l'effet de cette dure loi s'était trouvé neutralisé, suspendu, par un expédient merveilleux de la nature, qui avait fait miroiter une sensation -- bruit de la fourchette et du marteau, même inégalité de pavés -- à la fois dans le passé, ce qui permettait à mon imagination de la goûter, et dans le présent où l'ébranlement effectif de mes sens par le bruit, le contact avait ajouté aux rêves de l'imagination ce dont ils sont habituellement dépourvus, l'idée d'existence et, grâce à ce subterfuge, avait permis à mon être d'obtenir, d'isoler, d'immobiliser -- la durée d'un éclair -- ce qu'il n'appréhende jamais : un peu de temps à l'état pur. L'être qui était rené en moi quand, avec un tel frémissement de bonheur, j'avais entendu le bruit commun à la fois à la cuiller qui touche l'assiette et au marteau qui frappe sur la roue, à l'inégalité pour les pas des pavés de la cour Guermantes et du baptistère de Saint-Marc, cet être-là ne se nourrit que de l'essence des choses, en elles seulement il trouve sa subsistance, ses délices. Il languit dans l'observation du présent où les sens ne peuvent la lui apporter, dans la considération d'un passé que l'intelligence lui dessèche, dans l'attente d'un avenir que la volonté construit avec des fragments du présent et du passé auxquels elle retire encore de leur réalité, ne conservant d'eux que ce qui convient à la fin utilitaire, étroitement humaine, qu'elle leur assigne.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1577-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1577-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">proust_marcel_-_a_la_recherche_du_temps_perdu_xv</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Marcel Proust&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:26.246351+00:00" name="calibre:timestamp"/>
+        <meta content="À la recherche du temps perdu XV" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

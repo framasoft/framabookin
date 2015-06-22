@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1818</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">057686da-d69b-4ffb-ac50-520eb18dc76d</dc:identifier>
+        <dc:title>Mansfield Park</dc:title>
+        <dc:creator opf:file-as="Austen, Jane" opf:role="aut">Jane Austen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : J’étais tellement étonnée de voir l’affaire d’Etat que c’était ! Désirer un cheval et une charrette à la campagne semblait une chose extraordinaire ! Aussi, je demandais à ma femme de chambre de s’en occuper directement, et comme je ne pouvais sortir de mon vestiaire sans voir une ferme, ni marcher dans la plantation sans passer devant une autre, je pensais qu’il suffirait de les demander pour les avoir et je n’avais que l’embarras du choix. Vous devinez ma surprise, quand je découvris que j’avais demandé la chose la moins raisonnable, la plus impossible, et que j’avais offensé tous les fermiers, tous les laboureurs par ma demande. Quant au secrétaire du Dr. Grant, je croyais plus prudent de ne pas être sur son chemin, et mon beau-frère lui-même, qui en général est la bonté même, me regardait d’un air sombre depuis qu’il avait appris ce que j’avais osé demander.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0792-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0792-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">austen_jane_-_mansfield_park</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Angleterre</dc:subject>
+        <meta content="{&quot;Jane Austen&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:58.396959+00:00" name="calibre:timestamp"/>
+        <meta content="Mansfield Park" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

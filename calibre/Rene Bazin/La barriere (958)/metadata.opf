@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">958</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c9a50d39-1db0-4390-be5f-161091341b44</dc:identifier>
+        <dc:title>La barrière</dc:title>
+        <dc:creator opf:file-as="Bazin, René" opf:role="aut">René Bazin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Personne n'est plus occupé à causer, à boire le thé, personne ne somnole. Un homme rassemble toute l'attention éparpillée. Il est le héros. Les joueurs et les joueuses du club, leurs amis et amies, le considèrent avec émotion. Son nom est prononcé par tous ceux qui n'ont pas voulu crier : « Réginald ! » Quelqu'un dit : « Il me rappelle le jeu du plus remarquable champion que j'aie connu. Même souplesse. C'est dommage qu'il appartienne à l'armée des Indes. Il deviendrait célèbre. » Lui, à peine la dernière balle lancée, entendant : « Hurrah ! », il a eu un sourire bref et plein, une sorte de remerciement à la vie, à la lumière du printemps, à l'air qui vient tout vierge de la mer, par-dessus la barrière de petits sapins, de fusains et de lauriers ; il a cherché, un instant, autour de lui, la jeune fille qui lui a servi de second, bien inférieure, évidemment, mais de bonne volonté, adroite, aimable, il l'a remerciée d'un geste de la main, et aussitôt après, le visage redevenu grave, Réginald Osberne Breynolds a rapidement saisi la veste que lui tendait un collégien émerveillé. Par-dessus la chemise, il a endossé un vêtement de flanelle ample, rayé noir, jaune et rouge ; il a resserré la ceinture de soie noire qui retenait le pantalon de flanelle blanche, et à pas allongés, entouré d'une douzaine de jeunes gens et de jeunes filles qu'il dépassait d'une demi-tête, il est venu saluer sa mère.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1248-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1248-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">bazin_rene_-_la_barriere</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;René Bazin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:03.406006+00:00" name="calibre:timestamp"/>
+        <meta content="barrière, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

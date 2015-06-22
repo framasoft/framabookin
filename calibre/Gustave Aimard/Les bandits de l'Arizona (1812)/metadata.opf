@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1812</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2c8b2958-4c8f-4edc-9301-9f5261e5a737</dc:identifier>
+        <dc:title>Les bandits de l'Arizona</dc:title>
+        <dc:creator opf:file-as="Aimard, Gustave" opf:role="aut">Gustave Aimard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Les Bandits de l'Arizona est l'un des derniers romans de Gustave Aimard (1818-1883), dont la spécialité était les romans de l'Ouest américain. Aussi populaire, en son temps, qu'Eugène Sue et Paul Féval, il a écrit une soixante de romans. Vers la fin de sa vie, pourtant, la vogue de ces romans de l'Ouest s'estompe, et Aimard, méprisé de l'élite et des universitaires, tombe dans un certain oubli. Les connaisseurs s'amuseront (ou se désoleront) de la description pour le moins manichéenne de la nation Apache, peuple politiquement incorrect de ce temps, en opposition aux gentils Comanches.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0408-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0408-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">aimard_gustave_-_les_bandits_de_l_arizona</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture aisée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gustave Aimard&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:57.245367+00:00" name="calibre:timestamp"/>
+        <meta content="bandits de l'Arizona, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

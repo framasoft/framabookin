@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1719</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2a97f877-8630-456a-afd2-ca9ea91a2e40</dc:identifier>
+        <dc:title>Dissertation sur la politique des Romains dans la religion</dc:title>
+        <dc:creator opf:file-as="Montesquieu, Charles-Louis de Secondat" opf:role="aut">Montesquieu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Les discours académiques conservés dans le fonds de l’académie de Bordeaux sont passé lors de la Révolution à la bibliothèque municipale. Ce sont des discours prononcés par Montesquieu soit comme académicien, soit (et le plus souvent) comme directeur de l’Académie, généralement lors de la séance d’ouverture de la fin novembre, ou le 1er mai. Extrait : C’était à la vérité une chose très-extravagante de faire dépendre le salut de la république de l’appétit sacré d’un poulet et de la disposition des entrailles des victimes ; mais ceux qui introduisirent ces cérémonies en connaissaient bien le fort et le faible, et ce ne fut que par de bonnes raisons qu’ils péchèrent contre la raison même. Si ce culte avait été plus raisonnable, les gens d’esprit en auraient été la dupe aussi bien que le peuple, et par là on aurait perdu tout l’avantage qu’on en pouvait attendre : il fallait donc des cérémonies qui pussent entretenir la superstition des uns, et entrer dans la politique des autres : c’est ce qui se trouvait dans les divinations. On y mettait les arrêts du ciel dans la bouche des principaux sénateurs, gens éclairés, et qui connaissaient également le ridicule et l’utilité des divinations.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1120-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1120-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">montesquieu_charles-louis_de_secondat_-_dissertation_sur_la_politique_des_romains_dans_la_religion</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>non-fiction</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Montesquieu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:38.577078+00:00" name="calibre:timestamp"/>
+        <meta content="Dissertation sur la politique des Romains dans la religion" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

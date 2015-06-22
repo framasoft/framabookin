@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1738</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6eda4502-97b2-412e-b07e-d248afa3cd0c</dc:identifier>
+        <dc:title>Le rouge et le noir</dc:title>
+        <dc:creator opf:file-as="Stendhal" opf:role="aut">Stendhal</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1927-12-14T23:00:00+00:00</dc:date>
+        <dc:description>Outre l'intérêt propre du roman, son titre pique notre curiosité. Stendhal, raconte Romain Colomb, le trouva subitement et comme sous le coup de l'inspiration. Ce n'était peut-être qu'une concession à la mode du temps qui était aux noms de couleurs ; mais on a voulu y voir aussi une allusion aux hasards de la destinée analogues à ceux du jeu et le très érudit stendhalien Pierre Martino a retrouvé deux ouvrages anglais antérieurs à celui de Beyle et qui portent ce même titre pris dans cette acception très nette. D'autres ont émis l'hypothèse que ces couleurs soulignaient le conflit des idées de la gauche libérale avec les menées des prêtres et de la Congrégation sous le règne de Charles X.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1153-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1153-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">stendhal_-_le_rouge_et_le_noir</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture avancée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Stendhal&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:42.577760+00:00" name="calibre:timestamp"/>
+        <meta content="rouge et le noir, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

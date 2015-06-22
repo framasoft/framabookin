@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">961</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">46943f82-e8ae-4e54-b7cf-05fd6f9fde66</dc:identifier>
+        <dc:title>Mémoires de deux jeunes mariées</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>1841. La Comédie humaine - Études de moeurs. Premier livre, Scènes de la vie privée - Tome II. Deuxième volume de l'édition Furne 1842. Mémoires de deux jeunes mariées est un roman épistolaire dont l'histoire se déroule entre 1823 et 1835. Elevées dans le même couvent, deux heunes filles entament une corespondance dans laquelle elles se racontent leurs premiers pas dans la société et la vie. La première, Louise de Chaulieu mène une vie mondaine et rencontre un baron espagnol dont elle s'éprend puis qu'elle épouse. Son amie, Renée de Maucombe, fait un mariage de raison, vit retirée dans sa Provence natale, et elle donne naissance à trois enfants. Chacune, au long de ces années, échange ses espoirs et ces déceptions. Mais après une longue période de bonheur, le mari de Louise disparaît sans laisser d'enfant. Louise se remet difficilement de cette disparition jusqu'à sa rencontre avec un jeune écrivain. Extrait : Depuis bientôt quinze jours, j’ai tant de folles paroles rentrées, tant de méditations enterrées au cœur, tant d’observations à communiquer et de récits à faire qui ne peuvent être faits qu’à toi, que sans le pis-aller des confidences écrites substituées à nos chères causeries, j’étoufferais. Combien la vie du cœur nous est nécessaire ! Je commence mon journal ce matin en imaginant que le tien est commencé, que dans peu de jours je vivrai au fond de ta belle vallée de Gemenos dont je ne sais que ce que tu m’en as dit, comme tu vas vivre dans Paris dont tu ne connais que ce que nous en rêvions.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1031-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1031-0</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1040-2</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_memoires_de_deux_jeunes_mariees</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:04.010412+00:00" name="calibre:timestamp"/>
+        <meta content="Mémoires de deux jeunes mariées" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

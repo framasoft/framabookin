@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1021</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8ac8c77a-acf6-4f7d-bed1-1eacb21b30b7</dc:identifier>
+        <dc:title>Les douleurs d’un nom</dc:title>
+        <dc:creator opf:file-as="Barbara, Charles" opf:role="aut">Charles Barbara</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1857-03-05T23:00:00+00:00</dc:date>
+        <dc:description>Extrait : Il prit tout à coup fantaisie au baron, dégoûté de son intérieur par l'humeur tracassière et les emportements de sa femme, de tirer d'un étui un violon qui y dormait depuis son mariage, et de jouer des sonates avec la gouvernante de ses filles. Ces relations musicales décidèrent d'un goût très-vif du baron pour Hélène. Mais la baronne Stéphanie, à qui la découverte de cette passion, inspira une haine implacable pour sa rivale, devint graduellement d'une exigence outrée avec celle-ci, saisit passionnément les occasions de la blesser, et cela jusqu'au jour où, d'épigrammes en épigrammes, elle en vint à l'insulte. Hélène, dans l'ignorance du motif de ces persécutions, ne savait que s'étonner et pleurer en secret.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1187-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1187-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">barbara_charles_-_les_douleurs_d_un_nom</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Charles Barbara&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:16.013371+00:00" name="calibre:timestamp"/>
+        <meta content="douleurs d’un nom, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

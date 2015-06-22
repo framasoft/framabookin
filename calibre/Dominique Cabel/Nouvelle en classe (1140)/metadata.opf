@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1140</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1a248b2b-76a3-4760-8fe1-4f7905fcb7d3</dc:identifier>
+        <dc:title>Nouvelle en classe</dc:title>
+        <dc:creator opf:file-as="Cabel, Dominique" opf:role="aut">Dominique Cabel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Julie arrive dans une nouvelle école et elle va devoir affronter la méchanceté de tous ses nouveaux camarades. Pas exactement tous, Laurent a un comportement étrange. C'est bien la première fois de son existence que Julie se pose sérieusement des questions sur quelqu'un ! Extrait: - Sais-tu ce que sont les Justiciers, Julie ? - Ce sont des gens qui disent ce qui est juste et ce qui ne l'est pas, affirma-t-elle, avec toute la conviction d'une enfant de quatre ans. - Dans le sens courant, tu as raison. Mais il existe quelques personnes, juste quelques unes, que l'on appelle des Justiciers. Ces personnes sont légèrement différentes des autres, elles sont extrêmement sensibles, et les malheurs de ceux qui les entourent les touchent particulièrement. Mais surtout, elles ne supportent pas les injustices. Cela ne les révoltent pas simplement, mais provoque une réaction réelle. Si un Justicier assiste à une injustice, il punira le fautif, d'une manière ou d'une autre, mais la contrepartie, c'est qu'il ressent lui-même une vive brûlure chaque fois qu'il agit ainsi. Les Justiciers adultes trouvent en général un métier qui leur permet de s'occuper des autres. Mais avant cela, il leur faut apprendre à maîtriser leurs émotions et à ne pas prendre partie, même lorsqu'ils sont témoins d'une véritable injustice. Surtout que la force de la réaction augmente lorsqu'un Justicier grandit, tout comme la force physique d'un enfant s'accroît au fur et à mesure.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="VERSION">2014-09-17</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1067-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1067-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">cabel_dominique_-_nouvelle_en_classe</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>contemporain</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture aisée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Dominique Cabel&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:40.403859+00:00" name="calibre:timestamp"/>
+        <meta content="Nouvelle en classe" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

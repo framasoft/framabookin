@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1471</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2d2e353d-97fb-4d22-8c5f-d38decedcb6f</dc:identifier>
+        <dc:title>Nikanor</dc:title>
+        <dc:creator opf:file-as="Gréville, Henry" opf:role="aut">Henry Gréville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1887-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Henry Gréville, pseudonyme de Alice Marie Céleste Durand née Fleury (1842-1902), a publié de nombreux romans, des nouvelles, des pièces, de la poésie ; elle a été à son époque un écrivain à succès. Extrait : Nikanor était un bel enfant et un bon garçon, juste assez indiscipliné pour ne point paraître lourd ou hypocrite, et beaucoup trop fier pour se faire punir, à moins d'une raison tout à fait extraordinaire. Depuis qu'il avait atteint sa septième année, la main paternelle du bon Fadeï ne l'avait frappé qu'une fois, et la révolte d'orgueil qui avait bouleversé l'âme de Nikanor avait été si forte que jamais plus il ne s'était exposé au retour d'un châtiment de ce genre. Là où le fils aîné du prêtre, âgé de dix-sept ans, recevait encore à l'occasion une correction tirée des Écritures, Nikanor savait s'arranger pour ne rien attraper. Le père Fadeï ne se souciait guère, il faut le dire, de frapper son fils adoptif. Lors du mémorable châtiment, il avait lu dans les yeux sombres du petit garçon, à peine âgé de huit ans à cette époque, une telle expression d'indignation, de fureur contenue, qu'il en avait été effrayé. - C'est un fils de noble, avait-il dit à sa femme ; il ne faudrait point l'exciter, car, si les passions mauvaises s'éveillaient en lui, l'ennemi des hommes y trouverait une proie facile.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1523-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1523-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">greville_henry_-_nikanor</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Henry Gréville&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:48.486562+00:00" name="calibre:timestamp"/>
+        <meta content="Nikanor" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1734</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5cf9cc42-ea86-4657-9145-ea1d281a41b4</dc:identifier>
+        <dc:title>Souvenirs d’un gentilhomme italien</dc:title>
+        <dc:creator opf:file-as="Stendhal" opf:role="aut">Stendhal</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1927-12-14T23:00:00+00:00</dc:date>
+        <dc:description>Extrait : Les Etats de l'Eglise, commencèrent à répandre le bruit que l'on voyait les statues en bois du Christ et de la Vierge ouvrir les yeux ; la crédulité populaire accueillit avec confiance ce pieux mensonge ; on fit des processions ; on illumina la ville, et tous les fidèles s'empressèrent d'aller porter leurs offrandes à l'église. Mon oncle, curieux de voir lui-même le miracle dont on faisait tant de bruit, forma une procession de tous les gens de sa maison, se mit à leur tête en habit de deuil et un crucifix à la main, et je l'accompagnai en portant une torche allumée. Nous avions tous les pieds nus, dans la ferme persuasion que plus nous témoignerions d'humilité, plus la Vierge et son fils prendraient pitié de nous et seraient disposés à nous montrer leurs yeux ouverts.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1156-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1156-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">stendhal_-_souvenirs_d_un_gentilhomme_italien</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Stendhal&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:41.449616+00:00" name="calibre:timestamp"/>
+        <meta content="Souvenirs d’un gentilhomme italien" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

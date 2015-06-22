@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1697</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">728515a3-cb37-4197-99c5-b3d8ffdf80d4</dc:identifier>
+        <dc:title>Jean des Brebis ou Le livre de la misère</dc:title>
+        <dc:creator opf:file-as="Moselly, Émile" opf:role="aut">Émile Moselly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1907-12-14T23:00:00+00:00</dc:date>
+        <dc:description>Jean des Brebis ou le livre de la misère est un roman d'Émile Moselly publié en 1904. Ce livre, avec Terres lorraines du même auteur, fut récompensé en 1907 par le Prix Goncourt. Recueil de six nouvelles d'inspiration régionaliste se déroulant en Lorraine, le livre met en scène la vie des plus humbles et des miséreux dans un cadre lorrain, rural et champêtre. Les titres de ces nouvelles sont : Jean des Brebis, À la belle étoile, Le Revenant, La Mort du bouif, Le Trompion et Cri-Cri. Extrait : Ce fut une stupeur dans toute la pièce lorsqu'on apprit que l'ambition lui était venue, et que tenté sans doute par le désir d'aller en permission avec des galons sur la manche, il s'était fait inscrire chez le fourrier pour suivre le peloton des candidats, des aspirants brigadiers, des élèves martyrs, comme on disait là-bas. Il s'était mis résolument à apprendre la théorie, cognant son front avec ses poings, pour y faire entrer tant de choses à apprendre par cœur, suant à grosses gouttes, vaguement dérouté par les expressions techniques, qu'il ne comprenait guère, ne pouvant arriver à retenir tant de mots bizarres : « le frein hydraulique, et les rayures hélicoïdales, et le dégagement du talon du loquet » ; « un tas de sacrés fourbis inventés bien sûr pour l'embêtement du pauvre monde ». Il l'apprenait, cette théorie compliquée et décevante, avec tout son corps, avec tous ses membres, avec la même bonne volonté robuste qu'il apportait aux manœuvres de force, et il finissait toujours par se dépiter, par s'enrager, dans cette lutte émouvante où le terme insaisissable avait l'air de fuir, de se moquer de lui, de se dérober, dans une poursuite énervante et fugace. Encore une fois, on eût dit un ours qui, avec des gestes patauds de ses membres lourds, aurait chassé le long d'un mur une bestiole voltigeante et minuscule.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1131-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1131-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">moselly_emile_-_jean_des_brebis_ou_le_livre_de_la_misere</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Émile Moselly&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:33.959734+00:00" name="calibre:timestamp"/>
+        <meta content="Jean des Brebis ou Le livre de la misère" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

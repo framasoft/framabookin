@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1164</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">32166d2b-183b-4bdb-aeae-169058caad1b</dc:identifier>
+        <dc:title>Jacquot sans Oreilles</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>En voyage en Russie, Dumas fait escale à Makarief pour y visiter le château de Groubenski, l'un des derniers grands seigneurs russes. Intrigué par son histoire, il se fait envoyer le récit du drame conté par Jacquot sans oreilles, récit qu'il nous livre «tel quel». Jacquot a été, à l'heure glorieuse des Groubenski, piqueur au service du prince Alexis-Ivanovitch, le «dernier des boyards», puis de son petit-fils le prince Danilo. Héritier du château en 1828, Danilo veut éclaircir le mystère de la disparition de sa propre mère, la princesse Varvara. Extrait : J'avais bien souvent entendu parler, à Saint-Pétersbourg, à Moscou et surtout à Nijni-Novgorod, du prince Alexis-Ivanovitch Groubenski~; on citait de lui des excentricités les plus incroyables~; mais ces excentricités, qui eussent accusé l'humeur anglaise la mieux développée, étaient, même dans leur côté bouffon, obscurcies par je ne sais quel nuage sinistre planant sur cette existence étrange~; on sentait que, quoique à moitié effacée par le temps et par les efforts de ceux qui avaient intérêt à la faire disparaître tout à fait, il existait sur la vie du dernier des boyards, comme on l'appelait généralement dans le gouvernement de Nijni-Novgorod, une de ces taches d'un rouge sombre qui, pareilles à celles que l'on montre sur le parquet de la galerie aux Cerfs de Fontainebleau et du cabinet royal à Blois, dénoncent le sang versé. Partout, on m'avait dit~: -~Si, par hasard, vous vous arrêtez à Makarief, n'oubliez pas de visiter, en face du couvent, de l'autre côté de la Volga, les ruines du château de Groubenski. Surtout, ajoutait-on, n'oubliez pas de demander à voir la galerie des portraits...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1370-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1370-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_jacquot_sans_oreilles</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:45.180977+00:00" name="calibre:timestamp"/>
+        <meta content="Jacquot sans Oreilles" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

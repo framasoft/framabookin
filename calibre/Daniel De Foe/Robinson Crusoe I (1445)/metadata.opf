@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1445</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">597083b1-87ce-4453-89ca-c147e1247350</dc:identifier>
+        <dc:title>Robinson Crusoé I</dc:title>
+        <dc:creator opf:file-as="Foe, Daniel De" opf:role="aut">Daniel De Foe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Robinson quitte l'Angleterre en 1652 pour naviguer, contre la volonté de ses parents. Le navire est arraisonné par des pirates et Crusoé devient l'esclave d'un Maure. Il parvient à s'échapper sur un bateau et ne doit son salut qu'à un navire portugais qui passe au large de la côte ouest de l'Afrique. Arrivé au Brésil, Crusoé devient le propriétaire d'une plantation. Il se joint à une expédition partie à la recherche d'esclaves africains, mais il est naufragé sur une île. Tous ses compagnons étant morts, il parvient à récupérer des armes et des outils dans l'épave. Il se construit une habitation et confectionne un calendrier en faisant des entailles dans un morceau de bois. Il chasse et cultive le blé. Il apprend à fabriquer de la poterie et élève des chèvres. Il lit la Bible et rien ne lui manque, si ce n'est la compagnie des hommes... Extrait : Il continua de pleuvoir durant toute la nuit et une grande partie du lendemain, ce qui m'empêcha de sortir. L'esprit plus calme, je me mis à réfléchir sur ce que j'avais de mieux à faire. Je conclus que l'île étant sujette aux tremblements de terre, je ne devais pas vivre dans une caverne, et qu'il me fallait songer à construire une petite hutte dans un lieu découvert, que, pour ma sûreté, j'entourerais également d'un mur ; persuadé qu'en restant où j'étais, je serais un jour ou l'autre enterré tout vif. Ces pensées me déterminèrent à éloigner ma tente de l'endroit qu'elle occupait justement au-dessous d'une montagne menaçante qui, sans nul doute, l'ensevelirait à la première secousse. Je passai les deux jours suivants, les 19 et 20 avril, à chercher où et comment je transporterais mon habitation.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0306-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0306-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">foe_daniel_de_-_robinson_crusoe_i</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture intermédiaire</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Angleterre</dc:subject>
+        <meta content="{&quot;Daniel De Foe&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:42.626142+00:00" name="calibre:timestamp"/>
+        <meta content="Robinson Crusoé I" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

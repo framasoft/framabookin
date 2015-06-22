@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1753</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ce284b90-6725-4a4d-aa5c-cf5f6a3de398</dc:identifier>
+        <dc:title>Ariane, jeune fille russe</dc:title>
+        <dc:creator opf:file-as="Anet, Claude" opf:role="aut">Claude Anet</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Ariane entra dans un jardin assez exigu, qui n'était plutôt qu'une allée d'arbres et de rosiers, le long de la rue. Fiévreux, s'y promenait Paul Paulovitch. C'était un être doux, inoffensif, rêveur et généreux, effrayé de toutes choses et surtout d'être en tête à tête avec Ariane Nicolaevna, bien que deux ou trois fois par semaine, ils se retrouvassent dans ce petit jardin après les cours. Mais à chaque fois Paul Paulovitch était paralysé par une émotion qui lui laissait à peine la faculté de parler. Ce jour-là Ariane, au sortir de la brève conversation avec ses deux compagnes, paraissait irritable, ce qui ne fit qu'ajouter au désarroi du professeur. Il eut pourtant l'audace de lui proposer de s'asseoir sur un banc à l'écart. Elle refusa, elle était déjà très en retard et arriverait à la maison le déjeuner fini.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1229-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1229-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">anet_claude_-_ariane_jeune_fille_russe</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Claude Anet&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:45.567376+00:00" name="calibre:timestamp"/>
+        <meta content="Ariane, jeune fille russe" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1118</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">143333af-f1ac-49ce-b066-6d06facc88ed</dc:identifier>
+        <dc:title>Le gibet</dc:title>
+        <dc:creator opf:file-as="Chevalier, H.-Émile" opf:role="aut">H.-Émile Chevalier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Henri-Émile Chevalier, né le 13 septembre 1828 à Châtillon-sur-Seine, mort le 26 août 1879 à Paris, est un homme de lettres français. Extrait : Rassuré sur son compte, César s'ingénia à deviner ce qui s'était passé au-dedans du moulin, en rapprochant les faits auxquels il avait assisté, pour s'en faire un fil conducteur. Mais il ne put arriver à une conclusion satisfaisante. Les sentinelles restées en faction autour du moulin, après la retraite de la plus grande partie de la troupe, ne suffirent pas à éclairer cet esprit épais. Cependant César était naturellement curieux, -- curieux comme un nègre, c'est tout dire. Après avoir, durant un quart d'heure, ruminé, opposé les dangers qui l'environnaient à la vivacité de son désir, il résolut de tâcher de le satisfaire. -- Moi vouloir voir ce qu'ils ont fait, moi verra, se dit-il.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1299-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1299-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">chevalier_h_-emile_-_le_gibet</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;H.-Émile Chevalier&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:35.975989+00:00" name="calibre:timestamp"/>
+        <meta content="gibet, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

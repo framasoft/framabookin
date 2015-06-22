@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1830</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8bbf6a35-c0eb-46dc-a6af-84752595c326</dc:identifier>
+        <dc:title>L'Aigle-Noir des Dacotahs</dc:title>
+        <dc:creator opf:file-as="Aimard, Gustave" opf:role="aut">Gustave Aimard</dc:creator>
+        <dc:creator opf:file-as="Aimard, Gustave" opf:role="aut">J.-B. d'Auriac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Un nouveau roman du grand Ouest paru sous la double signature de Gustave Aimard et Jules Berlioz d'Auriac. Extrait : La civilisation est animée d'une force immense qui la pousse à une expansion sans limite ; comme la vapeur impatiente que soulève une ardente flamme, elle est toujours en ébullition, prête à se répandre hors des limites connues. La civilisation est le mouvement perpétuel de l'humanité, tou­jours à la recherche de l'infini. Mais, sur son passage, elle laisse des traces, souvent misérables ou sanglantes, -- épaves ballottées sur l'Océan du destin ; -- elle détruit en créant ; elle fait des ruines en consolidant son édifice ; elle engloutit quiconque veut lutter avec elle.  Il y a deux siècles à peine, des peuplades appelées Sauvages, -- pourquoi sauvages ?... -- pro­menaient dans les forêts vierges du Nouveau-Monde leur libre indolence, leur liberté soli­taire, leur ignorance insouciante du reste de l'univers. La civilisation s'est abattue sur ces régions heureuses, comme une avalanche, elle a balayé devant elle les bois, leurs hôtes errants, -- In­diens, buffles, gazelles ou léopards ; -- elle a supprimé le désert et ses profonds mystères ; elle a tout absorbé.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0405-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0405-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">aimard_gustave_-_l_aigle-noir_des_dacotahs</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture aisée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gustave Aimard&quot;: &quot;&quot;, &quot;J.-B. d'Auriac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:19:00.746238+00:00" name="calibre:timestamp"/>
+        <meta content="Aigle-Noir des Dacotahs, L'" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

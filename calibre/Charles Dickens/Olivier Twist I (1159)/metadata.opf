@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1159</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">01c4a010-8c09-4867-a7b9-88f888502fa4</dc:identifier>
+        <dc:title>Olivier Twist I</dc:title>
+        <dc:creator opf:file-as="Dickens, Charles" opf:role="aut">Charles Dickens</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Après la disparition de sa mère, morte en le mettant au monde, Olivier Twist est placé et élevé dans un orphelinat. Il devient vite le souffre-douleur du cruel bedeau Bumble qui pour s'en débarrasser, le place comme apprenti chez un fabricant de cercueils. Maltraité, Olivier s'enfuit à Londres où il est enrôlé dans une bande d'enfants-voleurs dirigé par Fagin, un homme redoutable... Extrait : C'était le moment critique de la destinée d'Olivier. Si l'encrier s'était trouvé à la place où le vieux monsieur le cherchait, il y eût trempé sa plume, il eût signé l'acte d'apprentissage, et Olivier eût été emmené sur l'heure. Mais le hasard voulut que l'encrier fût précisément sous son nez, et qu'il le cherchât des yeux de tous côtés sans l'apercevoir. Pendant cette recherche, il jeta les yeux en face de lui, et son regard rencontra la figure pâle et bouleversée d'Olivier Twist, qui, en dépit des coups d'œil significatifs et des pinçons de Bumble, considérait l'extérieur affreux de son futur maître avec une expression d'horreur et de crainte, trop visible pour échapper même à un magistrat à demi aveugle.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0207-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0207-0</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1346-5</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dickens_charles_-_olivier_twist_i</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture intermédiaire</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Angleterre</dc:subject>
+        <meta content="{&quot;Charles Dickens&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:44.179929+00:00" name="calibre:timestamp"/>
+        <meta content="Olivier Twist I" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

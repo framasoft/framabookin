@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1190</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0e4816e0-ec09-432a-b0da-d05fcfede699</dc:identifier>
+        <dc:title>Ascanio</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Fuyant l'Italie où sa fougue lui a valu des ennuis avec le pape Paul III, Benvenuto Cellini célèbre sculpteur et orfèvre, arrive à la cour de France sur l'invitation  de François Ier. Il est accompagné entre autres de son jeune apprenti Ascanio qu'il aime comme un fils et dont la redoutable duchesse d'Etampes, alors maîtresse du roi, est tombée amoureuse. Extrait : Mais, continua Ferrante avec le ton pédant qui lui était habituel, ne nous embrouillons pas dans nos desseins. Recte ad terminum eamus. Que le vicomte dorme tranquille sur les deux oreilles ! il aura son tour : il s'agit pour le moment de cet orfèvre florentin : on veut pour plus grande sécurité que nous soyons quatre à l'estafiler. À la rigueur un seul eût pu faire la besogne et empocher la somme, mais la capitalisation est une plaie sociale, et mieux vaut que le bénéfice soit partagé entre plusieurs amis. Seulement, dépêchons-le promptement et proprement, ce n'est pas un homme ordinaire, comme nous avons pu le voir, Fracasso et moi. Résignons-nous donc, pour plus de sûreté, à l'attaquer tous quatre à la fois, il ne peut maintenant tarder à venir. Attention ! du sang-froid, bon pied, bon œil, et prenez garde aux bottes à l'italienne qu'il ne manquera pas de vous pousser.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1362-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1362-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_ascanio</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:50.389392+00:00" name="calibre:timestamp"/>
+        <meta content="Ascanio" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

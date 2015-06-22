@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1069</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">84db6d78-3c8e-4c56-9a10-890b8980ae6a</dc:identifier>
+        <dc:title>Le Dernier des Mohicans</dc:title>
+        <dc:creator opf:file-as="Cooper, James Fenimore" opf:role="aut">James Fenimore Cooper</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Le Dernier des Mohicans (The last of the Mohicans) est un roman historique américain de James Fenimore Cooper, publié pour la première fois en janvier 1826. Deuxième des cinq ouvrages composant le cycle des Histoires de Bas-de-Cuir (Leatherstocking), il se situe entre Le Tueur de daims (The Deerslayer) et Le Lac Ontario (The Pathfinder). «Le roman de Bas de Cuir», dont le titre le plus connu est «Le dernier des Mohicans», est une vaste épopée qui a pour décor le continent nord-américain, pour personnages les tribus indiennes, et pour contexte social les guerres et la migration vers l'ouest, de 1740 à 1804. Elle est dominée par la haute figure de Natty Bumppo. Enfant de pionniers blancs, ce dernier a été élevé par les Delaware, les «bons» Indiens (alliés des Anglais...) qui s'opposent aux cruels Iroquois (associés aux Français...). Extrait : En réunissant les divers détachements qui étaient à sa disposition, cet officier pouvait ranger en bataille une force d'environ le double de ce nombre contre l'entreprenant Français, qui s'était hasardé si imprudemment loin de ses renforts. Mais dominés par le sentiment de leur dégradation, les officiers et les soldats parurent plus disposés à attendre dans leurs murailles l'arrivée de leur ennemi qu'à s'opposer à ses progrès en imitant l'exemple que les Français leur avaient donné, au fort Duquesne, en attaquant l'avant-garde anglaise, audace que la fortune avait couronnée.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0781-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0781-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">cooper_james_fenimore_-_le_dernier_des_mohicans</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Etats-Unis</dc:subject>
+        <meta content="{&quot;James Fenimore Cooper&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:25.606078+00:00" name="calibre:timestamp"/>
+        <meta content="Dernier des Mohicans, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

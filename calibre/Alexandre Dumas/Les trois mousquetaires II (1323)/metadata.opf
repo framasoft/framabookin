@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1323</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1ac4bda1-cf9b-41a2-93e3-4499172430ed</dc:identifier>
+        <dc:title>Les trois mousquetaires II</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Premier volume de la trilogie comprenant également Vingt ans après et Le vicomte de Bragelonne. Le roman raconte les aventures d'un Gascon désargenté de 18 ans, d'Artagnan, monté à Paris faire carrière. Il se lie d'amitié avec Athos, Porthos et Aramis, mousquetaires du roi Louis XIII. Ces quatre hommes vont s'opposer au premier ministre, le Cardinal de Richelieu et à ses agents, dont la belle et mystérieuse Milady de Winter, pour sauver l'honneur de la reine de France Anne d'Autriche. Avec ses nombreux combats et ses rebondissements romanesques, Les Trois mousquetaires est l'exemple type du roman de cape et d'épée. Extrait : - Dame ! monsieur, parce qu'il s'était vanté de perforer cet étranger avec lequel vous l'avez laissé en dispute, et que c'est cet étranger, au contraire, qui, malgré toutes ses rodomontades, l'a couché sur le carreau. Or, comme M. Porthos est un homme fort glorieux, excepté envers la duchesse, qu'il avait cru intéresser en lui faisant le récit de son aventure, il ne veut avouer à personne que c'est un coup d'épée qu'il a reçu. - Ainsi c'est donc un coup d'épée qui le retient dans son lit ? - Et un maître coup d'épée, je vous l'assure. Il faut que votre ami ait l'âme chevillée dans le corps. - Vous étiez donc là ?</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1402-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1402-8</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1403-5</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_les_trois_mousquetaires_ii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture avancée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:17.732892+00:00" name="calibre:timestamp"/>
+        <meta content="trois mousquetaires II, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

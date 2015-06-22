@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1463</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6fa7a427-98bd-42a1-8e17-61e7f3184fea</dc:identifier>
+        <dc:title>L'élève Gilles</dc:title>
+        <dc:creator opf:file-as="Lafon, André" opf:role="aut">André Lafon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1912-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Ce livre a reçu pour la première fois le grand de prix littérature de l'Académie Française en 1912. Gilles est un adolescent placé durant quelques mois à la campagne, aux bons soins de sa tante. Garçon de la ville, il s’imprègne de la nature à travers sa découverte du jardin situé au bord de l’estuaire, dans lequel il se réfugie. Lors de la reprise des classes, il intègre l’internat du collège voisin, où il est confronté à la dureté des rapports entre gamins, aux premières amitiés exaltées, mais aussi aux premières trahisons et aux premières lâchetés. Et puis, il y a ces parents trop lointains, ce père musicien dont on ne sait trop de quel mal il souffre et que Gilles cherche à contenter de mille manières sans jamais y parvenir, cette mère aimante mais qui se consacre tout entière aux caprices de son mari – jusqu'au drame final. Extrait : En me couchant, des chants de joie m'environnaient encore, et je les redisais en pensant à ma mère de qui je les avais appris. Je savais la revoir bientôt, puisque le mois ne pouvait finir sans qu'elle vînt me chercher. Elle n'avait point redit, dans ses lettres, que cela dût être à Noël, mais rien ne prouvait que le lendemain ne l'amènerait pas, et je me flattais de cette espérance. La bougie éteinte, je m'aperçus qu'on avait oublié de tirer les volets, et que la clarté lunaire baignait ma chambre. Le dessin de la fenêtre se projetait sur le tapis. Je considérai, aux vitres nues, le scintillement profond de la nuit, et je demeurai sans aucune crainte, les yeux clos, avec le sentiment d'une présence céleste à mon chevet. Je m'éveillai fort tard le lendemain, malgré le jour entré librement dans la chambre. Je portais comme ceux d'un rêve, les souvenirs de la nuit, mais ils se précisèrent, et la pensée me revint tout à coup des souliers laissés devant l'âtre. Je trouvai une pomme rouge dans chaque chaussure, et, pliés dans le papier brillant d'une plaque de chocolat, cinq gros sous neufs et crissants sous les doigts, qui ne suffirent point à combler mon attente.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0116-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0116-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">lafon_andre_-_l_eleve_gilles</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;André Lafon&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:46.901711+00:00" name="calibre:timestamp"/>
+        <meta content="élève Gilles, L'" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

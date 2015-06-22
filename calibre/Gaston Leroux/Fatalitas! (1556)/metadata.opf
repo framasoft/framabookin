@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1556</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d49d5398-2f9a-4f03-98fb-804e2730cf3b</dc:identifier>
+        <dc:title>Fatalitas!</dc:title>
+        <dc:creator opf:file-as="Leroux, Gaston" opf:role="aut">Gaston Leroux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1919-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Suite de Palas et Chéri-Bibi. Extrait : Et il avait fallu mentir honteusement, odieusement, partir pour la Suisse, accoucher mystérieusement… et, une nuit, une porte s’était entrouverte et un enfant avait été déposé entre les bras de Raoul… car les choses se passent dans la vie, hélas ! comme dans les romans… ce sont les mêmes gestes qui paraissent préparés, « convenus », et qui ne sont que fatals, des rencontres d’événements jugés exceptionnels et qui ne cessent cependant de se répéter suivant une logique implacable qui réunit dans un même lieu, à une heure utile, des gens qui ont toutes les raisons possibles pour ne pas se rencontrer</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0260-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0260-5</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0269-8</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leroux_gaston_-_fatalitas</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gaston Leroux&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:05.345047+00:00" name="calibre:timestamp"/>
+        <meta content="Fatalitas!" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

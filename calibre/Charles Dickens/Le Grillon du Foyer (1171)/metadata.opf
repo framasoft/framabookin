@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1171</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">41f2961b-e41a-4e2d-9a17-95f9ac619f26</dc:identifier>
+        <dc:title>Le Grillon du Foyer</dc:title>
+        <dc:creator opf:file-as="Dickens, Charles" opf:role="aut">Charles Dickens</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Le vieux Caleb est un pauvre fabricant de jouets. Mais il fait croire à sa fille aveugle qu'elle vit dans le luxe, unique moyen pour lui, de témoigner son amour au seul être cher qu'il a au monde et de lui apporter un peu de joie... Ce conte émouvant, tant pour les enfants que pour les grands, fait également partie des « Contes de Noël » Extrait : J'ai dit que Caleb et sa pauvre fille aveugle habitaient là, mais j'aurais dû dire que Caleb habitait là et que sa fille habitait ailleurs ; elle habitait une demeure enchantée par le talent de Caleb, où la pauvreté, le dénuement, et les soucis ne pénétraient jamais. Caleb n'était pas sorcier, mais il possédait là son art magique réservé aux hommes : la magie du dévouement, et l'amour sans bornes. La nature avait été sa seule maîtresse, et lui avait enseigné à produire tous ses enchantements. La fille aveugle n'avait jamais su que le plafond était sale, les murs décrépits et lézardés, et laissant à l'air des passages de plus en plus nombreux ; que les solives vermoulues étaient prêtes à s'effondrer ; que la rouille mangeait le fer, la pourriture le bois, et la moisissure le papier ; enfin que le délabrement de la masure s'aggravait chaque jour. Elle ne sut jamais que la table à manger ne portait qu'une vaisselle ébréchée, que le découragement et les chagrins attristaient la maison, et que les cheveux de son père blanchissaient à vue d'œil. Elle ne sut jamais qu'ils avaient un maître froid, exigeant et intéressé ; elle ne sut jamais en un mot que Tackleton était Tackleton, mais elle vivait dans la croyance que dans son humour excentrique il aimait à plaisanter avec eux, et, qu'étant leur ange gardien, il dédaignait de leur dire une parole de remerciement.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0201-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0201-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dickens_charles_-_le_grillon_du_foyer</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Angleterre</dc:subject>
+        <meta content="{&quot;Charles Dickens&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:46.620504+00:00" name="calibre:timestamp"/>
+        <meta content="Grillon du Foyer, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

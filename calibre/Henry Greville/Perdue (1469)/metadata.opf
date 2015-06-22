@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1469</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5ff175c7-02db-4ecd-99df-37fba4b62578</dc:identifier>
+        <dc:title>Perdue</dc:title>
+        <dc:creator opf:file-as="Gréville, Henry" opf:role="aut">Henry Gréville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1881-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Henry Gréville, pseudonyme de Alice Marie Céleste Durand née Fleury (1842-1902), a publié de nombreux romans, des nouvelles, des pièces, de la poésie ; elle a été à son époque un écrivain à succès. Extrait : Un sourd murmure parcourut la foule, soudain frappée comme par une commotion électrique. Lorsque la mort passe au milieu de nous, si près qu'elle nous frôle de son linceul, celui qu'elle enlève, nous fût-il indifférent, étranger même, devient un objet de respect et de pitié. Chacun songe à ceux qu'il aime, songe au néant de sa propre existence, et reporte sur la victime sa pieuse commisération. Marie était une inconnue pour tous, et tous se sentirent émus en voyant les bras inertes de la jeune morte tomber le long de son corps quand les sergents de ville l'enlevèrent pour la transporter sur une civière au poste de police. - L'enfant ! cria une voix dans la foule. - Emmenez l'enfant ! dit brusquement le gardien.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1525-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1525-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">greville_henry_-_perdue</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Henry Gréville&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:48.089677+00:00" name="calibre:timestamp"/>
+        <meta content="Perdue" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

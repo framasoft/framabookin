@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1142</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e8b324e0-70eb-423f-8e86-c4149c9c7b4a</dc:identifier>
+        <dc:title>Le petit lord</dc:title>
+        <dc:creator opf:file-as="Burnett, Frances Hodgson" opf:role="aut">Frances Hodgson Burnett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Frances Eliza Hodgson Burnett, de son nom de jeune fille Frances Eliza Hodgson, née le 24 novembre 1849 à Manchester et décédée le 24 octobre 1924 à Plandome dans l'État de New York, est une romancière anglaise, connue pour être l'une des pionnières du roman d'apprentissage pour enfants. Son père meurt en 1853, laissant sa famille dans une misère extrême. Cette période de sa vie a eu un grand impact sur les motifs de son existence et sa conscience : dans plusieurs de ses romans, elle parle de la pauvreté et des différences entre les classes sociales. En 1865, elle émigre avec sa famille aux États-Unis, dans le Tennessee. Elle partagera son temps entre l'Angleterre, où elle fera de nombreux longs séjours, et les États-Unis. Extrait : Les motifs du comte étaient loin d'être élevés ; mais la mère de Cédric avait une nature trop droite et trop affectueuse pour les soupçonner. Sans s'apercevoir du profond égoïsme qui se cachait sous ces apparences généreuses, elle se dit qu'il était naturel qu'un homme âgé, seul, malheureux, qui avait perdu tous ses enfants, cherchât, par de bons procédés, à gagner l'affection et la confiance de l'unique rejeton qui lui restât. De plus, elle était heureuse de penser que le premier effet de la fortune étrange et soudaine qui venait de tomber sur son petit garçon, serait de venir en aide à une pauvre femme à laquelle elle s'intéressait et qui avait tant besoin de secours.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1289-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1289-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">burnett_frances_hodgson_-_le_petit_lord</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture aisée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Angleterre</dc:subject>
+        <meta content="{&quot;Frances Hodgson Burnett&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:40.789697+00:00" name="calibre:timestamp"/>
+        <meta content="petit lord, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

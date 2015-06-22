@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1450</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">028410c4-ce61-4168-bd43-45ca1e4c4e97</dc:identifier>
+        <dc:title>Contes étranges</dc:title>
+        <dc:creator opf:file-as="Hawthorne, Nathaniel" opf:role="aut">Nathaniel Hawthorne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1876-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Le grand écrivain, le penseur original dont nous présentons au public une série de contes qui passent à bon droit pour des chefs-d'œuvre en son genre, était fils d'un capitaine au long cours, qui mourut dans un voyage qu'il faisait à la Havane. Hawthorne avait cinq ans lors de cet événement ; il était né le 4 juillet 1804, à Salem, dans le Massachusetts et son enfance s'écoula paisible dans une ferme voisine du lac Sébago dans l'État du Maine. Ses premiers essais, publiés dans des Magazines, furent réimprimés en deux séries, en 1837 et en 1842, sous le titre de Twice told tales (Contes deux fois dits), et attirèrent du premier coup l'attention du public sur le jeune et brillant écrivain. Hawthorne publia de très nombreuses nouvelles sans les signer ou en utilisant un pseudonyme dans différentes revues, notamment The New-England Magazine et The United States Democratic Review. Extrait : Le patient insecte venait en se jouant de résoudre le curieux problème qui consiste à fixer les deux extrémités d'un fil à des distances relativement énormes ; puis cette amarre convenablement fixée, il avait fait converger plusieurs fils au milieu du premier et s'occupait à les enlacer les uns aux autres par des mailles destinées à barrer le passage au gibier ailé. Giovanni s'approcha de l'araignée et lui lança une longue bouffée de son haleine. Immédiatement l'animal cessa d'ourdir sa toile, qui s'agita par suite du tremblement convulsif de son petit artisan. Une seconde fois Giovanni souffla plus largement et avec plus de force sur l'araignée, lançant sur elle tout le poison que renfermait déjà son cœur. L'araignée tenta par un effort désespéré de se raccrocher à la toile, mais tout ce qu'elle put faire fut de se laisser glisser le long d'un fil, échelle improvisée, jusque sur l'appui de la fenêtre sur lequel elle tomba mourante. - Maudit ! maudit ! murmura Giovanni, en s'adressant à lui-même, es-tu si empoisonné que ton souffle soit mortel, même pour ce venimeux insecte ?</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1547-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1547-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">hawthorne_nathaniel_-_contes_etranges</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Etats-Unis</dc:subject>
+        <meta content="{&quot;Nathaniel Hawthorne&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:44.185483+00:00" name="calibre:timestamp"/>
+        <meta content="Contes étranges" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1408</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">07362755-f32e-4d0b-9bf9-ce8febc41fc0</dc:identifier>
+        <dc:title>L'ami Fritz</dc:title>
+        <dc:creator opf:file-as="Erckmann-Chatrian" opf:role="aut">Erckmann-Chatrian</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Fritz Kobus, bon Bavarois anabaptiste, est un célibataire endurci et heureux. Il apprécie la vie en vrai épicurien, se réjouit de bien manger et de bien boire. Un sentiment saisit le célibataire quand il découvre la jeune Sûzel... Extrait : Encore, si c'était de la veuve Windling ou de la grande Salomé Roedig que tu sois amoureux, cela pourrait aller. Il vaudrait mieux te pendre mille fois, que de te marier avec l'une d'elles ; mais au moins, aux yeux des gens, un pareil mariage serait raisonnable. Mais être amoureux de la petite Sûzel, la fille de ton propre fermier, une enfant, une véritable enfant, qui n'est ni de ton rang, ni de ta condition, et dont tu pourrais être le père, c'est trop fort ! C'est tout à fait contre nature, ça n'a pas même le sens commun. Si par malheur quelqu'un s'en doutait</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0691-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0691-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">erckmann-chatrian_-_l_ami_fritz</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Erckmann-Chatrian&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:35.209810+00:00" name="calibre:timestamp"/>
+        <meta content="ami Fritz, L'" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

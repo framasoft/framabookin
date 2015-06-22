@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">959</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ceb7e1ba-8fd5-4fc8-921c-892d124d7f0c</dc:identifier>
+        <dc:title>Où mènent les mauvais chemins</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études de moeurs. Troisième et quatrième livres, Scènes de la vie parisienne et scènes de la vie politique - Tome XII (sic, erreur pour le tome IV). Douzième volume de l'édition Furne 1842. Extrait : Outre les avocats sans cause qui balayent cette salle avec leurs robes et qui nomment les grands avocats par leurs noms de baptême, à la manière des grands seigneurs entre eux, pour faire croire qu’ils appartiennent à l’aristocratie de l’Ordre ; on voit souvent de patients jeunes gens, à la dévotion des avoués, faisant le pied de grue à propos d’une seule cause retenue en dernier et susceptible d’être plaidée si les avocats des causes retenues en premier se faisaient attendre. Ce serait une peinture curieuse que celle des différences entre chacune des robes noires qui se promènent dans cette immense salle trois par trois, quelquefois quatre à quatre, en produisant par leurs causeries l’immense bourdonnement qui retentit dans cette salle, si bien nommée, car la marche use les avocats autant que les prodigalités de la parole ; mais elle trouvera place dans l’Étude destinée à peindre les avocats de Paris.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1033-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1033-4</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0985-7</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_ou_menent_les_mauvais_chemins</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:03.609232+00:00" name="calibre:timestamp"/>
+        <meta content="Où mènent les mauvais chemins" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1516</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0b1dd2b2-fc27-4165-8c74-d5b8a518e8b5</dc:identifier>
+        <dc:title>Chénerol</dc:title>
+        <dc:creator opf:file-as="Gréville, Henry" opf:role="aut">Henry Gréville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1892-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Henry Gréville, pseudonyme de Alice Marie Céleste Durand née Fleury (1842-1902), a publié de nombreux romans, des nouvelles, des pièces, de la poésie ; elle a été à son époque un écrivain à succès. Extrait : Villeroy regarda sa fille. Seize ans seulement, si délicate, presque fragile, si tendre... et, ce coup ne lui avait pas été épargné ! La mère était partie, abandonnant non seulement l'époux, qu'elle n'aimait point, mais la fille, qu'elle croyait aimer ! -- Ma pauvre enfant, dit-il, ses lèvres parcheminées par la soif de l'angoisse se refusant presque à proférer les paroles irrémédiables, ta mère s'ennuyait avec nous... Elle est partie pour faire un voyage... Il s'arrêta. Madeleine le regardait, attendant la suite. -- Il va falloir nous arranger pour vivre seuls... À la question clairement posée par les yeux de sa fille : « Elle reviendra ? » il répondit, la tête basse, le cœur saturé d'amertume : -- Je ne sais pas...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1500-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1500-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">greville_henry_-_chenerol</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Henry Gréville&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:57.503818+00:00" name="calibre:timestamp"/>
+        <meta content="Chénerol" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

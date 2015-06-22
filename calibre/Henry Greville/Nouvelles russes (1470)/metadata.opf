@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1470</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">af2a4e4f-f7d9-458c-8c3b-54667ec8b3a1</dc:identifier>
+        <dc:title>Nouvelles russes</dc:title>
+        <dc:creator opf:file-as="Gréville, Henry" opf:role="aut">Henry Gréville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1878-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Henry Gréville, pseudonyme de Alice Marie Céleste Durand née Fleury (1842-1902), a publié de nombreux romans, des nouvelles, des pièces, de la poésie ; elle a été à son époque un écrivain à succès. Extrait : La fiancée qu'on lui destinait ne lui plaisait pas. Irina avait un air à la fois dédaigneux et évaporé~; elle aimait à rire avec les jeunes gens, et son père l'avait souvent battue pour sa coquetterie. Plus le dimanche approchait, moins il se sentait disposé à lui faire la cour. Il fallut bien s'y résoudre, cependant~; ni son père, ni Varlam ne lui auraient permis de négliger sa promesse, et d'ailleurs il trouva la tâche moins difficile qu'il ne l'avait cru. Cette fille aux lèvres rouges, aux yeux provocants, était une femme, et on allait la lui donner~; il vit arriver le jour des noces sans déplaisir et même avec une certaine impatience.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1524-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1524-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">greville_henry_-_nouvelles_russes</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Henry Gréville&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:48.285747+00:00" name="calibre:timestamp"/>
+        <meta content="Nouvelles russes" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

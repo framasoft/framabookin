@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1673</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">13ec3dcb-1f78-41d2-ab28-96a29820619b</dc:identifier>
+        <dc:title>À la recherche du temps perdu VI</dc:title>
+        <dc:creator opf:file-as="Proust, Marcel" opf:role="aut">Marcel Proust</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1922-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Le Côté de Guermantes est le troisième tome d'À la recherche du temps perdu de Marcel Proust publié entre 1921 et 1922 chez Gallimard. Dans son édition originelle, le roman est divisé en deux tomes dont la deuxième partie, Le côté de Guermantes I, est suivie de Le Côté de Guermantes II. Extrait : Et cela m'était d'autant plus nécessaire de pouvoir chercher dans le « salon » de Mme de Guermantes, dans ses amis, le mystère de son nom, que je ne le trouvais pas dans sa personne quand je la voyais sortir le matin à pied ou l'après-midi en voiture. Certes déjà, dans l'église de Combray, elle m'était apparue dans l'éclair d'une métamorphose avec des joues irréductibles, impénétrables à la couleur du nom de Guermantes, et des après-midi au bord de la Vivonne, à la place de mon rêve foudroyé, comme un cygne ou un saule en lequel a été changé un Dieu ou une nymphe et qui désormais soumis aux lois de la nature glissera dans l'eau ou sera agité par le vent. Pourtant ces reflets évanouis, à peine les avais-je quittés qu'ils s'étaient reformés comme les reflets roses et verts du soleil couché, derrière la rame qui les a brisés, et dans la solitude de ma pensée le nom avait eu vite fait de s'approprier le souvenir du visage. Mais maintenant souvent je la voyais à sa fenêtre, dans la cour, dans la rue ; et moi du moins si je ne parvenais pas à intégrer en elle le nom de Guermantes, à penser qu'elle était Mme de Guermantes, j'en accusais l'impuissance de mon esprit à aller jusqu'au bout de l'acte que je lui demandais ; mais elle, notre voisine, elle semblait commettre la même erreur ; bien plus, la commettre sans trouble, sans aucun de mes scrupules, sans même le soupçon que ce fût une erreur. Ainsi Mme de Guermantes montrait dans ses robes le même souci de suivre la mode que si, se croyant devenue une femme comme les autres, elle avait aspiré à cette élégance de la toilette dans laquelle des femmes quelconques pouvaient l'égaler, la surpasser peut-être ; je l'avais vue dans la rue regarder avec admiration une actrice bien habillée ; et le matin, au moment où elle allait sortir à pied, comme si l'opinion des passants dont elle faisait ressortir la vulgarité en promenant familièrement au milieu d'eux sa vie inaccessible, pouvait être un tribunal pour elle, je pouvais l'apercevoir devant sa glace, jouant avec une conviction exempte de dédoublement et d'ironie, avec passion, avec mauvaise humeur, avec amour-propre, comme une reine qui a accepté de représenter une soubrette dans une comédie de cour, ce rôle, si inférieur à elle, de femme élégante ; et dans l'oubli mythologique de sa grandeur native, elle regardait si sa voilette était bien tirée, aplatissait ses manches, ajustait son manteau, comme le cygne divin fait tous les mouvements de son espèce animale, garde ses yeux peints des deux côtés de son bec sans y mettre de regards et se jette tout d'un coup sur un bouton ou un parapluie, en cygne, sans se souvenir qu'il est un Dieu.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0884-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0884-3</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1572-8</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">proust_marcel_-_a_la_recherche_du_temps_perdu_vi</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Marcel Proust&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:29.065707+00:00" name="calibre:timestamp"/>
+        <meta content="À la recherche du temps perdu VI" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

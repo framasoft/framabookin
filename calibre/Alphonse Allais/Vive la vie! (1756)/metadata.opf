@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1756</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">536a8cd1-bdd8-454b-89c8-4758ea22c087</dc:identifier>
+        <dc:title>Vive la vie!</dc:title>
+        <dc:creator opf:file-as="Allais, Alphonse" opf:role="aut">Alphonse Allais</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Bois-Lamothe ne s'y trompa pas une seconde. Il reconnut ses haricots blancs, ses noirs, ses bleus, ses rouges, ses violets. Il reconnut ses haricots jaune et violet, bleu et orange, rouge et vert. Le marquis se leva tout droit, battit l'air de ses grands bras secs et s'effondra en arrière sur une vieille pendule Louis XIII, qui n'avait sûrement pas marqué vingt minutes depuis Henri IV. Il était mort.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1227-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1227-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">allais_alphonse_-_vive_la_vie</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alphonse Allais&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:46.159281+00:00" name="calibre:timestamp"/>
+        <meta content="Vive la vie!" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

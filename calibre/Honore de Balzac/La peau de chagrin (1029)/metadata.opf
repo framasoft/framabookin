@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1029</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8bf0821f-314f-420e-ba70-f71b8aa617df</dc:identifier>
+        <dc:title>La peau de chagrin</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études philosophiques - Tome I. Quatorzième volume de l'édition Furne 1842. Extrait : Le jeune homme se leva brusquement et témoigna quelque surprise en apercevant au-dessus du siége où il s’était assis un morceau de chagrin accroché sur le mur, et dont la dimension n’excédait pas celle d’une peau de renard ; mais, par un phénomène inexplicable au premier abord, cette peau projetait au sein de la profonde obscurité qui régnait dans le magasin des rayons si lumineux que vous eussiez dit d’une petite comète. Le jeune incrédule s’approcha de ce prétendu talisman qui devait le préserver du malheur, et s’en moqua par une phrase mentale. Cependant, animé d’une curiosité bien légitime, il se pencha pour la regarder alternativement sous toutes les faces, et découvrit bientôt une cause naturelle à cette singulière lucidité : les grains noirs du chagrin étaient si soigneusement polis et si bien brunis, les rayures capricieuses en étaient si propres et si nettes que, pareilles à des facettes de grenat, les aspérités de ce cuir oriental formaient autant de petits foyers qui réfléchissaient vivement la lumière. Il démontra mathématiquement la raison de ce phénomène au vieillard, qui, pour toute réponse, sourit avec malice. Ce sourire de supériorité fit croire au jeune savant qu’il était dupe en ce moment de quelque charlatanisme. Il ne voulut pas emporter une énigme de plus dans la tombe, et retourna promptement la peau comme un enfant pressé de connaître les secrets de son jouet nouveau.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0997-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0997-0</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0978-9</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_la_peau_de_chagrin</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture avancée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:17.572955+00:00" name="calibre:timestamp"/>
+        <meta content="peau de chagrin, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

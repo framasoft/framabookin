@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1210</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0eb69823-7353-4f1d-b5f3-000a5d2d1d71</dc:identifier>
+        <dc:title>Les fiancés de 1812</dc:title>
+        <dc:creator opf:file-as="Doutre, Joseph" opf:role="aut">Joseph Doutre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Joseph Doutre est un écrivain, un journaliste, un homme politique et un avocat canadien. Il publia en 1844 un roman intitulé Les Fiancés de 1812, mais son livre fut condamné et jugé immoral. Extrait : L'inconnu commençait à ouvrir de grands yeux. D'autant plus que tout en parlant ainsi, Louise laissait nonchalamment apercevoir deux pistolets qui pendaient à sa mince ceinture, et la poignée d'un stylet légèrement recouvert sur son épaisse poitrine. Jamais taille plus mollement guerrière, ni plus artistement cadrée n'avait frappé les regards de cet homme, dont on connaîtra plus tard le caractère et les desseins. Il était loin d'être lâche, mais cette âme de Louise, qui, un moment avant, lui paraissait si candide, semblant changer si complètement de nature, exerçait déjà sur lui un empire qu'il subissait sans presque s'en apercevoir.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1359-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1359-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">doutre_joseph_-_les_fiances_de_1812</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Joseph Doutre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:54.729210+00:00" name="calibre:timestamp"/>
+        <meta content="fiancés de 1812, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

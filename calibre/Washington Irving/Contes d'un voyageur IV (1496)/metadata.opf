@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1496</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f42c920d-734d-40ef-80c3-7e3980ce3f67</dc:identifier>
+        <dc:title>Contes d'un voyageur IV</dc:title>
+        <dc:creator opf:file-as="Irving, Washington" opf:role="aut">Washington Irving</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1824-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Avec ses Contes du voyageur, Irving nous convie autant au voyage et à l'exotisme, qu'aux vagabondages de l'imagination, humaine et littéraire, dans toute sa splendeur. Ajoutez à ces récits la traduction française bancale et délicieusement vieillotte de 1825. Extrait : Je n'avais pas de chapeau, et le sang coulait de ma blessure : je m'efforçai néanmoins de l'étancher avec mon mouchoir de poche, que je liai autour de ma tête. Le capitaine de la bande me conduisait en triomphe, croyant que j'étais le prince. Nous étions déjà bien loin, quand un des ouvriers le détrompa. Sa rage fut terrible ; il était trop tard pour retourner au château et pour tâcher de réparer son erreur ; car depuis ce temps, l'alarme aurait été donnée et tout le monde serait sur ses gardes. Il me lança un regard féroce... il jura que je l'avais trompé, que je lui avais fait manquer sa fortune... et il me dit de me préparer à la mort. Les autres brigands étaient également furieux. Je les vis porter la main à leurs poignards, et je savais que la menace de la mort est rarement une vaine démonstration chez ces scélérats. Les ouvriers s'aperçurent du danger où m'avait mis leur révélation, et ils s'empressèrent d'assurer le capitaine que j étais un homme pour lequel le prince paierait une grosse rançon. Cet avis arrêta les bandits. Quant à moi je ne puis dire que je fusse fort effrayé de leurs menaces. Je ne cherche pas à me vanter d'un grand courage ; mais nos dernières révolutions m'ont tellement familiarisé avec le malheur, et j'ai vu la mort de si près dans tant de scènes de péril et de désastre, que je me suis en quelque sorte endurci contre toute crainte. L'homme qui risque souvent sa vie finit par en faire aussi peu de cas que le joueur en fait de son argent. À leurs menaces de mort, je répondis que le plus tôt serait le mieux. Cette réponse parut étonner le capitaine, et la perspective d'une rançon que lui faisaient entrevoir les ouvriers, eut sans doute encore plus d'effet sur lui. Il réfléchit un moment, prit des manières plus calmes ; et faisant un signe à ses compagnons qui attendaient mon arrêt de mort. « En avant, dit-il, nous examinerons cela plus tard, à loisir. »</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1560-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1560-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">irving_washington_-_contes_d_un_voyageur_iv</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>conte</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Etats-Unis</dc:subject>
+        <meta content="{&quot;Washington Irving&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:53.497558+00:00" name="calibre:timestamp"/>
+        <meta content="Contes d'un voyageur IV" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

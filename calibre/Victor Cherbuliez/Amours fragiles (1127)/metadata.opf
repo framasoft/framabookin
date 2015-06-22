@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1127</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dd13bc1b-c0e1-48c6-8b3b-07979ad0e2a1</dc:identifier>
+        <dc:title>Amours fragiles</dc:title>
+        <dc:creator opf:file-as="Cherbuliez, Victor" opf:role="aut">Victor Cherbuliez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Victor Cherbuliez, né à Genève le 19 juillet 1829 et mort à Combs-la-Ville le 1er juillet 1899, est un romancier, auteur dramatique, essayiste et critique littéraire français. Extrait : Ce consul général, qui avait de la fortune, prit son parti d'épouser pour ses beaux yeux une fille qui n'avait rien et dont le père était un homme taré ; encore l'épousa-t-il sans contrat, en communauté de biens. Cela fit esclandre ; on lui reprocha son beau-père, on clabauda contre lui. Il en fut réduit à donner sa démission, et il quitta l'Égypte pour retourner à Périgueux, sa ville natale, à quoi sa jeune et jolie femme l'encouragea, car il lui tardait de s'éloigner à jamais d'un père compromettant et d'aller jouir en France de sa nouvelle fortune. Je me souviens que j'appris cette histoire au ministère des affaires étrangères, où l'on s'en occupa pendant huit jours, et puis on parla d'autre chose. Mais l'ex-consul n'était pas au bout de ses peines.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1296-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1296-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">cherbuliez_victor_-_amours_fragiles</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Victor Cherbuliez&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:37.793041+00:00" name="calibre:timestamp"/>
+        <meta content="Amours fragiles" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

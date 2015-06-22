@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1433</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f733d2d-8d46-4f75-8638-b2691a776252</dc:identifier>
+        <dc:title>Originaux et détraqués</dc:title>
+        <dc:creator opf:file-as="Fréchette, Louis" opf:role="aut">Louis Fréchette</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1892-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Originaux et Détraqués, qui furent longtemps une des œuvres les plus populaires de Fréchette, nous présentent douze type québécois hauts en couleur, plus ou moins maniaques et quelquefois comiques. Ce sont plutôt des caricatures que des personnages vraisemblables. Ténue ou inexistante, l'intrigue de ces contes ne comporte généralement qu'une série de petits incidents ou d'anecdotes. Le style, truffé de canadianismes, a de l'allant et du naturel. Extrait :</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1468-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1468-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">frechette_louis_-_originaux_et_detraques</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Louis Fréchette&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:40.237425+00:00" name="calibre:timestamp"/>
+        <meta content="Originaux et détraqués" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

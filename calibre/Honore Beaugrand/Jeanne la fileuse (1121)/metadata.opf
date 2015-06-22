@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1121</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">31acedc2-8199-44aa-b15b-963092d9e231</dc:identifier>
+        <dc:title>Jeanne la fileuse</dc:title>
+        <dc:creator opf:file-as="Beaugrand, Honoré" opf:role="aut">Honoré Beaugrand</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : « Je fis la sourde oreille et après quelques instants, les coups cessèrent. Je m'endormis bientôt, pour ne me réveiller que le lendemain au grand jour, au bruit infernal que faisaient deux jeunes hommes du voisinage qui ébranlaient ma porte à grands coups de pied. Je me levai à la hâte pour aller les châtier de leur impudence, quand j'aperçus en ouvrant la porte, le corps inanimé d'un jeune homme qui était mort de froid et de misère sur le seuil de ma maison. J'avais par amour pour mon or, laissé mourir un homme qui frappait à ma porte et j'étais presqu'un assassin. Je devins fou de douleur et de repentir.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1253-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1253-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">beaugrand_honore_-_jeanne_la_fileuse</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Honoré Beaugrand&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:36.616886+00:00" name="calibre:timestamp"/>
+        <meta content="Jeanne la fileuse" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

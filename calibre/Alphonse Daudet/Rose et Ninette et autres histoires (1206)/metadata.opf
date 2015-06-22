@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1206</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8f36575e-3617-4131-833a-c6f979f918cc</dc:identifier>
+        <dc:title>Rose et Ninette et autres histoires</dc:title>
+        <dc:creator opf:file-as="Daudet, Alphonse" opf:role="aut">Alphonse Daudet</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Et maintenant, dans l'angoisse de l'attente, il se demandait si bien réellement elles viendraient, si, au dernier moment, la mère rusée et fourbe, ou cette impénétrable Mademoiselle, n'inventeraient pas quelque prétexte pour les retenir. Non qu'il doutât de la tendresse de ses enfants. Mais il les sentait si jeunes, -- Rose seize ans à peine, Nina pas encore douze, -- si faibles toutes deux pour résister à une hostile influence ; d'autant que sorties du couvent depuis le divorce, elles restaient livrées à la mère et à la gouvernante. Son avocat le lui avait bien dit : « La partie n'est pas égale, mon pauvre Régis ; vous n'aurez que deux jours par mois, vous, pour vous faire aimer. » N'importe, avec ses deux jours bien employés, le père se sentait assez fort pour garder le cœur de ses chéries ; mais il les lui fallait, ces deux jours, strictement, sans tricheries, sans mauvais prétextes.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1331-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1331-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">daudet_alphonse_-_rose_et_ninette_et_autres_histoires</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alphonse Daudet&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:53.919372+00:00" name="calibre:timestamp"/>
+        <meta content="Rose et Ninette et autres histoires" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

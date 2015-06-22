@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1287</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8af8dad9-f050-4f76-8677-7d9fd8584fbc</dc:identifier>
+        <dc:title>La tulipe noire</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>En 1672, Guillaume d'Orange prend le pouvoir en Hollande, profitant du massacre par le peuple des frères Jean et Corneille de Witt accusés de tractations secrètes avec la France. Pendant ce temps, loin des tumultes de la politique, le jeune Cornélius van Baerle (filleul de Corneille de Witt), se livre à sa passion des tulipes en essayant de créer une tulipe noire, dont la découverte sera récompensée par un prix de la société horticole de Harlem. Le voyant sur le point d'aboutir, son voisin Boxtel, par jalousie et par cupidité, le dénonce comme complice de Corneille de Witt. Extrait : - Oui, car il sera fort ou il sera faible. S'il est fort (car si étranger qu'il soit à ce qui nous arrive ; car, quoique enseveli à Dordrecht, quoique distrait, que c'est miracle ! il saura, un jour ou l'autre, ce qui nous arrive), s'il est fort, il se vantera de nous ; s'il est faible, il aura peur de notre intimité ; s'il est fort, il criera le secret ; s'il est faible, il le laissera prendre. Dans l'un et l'autre cas, Corneille, il est donc perdu et nous aussi. Ainsi donc, mon frère, fuyons vite, s'il en est encore temps.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0035-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0035-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_la_tulipe_noire</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:10.536054+00:00" name="calibre:timestamp"/>
+        <meta content="tulipe noire, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

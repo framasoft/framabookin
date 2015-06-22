@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1265</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9af555ed-4d31-4264-b650-3baf0c9b43bc</dc:identifier>
+        <dc:title>Le collier de la reine III</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Les «Mémoires d'un médecin» est une suite romanesque qui a pour cadre la Révolution Française et qui comprend «Joseph Balsamo», «le Collier de la reine», «Ange Pitou» et la «Comtesse de Charny». Jeanne de Valois, comtesse de la Motte, descendante d'Henri III, vit dans la misère jusqu'à ce qu'elle obtienne, à force de sollicitations, la protection de Marie-Antoinette, reine de France, et du cardinal Louis de Rohan. La reine déteste le cardinal de Rohan alors que celui-ci n'a qu'une envie: lui plaire. Extrait : Ce qu'il faut, c'est une preuve contre M. de Rohan et contre la reine ; c'est une épée à double tranchant qui blesse à droite et à gauche, qui blesse en sortant du fourreau, qui blesse en coupant le fourreau lui-même. Ce qu'il faut, c'est une accusation qui fasse pâlir la reine, qui fasse rougir le cardinal, qui, accréditée, lave de tout soupçon étranger Jeanne, confidente des deux principaux coupables. Ce qu'il faut, c'est une combinaison derrière laquelle, retranchée en temps et lieu, Jeanne puisse dire : « Ne m'accusez pas ou je vous accuse, ne me perdez pas ou je vous perds. Laissez-moi la fortune, je vous laisserai l'honneur. »</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1376-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1376-2</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0001-4</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_le_collier_de_la_reine_iii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture avancée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:06.157517+00:00" name="calibre:timestamp"/>
+        <meta content="collier de la reine III, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

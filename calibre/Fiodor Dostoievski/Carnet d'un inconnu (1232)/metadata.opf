@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1232</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9bcf03ac-0c7a-4f77-b39e-316fbd1608a7</dc:identifier>
+        <dc:title>Carnet d'un inconnu</dc:title>
+        <dc:creator opf:file-as="Dostoïevski, Fiodor" opf:role="aut">Fiodor Dostoïevski</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Ce livre est plus connu sous le titre «Le bourg de Stépantchikovo et sa population». Yegor Ilich Rostaniev, colonel à la retraite, est veuf avec deux enfants de huit et quinze ans. Il vit dans son petit domaine et vient de recueillir sa mère, dont le mari, le général Krakhotkine, vient de décéder. Sa mère, insupportable et capricieuse, vit entourée d’une cour de commères acariâtres. Elle vient de s’enticher d’un parasite doté d’un amour-propre immense, Foma Fomitch Opiskine. Tout ce petit monde vit maintenant chez Rostaniev. Extrait : Soulevant ma casquette, je remarquai avec toute la gentillesse du monde que les voyages nous occasionnent parfois des accidents bien désagréables, mais le gros bonhomme me toisa des pieds à la tête d’un regard dédaigneux et mécontent, puis, grommelant, me tourna le dos. Cette partie de sa personne était sans doute fertile en suggestions intéressantes, mais peu propice à la conversation. – Grichka, ne ronchonne pas ou je te ferai fouetter ! cria-t-il à son domestique sans avoir l’air d’entendre mon observation sur les désagréments du voyage.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0371-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0371-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dostoievski_fiodor_-_carnet_d_un_inconnu</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Russie</dc:subject>
+        <meta content="{&quot;Fiodor Dostoïevski&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:59.599549+00:00" name="calibre:timestamp"/>
+        <meta content="Carnet d'un inconnu" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

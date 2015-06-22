@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1052</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b0a256b-27d4-43d4-b5ef-9e4603e2be23</dc:identifier>
+        <dc:title>Jane Eyre I</dc:title>
+        <dc:creator opf:file-as="Brontë, Charlotte" opf:role="aut">Charlotte Brontë</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Devenue orpheline dès son plus âge, Jane Eyre est recueillie par M. Reed, son oncle. Après la mort de ce dernier, sa tante la traite durement et l'accuse de tous les vices. Lorsqu'elle entre dans sa dixième année, Mme Reed, décidée à s'en débarrasser définitivement, envoie Jane dans une pension pour jeunes filles pauvres, où l'on va lui enseigner sévèrement, les rigueurs de la vie... Extrait : J'arrivai dans l'antichambre devant la porte de la salle à manger ; là je m'arrêtai intimidée et tremblante ; redoutant sans cesse des punitions injustes, j'étais devenue en peu de temps défiante et craintive. Je n'osais pas avancer ; pendant une dizaine de minutes je demeurai dans une hésitation agitée. Tout à coup la sonnette retentit violemment : force me fut d'entrer.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0217-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0217-9</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1281-9</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">bronte_charlotte_-_jane_eyre_i</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture avancée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Angleterre</dc:subject>
+        <meta content="{&quot;Charlotte Brontë&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:22.164962+00:00" name="calibre:timestamp"/>
+        <meta content="Jane Eyre I" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

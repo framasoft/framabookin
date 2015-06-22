@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1280</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3ee31af6-b2c7-4184-97e4-d0a83c108705</dc:identifier>
+        <dc:title>Une aventure d'amour</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Une jeune Hongroise de 23 ans, Lilla Bulyovsky, arrive chez Dumas recommandée par son ami Saphir. Artiste dramatique, elle a envie de découvrir Paris avec Dumas pour guide. Celui-ci lui donne des lettres de recommandation, dîne avec elle deux à trois fois par semaine, l'emmène au théâtre et la présente à ses amis. A la fin de son séjour, sensible à son charme, même si les choses ont été clarifiées dès le début par Lilla, Dumas décide de l'accompagner un bout de chemin. Ils passent ainsi par Bruxelles et Spa où elle se sent tellement nerveuse et souffrante que Dumas se sert de son pouvoir de magnétisme pour la soulager. Extrait : Puis elle fit encore deux ou trois petits mouvements, comme l'oiseau qui arrange son cou sous son aile, chercha ma main de sa main, la serra doucement en signe de bonsoir, remua les lèvres pour m'adresser une parole inintelligible et s'endormit. Je n'ai jamais éprouvé une plus singulière sensation que celle qui s'empara de moi lorsque les cheveux de cette charmante créature s'appuyèrent sur mes joues, lorsque son souffle passa sur mon visage. Sa physionomie avait pris une expression enfantine, virginale, tranquille, que je n'avais jamais vue à aucune femme dormant sur ma poitrine. Je restai longtemps à la regarder ; puis, peu à peu, mes yeux se fermèrent, se rouvrirent, se refermèrent. J'appuyai mes lèvres sur son front, en murmurant à mon tour : « Bonne nuit ! » et je m'endormis doucement et délicieusement.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1410-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1410-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_une_aventure_d_amour</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:09.136053+00:00" name="calibre:timestamp"/>
+        <meta content="aventure d'amour, Une" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

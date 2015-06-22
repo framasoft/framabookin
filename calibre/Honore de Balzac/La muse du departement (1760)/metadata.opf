@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1760</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ce45c4ed-38c4-42bb-acdd-1396ae44635b</dc:identifier>
+        <dc:title>La muse du département</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études de moeurs. Deuxième livre, Scènes de la vie de province - Tome II. Sixième volume de l'édition Furne 1842. Extrait : Il existe dans l’admiration qu’on inspire, ou dans l’action d’un rôle joué je ne sais quelle griserie morale qui ne permet pas à la critique d’arriver à l’idole. Une atmosphère produite peut-être par une constante dilatation nerveuse fait comme un nimbe à travers lequel on voit le monde au-dessous de soi. Comment expliquer autrement la perpétuelle bonne foi qui préside à tant de nouvelles représentations des mêmes effets, et la continuelle méconnaissance du conseil que donnent ou les enfants, si terribles pour leurs parents, ou les maris si familiarisés avec les innocentes roueries de leurs femmes ? Monsieur de La Baudraye avait la candeur d’un homme qui déploie un parapluie aux premières gouttes tombées : quand sa femme entamait la question de la traite des nègres, ou l’amélioration du sort des forçats, il prenait sa petite casquette bleue et s’évadait sans bruit avec la certitude de pouvoir aller à Saint-Thibault surveiller une livraison de poinçons, et revenir une heure après en retrouvant la discussion à peu près mûrie. S’il n’avait rien à faire, il allait se promener sur le Mail d’où se découvre l’admirable panorama de la vallée de la Loire, et prenait un bain d’air pendant que sa femme exécutait une sonate de paroles et des duos de dialectique.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0994-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0994-9</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1002-0</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_la_muse_du_departement</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:46.943105+00:00" name="calibre:timestamp"/>
+        <meta content="muse du département, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

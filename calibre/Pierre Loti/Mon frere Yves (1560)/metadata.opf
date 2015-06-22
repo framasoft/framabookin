@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1560</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">60021f4f-3a49-4d38-a70a-e6375926f21e</dc:identifier>
+        <dc:title>Mon frère Yves</dc:title>
+        <dc:creator opf:file-as="Loti, Pierre" opf:role="aut">Pierre Loti</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Avec ce livre en 1883 il est élu à l'académie Goncourt. Embarqué sur le Tonnerre  en 1878 ,il y rencontra le marin Pierre  Le Cor qui servit de modèle pour ce livre. “Le livret de marin de mon frère Yves ressemble à tous les autres livrets de tous les autres marins. Il est recouvert d’un papier parchemin de couleur jaune, et, comme il a beaucoup voyagé sur la mer, dans différents caissons de navire, il manque absolument de fraîcheur. En grosses lettres, il y a sur la couverture : Kermadec, 2091. P. Kermadec, c’est son nom de famille ; 2091, son numéro dans l’armée de mer, et P, la lettre initiale de Paimpol son port d’inscription. En ouvrant, on trouve, à la première page, les indications suivantes : « Kermadec (Yves-Marie), fils d’Yves-Marie et de Jeanne Danveoch. Né le 28 août 1851, à Saint-Pol-de-Léon (Finistère). Taille, 1 m 80. Cheveux châtains, sourcils châtains, yeux châtains, nez moyen, menton ordinaire, front ordinaire, visage ovale. » « Marques particulières : tatoué au sein gauche d’une ancre et, au poignet droit, d’un bracelet avec un poisson. » Ces tatouages étaient encore de mode, il y a une dizaine d’années, pour les vrais marins. Exécutés à bord de la Flore par la main d’un ami désœuvré, ils sont devenus un objet de mortification pour Yves, qui s’est plus d’une fois martyrisé dans l’espoir de les faire disparaître. - L’idée qu’il est marqué d’une manière indélébile et qu’on le reconnaîtra toujours et partout à ces petits dessins bleus lui est absolument insupportable. En tournant la page, on trouve une série de feuillets imprimés relatant, dans un style net et concis, tous les manquements auxquels les matelots sont sujets, avec, en regard, le tarif des peines encourues, - depuis les désordres légers qui se payent par quelques nuits à la barre de fer jusqu’aux grandes rébellions qu’on punit par la mort. Malheureusement cette lecture quotidienne n’a jamais suffi à inspirer les terreurs salutaires qu’il faudrait, ni aux marins en général, ni à mon pauvre Yves en particulier. (...)”</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1107-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1107-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">loti_pierre_-_mon_frere_yves</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Pierre Loti&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:06.114206+00:00" name="calibre:timestamp"/>
+        <meta content="Mon frère Yves" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

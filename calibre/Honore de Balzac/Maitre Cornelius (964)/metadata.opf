@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">964</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">06434f41-fc3e-4c15-be62-6a7bb7076cf1</dc:identifier>
+        <dc:title>Maître Cornélius</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études philosophiques - Tome II. Quinzième volume de l'édition Furne 1842. Extrait : Et le comte Aymar de Poitiers, sire de Saint-Vallier, tenta de tirer son épée et de se faire faire place ; mais il se vit environné, pressé par trente ou quarante gentilshommes qu’il était dangereux de blesser. Plusieurs d’entre eux, qui étaient du plus haut rang, lui répondirent par des quolibets en l’entraînant dans le passage du cloître. Avec la rapidité de l’éclair, le ravisseur avait emmené la comtesse dans une chapelle ouverte où il l’assit derrière un confessionnal, sur un banc de bois. A la lueur des cierges qui brûlaient devant l’image du saint auquel cette chapelle était dédiée, ils se regardèrent un moment en silence, en se pressant les mains, étonnés l’un et l’autre de leur audace. La comtesse n’eut pas le cruel courage de reprocher au jeune homme la hardiesse à laquelle ils devaient ce périlleux, ce premier instant de bonheur.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1028-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1028-0</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1053-2</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_maitre_cornelius</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:04.610823+00:00" name="calibre:timestamp"/>
+        <meta content="Maître Cornélius" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

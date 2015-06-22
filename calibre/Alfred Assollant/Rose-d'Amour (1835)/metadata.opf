@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1835</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b42b9301-2ec3-4d37-b060-bb4780f996a6</dc:identifier>
+        <dc:title>Rose-d'Amour</dc:title>
+        <dc:creator opf:file-as="Assollant, Alfred" opf:role="aut">Alfred Assollant</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : J'étais seule, avec un jeune garçon plus âgé que moi de trois ans, qu'on appelait Bernard l'Éveillé, lorsqu'au détour du sentier je vois venir à moi le loup, une grande et énorme bête, avec une gueule écumante et des yeux étincelants que je vois encore. Je pousse des cris affreux et je veux fuir : mais le loup, qui peut-être ne songeait pas à moi, courait pourtant de mon côté et allait m'atteindre ; j'entendais déjà le bruit de ses pattes qui retombaient lourdement sur la terre et froissaient les feuilles des arbres dont les chemins étaient couverts depuis l'hiver, lorsque tout à coup Bernard l'Éveillé se jette au-devant de lui. Comme il n'avait ni arme ni bâton, il quitte sa veste, attend le loup, et, le voyant à portée, la lui jette sur la tête pour l'étouffer.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1235-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1235-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">assollant_alfred_-_rose-d_amour</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alfred Assollant&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:19:01.746632+00:00" name="calibre:timestamp"/>
+        <meta content="Rose-d'Amour" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

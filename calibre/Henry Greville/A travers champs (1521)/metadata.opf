@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1521</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">43ee3e8b-8a90-401a-b506-1880ad08b380</dc:identifier>
+        <dc:title>À travers champs</dc:title>
+        <dc:creator opf:file-as="Gréville, Henry" opf:role="aut">Henry Gréville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1879-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Henry Gréville, pseudonyme de Alice Marie Céleste Durand née Fleury (1842-1902), a publié de nombreux romans, des nouvelles, des pièces, de la poésie ; elle a été à son époque un écrivain à succès. Extrait : Maxime Orianof, au contraire, était plein de verdeur et de sève, actif, résolu, enthousiaste même, non pour la poésie pure, mais pour la poésie de la science et du labeur. Intolérant d'ailleurs, comme on l'est à vingt-quatre ans, il s'indignait que les hommes ne fussent pas devenus parfaits tout de suite, puisqu'on leur en avait enseigné le moyen. Par une inconséquence toute naturelle, il était loin d'être parfait lui-même, Dieu merci ! -- rien d'insupportable comme les gens parfaits ; -- et quand Souratine lui prouvait jusqu'à l'évidence qu'il faisait vingt fois par jour ce qu'il avait blâmé dans les autres, il répondait : « Fais ce que je dis et non ce que je fais. »</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1498-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1498-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">greville_henry_-_a_travers_champs</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Henry Gréville&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:58.494573+00:00" name="calibre:timestamp"/>
+        <meta content="À travers champs" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

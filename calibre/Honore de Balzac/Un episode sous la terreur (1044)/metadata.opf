@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1044</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5f4d534f-995c-4dbf-a43c-99656d61e277</dc:identifier>
+        <dc:title>Un épisode sous la terreur</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études de moeurs. Troisième et quatrième livres, Scènes de la vie parisienne et scènes de la vie politique - Tome XII (sic, erreur pour le tome IV). Douzième volume de l'édition Furne 1842.Extrait : Le 22 janvier 1793, vers huit heures du soir, une vieille dame descendait, à Paris, l’éminence rapide qui finit devant l’église Saint-Laurent, dans le faubourg Saint-Martin. Il avait tant neigé pendant toute la journée, que les pas s’entendaient à peine. Les rues étaient désertes. La crainte assez naturelle qu’inspirait le silence s’augmentait de toute la terreur qui faisait alors gémir la France ; aussi la vieille dame n’avait-elle encore rencontré personne ; sa vue affaiblie depuis long-temps ne lui permettait pas d’ailleurs d’apercevoir dans le lointain, à la lueur des lanternes, quelques passants clair-semés comme des ombres dans l’immense oie de ce faubourg. Elle allait courageusement seule à travers cette solitude, comme si son âge était un talisman qui dût la préserver de tout malheur. Quand elle eut dépassé la rue des Morts, elle crut distinguer le pas lourd et ferme d’un homme qui marchait derrière elle.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1042-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1042-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_un_episode_sous_la_terreur</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:20.596890+00:00" name="calibre:timestamp"/>
+        <meta content="épisode sous la terreur, Un" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

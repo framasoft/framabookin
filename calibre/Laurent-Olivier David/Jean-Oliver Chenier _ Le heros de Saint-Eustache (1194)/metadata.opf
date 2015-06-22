@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1194</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">38603055-168b-4456-bbfc-2f883b216df7</dc:identifier>
+        <dc:title>Jean-Oliver Chénier : Le héros de Saint-Eustache</dc:title>
+        <dc:creator opf:file-as="David, Laurent-Olivier" opf:role="aut">Laurent-Olivier David</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Laurent-Olivier David (Montréal, 24 mars 1840 - Outremont, 23 août 1926) est un avocat, un journaliste, un homme politique et un historien canadien français. Extrait : Jean-Olivier Chénier est l'un des héros des patriotes de 1837. Il perdit la vie lors de l'assaut de l'église de Saint-Eustache en décembre 1837. Cette bataille survenait un mois après la défaite de Saint-Charles, qui avait donné un dur coup à la rébellion.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1336-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1336-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">david_laurent-olivier_-_jean-oliver_chenier_le_heros_de_saint-eustache</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Laurent-Olivier David&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:51.231909+00:00" name="calibre:timestamp"/>
+        <meta content="Jean-Oliver Chénier : Le héros de Saint-Eustache" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

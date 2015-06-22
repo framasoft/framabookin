@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">17cdeaa4-b00b-4445-a8a9-fab712ff039b</dc:identifier>
+        <dc:title>Utilisez Thunderbird 2. La messagerie intelligente et performante</dc:title>
+        <dc:creator opf:file-as="Meunier, Vincent &amp; Silva, Georges" opf:role="aut">Meunier, Vincent</dc:creator>
+        <dc:creator opf:file-as="Meunier, Vincent &amp; Silva, Georges" opf:role="aut">Silva, Georges</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-01-01T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Que vous souhaitez quitter Outlook Express, ne pas ou plus confier à internet vos données personnelles, ou tout simplement découvrir et utiliser un client de messagerie performant, innovant et modulable de grande qualité que vous retrouverez aussi bien sous Windows, Mac et Linux, alors Mozilla Thunderbird est peut-être (sûrement ?) fait pour vous.&lt;/p&gt;</dc:description>
+        <dc:publisher>Framasoft, In Libro Veritas</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9782352090724</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Framabook</dc:subject>
+        <dc:subject>thunderbird</dc:subject>
+        <dc:subject>manuel</dc:subject>
+        <meta content="{&quot;Silva, Georges&quot;: &quot;&quot;, &quot;Meunier, Vincent&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-05-26T16:37:25.743223+00:00" name="calibre:timestamp"/>
+        <meta content="Utilisez Thunderbird 2. La messagerie intelligente et performante" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

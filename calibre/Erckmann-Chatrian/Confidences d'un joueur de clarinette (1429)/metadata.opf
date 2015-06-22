@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1429</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3a806fc5-bf1b-4d27-8184-64eab572d495</dc:identifier>
+        <dc:title>Confidences d'un joueur de clarinette</dc:title>
+        <dc:creator opf:file-as="Erckmann-Chatrian" opf:role="aut">Erckmann-Chatrian</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Erckmann-Chatrian est le nom de plume sous lequel signaient deux écrivains français : Émile Erckmann et Alexandre Chatrian. Extrait : Il regardait autour de la salle ; personne ne bougeait. Je sus alors que l'oncle Conrad était l'homme le plus fort du pays ; je le vis de mes propres yeux. Il m'était bien arrivé d'entendre raconter que M. Stavolo avait terrassé dans son temps tous les hercules qui se présentaient aux luttes de villages, et que même, peu d'années avant, il était allé provoquer un certain bûcheron Diemer, qu'on appelait le « Chêne des Vosges », à cause de sa force extraordinaire, et qu'il l'avait renversé sur les deux épaules, oui ; mais avec nous il se montrait si raisonnable, il avait tellement l'habitude de dire que la force ne signifie rien, que l'on ne doit pas se vanter d'être fort, et, disant cela, il se caressait le menton d'un air de saint homme tellement convaincu de ces choses, que j'avais fini par le croire sur parole et le considérer comme un être très pacifique.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1438-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1438-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">erckmann-chatrian_-_confidences_d_un_joueur_de_clarinette</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Erckmann-Chatrian&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:39.426684+00:00" name="calibre:timestamp"/>
+        <meta content="Confidences d'un joueur de clarinette" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1054</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bf7cc6a5-7758-4361-b8af-1b878e29f5d6</dc:identifier>
+        <dc:title>Mon oncle et mon curé</dc:title>
+        <dc:creator opf:file-as="Brète, Jean de La" opf:role="aut">Jean de La Brète</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Jean de La Brète, pseudonyme d’Alice Cherbonnel, est une écrivaine française née à Saumur en 1858 et morte en 1945. Reine vit aux Buissons entre sa tante, Mme de Laval, vieille femme acariâtre qui lui fait la vie dure, et son curé qui est son précepteur et son conseiller. Le hasard veut qu'un accident d'auto fasse arrêter le cousin de Reine, Paul de Comprat, aux Buissons. Reine, enchantée, veut faire durer le séjour de Paul et démolit sa voiture à coups de pioche. Les deux jeunes gens se plaisent, mais ne se l'avouent qu'a moitié. Sur ces entrefaites, Paul repart chez son oncle, M. de Pavolles. Reine, de plus en plus malheureuse, s'enfuit des Buissons et se réfugie au château de Pavolles. Là, elle rencontre la fille de son oncle, Blanche, et apprend que celle-ci est fiancé à Paul. Grand désespoir... Extrait : Mon premier soin, quand je me relevai et que l'étourdissement causé par ma chute dissipa, fut de fouiller dans les tiroirs d'un vieux bureau pour découvrir une clef pareille à celle que le curé avait fait disparaître. Mes recherches ne furent pas longues, et, après deux ou trois essais infructueux, je trouvai mon affaire. Après avoir supprimé, autant qu'il me fut possible, les traces de mon effraction, je m'installai dans un fauteuil, et, pendant que je me reposais de mes fatigues, mon regard fut frappé par les ouvrages de Walter Scott placés en face de moi. Je pris au hasard dans la collection et je m'en allai dans ma chambre...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0817-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0817-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">brete_jean_de_la_-_mon_oncle_et_mon_cure</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Jean de La Brète&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:22.563087+00:00" name="calibre:timestamp"/>
+        <meta content="Mon oncle et mon curé" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

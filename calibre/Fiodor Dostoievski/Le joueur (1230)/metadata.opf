@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1230</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ecc39aff-40dd-4255-81b7-6314948b6d11</dc:identifier>
+        <dc:title>Le joueur</dc:title>
+        <dc:creator opf:file-as="Dostoïevski, Fiodor" opf:role="aut">Fiodor Dostoïevski</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Courant les grands casinos européens, Dostoïevski est criblé de dettes quand il écrit ce court roman. Dans une ville d'eau imaginaire, Alexis est employé dans la maison d'un général russe endetté auprès de son entourage. Paulina, pupille du général, demande à Alexis de jouer à la roulette pour elle, son rang lui interdisant les jeux de hasard. Elle a besoin d'argent mais ne dit pas pourquoi à Alexis, amoureux d'elle. Le général a également besoin d'argent, il attend la mort d'une tante et l'héritage, condition pour pouvoir épouser Blanche de Comminges, une femme beaucoup plus jeune que lui. Mais, voilà, la tante découvre le jeu de la roulette... Extrait : Cela m'était très désagréable. J'étais décidé à jouer, mais non pas pour le compte des autres. Même cela dérangeait mes plans. J'eus, en entrant dans le salon de jeu, une sensation de dépit, et, du premier regard, tout me déplut. Je ne puis supporter cet esprit de laquais qui dicte tous les feuilletons dans le monde entier, surtout chez nous, et qui, chaque printemps, impose au feuilletoniste ces deux thèmes : « La magnificence des salons de jeu dans les villes à roulette des bords du Rhin, et les tas d'or amoncelés sur les tables... » Les feuilletonistes ne sont pourtant pas payés pour dire cela. C'est pure servilité. En réalité, ces salons sont dégoûtants, et, pour des tas d'or, on n'en voit guère. Je sais bien que, parfois, un riche étranger, Anglais, Asiatique, Turc, s'arrête deux jours dans la ville, couche au salon et y perd ou gagne des sommes énormes ; mais quant au mouvement normal, il se compose de quelques florins, et il n'y a que très peu d'argent sur les tables.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0378-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0378-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dostoievski_fiodor_-_le_joueur</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Russie</dc:subject>
+        <meta content="{&quot;Fiodor Dostoïevski&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:59.198366+00:00" name="calibre:timestamp"/>
+        <meta content="joueur, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

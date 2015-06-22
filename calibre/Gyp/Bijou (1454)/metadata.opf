@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1454</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dd8c227f-8367-410b-9426-892bab31adb1</dc:identifier>
+        <dc:title>Bijou</dc:title>
+        <dc:creator opf:file-as="Gyp" opf:role="aut">Gyp</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1897-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Sibylle Aimée Marie Antoinette Gabrielle Riquetti de Mirabeau, par son mariage comtesse de Martel, en littérature Gyp, est une romancière française née au château de Coétsal près de Plumergat (Bretagne) le 16 août 1849 et morte le 28 juin 1932 à Neuilly-sur-Seine. Extrait : Elle le regarda en riant. Lui aussi la regardait, sans pouvoir se détacher du joli visage frais tourné vers lui. Et, comme il ne faisait aucune attention au chemin de traverse qui était très mauvais, la roue droite se prit dans une ornière et la petite charrette pencha brusquement, jetant sur lui Denyse, qui se raccrocha de toutes ses forces à son bras. Ils restèrent un instant balancés, puis la roue sortit tant bien que mal du trou profond où elle était serrée, et le cheval reprit son train rapide.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1533-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1533-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">gyp_-_bijou</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gyp&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:45.054023+00:00" name="calibre:timestamp"/>
+        <meta content="Bijou" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

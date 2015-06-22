@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1630</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eca9f729-96cc-48ea-aac4-fe247c6b9c6a</dc:identifier>
+        <dc:title>Les chants de Maldoror</dc:title>
+        <dc:creator opf:file-as="Lautréamont" opf:role="aut">Le Comte de Lautréamont</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1874-12-14T23:00:00+00:00</dc:date>
+        <dc:description>Les Chants de Maldoror sont un ouvrage en prose, composé de six parties (« chants ») et publié en 1869 par Isidore Ducasse sous le pseudonyme de Comte de Lautréamont. Le livre ne raconte pas une histoire unique et cohérente, mais est constitué d'une suite d'épisodes dont le fil conducteur est la présence de Maldoror, personnage maléfique doué de pouvoirs surnaturels. Le texte est fondé sur une esthétique de la rupture : chaque strophe peut être lue comme un fragment poétique autonome et aucun fil linéaire, qu'il soit narratif, descriptif ou discursif, n'est suivi bien longtemps. Il s'agit d'un brûlot, «politiquement incorrect», qui ne fut pas du goût des bien-pensants de l'époque. Nourri de violences, d'idées morbides et de délire - peste, pus et poux... - ce texte énigmatique et fascinant, ce texte de la démesure donne le vertige, et parfois un peu la nausée...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1084-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1084-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">lautreamont_-_les_chants_de_maldoror</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Le Comte de Lautréamont&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:20.470465+00:00" name="calibre:timestamp"/>
+        <meta content="chants de Maldoror, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1367</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3da30d10-1431-4710-af25-1c19b11ead83</dc:identifier>
+        <dc:title>Les Pléiades</dc:title>
+        <dc:creator opf:file-as="Gobineau, Arthur de" opf:role="aut">Arthur Gobineau</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1874-12-14T23:00:00+00:00</dc:date>
+        <dc:description>Joseph Arthur de Gobineau (1816-1882) dit le comte de Gobineau a publié «Les Pléiades» en 1874. Cet ouvrage composé de quatre livres a été réédité en 1924 en deux tomes. - Le tome premier pour les livres I et II - Le tome second pour les livres III et IV. Les deux tomes de cette édition ont été regroupés ici. Il y décrit la vie sentimentale de trois amis censés appartenir à une certaine élite. Extrait : Au fond, conclut Lanze, nous nous trouvons honnêtement excités par ce que nous avons vu et senti ; nous avons été charmés, émus, éblouis, touchés, transportés, heureux, en un mot ; mais, comme nous sommes de notre temps, nous croirions nous manquer à nous-mêmes en n’étant pas les premiers à nous en moquer. Tant de gens ont fait des vers d’almanach sur le Saint-Gothard, que, ma foi, nous sommes secrètement embarrassés pour convenir qu’il y avait de quoi en faire de bons. Voulez-vous que je vous dise mon sentiment, Laudon ?</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1066-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1066-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">gobineau_arthur_de_-_les_pleiades</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Arthur Gobineau&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:26.925012+00:00" name="calibre:timestamp"/>
+        <meta content="Pléiades, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

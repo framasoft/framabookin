@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1345</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f0638e6-f419-4a10-ad4d-368e028e47bf</dc:identifier>
+        <dc:title>Les Blancs et les Bleus I</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>En 1794 la terreur est à son paroxysme en France, l'ennemi menace aux frontières de toutes parts. A Strasbourg, c'est le général Pichegru que nous suivons dans ses victoires sur les Prussiens; à Toulon, c'est un jeune colonel du nom de Bonaparte qui reprend la ville aux Anglais. Extrait : Alors, sur la moindre dénonciation, il s'arrêtait dans les villes et dans les villages où l'on avait pu espérer ne voir jamais l'instrument fatal, instruisait le procès sur lieu, accusait, condamnait, faisait exécuter, ramenant au pair, au milieu de cette sanglante orgie, les assignats, qui perdaient quatre-vingt-cinq pour cent, fournissant à l'armée, qui manquait de tout, plus de grain à lui seul que tous les commissaires du district réunis ; enfin, du 5 novembre au 11 décembre, jour de l'arrivée de Charles à Strasbourg, il avait envoyé à la mort, tant à Strasbourg qu'à Mutzig, Barr, Obernai, Epfig et Schlestadt, trente et une personnes.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0050-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0050-2</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0050-2</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_les_blancs_et_les_bleus_i</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:22.474385+00:00" name="calibre:timestamp"/>
+        <meta content="Blancs et les Bleus I, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

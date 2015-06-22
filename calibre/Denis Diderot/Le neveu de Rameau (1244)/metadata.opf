@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1244</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ecca1dc3-aa1e-493f-8705-07efa991a3eb</dc:identifier>
+        <dc:title>Le neveu de Rameau</dc:title>
+        <dc:creator opf:file-as="Diderot, Denis" opf:role="aut">Denis Diderot</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Le Neveu de Rameau ou La Satire seconde est un dialogue écrit par Denis Diderot sans doute entre 1762 et 1773. Il s'agit d'une discussion à bâtons rompus entre Moi, le narrateur, philosophe, et Lui, Jean-François Rameau, neveu du célèbre compositeur Jean-Philippe Rameau. L'épigraphe du livre, « Vertumnis, quotquot sunt, natus iniquis » (« né sous l'influence maligne de tous les Vertumnes réunis ») est à rapprocher du sous-titre de satire seconde, du latin satura (mélange). Au décès de Diderot, un exemplaire manuscrit part en Russie et un ou deux autres restent en France, dans la famille du philosophe. Quinze ou vingt ans après, un Russe, qui a lu et apprécié le livre, le fait découvrir à Schiller, qui le présente à son tour à Goethe. Ce dernier, admiratif, traduit le texte en allemand et le publie en 1805. Il est traduit en français en 1821. En 1891, Georges Monval trouve par hasard, dans un lot de documents acheté chez un bouquiniste parisien, un autre exemplaire du Neveu, manuscrit et autographe de Diderot qui constitue depuis lors le texte de référence des éditions récentes. Extrait : C'est un philosophe dans son espèce. Il ne pense qu'à lui ; le reste de l'univers lui est comme d'un clou à soufflet. Sa fille et sa femme n'ont qu'à mourir, quand elles voudront ; pourvu que les cloches de la paroisse, qu'on sonnera pour elles, continuent de résonner la douzième et la dix-septième tout sera bien. Cela est heureux pour lui. Et c'est ce que je prise particulièrement dans les gens de génie. Ils ne sont bons qu'à une chose. Passé cela, rien. Ils ne savent ce que c'est d'être citoyens, pères, mères, frères, parents, amis. Entre nous, il faut leur ressembler de tout point ; mais ne pas désirer que la graine en soit commune. Il faut des hommes ; mais pour des hommes de génie ; point. Non, ma foi, il n'en faut point. Ce sont eux qui changent la face du globe ; et dans les plus petites choses, la sottise est si commune et si puissante qu'on ne la réforme pas sans charivari.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1349-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1349-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">diderot_denis_-_le_neveu_de_rameau</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Denis Diderot&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:02.010301+00:00" name="calibre:timestamp"/>
+        <meta content="neveu de Rameau, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

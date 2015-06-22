@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1618</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">907cab6c-688e-4f0c-8d3e-5a9c9f8ec83b</dc:identifier>
+        <dc:title>De minuit à sept heures</dc:title>
+        <dc:creator opf:file-as="Leblanc, Maurice" opf:role="aut">Maurice Leblanc</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1932-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Selon le fils de l’auteur, Claude Leblanc, «De Minuit à sept Heures était un Arsène Lupin jusqu’à ce que d’obscures raisons éditoriales en décident autrement». Il a été délupinisé. Extrait : Coupant à travers la plaine, il se dirigea vers l'isba isolée. Il l'atteignit. Elle était inhabitée, en ruines. Une cour la précédait, et, dans cette cour, un puits. Il alla à ce puits, se pencha et tâtonna, le long de la paroi intérieure. Ses doigts rencontrèrent le manche d'une pioche qui se trouvait accrochée là et dont il s'empara. Puis il se retourna, faisant face au point central entre les deux corps de l'isba. Il fit six longues enjambées. Il s'arrêta, rejeta la neige du sol et, avec la pioche, creusa. Il creusa assez longtemps et enfin eut une exclamation de joie. Le fer de la pioche avait sonné sur du métal. Redoublant d'efforts, il dégagea un petit coffret d'acier rouillé qu'il sortit du trou. Sans hésiter, il força le couvercle avec sa pioche.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1596-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1596-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leblanc_maurice_-_de_minuit_a_sept_heures</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Maurice Leblanc&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:18.053591+00:00" name="calibre:timestamp"/>
+        <meta content="minuit à sept heures, De" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

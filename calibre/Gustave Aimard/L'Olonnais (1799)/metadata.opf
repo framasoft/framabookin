@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1799</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9e8928d1-cc18-48c7-bbf8-2be37089e6f8</dc:identifier>
+        <dc:title>L'Olonnais</dc:title>
+        <dc:creator opf:file-as="Aimard, Gustave" opf:role="aut">Gustave Aimard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Ces cavaliers, au nombre de six, montés sur des chevaux de race, mais semblant avoir fourni une longue course, étaient armés jusqu'aux dents, et portaient de riches et élégants costumes de gentilshommes ; ils paraissaient peu soucieux d'être reconnus, car, bien que les larges ailes de leurs chapeaux fussent soigneusement rabaissées sur leurs yeux et qu'il régnât une obscurité profonde, par surcroît de précaution, ils avaient tous des masques de velours noir appliqués sur le visage. En apercevant ces sinistres fantômes, aux allures étranges, le pauvre diable de veilleur fut saisi de crainte~; il laissa choir sa lanterne qui, heureusement ou malheureusement, ne s'éteignit point, et se mit à trembler de tous ses membres en jetant autour de lui des regards effarés, comme pour demander un secours sur lequel cependant il n'était guère en droit de compter ; seul, de toute la population, il était éveillé à cette heure avancée de la nuit.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1214-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1214-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">aimard_gustave_-_l_olonnais</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture aisée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gustave Aimard&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:54.689448+00:00" name="calibre:timestamp"/>
+        <meta content="Olonnais, L'" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

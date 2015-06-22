@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">967</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b6bb3749-30b3-4a19-a45d-9de8976a7f18</dc:identifier>
+        <dc:title>Contes de bonne Perrette</dc:title>
+        <dc:creator opf:file-as="Bazin, René" opf:role="aut">René Bazin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Enfants, auxquels ce livre est dédié, vous avez un âge délicieux. Je l'ai eu avant vous. Et j'en ai joui plus librement et plus pleinement que d'autres, ayant eu cette chance de passer une partie de ma première jeunesse à la campagne. Je travaillais assez peu le De viris illustribus, mais j'apprenais ce qui ne s'enseigne pas : à voir le monde indéfini des choses et à l'écouter vivre. Au lieu d'avoir pour horizon les murs d'une classe ou d'une cour, j'avais les bois, les prés, le ciel qui change avec les heures, et l'eau d'une mince rivière qui changeait avec lui. Mes amis s'appelaient le brouillard, le soleil, le crépuscule, où la peur vous suit dans votre ombre ; les fleurs, dont je savais les dynasties mieux que celles des rois d'Égypte ; les oiseaux, qui ont leur nom écrit dans le mouvement de leur vol ; les gens de la terre, qui sont des silencieux pleins de secrets. Je me rappelle qu'à certains jours mon âme débordait de joie, et qu'elle était alors si légère, qu'elle me paraissait prête à s'échapper et à se fondre dans l'espace. Je faisais ma moisson sans le savoir. Depuis, j'ai reconnu que la richesse d'impressions amassée en ce temps-là est une provision qui dure.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1247-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1247-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">bazin_rene_-_contes_de_bonne_perrette</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;René Bazin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:05.222553+00:00" name="calibre:timestamp"/>
+        <meta content="Contes de bonne Perrette" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

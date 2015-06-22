@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1435</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">345bdec1-ef24-4389-80dc-813597629e2f</dc:identifier>
+        <dc:title>La Noël au Canada</dc:title>
+        <dc:creator opf:file-as="Fréchette, Louis" opf:role="aut">Louis Fréchette</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1900-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Louis Fréchette a publié plusieurs recueils de poésies, des drames et deux recueils de contes, La Noël au Canada (1900) et Originaux et détraqués (1892). De plus, il a fait paraître plusieurs contes dans différents journaux. Louis Fréchette avait songé à publier un autre recueil de contes, qui aurait été intitulé Masques et fantômes, mais devant le peu de succès remporté par la Noël au Canada, il abandonna ce projet. Extrait : Monsieur, -- Celui qui vous écrit est un étranger. Il a vu, hier au soir, tomber un porte-monnaie de votre poche, et l'a ramassé. S'il vous le rend intact, il n'a plus qu'à mourir de faim. Je prends donc la liberté, en vous le remettant, de retenir cinquante dollars sur la somme de cent dix qu'il contient. Mais, comme je ne suis pas un voleur et que je viens d'apprendre, par les registres de l'hôtel, que vous êtes peintre, je vous laisse en échange un objet qui ne peut m'être d'aucune utilité dans ce pays, mais qui -- vous pourrez en juger vous-même -- vaut certainement, et plus, la somme soustraite. Je suis venu de Québec, il y a six semaines, à petites étapes et à pied. C'est un mode de locomotion auquel, je le sens, je ne me ferai jamais. Aussi je viens d'acheter un billet de chemin de fer pour Chicago avec votre argent. Que Dieu vous garde d'être jamais réduit à emprunter par ce procédé.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1466-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1466-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">frechette_louis_-_la_noel_au_canada</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>conte</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Louis Fréchette&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:40.633998+00:00" name="calibre:timestamp"/>
+        <meta content="Noël au Canada, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">986</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6abd4eb0-cdcf-44ce-8cb7-cc2a5b9d1340</dc:identifier>
+        <dc:title>Les deux poètes</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études de moeurs. Deuxième livre, Scènes de la vie de province - Tome IV. Huitième volume de l'édition Furne 1842. Extrait : David s’aperçut qu’il n’y avait pas moyen de discuter avec son père. Il fallait tout admettre ou tout refuser, il se trouvait entre un non et un oui. Le vieil Ours avait compris dans l’inventaire jusqu’aux cordes de l’étendage. La plus petite ramette, les ais, les jattes, la pierre et les brosses à laver, tout était chiffré avec le scrupule d’un avare. Le total allait à trente mille francs, y compris le brevet de maître imprimeur et l’achalandage. David se demandait en lui-même si l’affaire était ou non faisable. En voyant son fils muet sur le chiffre, le vieux Séchard devint inquiet ; car il préférait un débat violent à une acceptation silencieuse. En ces sortes de marchés, le débat annonce un négociant capable qui défend ses intérêts. *Qui tope à tout*, disait le vieux Séchard, *ne paye rien*. Tout en épiant la pensée de son fils, il fit le dénombrement des méchants ustensiles nécessaires à l’exploitation d’une imprimerie en province ; il amena successivement David devant une presse à satiner, une presse à rogner pour faire les ouvrages de ville, et il lui en vanta l’usage et la solidité.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1018-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1018-1</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1044-0</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_les_deux_poetes</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:09.001941+00:00" name="calibre:timestamp"/>
+        <meta content="deux poètes, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

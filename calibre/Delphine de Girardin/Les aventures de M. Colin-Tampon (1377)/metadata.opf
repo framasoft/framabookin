@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1377</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d18b2587-8d46-4323-a5ce-d103de6d8970</dc:identifier>
+        <dc:title>Les aventures de M. Colin-Tampon</dc:title>
+        <dc:creator opf:file-as="Girardin, Delphine de" opf:role="aut">Delphine de Girardin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Alors la faculté de réfléchir lui revient. Lui, conseiller municipal, il est sur le champ d'autrui, après en avoir franchi la clôture, comme un gamin qui va voler des pommes ; lui, conseiller municipal, il a détérioré la chose d'autrui, le bien d'autrui. Privé de son chapeau, qui était son plus bel ornement, l'épouvantail ne peut plus épouvanter personne. Sentant toute l'étendue de sa faute, le coupable jette un regard furtif autour de lui, s'attendant à voir apparaître le propriétaire du cerisier ou le garde champêtre. Il siffle Azor, enjambe la clôture et se précipite à travers champs, pressé de s'éloigner du théâtre de son forfait.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1486-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1486-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">girardin_delphine_de_-_les_aventures_de_m_colin-tampon</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Delphine de Girardin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:28.943152+00:00" name="calibre:timestamp"/>
+        <meta content="aventures de M. Colin-Tampon, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

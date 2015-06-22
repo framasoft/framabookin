@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1620</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">45db6e20-97e7-4b21-8cc3-9dd79d202f54</dc:identifier>
+        <dc:title>Rouletabille chez les bohémiens</dc:title>
+        <dc:creator opf:file-as="Leroux, Gaston" opf:role="aut">Gaston Leroux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1923-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Lors d'un séjour dans le patriarcat de Sever Turn, l'aventurier Hubert de Lauriac dérobe le "Livre des ancêtres", un document d'une valeur inestimable que se transmettent les primats de Bohème, de génération en génération... Extrait : Superstitieux, comme tout bon guardian qui se respecte, Hubert n'était jamais parvenu à oublier ce texte ! Quelquefois au moment où il s'y attendait le moins, ces lignes lui revenaient du fond de sa mémoire trop fidèle. Tantôt une force surnaturelle semblait les projeter hors de lui-même pour qu'il les vît avec plus d'éclat et elles se mettaient à danser, comme ce soir, devant ses yeux éblouis... et sa face épouvantée... car, ce soir, il avait entendu le nom de la cité maudite, il avait revu ceux de Sever-Turn, leurs faces noires, leurs yeux de jade, leurs gestes de malédiction et, ce soir, est-ce que la prophétie n'était pas en train de s'accomplir ?... Est-ce qu'il n'était pas sur le chemin du châtiment au bout duquel il y avait la mort ?...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1626-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1626-8</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0280-3</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leroux_gaston_-_rouletabille_chez_les_bohemiens</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture intermédiaire</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gaston Leroux&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:18.449634+00:00" name="calibre:timestamp"/>
+        <meta content="Rouletabille chez les bohémiens" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1709</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">48af1e0d-e705-4a9d-931b-e2bec7476fb4</dc:identifier>
+        <dc:title>Lysimaque</dc:title>
+        <dc:creator opf:file-as="Montesquieu, Charles-Louis de Secondat" opf:role="aut">Montesquieu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Lysimaque parut dans le Mercure de France, au mois de décembre 1754. Il fut d'abord imprimé dans l'Histoire de la Société des sciences et belles-lettres de Nancy, publiée par M. de Solignac.. En tête de l'article, les éditeurs du journal mirent la note suivante :  L'auteur de l'Esprit des lois nous a permis d'imprimer le morceau suivant qu'il a fait pour l'académie de Nancy ; cette fiction est si intéressante et si noble qu'il n'est pas possible de la lire sans aimer et sans admirer le grand prince qui en est l'objet. Ce  grand prince, est-il besoin de le dire, était l’ancien roi de Pologne, Stanislas Leczinski, surnommé  le Bienfaisant.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1124-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1124-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">montesquieu_charles-louis_de_secondat_-_lysimaque</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Montesquieu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:36.455279+00:00" name="calibre:timestamp"/>
+        <meta content="Lysimaque" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

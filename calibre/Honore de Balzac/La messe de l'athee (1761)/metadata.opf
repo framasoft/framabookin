@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1761</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8813014f-f8ea-4134-a49d-4c3c958f7487</dc:identifier>
+        <dc:title>La messe de l’athée</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études de moeurs. Troisième livre, Scènes de la vie parisienne - Tome II. Dixième volume de l'édition Furne 1842. Extrait : Bianchon se promit de guetter Desplein ; il se rappela le jour, l’heure auxquels il l’avait surpris entrant à Saint-Sulpice, et se promit d’y venir l’année suivante au même jour et à la même heure, afin de savoir s’il l’y surprendrait encore. En ce cas, la périodicité de sa dévotion autoriserait une investigation scientifique, car il ne devait pas se rencontrer chez un tel homme une contradiction directe entre la pensée et l’action. L’année suivante, au jour et à l’heure dits, Bianchon, qui déjà n’était plus l’interne de Desplein, vit le cabriolet du chirurgien s’arrêtant au coin de la rue de Tournon et de celle du Petit-Lion, d’où son ami s’en alla jésuitiquement le long des murs à Saint-Sulpice, où il entendit encore sa messe à l’autel de la Vierge. C’était bien Desplein ! le chirurgien en chef, l’athée *in petto*, le dévot par hasard. L’intrigue s’embrouillait. La persistance de cet illustre savant compliquait tout. Quand Desplein fut sorti, Bianchon s’approcha du sacristain qui vint desservir la chapelle, et lui demanda si ce monsieur était un habitué.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0988-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0988-8</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1036-5</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_la_messe_de_l_athee</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:47.140019+00:00" name="calibre:timestamp"/>
+        <meta content="messe de l’athée, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

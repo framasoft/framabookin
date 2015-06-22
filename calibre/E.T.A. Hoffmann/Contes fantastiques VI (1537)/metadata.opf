@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1537</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">45c01a7a-7926-4d6b-bd42-3ef353a809eb</dc:identifier>
+        <dc:title>Contes fantastiques VI</dc:title>
+        <dc:creator opf:file-as="Hoffmann, E.T.A." opf:role="aut">E.T.A. Hoffmann</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1829-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Il est l'auteur de nombreux contes (Märchen en allemand) comme : L'Homme au sable, Les Mines de Falun ou Casse-noisette et le Roi des souris et de plusieurs romans, dont son œuvre principale Le Chat Murr. Il devient alors, dès les années 1820, l'une des illustres figures du romantisme allemand et il inspire de nombreux artistes, en Europe comme dans le reste du monde. Par exemple, Jacques Offenbach écrit l'opéra fantastique en cinq actes Les Contes d'Hoffmann en s'inspirant de l'univers du romantique allemand. Extrait : Comme la veille, un concert et un bal devaient clore les plaisirs de la journée. Le général Rixendorf était déjà au piano, le conseiller de brocard avait le théorbe sous le bras, et la conseillère intime Foerd sa partie de chant à la main. On n'attendait plus que la présence du conseiller Reutlinger, lorsqu'on entendit retentir des cris d'angoisse, et qu'on vit les domestiques courir au fond du jardin. Bientôt ils rapportèrent le conseiller aulique avec les traits bouleversés et pâle comme la mort. Le jardinier l'avait trouvé couché par terre profondément évanoui, non loin du pavillon du petit bois. -- Rixendorf se leva précipitamment de devant le piano avec un cri d'effroi. On fit usage aussitôt de spiritueux, et l'on commença par frotter avec de l'eau de Cologne le front du conseiller qu'on avait étendu sur le canapé. Mais l'ambassadeur turc s'empressa d'écarter tout le monde en s'écriant coup sur coup : « Finissez ! finissez ! ô gens ignorants et maladroits ! vous ne faites là qu'affaiblir et irriter en pure perte notre robuste et vaillant conseiller ! » À ces mots, il lança son turban dans le jardin par-dessus toutes les têtes, et le kaftan après. Puis il commença à décrire avec la main autour du conseiller aulique des cercles étranges qu'il rétrécissait graduellement, de telle sorte qu'à la fin il lui touchait presque les tempes et le creux de l'estomac. Puis il souffla son haleine sur le conseiller, qui ouvrit aussitôt les yeux et dit d'une voix faible : « Exter ! tu as eu tort de m'éveiller ! -- Une puissance ténébreuse m'a annoncé ma fin prochaine, et peut-être m'était-il accordé de passer à mon insu de cette léthargie au sommeil de la mort.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1556-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1556-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">hoffmann_e_t_a_-_contes_fantastiques_vi</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>conte</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Allemagne</dc:subject>
+        <meta content="{&quot;E.T.A. Hoffmann&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:01.661316+00:00" name="calibre:timestamp"/>
+        <meta content="Contes fantastiques VI" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

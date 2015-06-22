@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1598</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">80ce86e3-e0be-4da6-9acf-17eb3062e323</dc:identifier>
+        <dc:title>L’Aiguille creuse</dc:title>
+        <dc:creator opf:file-as="Leblanc, Maurice" opf:role="aut">Maurice Leblanc</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1909-06-02T23:00:00+00:00</dc:date>
+        <dc:description>L'aiguille creuse est le deuxième secret de la reine Marie-Antoinette et de Cagliostro (fortune des rois de France). Le Mystère de l'Aiguille creuse renferme un secret que les rois de France se transmettaient et dont Arsène Lupin s'est rendu maître. La fameuse aiguille contient le plus fabuleux trésor jamais imaginé, il rassemble les dots des reines, perles, rubis, saphirs et diamants... la fortune des rois de France. - C'est Jean Daval qui m'a réveillé. Je dormais mal d'ailleurs, avec des éclairs de lucidité où j'avais l'impression d'entendre des pas, quand tout à coup, en ouvrant les yeux, je l'aperçus au pied de mon lit, sa bougie à la main, et tout habillé comme il l'est actuellement, car il travaillait souvent très tard dans la nuit. Il semblait fort agité, et il me dit à voix basse : « Il y a des gens dans le salon. » En effet, je perçus du bruit. Je me levai et j'entrebâillai doucement la porte de ce boudoir. Au même instant, cette autre porte qui donne sur le grand salon était poussée, et un homme apparaissait qui bondit sur moi et m'étourdit d'un coup de poing à la tempe. Je vous raconte cela sans aucun détail, monsieur le juge d'instruction, pour cette raison que je ne me souviens que des faits principaux et que ces faits se sont passés avec une extraordinaire rapidité.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1607-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1607-7</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1602-2</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leblanc_maurice_-_l_aiguille_creuse</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <meta content="{&quot;Maurice Leblanc&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:13.973437+00:00" name="calibre:timestamp"/>
+        <meta content="L’Aiguille creuse" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

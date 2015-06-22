@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1184</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">87a309fa-000e-4515-9243-dac30a9b914a</dc:identifier>
+        <dc:title>Point de lendemain</dc:title>
+        <dc:creator opf:file-as="Denon, Vivant" opf:role="aut">Vivant Denon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Point de lendemain est un court roman emblématique de la littérature rococo. Ecrit par Dominique Vivant, baron Denon, dit Vivant Denon ou Dominique Vivant Denon, né à Chalon-sur-Saône le 4 janvier 1747 et mort à Paris le 27 avril 1825, qui est un graveur, écrivain, diplomate et administrateur français. Extrait : Il en est des baisers comme des confidences : ils s'attirent, ils s'accélèrent, ils s'échauffent les uns par les autres. En effet, le premier ne fut pas plus tôt donné qu'un second le suivit ; puis, un autre : ils se pressaient, ils entrecoupaient la conversation, ils la remplaçaient ; à peine enfin laissaient-ils aux soupirs la liberté de s'échapper. Le silence survint ; on l'entendit (car on entend quelquefois le silence) : il effraya. Nous nous levâmes sans mot dire, et recommençâmes à marcher. « Il faut rentrer, dit-elle, l'air du soir ne nous vaut rien.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1343-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1343-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">denon_vivant_-_point_de_lendemain</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Vivant Denon&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:49.190890+00:00" name="calibre:timestamp"/>
+        <meta content="Point de lendemain" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1220</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">05b568f1-483d-4ef1-8efa-f40eea2b959b</dc:identifier>
+        <dc:title>L'esprit souterrain</dc:title>
+        <dc:creator opf:file-as="Dostoïevski, Fiodor" opf:role="aut">Fiodor Dostoïevski</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Les Carnets du sous-sol (version adaptée et abrégée sous le titre L’Esprit souterrain) Ce livre regroupe une nouvelle et un court roman de l’auteur, regroupés en deux parties par l’éditeur (Librairie Plon) : «Katia» correspond à «La Logeuse» (1847) et le titre original de «Lisa» est «Le Sous-sol» (1863), ce dernier roman étant également connu sous les titres suivants : «Mémoires écrits dans un souterrain», «Les Carnets du sous-sol», «Manuscrit du souterrain». «Je suis malade... Je suis méchant, très-désagréable.» Ainsi se décrit Ordinov dans ses carnets. Dès son enfance, il n'a pu nouer des relations normales avec ces semblables. On le découvre dans la première partie, vivotant sur un petit héritage et cherchant un nouveau logement. Il erre en ville, tout lui est étranger, bizarre. Rien d'étonnant, il vit retiré, devenu sauvage. Il réussit à sous-louer une chambre à un couple étrange qu'il a croisé dans une église. Ordinov se lie avec la jeune femme... La deuxième partie est constituée du journal d'Ordinov. On le retrouve quelques années plus tard, ayant trouvé un emploi modeste. Il déteste ses collègues de travail. Subissant vexations et humiliations, il se venge sur une jeune prostituée. Cet homme est-il vraiment dénué à ce point d'humanité? Livre d'introspection, ce roman méconnu est une des meilleures oeuvres de Dostoievski. Extrait : Ordinov resta un instant étonné. Sans s'expliquer pourquoi l'aspect de ce vieillard, au regard empreint de haine et de méchanceté, lui était pénible. Mais l'impression désagréable se dissipa bientôt. Depuis trois jours, Ordinov vivait dans un véritable tourbillon, qui contrastait singulièrement avec son ancienne tranquillité. Il ne pouvait ni ne voulait réfléchir. C'était une sorte de confusion. Il sentait sourdement que sa vie venait de se briser en deux parts. Maintenant il n'avait qu'un désir, qu'une passion, et nulle autre pensée ne pouvait le troubler.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0381-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0381-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dostoievski_fiodor_-_l_esprit_souterrain</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Russie</dc:subject>
+        <meta content="{&quot;Fiodor Dostoïevski&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:57.213698+00:00" name="calibre:timestamp"/>
+        <meta content="esprit souterrain, L'" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

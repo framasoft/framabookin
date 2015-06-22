@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1342</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">56621ff0-1528-4dcd-8187-d0fa58598305</dc:identifier>
+        <dc:title>Les drames de la mer</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Les drames de la mer, recueil de quatre nouvelles: Bontekoe, Le capitaine Marion, La Junon et Le Kent. --- Bontekoe : Bontekoe est le capitaine du Nieuw-Hoorn. Au large de l'île Bourbon, un incendie se déclare dans la soute à charbon. Découvert assez tard, le sinistre fait rage; 70 hommes désespérés se réfugient dans la chaloupe et le grand canot quand soudain le bateau explose. Bontekoe, blessé ,est repêché et installé dans la chaloupe. --- Le capitaine Marion Les relations entre les Européens et les habitants de ce qui deviendrait plus tard la Nouvelle-Zélande avaient été rares et désastreuses. Seuls trois navires y avaient abordé: les Hollandais en 1642, Cook en 1769 et Surville qui, la même année, enleva le fils du chef Takoury. --- La Junon : John Mackay est second maître à bord de la Junon. Au large de Rangoun, le bateau touche un banc de sable. Sauvée in extremis, la Junon peut reprendre la mer. Toutefois l'incident n'est pas sans conséquence et dès le premier coup de mer, une voie d'eau se déclare dans la cale. --- Le Kent : la tempête fait rage dans le golfe de Biscaye; le Kent est malmené et ses passagers, parmi lesquels un grand nombre de femmes et d'enfants, trouvent un peu de réconfort dans la prière. Toutefois, le capitaine Cobb a foi en la robustesse de son navire et en l'expérience de son équipage. Quand soudain, un incendie se déclare dans la cale. La situation semble désespérée...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1393-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1393-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_les_drames_de_la_mer</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>nouvelle</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:21.871443+00:00" name="calibre:timestamp"/>
+        <meta content="drames de la mer, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

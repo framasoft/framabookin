@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1168</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6761f622-943e-4be9-a86b-8620687f8e16</dc:identifier>
+        <dc:title>Les conteurs à la ronde</dc:title>
+        <dc:creator opf:file-as="Dickens, Charles" opf:role="aut">Charles Dickens</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>De beaux contes, sous forme de «l'histoire de» : L'histoire du parent pauvre - L'histoire de l'enfant - L'histoire de quelqu'un ou La légende des deux rivières - L'histoire de la vieille marie bonne d'enfant - L'histoire de l'hôte - L'histoire du grand-père - L'histoire de la femme de journée - L'histoire de l'écolier sourd - Histoire de l'invité - L'histoire de la mère - Le retour de l'émigrant ou Noël après quinze ans d'absence Extrait : Michel, dit-elle en mettant sa main dans la mienne avec la candeur de son dévouement virginal, ne vivons plus chacun de notre côté. Je vous assure que je puis très bien me contenter du peu que vous avez, comme vous vous en contentez vous-même. Vous êtes heureux, je veux être heureuse avec vous. Je vous parle du fond de mon cœur. Ne travaillez plus seul, réunissons nos efforts dans la lutte. Mon cher Michel, ce n'est pas bien à moi de vous cacher ce dont vous n'avez aucun soupçon, ce qui fait le malheur de ma vie. Ma mère...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0204-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0204-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dickens_charles_-_les_conteurs_a_la_ronde</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Angleterre</dc:subject>
+        <meta content="{&quot;Charles Dickens&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:46.036829+00:00" name="calibre:timestamp"/>
+        <meta content="conteurs à la ronde, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

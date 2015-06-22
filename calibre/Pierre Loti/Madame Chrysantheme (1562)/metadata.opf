@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1562</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8ac9f277-91e9-4ea4-9daa-8e394cc7ad6e</dc:identifier>
+        <dc:title>Madame Chrysanthème</dc:title>
+        <dc:creator opf:file-as="Loti, Pierre" opf:role="aut">Pierre Loti</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>L'officier de marine Loti, pendant une relâche à Nagasaki, épouse, pour la durée de son séjour, devant les autorités locales, une jeune Japonaise, Mlle Chrysanthème. Dans une maison à compartiments, en plein pays des fleurs et des lanternes, il vit pendant une saison de la vie japonaise, fréquentant les maisons de thé et les fêtes des temples, en compagnie de « frère Yves » et des mousmés qui, à l'exemple de Mme Chrysanthème, ont fondé avec des Européens des ménages éphémères. Mais Loti s'ennuie auprès de Mme Chrysanthème, et, à l'heure du départ, il la trouve moins occupée de la séparation prochaine que du soin de vérifier les piastres que, suivant leurs conventions, il vient de lui compter. L'intérêt est tout entier dans la peinture des moeurs et des choses japonaises, interprétées par une sensibilité originale, au hasard des impressions, avec un détachement désillusionné.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1105-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1105-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">loti_pierre_-_madame_chrysantheme</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Pierre Loti&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:06.502919+00:00" name="calibre:timestamp"/>
+        <meta content="Madame Chrysanthème" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

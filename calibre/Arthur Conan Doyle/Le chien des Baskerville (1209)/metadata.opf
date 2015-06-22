@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1209</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8bcca8ae-0a97-491b-a6c6-6c10c07d01d4</dc:identifier>
+        <dc:title>Le chien des Baskerville</dc:title>
+        <dc:creator opf:file-as="Doyle, Arthur Conan" opf:role="aut">Arthur Conan Doyle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Le Chien des Baskerville (The Hound of the Baskervilles) est un roman policier, publié pour la première fois dans le Strand Magazine en 1901 et 1902. La légende court dans cette région du Devonshire (sud ouest de l'Angleterre), qu'un énorme chien crachant du feu de sa gueule béante serait à l'origine de la mort de Sir Charles Baskerville. Un de ses ancêtres, Sir Hugo Baskerville, trouva la mort mystérieusement après avoir commis d'immondes atrocités envers une jeune paysanne. Sherlock Holmes et le Docteur Watson enquêtent. Ils doivent protéger le dernier descendant des Baskerville revenu prestement du Canada, Sir Henry, qui lui ne croît pas à toutes ces balivernes. Extrait : J'ai appris qu'avant la terrible nuit plusieurs personnes ont vu sur la lande un animal dont le signalement se rapportait à celui du démon des Baskerville... L'animal ne rentre dans aucune espèce cataloguée. On convient qu'il avait un aspect épouvantable, fantastique, spectral. J'ai questionné ces gens -- un paysan obtus, un maréchal ferrant et un fermier. Aucun n'a varié sur le portrait de la sinistre apparition. Elle incarnait bien exactement le chien vomi par l'enfer, d'après la légende. La terreur règne dans le district en souveraine maîtresse, et il pourrait se vanter d'être téméraire celui qui s'aventurerait la nuit sur la lande.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0156-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0156-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">doyle_arthur_conan_-_le_chien_des_baskerville</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture intermédiaire</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Angleterre</dc:subject>
+        <meta content="{&quot;Arthur Conan Doyle&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:54.528498+00:00" name="calibre:timestamp"/>
+        <meta content="chien des Baskerville, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

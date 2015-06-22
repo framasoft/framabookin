@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1700</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">af614f8f-9f41-4393-bbbe-e93193eca4de</dc:identifier>
+        <dc:title>Poèmes saturniens</dc:title>
+        <dc:creator opf:file-as="Verlaine, Paul" opf:role="aut">Paul Verlaine</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Dans ces temps fabuleux, les limbes de l'histoire, - Où les fils de Raghû, beaux de fard et de gloire, - Vers la Ganga régnaient leur règne étincelant, - Et, par l'intensité de leur vertu, troublant - Les Dieux et les Démons et Bhagavat lui-même, - Augustes, s'élevaient jusqu'au néant suprême, - Ah ! la terre et la mer et le ciel, purs encor - Et jeunes, qu'arrosait une lumière d'or - Frémissante, entendaient, apaisant leurs murmures - De tonnerres, de flots heurtés, de moissons mûres, - Et retenant le vol obstiné des essaims, - Les Poètes sacrés chanter les Guerriers saints, - Ce pendant que le ciel et la mer et la terre - Voyaient --- rouges et las de leur travail austère --- - S'incliner, pénitents fauves et timorés, - Les Guerriers saints devant les Poètes sacrés !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1175-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1175-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">verlaine_paul_-_poemes_saturniens</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>poesie</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Paul Verlaine&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:34.611648+00:00" name="calibre:timestamp"/>
+        <meta content="Poèmes saturniens" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

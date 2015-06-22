@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1371</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">96ac1acd-d4a2-4c59-b159-1c8992ac2b95</dc:identifier>
+        <dc:title>Contes à Jeannot</dc:title>
+        <dc:creator opf:file-as="Girardin, Jules" opf:role="aut">Jules Girardin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Quand maman avait fait les malles, j'avais oublié de lui donner la bouteille d'encre bleue que j'avais achetée pour t'écrire. Je ne m'en suis aperçue qu'au dernier moment, et alors, sans rien dire, je l'ai mise dans le panier de Lili. La bouteille s'était débouchée pendant que je dormais, et ma pauvre Lili avait pris un bain d'encre bleue.Jean n'a pas osé se moquer de moi, parce que j'avais beaucoup, beaucoup de chagrin ; il est taquin, mais il n'est pas méchant. Maman m'a consolée en me disant que, comme la tête, les bras et les mains de Lili sont en porcelaine, on pourra enlever l'encre bleue avec de l'eau ; mais le cache-poussière est perdu, et le joli costume de plage aussi !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1487-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1487-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">girardin_jules_-_contes_a_jeannot</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>conte</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Jules Girardin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:27.729926+00:00" name="calibre:timestamp"/>
+        <meta content="Contes à Jeannot" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

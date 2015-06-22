@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">54ad703f-57ca-48f9-8d56-f9513cfd05e5</dc:identifier>
+        <dc:title>Atelier Drupal 7. Créer un site internet avec un CMS pas comme les autres</dc:title>
+        <dc:creator opf:file-as="Roudet, Cyprien" opf:role="aut">Roudet, Cyprien</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-16T13:50:23+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Destiné à tout concepteur de site Web, cet ouvrage permet de prendre en main en douceur et sans douleur un CMS réputé difficile d’accès. Il s’adresse à un public débutant ou souhaitant se perfectionner avec Drupal.&lt;/p&gt;&lt;p&gt;Progressant étape par étape, aidé par des exemples illustrés de copies d’écrans, le lecteur pourra appréhender toute la puissance de Drupal en ajoutant des fonctionnalités à son site web au fil des chapitres : site de nouvelles, forums, ajout d’images aux articles, site communautaire, etc.&lt;/p&gt;&lt;p&gt;Tout cela sans connaissances préalables à la création de sites internet !&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Framasoft</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9782953918731</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Framabook</dc:subject>
+        <dc:subject>Drupal</dc:subject>
+        <dc:subject>cms</dc:subject>
+        <dc:subject>manuel</dc:subject>
+        <meta content="{&quot;Roudet, Cyprien&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-05-26T11:26:04.579346+00:00" name="calibre:timestamp"/>
+        <meta content="Atelier Drupal 7. Créer un site internet avec un CMS pas comme les autres" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

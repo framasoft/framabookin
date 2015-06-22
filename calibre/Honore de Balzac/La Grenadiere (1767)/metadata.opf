@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1767</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0a70939f-6719-466f-893e-ae3e3afeecac</dc:identifier>
+        <dc:title>La Grenadière</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>1832. La Comédie humaine - Études de moeurs. Premier livre, Scènes de la vie privée - Tome II. Deuxième volume de l'édition Furne 1842. La Grenadière est une ravissante et vieille maison en bord de Loire, à proximité de Tours. Madame Willemsens vient de la louer. Elle y vit retirée avec ses deux fils et sa dame de compagnie. On ne sait rien d'elle. Seuls les précepteurs de ses fils peuvent fréquenter la maison, ils parlent de cette famille avec admiration, évoquant son bonheur simple. Un soir de Juin, madame Willemsens révèle à un de ses fils qu'elle est gravement malade. Elle se désespère de les laisser prochainement seuls, sans père... Extrait : Les deux enfants excitèrent également beaucoup d’intérêt, et les mères ne pouvaient pas les regarder sans envie. Tous deux ressemblaient à madame Willemsens, qui était en effet leur mère. Ils avaient l’un et l’autre ce teint transparent et ces vives couleurs, ces yeux purs et humides, ces longs cils, cette fraîcheur de formes qui impriment tant d’éclat aux beautés de l’enfance. L’aîné, nommé Louis-Gaston, avait les cheveux noirs et un regard plein de hardiesse. Tout en lui dénotait une santé robuste, de même que son front large et haut, heureusement bombé, semblait trahir un caractère énergique. Il était leste, adroit dans ses mouvements, bien découplé, n’avait rien d’emprunté, ne s’étonnait de rien, et paraissait réfléchir sur tout ce qu’il voyait. L’autre, nommé Marie-Gaston, était presque blond, quoique parmi ses cheveux quelques mèches fussent déjà cendrées et prissent la couleur des cheveux de sa mère. Marie avait les formes grêles, la délicatesse de traits, la finesse gracieuse, qui charmaient tant dans madame Willemsens. Il paraissait maladif : ses yeux gris lançaient un regard doux, ses couleurs étaient pâles. Il y avait de la femme en lui. Sa mère lui conservait encore la collerette brodée, les longues boucles frisées et la petite veste ornée de brandebourgs et d’olives qui revêt un jeune garçon d’une grâce indicible, et trahit ce plaisir de parure tout féminin dont s’amuse la mère autant que l’enfant peut-être.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0992-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0992-5</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1011-2</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_la_grenadiere</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:48.315689+00:00" name="calibre:timestamp"/>
+        <meta content="Grenadière, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

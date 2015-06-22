@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1670</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">31de9022-272e-496d-9cd4-6e7bc79ae89e</dc:identifier>
+        <dc:title>À la recherche du temps perdu X</dc:title>
+        <dc:creator opf:file-as="Proust, Marcel" opf:role="aut">Marcel Proust</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1923-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Sodome et Gomorrhe est le quatrième volet d’À la recherche du temps perdu de Marcel Proust publié en 2 tomes entre 1922 et 1923 chez Gallimard. Dans ce roman, le jeune narrateur découvre par hasard que Charlus est homosexuel, lorsqu'il assiste en témoin auditif à ses ébats avec Jupien. Extrait : En effet, Mme Verdurin et son mari avaient contracté dans l'oisiveté des instincts cruels à qui les grandes circonstances, trop rares, ne suffisaient plus. On avait bien pu brouiller Odette avec Swann, Brichot avec sa maîtresse. On recommencerait avec d'autres, c'était entendu. Mais l'occasion ne s'en présentait pas tous les jours. Tandis que, grâce à sa sensibilité frémissante, à sa timidité craintive et vite affolée, Saniette leur offrait un souffre-douleur quotidien. Aussi, de peur qu'il lâchât, avait-on soin de l'inviter avec des paroles aimables et persuasives comme en ont au lycée les vétérans, au régiment les anciens pour un bleu qu'on veut amadouer afin de pouvoir s'en saisir, à seules fins alors de le chatouiller et de lui faire des brimades quand il ne pourra plus s'échapper. « Surtout, rappela Cottard à Brichot qui n'avait pas entendu M. Verdurin, motus devant Mme Verdurin. -- Soyez sans crainte, ô Cottard, vous avez affaire à un sage, comme dit Théocrite. D'ailleurs M. Verdurin a raison, à quoi servent nos plaintes, ajouta-t-il, car, capable d'assimiler des formes verbales et les idées qu'elles amenaient en lui, mais n'ayant pas de finesse, il avait admiré dans les paroles de M. Verdurin le plus courageux stoïcisme.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1575-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1575-9</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0883-6</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">proust_marcel_-_a_la_recherche_du_temps_perdu_x</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Marcel Proust&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:28.463637+00:00" name="calibre:timestamp"/>
+        <meta content="À la recherche du temps perdu X" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

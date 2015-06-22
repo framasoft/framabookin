@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1530</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">84815525-8623-442b-b986-fae4d1c1f1ae</dc:identifier>
+        <dc:title>Germinie Lacerteux</dc:title>
+        <dc:creator opf:file-as="Goncourt, Edmond et Jules de" opf:role="aut">Edmond et Jules de Goncourt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1865-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Edmond (1822-1896) et Jules (1830-1870) de Goncourt ont publié, en commun, parmi d'autres écrits, des romans, dont \emph{Germinie Lacerteux} (1864) et \emph{Madame Gervaisais} (1869). Après la mort de Jules, Edmond publiera quatre autres romans, dont \emph{La Fille Élisa} en 1877. Mais ils sont surtout connus aujourd'hui pour un Journal (c'est Edmond qui en a écrit les trois quarts), véritable document sur la vie littéraire et culturelle de l'époque. Le Journal, dans son intégralité, n'a paru qu'en 1858. Extrait: Jugeant que ces plaisirs devaient suffire à Sempronie, jaloux d'ailleurs de l'avoir toute à lui et toujours sous la main, M. de Varandeuil ne la laissait se lier avec personne. Il ne l'emmenait pas dans le monde ; il ne la menait chez leurs parents revenus de l'émigration qu'aux jours de réception officielle et d'assemblée de famille. Il la tenait liée à la maison : ce fut seulement à quarante ans qu'il la jugea assez grande personne pour lui donner la permission de sortir seule. Ainsi nulle amitié, nulle relation pour soutenir la jeune fille : elle n'avait plus même à côté d'elle son jeune frère parti pour les États-Unis et engagé au service de la marine américaine.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1494-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1494-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">goncourt_edmond_et_jules_de_-_germinie_lacerteux</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Edmond et Jules de Goncourt&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:00.284272+00:00" name="calibre:timestamp"/>
+        <meta content="Germinie Lacerteux" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

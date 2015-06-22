@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1776</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">52eeb6ea-df56-4799-9548-037ab1be3c8d</dc:identifier>
+        <dc:title>La fausse maîtresse</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>1842. La Comédie humaine - Études de moeurs. Premier livre, Scènes de la vie privée - Tome I. Premier volume de l'édition Furne 1842.  Extrait : Hélas ! il faut l’avouer, au risque de rendre le capitaine moins intéressant, Paz, quoique supérieur à son ami Adam, n’était pas un homme fort. Sa supériorité apparente, il la devait au malheur. Dans ses jours de misère et d’isolement, à Varsovie, il lisait, il s’instruisait, il comparait et méditait ; mais le don de création qui fait le grand homme, il ne le possédait point, et peut-il jamais s’acquérir ? Paz, uniquement grand par le cœur, allait alors au sublime ; mais dans la sphère des sentiments, plus homme d’action que de pensées, il gardait sa pensée pour lui. Sa pensée ne servait alors qu’à lui ronger le cœur. Et qu’est-ce d’ailleurs qu’une pensée inexprimée !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0986-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0986-4</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0971-0</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_la_fausse_maitresse</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:50.106532+00:00" name="calibre:timestamp"/>
+        <meta content="fausse maîtresse, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

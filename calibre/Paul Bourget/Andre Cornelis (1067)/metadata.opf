@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1067</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">961d8e42-9749-498e-bd81-99fab09f50a9</dc:identifier>
+        <dc:title>André Cornelis</dc:title>
+        <dc:creator opf:file-as="Bourget, Paul" opf:role="aut">Paul Bourget</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Paul Bourget, né à Amiens le 2 septembre 1852 et mort à Paris le 25 décembre 1935, est un écrivain et essayiste catholique français. Extrait : Et depuis lors, aucune nouvelle. Le soir de ce jour, quand le dîner, reculé de quart d'heure en quart d'heure, eut eu lieu sans que mon père rentrât, lui, si méticuleux, si ponctuel, ma mère commença de montrer une inquiétude qui ne fit que grandir, et qu'elle put d'autant moins me cacher que les dernières phrases de l'absent vibraient encore dans mes oreilles. C'était chose si rare qu'il parlât ainsi de ses occupations ! La nuit passa, puis une matinée, puis une après-midi. La soirée revint. Ma mère et moi, nous nous retrouvâmes en tête-à-tête, assis à la table carrée où le couvert, tout dressé devant la chaise vide, donnait comme un corps à notre épouvante. M. Jacques Termonde, qu'elle avait prévenu par une lettre, était arrivé après le repas. On m'avait renvoyé tout de suite, mais non sans que j'eusse eu le temps de remarquer l'extraordinaire éclat des yeux de cet homme, -- des yeux bleus qui d'habitude luisaient froidement dans ce visage fin, encadré de cheveux blonds et d'une barbe presque pâle. Les enfants ramassent ainsi de menus détails, aussitôt effacés, mais qui réapparaissent plus tard, au contact de la vie, comme certaines encres invisibles se montrent sur le papier à l'approche du feu. Tandis que j'insistais pour rester, machinalement j'observai avec quelle agitation ses belles mains, qu'il tenait derrière son dos, tournaient et retournaient une canne de jonc, objet de mes plus secrètes envies. Si je n'avais pas tant admiré cette canne, et le combat de centaures, travail de la Renaissance, qui se tordait sur le pommeau d'argent, ce signe d'extrême trouble m'eût échappé. Mais comment M. Termonde n'eût-il pas été saisi de la disparition de son meilleur ami ? Sa voix cependant était calme...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1273-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1273-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">bourget_paul_-_andre_cornelis</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Paul Bourget&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:25.205211+00:00" name="calibre:timestamp"/>
+        <meta content="André Cornelis" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

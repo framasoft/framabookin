@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1615</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e06b659a-edf6-4594-b288-499c439daf1f</dc:identifier>
+        <dc:title>La comtesse de Cagliostro</dc:title>
+        <dc:creator opf:file-as="Leblanc, Maurice" opf:role="aut">Maurice Leblanc</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1924-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Arsène Lupin, jeune amant de Clarisse d'Étigues, sauve une certaine Joséphine Balsamo que le père et le cousin de Clarisse ont tenté de tuer sur ordre de leur maître chanteur, Beaumagnan. Beaumagnan et ses amis étaient des royalistes engagés. Joséphine Pellegrini-Balsamo était comtesse de Cagliostro, née à Palerme le 29 juillet 1788 d’une liaison de Joseph Balsamo et de Joséphine de la Pagerie. Âgée de quelque 106 ans mais en paraissant 30, elle serait une espionne, traîtresse, voleuse et meurtrière, qui aurait profité du secret de longue vie et de jeunesse de Cagliostro. Extrait : Le plan de Raoul, -- laissons dans l'ombre le nom d'Arsène Lupin puisque, à cette époque, ignorant sa destinée, lui-même le tenait en quelque mépris -- le plan de Raoul était fort simple. Parmi les arbres du verger, à gauche du château, et s'appuyant contre le mur d'enceinte dont elle formait jadis l'un des bastions, il y avait une tour tronquée, très basse, recouverte d'un toit et qui disparaissait sous des vagues de lierre. Or, Raoul ne doutait point que la réunion de quatre heures n'eût lieu dans la grande salle intérieure où le baron recevait ses fermiers. Et Raoul avait remarqué qu'une ouverture, ancienne fenêtre ou prise d'air, donnait sur la campagne. Escalade facile pour un garçon aussi adroit ! Sortant du château et rampant sous le lierre, il se hissa, grâce aux énormes racines, jusqu'à l'ouverture pratiquée dans l'épaisse muraille, et qui était assez profonde pour qu'il pût s'y étendre tout de son long. Ainsi, placé à cinq mètres du sol, la tête masquée par du feuillage, il ne pouvait être vu, et voyait toute la salle, grande pièce meublée d'une vingtaine de chaises, d'une table et d'un large banc d'église. Quarante minutes plus tard, le baron y pénétrait avec un de ses amis, Raoul ne s'était pas trompé dans ses prévisions.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1600-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1600-8</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1595-7</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leblanc_maurice_-_la_comtesse_de_cagliostro</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Maurice Leblanc&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:17.457553+00:00" name="calibre:timestamp"/>
+        <meta content="comtesse de Cagliostro, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1417</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">297fb21a-84a2-4476-a125-129b24fccbe8</dc:identifier>
+        <dc:title>Les gens de bureau</dc:title>
+        <dc:creator opf:file-as="Gaboriau, Émile" opf:role="aut">Émile Gaboriau</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1862-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Une satire féroce et réjouissante de l'administration et de la vie des bureaux. Extrait : Cet homme impénétrable est le grand ressort du ministère, un ressort d'acier. C'est sur sa présentation que se font toutes les nominations et toutes les promotions. Il est le dispensateur de l'avancement, dispensateur avare ; à lui s'adressent tous les vœux, à lui toutes les prières ; il est de la part du peuple employé l'objet d'un culte analogue à celui que le lazzarone napolitain professe pour son grand saint Janvier. Le fanatisme y touche de près à l'insulte, l'adoration à l'outrage. Le miracle de l'avancement ou de la gratification a-t-il eu lieu, Dieu ne fait pas fleurir assez de roses pour le saint Janvier de l'Équilibre ; mais le bienheureux du personnel a-t-il fait la sourde oreille, ce n'est plus du rez-de-chaussée aux combles de la maison qu'un formidable concert d'invectives et d'imprécations. Impassible, il ne sait rien de cet orage.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0233-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0233-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">gaboriau_emile_-_les_gens_de_bureau</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Émile Gaboriau&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:37.014641+00:00" name="calibre:timestamp"/>
+        <meta content="gens de bureau, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

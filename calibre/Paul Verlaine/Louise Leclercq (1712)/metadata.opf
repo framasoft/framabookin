@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1712</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9a71965e-240e-4a73-9aaa-a8a2a94dc0a0</dc:identifier>
+        <dc:title>Louise Leclercq</dc:title>
+        <dc:creator opf:file-as="Verlaine, Paul" opf:role="aut">Paul Verlaine</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Il n y a guère de mélancolie plus épaisse, de tristesse plus lourde que la pensée de vivre dans ces énormes maisons de plâtre, à cinq et six étages, avec leurs innombrables volets gris, comme des poitrines de squelettes à plat sur le blanc sale du mur, de l'ancienne banlieue parisienne. Je parle plus spécialement des quartiers paisibles, honnêtes, où la bâtisse a prospéré grâce aux locataires bons payeurs, où ont pu se former de très longues rues sans air et sans soleil. Le petit rentier qui rente si magnifiquement le possesseur de ces hideux phalanstères a bien raison d'être pour la plupart du temps un imbécile, car qui pourrait, à un certain âge, le temps du repos venu, finir sa vie, non pas même heureusement, mais tranquillement, dans de pareilles conditions d'insalubre laideur et de platitude vénéneuse ? L'homme jeune, le ménage qui a sa fortune à faire ou son pain à gagner sur la vie de tous les jours, peut à la rigueur admettre cette hygiène absurde, s'y faire, la supporter, - au prix de quel ennui méchant, toutefois, de quelles sensations perverses, de quelles envies de briser à jamais ce cadre noir et d'en sortir pour quelles fuites ! Et combien de lamentables culpabilités de quelque ordre que ce soit pourraient s'expliquer, sinon s'excuser, par ces motifs tortueux, inavoués, insoupçonnés, de milieux analogues ou pareils ?</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1168-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1168-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">verlaine_paul_-_louise_leclercq</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Paul Verlaine&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:37.182521+00:00" name="calibre:timestamp"/>
+        <meta content="Louise Leclercq" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

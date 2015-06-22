@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">977</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c711fc34-d0db-48ac-a461-c8b3bd630f0a</dc:identifier>
+        <dc:title>Les paysans</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Tome XVIII - Houssiaux, 1855. Extrait : La longue lettre écrite par le journaliste doit faire supposer aux esprits pénétrants qu’il avait atteint moralement et physiquement à cette phase particulière aux passions satisfaites, aux bonheurs assouvis, et que tous les volatiles engraissés par force représentent parfaitement quand, la tête enfoncée dans leur gésier qui bombe, ils restent sur leurs pattes, sans pouvoir ni vouloir regarder le plus appétissant manger. Aussi, quand sa formidable lettre fut achevée, Blondet éprouva-t-il le besoin de sortir des jardins d’Armide et d’animer la mortelle lacune des trois premières heures de la journée ; car, entre le déjeuner et le dîner, le temps appartenait à la châtelaine qui savait le rendre court. Garder, comme le fit madame de Montcornet, un homme d’esprit pendant un mois à la campagne, sans avoir vu sur son visage le rire faux de la satiété, sans avoir surpris le bâillement caché d’un ennui qui se devine toujours, est un des plus beaux triomphes d’une femme. Une affection qui résiste à ces sortes d’essais doit être éternelle. On ne comprend point que les femmes ne se servent pas de cette épreuve pour juger leurs amants ; il est impossible à un sot, à un égoïste, à un petit esprit d’y résister.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1021-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1021-1</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0997-0</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_les_paysans</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:07.190371+00:00" name="calibre:timestamp"/>
+        <meta content="paysans, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

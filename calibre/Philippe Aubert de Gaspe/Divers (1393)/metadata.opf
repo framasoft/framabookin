@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1393</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">adb8d8b8-4e02-470c-a933-60c923365d22</dc:identifier>
+        <dc:title>Divers</dc:title>
+        <dc:creator opf:file-as="Gaspé, Philippe Aubert de" opf:role="aut">Philippe Aubert de Gaspé</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1893-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Philippe Aubert de Gaspé est surtout connu pour son roman Les Anciens Canadiens, qu'il écrivit à soixante-quatorze ans. Mais il est aussi l'auteur de Mémoires et d'un petit recueil de récits simplement intitulé Divers, publié après sa mort, en 1893. Extrait : « J'ai reçu l'hospitalité, mes enfants, chez des gens riches, dans les châteaux même, en France et ailleurs, mais j'ai toujours pensé que le pauvre seul a le mérite de l'hospitalité. Sept fois sur dix peut-être, l'homme riche est l'obligé de celui que lui rend visite, parce qu'il dissipe son ennui, qu'il égaye sa solitude, ou lui donne une occasion d'étaler son luxe et ses richesses, tandis que le pauvre, lui, ou même l'homme de petits moyens, s'impose des privations lorsqu'il exerce cette noble vertu.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1478-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1478-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">gaspe_philippe_aubert_de_-_divers</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Philippe Aubert de Gaspé&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:32.178875+00:00" name="calibre:timestamp"/>
+        <meta content="Divers" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

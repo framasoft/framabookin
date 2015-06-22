@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1688</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">016f98ee-a52e-4fd3-9989-00d9a9669fa9</dc:identifier>
+        <dc:title>La bête humaine</dc:title>
+        <dc:creator opf:file-as="Zola, Émile" opf:role="aut">Émile Zola</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1893-12-14T23:00:00+00:00</dc:date>
+        <dc:description>La Bête humaine est le dix-septième volume de la série Les Rougon-Macquart. L'histoire évoque le monde du chemin de fer et se déroule tout au long de la ligne Paris-Le Havre. On a coutume de dire qu'elle comporte deux héros : d'une part le mécanicien Jacques Lantier et de l'autre sa locomotive, la Lison, que Lantier aime plus qu'une femme. Outre son aspect documentaire, La Bête humaine est un roman noir, sorte de thriller du xixe siècle ; c'est aussi un roman sur l'hérédité, Jacques souffrant d'une folie homicide que Zola rattache à l'alcoolisme des Macquart. Extrait : Dans le jardin du garde-barrière, une fille tirait de l'eau au puits, une grande fille de dix-huit ans, blonde, forte, à la bouche épaisse, aux grands yeux verdâtres, au front bas, sous de lourds cheveux. Elle n'était point jolie, elle avait les hanches solides et les bras durs d'un garçon. Dès qu'elle aperçut le voyageur, descendant le sentier, elle lâcha le seau, elle accourut se mettre devant la porte à claire-voie, qui fermait la haie vive.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0238-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0238-4</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0246-9</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">zola_emile_-_la_bete_humaine</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture avancée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Émile Zola&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:32.105338+00:00" name="calibre:timestamp"/>
+        <meta content="bête humaine, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

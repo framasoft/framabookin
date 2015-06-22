@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1196</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e49cd037-b7cb-4959-bbb9-6fc3f4ca0f22</dc:identifier>
+        <dc:title>Le roman de Delphine</dc:title>
+        <dc:creator opf:file-as="Daudet, Ernest" opf:role="aut">Ernest Daudet</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Frère aîné d’Alphonse Daudet, il se consacre tout d’abord au commerce selon le souhait de sa famille. Voulant devenir écrivain, il finit par aller à Paris et commence à contribuer à divers journaux parisiens et de province. Parallèlement, il entre comme secrétaire-rédacteur au Sénat. Il publie une trentaine de romans et collabore à de nombreux journaux, souvent sous pseudonyme. Extrait : --- Fillette, j'ai donné ma démission. Elle devint très pâle. La nuit, dans un rêve, elle avait vu le spectre de la misère prendre en maître possession de la maisonnette où elle était née, où elle avait grandi, heureuse jusqu'à ce jour. -- Votre démission ! fit-elle. Dans six mois vous auriez eu droit à votre retraite. -- Sans doute ! sans doute ! mais, six mois, c'est bien long. J'ai besoin de tout mon temps pour me livrer à mes expériences. Entre elles et ma place, je devais choisir. Je n'ai pas hésité. -- Qu'allons-nous devenir ? murmura Delphine.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1333-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1333-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">daudet_ernest_-_le_roman_de_delphine</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Ernest Daudet&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:51.723740+00:00" name="calibre:timestamp"/>
+        <meta content="roman de Delphine, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

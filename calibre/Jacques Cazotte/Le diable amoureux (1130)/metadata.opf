@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1130</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8694795d-600b-4acd-93bd-8e884c5b43f0</dc:identifier>
+        <dc:title>Le diable amoureux</dc:title>
+        <dc:creator opf:file-as="Cazotte, Jacques" opf:role="aut">Jacques Cazotte</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Jacques Cazotte est né à Dijon, en 1720, et il périt sur l'achafaud, à Paris, en 1792. Il a publié de nombreuses œuvres, mais il est aujourd'hui surtout connu pour un conte fantastique, "Le Diable amoureux", publié à Paris en 1772. Extrait : Arrêtez, m'écriai-je, en me mettant les poings fermés sur les yeux, vous êtes le plus adroit, le plus insigne des faussaires. Vous parlez d'amour, vous en présentez l'image, vous en empoisonnez l'idée, je vous défends de m'en dire un mot. Laissez-moi me calmer assez, si je le puis, pour devenir capable de prendre une résolution.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1294-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1294-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">cazotte_jacques_-_le_diable_amoureux</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Jacques Cazotte&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:38.394800+00:00" name="calibre:timestamp"/>
+        <meta content="diable amoureux, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

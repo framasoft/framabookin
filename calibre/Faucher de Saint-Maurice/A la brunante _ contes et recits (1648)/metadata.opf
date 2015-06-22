@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1648</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8dc02e56-c4a8-45b5-bef7-2a66f01e9e8c</dc:identifier>
+        <dc:title>À la brunante : contes et récits</dc:title>
+        <dc:creator opf:file-as="Saint-Maurice, Faucher de" opf:role="aut">Faucher de Saint-Maurice</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Divers contes et récits : La femme à l'aiguille -- Le baiser d'une morte -- Belle aux cheveux blonds -- Le père Michel -- Le feu des Roussi -- Le fantôme de la roche -- Mon ami Jean -- L'amiral du brouillard -- Madeleine Bouvart -- Dodo ! l'enfant ! -- À la veillée  -- Les blessures de la vie. Extrait : Alors, le désespoir dans l'âme, je me résolus à quitter la ville, et m'en vins m'établir ici, sur le modeste emplacement où nous veillons ce soir. Te dire tous les instants de bonheur passés sous le toit de cette maisonnette, en tête-à-tête avec mes amours et les chef-d'œuvre des grands maîtres, serait au-dessus de mes forces. Qu'il me suffise de te confier que j'ai joui ici de toutes les joies de la famille, que Dieu daigne accorder sur terre aux hommes de bonne volonté. Mon jardin suffisait à couvrir nos petites dépenses d'au jour le jour. Ursule savait tricoter, faire la cuisine, travailler au métier, et, comme elle me l'avait promis, à nous deux, nous faisions ce que nous voulions de la misère. Nos jours de tranquillité passaient sans que nous les comptions, lorsque tout à coup, un matin, le maître de poste me fit remettre une lettre toute cachetée de noir.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1469-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1469-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">saint-maurice_faucher_de_-_a_la_brunante_contes_et_recits</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>conte</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Faucher de Saint-Maurice&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:24.010635+00:00" name="calibre:timestamp"/>
+        <meta content="À la brunante : contes et récits" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

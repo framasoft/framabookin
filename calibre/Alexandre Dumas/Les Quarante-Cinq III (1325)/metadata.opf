@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1325</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">694b0d21-c65f-43f6-bd40-e3a6493d76a1</dc:identifier>
+        <dc:title>Les Quarante-Cinq III</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Les Quarante-Cinq est le troisième volume de la trilogie sur les guerres de religion. Henri III a perdu ses favoris, tous tués en duel à la fin de La Dame de Monsoreau, tandis que le brave Bussy trouvait la mort dans une embuscade tendue par son maître, le duc d'Anjou. Ne lui reste que le moins aimé, D'Epernon, devenu duc et courtisan paresseux. Il se console donc en reportant son affection sur le duc Anne de Joyeuse et son frère Henri. Extrait : - Oh ! madame, murmura le jeune homme en se laissant glisser sur ses deux genoux, jetez les yeux sur moi, sur moi qui ai tant souffert, sur moi qui vous ai tant aimée. Oh ! ne vous détournez pas ; vous êtes jeune, vous êtes belle comme un ange des Cieux. Lisez bien dans mon cœur que je vous ouvre, et vous verrez que ce cœur ne contient pas un atome de l'amour comme le comprennent les autres hommes. Vous ne me croyez pas ! Examinez les heures passées, pesez-les une à une : laquelle m'a donné la joie ? laquelle l'espoir ? et cependant j'ai persisté. Vous m'avez fait pleurer, j'ai bu mes larmes ; vous m'avez fait souffrir, j'ai dévoré mes douleurs ; vous m'avez poussé à la mort, j'y marchais sans me plaindre. Même en ce moment, où vous détournez la tête, où chacune de mes paroles, toute brûlante qu'elle soit, semble une goutte d'eau glacée tombant sur votre cœur, mon âme est pleine de vous, et je ne vis que parce que vous vivez. Tout à l'heure n'allais-je pas mourir près de vous ? Qu'ai-je demandé ? rien. Votre main, l'ai-je touchée ? Jamais, autrement que pour vous tirer d'un péril mortel. Je vous tenais entre mes bras pour vous arracher aux flots, avez-vous senti l'étreinte de ma poitrine ? Non. Je ne suis plus qu'une âme, et tout en moi a été purifié au feu dévorant de mon amour.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0058-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0058-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_les_quarante-cinq_iii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:18.132170+00:00" name="calibre:timestamp"/>
+        <meta content="Quarante-Cinq III, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

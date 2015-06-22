@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1771</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">02632f94-b563-4a2d-9667-412140026ecd</dc:identifier>
+        <dc:title>La femme abandonnée</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>1832. La Comédie humaine - Études de moeurs. Premier livre, Scènes de la vie privée - Tome II. Deuxième volume de l'édition Furne 1842. Bien qu'écrite deux avant Le père Goriot, cette nouvelle met en scène Mme de Beauséant, qui, abandonnée par son amant dans Le père Goriot, s'est retirée dans son château de Normandie. La retraite de Mme de Beauséant va être troublée par la venue d'un jeune homme dont c'est le premier amour. Une des plus poétiques et dramatiques nouvelles de Balzac. Extrait : Il tâcha de raconter avec plus de sentiment que d’esprit les souffrances auxquelles l’avait condamné son exil nécessaire. Il peignit l’état d’un jeune homme dont les feux brûlaient sans aliment, en faisant penser qu’il était digne d’être aimé tendrement, et néanmoins n’avait jamais connu les délices d’un amour inspiré par une femme jeune, belle, pleine de goût, de délicatesse. Il expliqua son manque de convenance sans vouloir le justifier. Il flatta madame de Beauséant en lui prouvant qu’elle réalisait pour lui le type de la maîtresse incessamment mais vainement appelée par la plupart des jeunes gens. Puis, en parlant de ses promenades matinales autour de Courcelles, et des idées vagabondes qui le saisissaient à l’aspect du pavillon où il s’était enfin introduit, il excita cette indéfinissable indulgence que la femme trouve dans son cœur pour les folies qu’elle inspire.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0979-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0979-6</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0992-5</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_la_femme_abandonnee</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:49.118481+00:00" name="calibre:timestamp"/>
+        <meta content="femme abandonnée, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

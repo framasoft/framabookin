@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1166</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cc7a91f9-6a4d-4c07-a6f5-903949d70573</dc:identifier>
+        <dc:title>Histoire d'un casse-noisette et autres contes</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Divers contes d'Alexandre Dumas sont regroupés dans ce livre : Histoire d’un casse-noisette, L’égoïste, Nicolas le philosophe, Pierre et son oie, Un voyage à la lune, Le roi des quilles, Les deux frères, Saint Népomucène et le savetier, Les mains géantes, L’homme sans larmes, Un âne qui a peur du feu et de l’eau, Le sifflet enchanté. Histoire d’un casse-noisette : Le soir de Noël, Marie trouve parmi les jouets un casse-noisette en forme de bonhomme. Jaloux, son frère Fritz brise les dents du jouet. La nuit venue, la fillette refuse de se coucher sans avoir installé au mieux son casse-noisette dans l'armoire quand, à minuit, des bruits se font entendre. Marie découvre avec terreur son parrain Drosselmayer assis sur l'horloge et voit des milliers de souris commandées par un roi à sept têtes. Tandis que les rongeurs se rangent en ordre de bataille, les jouets descendent de l'armoire et choisissent Casse-noisette pour général... Extrait : Pendant ce temps, Marie ramassait les petites dents du casse-noisette, qu'elle continuait de tenir enveloppé dans son mouchoir, et dont elle avait soutenu le menton avec un joli ruban blanc détaché de sa robe de soie. De son côté, le petit bonhomme, très pâle et très effrayé d'abord, paraissait confiant dans la bonté de sa protectrice, et se rassurait peu à peu, en se sentant tout doucement bercé par elle. Alors Marie s'aperçut que le parrain Drosselmayer regardait d'un air moqueur les soins maternels qu'elle donnait au manteau de bois, et il lui sembla même que l'oeil unique du conseiller de médecine avait pris une expression de malice et de méchanceté qu'elle n'avait pas l'habitude de lui voir.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0009-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0009-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_histoire_d_un_casse-noisette_et_autres_contes</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture avancée</dc:subject>
+        <dc:subject>conte</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:45.653888+00:00" name="calibre:timestamp"/>
+        <meta content="Histoire d'un casse-noisette et autres contes" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

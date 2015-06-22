@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fca35730-6b3c-49f1-899c-0301e1451133</dc:identifier>
+        <dc:title>Un monde sans copyright… et sans monopole</dc:title>
+        <dc:creator opf:file-as="Smiers, Joost &amp; van Schijndel, Marieke" opf:role="aut">Smiers, Joost</dc:creator>
+        <dc:creator opf:file-as="Smiers, Joost &amp; van Schijndel, Marieke" opf:role="aut">van Schijndel, Marieke</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-06-20T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Le droit d'auteur est-il un système archaïque ? Dans cet ouvrage audacieux et polémique, Joost Smiers et Marieke van Schijndel répondent par l'affirmative et élaborent un dossier à charge contre le droit d'auteur et les mécanismes économiques qui en découlent.&lt;/p&gt;
+&lt;p&gt;En formulant l'hypothèse qu'un monde sans copyright (le droit d'auteur et autre droit de propriété intellectuelle) est possible, les auteurs explorent méthodiquement les secteurs où le protectionnisme et les conglomérats culturels créent une distorsion du marché au détriment des artistes, de la création et de la diversité culturelle. Imaginez un terrain de jeu équitable où les artistes pourraient vivre de leur art et où la créativité et les connaissances pourraient intégrer – à nouveau ? – le domaine public pour être partagées… librement.&lt;/p&gt;
+&lt;p&gt;Ce livre est déjà publié en anglais, espagnol, portugais, chinois, italien, indonésien et néerlandais. La présente traduction en français est issue du projet Framalang.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Framasoft</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9782953918700</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Framabook</dc:subject>
+        <dc:subject>droit d'auteur</dc:subject>
+        <dc:subject>propriété intellectuelle</dc:subject>
+        <dc:subject>essai</dc:subject>
+        <meta content="{&quot;van Schijndel, Marieke&quot;: &quot;&quot;, &quot;Smiers, Joost&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-05-21T19:30:51+00:00" name="calibre:timestamp"/>
+        <meta content="monde sans copyright… et sans monopole, Un" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

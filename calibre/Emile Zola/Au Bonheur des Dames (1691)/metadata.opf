@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1691</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">385ce486-d6e6-43f2-b184-8b5a83555df0</dc:identifier>
+        <dc:title>Au Bonheur des Dames</dc:title>
+        <dc:creator opf:file-as="Zola, Émile" opf:role="aut">Émile Zola</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1883-12-14T23:00:00+00:00</dc:date>
+        <dc:description>Au Bonheur des Dames est un roman d’Émile Zola publié en 1883, le onzième volume de la suite romanesque les Rougon-Macquart. Denise Baudu se fait embaucher au Bonheur des Dames, découvre le monde cruel des petites vendeuses, la précarité de l'emploi et assiste au développement de ce magasin et à la mort des anciens petits commerces. Extrait : Il avait levé son porte-plume, il le brandissait, et il le pointa dans le vide, comme s'il eût voulu percer d'un couteau un cœur invisible. L'associé reprit sa marche, s'inclinant comme toujours devant la supériorité du patron, dont le génie plein de trous le déconcertait pourtant. Lui, si net, si logique, sans passion, sans chute possible, en était encore à comprendre le côté fille du succès, Paris se donnant dans un baiser au plus hardi. Un silence régna. On n'entendait que la plume de Mouret. Puis, sur des questions brèves posées par lui, Bourdoncle fournit des renseignements au sujet de la grande mise en vente des nouveautés d'hiver, qui devait avoir lieu le lundi suivant. C'était une très grosse affaire, la maison y jouait sa fortune, car les bruits du quartier avaient un fond de vérité, Mouret se jetait en poète dans la spéculation, avec un tel faste, un besoin tel du colossal, que tout semblait devoir craquer sous lui.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0235-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0235-3</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0244-5</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">zola_emile_-_au_bonheur_des_dames</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Émile Zola&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:32.713606+00:00" name="calibre:timestamp"/>
+        <meta content="Au Bonheur des Dames" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

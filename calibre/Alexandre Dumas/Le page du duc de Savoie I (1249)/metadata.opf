@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1249</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bebe5ed0-3d52-4184-9bb9-28a42ab0aa5e</dc:identifier>
+        <dc:title>Le page du duc de Savoie I</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Emmanuel Philibert, duc de Savoie sans territoires, est le commandant en chef des troupes de Charles Quint en Artois. Il est entouré de son fidèle écuyer Scianca-Fero d'une force redoutable et de son page Léone sensible et frêle auquel il semble tendrement attaché. Il faut dire que Léone est en fait une jeune fille, Léona, qui a dû changer d'identité pour survivre aux ennemis de son père. Le comte de Waldeck ayant commis des actes de pillage, Emmanuel Philibert se voit contraint de le tuer, s'attirant ainsi la haine de son fils Extrait : Philippin, qui travaillait lui-même à quelques centaines de pas du fermier, avait vu le chef de la troupe s'emparer de lui, et avait deviné, aux gestes des soldats et du prisonnier, qu'ils parlaient entre eux du château. Alors, il s'était glissé, en rampant, jusqu'à un chemin creux, et, arrivé là, voyant que la situation topographique du terrain dérobait sa fuite à tous les regards, il était accouru à toutes jambes pour annoncer à sa maîtresse ce qui se passait, et lui donner le temps de prendre une résolution. La châtelaine se leva, alla vers la fenêtre, et vit effectivement la troupe distante de cent pas à peine du château ; elle était d'une cinquantaine d'hommes, comme l'avait dit Philippin, et paraissait commandée par trois chefs. Près du cheval d'un de ces trois chefs marchait le fermier les mains liées derrière le dos ; l'officier à côté duquel il marchait tenait le bout de la corde, sans doute pour que le fermier ne tentât point de s'échapper, ou, s'il tentait de s'échapper, fût arrêté dès le début de la tentative. Cette vue n'était rien moins que rassurante...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1390-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1390-8</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1391-5</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_le_page_du_duc_de_savoie_i</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:02.997658+00:00" name="calibre:timestamp"/>
+        <meta content="page du duc de Savoie I, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

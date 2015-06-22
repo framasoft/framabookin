@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1255</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fc0ef4d2-07d0-4744-8119-3dfb6d154e77</dc:identifier>
+        <dc:title>Le comte de Monte-Cristo VI</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Edmond Dantès, victime d'une dénonciation calomnieuse alors qu'il allait épouser la belle Mercédès, est enfermé pour 14 ans dans un sinistre cachot du château d'If en rade de Marseille. Son salut viendra de l'abbé Faria, un autre prisonnier avec lequel il entretient une amitié clandestine des années durant. Celui-ci lui transmet sa vaste culture et à sa mort, un trésor caché... Extrait : Seulement elle toucha son pouls, et, le sentant battre violemment, elle se souvint que le meilleur moyen de faire disparaître ces visions importunes était de boire : la fraîcheur de la boisson, composée d'ailleurs dans le but de calmer les agitations dont Valentine s'était plainte au docteur, apportait, en faisant tomber la fièvre, un renouvellement des sensations du cerveau ; quand elle avait bu, pour un moment elle souffrait moins. Valentine étendit donc la main afin de prendre son verre sur la coupe de cristal où il reposait ; mais tandis qu'elle allongeait hors du lit son bras frissonnant, l'apparition fit encore, et plus vivement que jamais, deux pas vers le lit, et arriva si près de la jeune fille qu'elle entendit son souffle et qu'elle crut sentir la pression de sa main.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1389-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1389-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_le_comte_de_monte-cristo_vi</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture avancée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:04.200763+00:00" name="calibre:timestamp"/>
+        <meta content="comte de Monte-Cristo VI, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

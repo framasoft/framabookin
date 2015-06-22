@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1108</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d441ae3b-fa97-4a72-a7f0-f91a1cb6a09c</dc:identifier>
+        <dc:title>10 contes de loups</dc:title>
+        <dc:creator opf:file-as="Bladé, Jean-François" opf:role="aut">Jean-François Bladé</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>En ce temps-là les bêtes parlaient. Voici 10 contes du beau pays gascon. Le Loup, la Chèvre, le Renard vivent ensemble dans les bois. Il vont à la foire avec les paysans. Tout ce monde ne s'entend pas toujours très bien. Le Renard est cruel, mais il sera puni. Quant au Loup, il est trop bête, tant pis pour lui ! Les gentils petits animaux, le Chat, la Poulette, l'Oie et même le Limaçon réussissent bien mieux leurs affaires.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1265-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1265-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">blade_jean-francois_-_10_contes_de_loups</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture aisée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Jean-François Bladé&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:33.681217+00:00" name="calibre:timestamp"/>
+        <meta content="10 contes de loups" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

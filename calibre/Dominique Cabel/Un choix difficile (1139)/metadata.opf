@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1139</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2156b9da-6462-427e-82d1-a25c1b5fcbce</dc:identifier>
+        <dc:title>Un choix difficile</dc:title>
+        <dc:creator opf:file-as="Cabel, Dominique" opf:role="aut">Dominique Cabel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Thomas, un adolescent en terminale, hésite sur ses choix d'avenir. Une situation familiale compliquée, un nouveau professeur de sport surprenant et le déclenchement de la guerre au Mali vont l'inciter à se poser un certain nombre de questions et à remettre en cause des évidences héritées de son enfance. Extrait : Thomas fixe l'écran, incrédule. Le président de la République française vient de quitter la tribune depuis laquelle il a prononcé son allocution. Il appuie sur le bouton de la télécommande. Quelque part en Afrique, il ne sait pas trop où exactement, la France vient d'entrer en guerre.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="VERSION">2014-09-17</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1436-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1436-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">cabel_dominique_-_un_choix_difficile</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>contemporain</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture intermédiaire</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Dominique Cabel&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:40.198903+00:00" name="calibre:timestamp"/>
+        <meta content="choix difficile, Un" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

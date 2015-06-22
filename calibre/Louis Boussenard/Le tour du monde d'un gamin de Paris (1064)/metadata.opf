@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1064</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9131dee8-9d85-4362-aff0-be6a97a6683a</dc:identifier>
+        <dc:title>Le tour du monde d'un gamin de Paris</dc:title>
+        <dc:creator opf:file-as="Boussenard, Louis" opf:role="aut">Louis Boussenard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Friquet, jeune parisien débrouillard mais peu fortuné, décide d'entreprendre un tour du monde après avoir lu Le Tour du monde en quatre-vingts jours de Jules Verne. Il arrive en Afrique où il fait la connaissance de ses futurs compagnons de voyage : le docteur Lamperrière, médecin militaire, et André, riche héritier féru d'aventure. Une solide amitié se noue entre les trois hommes capturés par des anthropophages, puis sauvés in extremis par un marchand d'esclaves. S'en suit une série d'aventures où Friquet joue de malchance mais fait toujours contre mauvaise fortune bon coeur : capturé par un gorille, mordu par un serpent venimeux, généreux sauveur d'un petit Africain, on le retrouve prisonnier sur un mystérieux bateau naufrageur au large des côtes d'Amérique du Sud, puis dans l'immense étendue de la pampa du Rio Grande Do Sul où il fait la connaissance d'un aventurier parisien... et de l'hospitalité toute relative des habitants de cette contrée reculée. Même «aux trois quarts noyé, au deux tiers pendu» selon ses propres mots, il se sort toujours des situations les plus inextricables et invente même une évasion rocambolesque à travers les sommets de la Cordillère des Andes pour retrouver ses compagnons de voyage et boucler son tour du monde en démantelant un réseau de crime organisé! Un roman aux rebondissements multiples.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0869-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0869-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">boussenard_louis_-_le_tour_du_monde_d_un_gamin_de_paris</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Louis Boussenard&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:24.591292+00:00" name="calibre:timestamp"/>
+        <meta content="tour du monde d'un gamin de Paris, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

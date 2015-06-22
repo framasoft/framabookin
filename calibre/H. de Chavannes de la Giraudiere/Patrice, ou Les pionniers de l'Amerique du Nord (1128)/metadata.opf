@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1128</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cae6e068-c637-42d7-9b19-edbe178d163b</dc:identifier>
+        <dc:title>Patrice, ou Les pionniers de l'Amérique du Nord</dc:title>
+        <dc:creator opf:file-as="Chavannes de la Giraudière, H. de" opf:role="aut">H. de Chavannes de la Giraudière</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Bryan, qui savait combien en pareille circonstance il était plus sage pour lui de se fier à la sagacité de l'Indien qu'à ses propres inspirations, ne balança pas, et le suivit sur-le-champ avec sa femme et ses deux enfants. Quoiqu'ils courussent plutôt qu'ils ne marchaient, ils étaient encore à vingt-cinq pas de la rivière, quand des cris épouvantables frappèrent leurs oreilles~: c'était le cri de guerre des Iroquois, qui se précipitaient dans la maison que Bryan et sa famille venaient de quitter dix minutes auparavant.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1327-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1327-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">chavannes_de_la_giraudiere_-_patrice_ou_les_pionniers_de_l_amerique_du_nord</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;H. de Chavannes de la Giraudière&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:37.989579+00:00" name="calibre:timestamp"/>
+        <meta content="Patrice, ou Les pionniers de l'Amérique du Nord" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

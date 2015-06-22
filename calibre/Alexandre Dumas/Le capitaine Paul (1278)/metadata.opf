@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1278</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">09129d08-11f1-432c-9d9d-95fb8bdeebf2</dc:identifier>
+        <dc:title>Le capitaine Paul</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>la frégate L'Indienne s'arrête en Bretagne. Son capitaine, sous un déguisement, descend au port et fait la rencontre d'Emmanuel d'Auray, lequel souhaite confier au capitaine, sur ordre du roi, le prisonnier Lusignan afin de le conduire à Cayenne. Le fougueux capitaine Paul accepte. En chemin, son bateau est attaqué par un navire anglais. C'est l'abordage, pendant lequel le prisonnier prend une part active à la défense du navire. L'Indienne victorieuse, le capitaine écoute l'histoire de Lusignan et noue avec lui une amitié qui l'amènera à prendre sa défense... Extrait : En ce moment, une nouvelle détonation se fit entendre ; mais cette fois les deux navires s'étaient tellement rapprochés, qu'ils étaient à trois quarts de portée à peine, et que l'ouragan de fer tout entier traversa la voilure de l'Indienne. Deux éclats de bois peu importants tombèrent de la mâture, et l'on entendit les plaintes et les cris étouffés de quelques hommes. Le capitaine avait en ce moment les yeux fixés sur son prisonnier ; un boulet passa à deux pieds au-dessus de sa tête, échancrant le mât d'artimon, auquel il était adossé : mais, malgré cet avertissement de la mort, il resta dans la même attitude calme et tranquille, comme s'il n'eût pas senti passer sur son front l'aile de l'ange exterminateur. Le capitaine se connaissait en courage ; cet essai lui suffit pour juger l'homme qu'il avait devant les yeux.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0037-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0037-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_le_capitaine_paul</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:08.729320+00:00" name="calibre:timestamp"/>
+        <meta content="capitaine Paul, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

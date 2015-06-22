@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e7780db5-6619-4a87-b3ce-cff55187a753</dc:identifier>
+        <dc:title>Simple comme Ubuntu (v. 10.10)</dc:title>
+        <dc:creator opf:file-as="Roche, Didier" opf:role="aut">Roche, Didier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-30T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Idéal pour s’initier à Linux (et éventuellement y rester !), la distribution Ubuntu est bien plus qu’un système d’exploitation. Elle est en effet livrée d’emblée avec tous les logiciels permettant de tirer le meilleur d’un ordinateur (suite bureautique, navigateur, messagerie, lecteur multimédia, éditeur graphique, bureau avec effets 3D…). Vous pourrez la personnaliser en installant d’un simple clic d’autres logiciels et des jeux. Vous apprécierez également la simplicité de mise à jour du système et des différents logiciels.&lt;/p&gt;
+&lt;p&gt;La qualité et la sécurité de Ubuntu sont reconnues puisqu’il est déjà utilisé par exemple par les députés de l’Assemblée française et va être déployé progressivement sur les postes de la Gendarmerie nationale.&lt;/p&gt;
+&lt;p&gt;Ce livre propose une progression claire et pédagogique pour installer, apprivoiser et utiliser Ubuntu au quotidien. Fort de son expérience, l’auteur vous accompagnera dans votre découverte de cet extraordinaire système d’exploitation libre qu’est GNU/Linux. Vous apprendrez également à faire cohabiter Windows et Ubuntu et à exploiter tout son potentiel.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Framasoft, In Libro Veritas</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9782359220322</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>GNU/Linux</dc:subject>
+        <dc:subject>Ubuntu</dc:subject>
+        <dc:subject>Framabook</dc:subject>
+        <dc:subject>Linux</dc:subject>
+        <dc:subject>manuel</dc:subject>
+        <meta content="{&quot;Roche, Didier&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-05-26T17:25:43.960319+00:00" name="calibre:timestamp"/>
+        <meta content="Simple comme Ubuntu (v. 10.10)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

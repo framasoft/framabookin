@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1281</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ad9c7d61-676f-449f-918e-5274a66e2480</dc:identifier>
+        <dc:title>Un coup de feu et autres nouvelles</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>-Un coup de feu : Dans une garnison militaire d'un bourg de Russie, Silvio, un ancien militaire, partage les fêtes des officiers. Bizarrement il refuse de se battre en duel bien qu'il ait été offensé. Il explique à un jeune homme qu'il a en sympathie, qu'il a un duel en cours commencé il y a six ans et que l'heure est bientôt venue de le terminer. Cinq ans plus tard, ce jeune apprend la fin de l'histoire. -Le faiseur de cercueils : Antoine Prokorof est faiseur de cercueils. Un jour qu'il boit plus que de raison, il porte un toast aux morts, mais personne ne le suit. Vexé, il invite les morts à souper à minuit le lendemain soir et s'endort. Quelle n'est pas sa surprise quand, minuit venu, tous les morts viennent chez lui pour souper... -Don Bernardo de Zuniga :  -L’armoire d’acajou : Bataille, aide de camp du prince Eugène, n'a pas de mal à séduire la belle Eudoxie de Saint-Estève qui, peu farouche, lui propose de venir souper chez elle. Alors que la belle est en train de se changer, Bataille est intrigué par une immense armoire d'acajou dont la rusticité jure avec le raffinement des autres meubles. Il s'en approche et découvre horrifié que du sang frais s'en échappe goutte à goutte. -Le dévouement des pauvres : Jane, jeune fille pauvre de 20 ans, vient sonner à la porte d'Alexandre Dumas et le supplie de jouer de ses relations pour éviter à son jeune frère la conscription. Sans grande conviction, Dumas lui donne une lettre pour le ministre de la Guerre. Le lendemain, la jeune fille revient et raconte à Dumas que le ministre l'a correctement reçue mais elle pense qu'il l'oubliera si Dumas lui-même n'intervient pas...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1422-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1422-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_un_coup_de_feu_et_autres_nouvelles</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>nouvelle</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:09.336721+00:00" name="calibre:timestamp"/>
+        <meta content="coup de feu et autres nouvelles, Un" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

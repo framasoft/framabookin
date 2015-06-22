@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1129</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4567106b-f7e7-42fe-8f25-c6df7ff912be</dc:identifier>
+        <dc:title>Histoire merveilleuse de Pierre Schlémihl</dc:title>
+        <dc:creator opf:file-as="Chamisso, Adelbert von" opf:role="aut">Adelbert von Chamisso</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>L'étrange histoire de Peter Schlemihl ou l’homme qui a vendu son ombre est un récit fantastique écrit par l’écrivain et botaniste allemand Adelbert von Chamisso durant l’été 1813. La première édition française de ce court roman parut en 1822, dans une traduction de Hippolyte de Chamisso, frère de l'auteur. Peter Schlemihl, un jeune homme sans fortune à la recherche d’un emploi, se rend chez un certain Thomas John, au service duquel il espère entrer. Il y rencontre un étrange personnage vêtu de gris, qui sort de sa poche, sous les yeux ébahis du jeune homme, un pansement, une lunette, un tapis, une tente, trois chevaux. Curieusement, personne à part lui ne semble se rendre compte des extravagants pouvoirs de l’homme en gris, qui finit par proposer à Schlemihl d’échanger son ombre contre la bourse de Fortunatus, qui permet à son propriétaire d’en tirer des pièces d’or à volonté, ce qu'il accepte. L'homme en gris s’éclipse ensuite, en indiquant qu’il retrouvera le jeune homme un an plus tard, jour pour jour. Extrait : Que Monsieur daigne examiner cette bourse et en faire l'essai. » Il tira en même temps de sa poche et remit entre mes mains un sac de maroquin à double couture et fermé par des courroies. J'y puisai, et en retirai dix pièces d'or, puis dix autres, puis encore dix, et toujours dix. Je lui tendis précipitamment la main : « Tope ! dis-je, le marché est conclu ; pour cette bourse, vous avez mon ombre. » Il me donna la main, et sans plus de délai se mit à genoux devant moi : je le vis avec la plus merveilleuse adresse détacher légèrement mon ombre du gazon depuis la tête jusques aux pieds, la plier, la rouler, et la mettre enfin dans sa poche.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1295-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1295-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">chamisso_adelbert_von_-_histoire_merveilleuse_de_pierre_schlemihl</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Allemagne</dc:subject>
+        <meta content="{&quot;Adelbert von Chamisso&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:38.191227+00:00" name="calibre:timestamp"/>
+        <meta content="Histoire merveilleuse de Pierre Schlémihl" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1364</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4890d376-ef77-4e00-b2ff-a442072269be</dc:identifier>
+        <dc:title>Les Compagnons du Silence I</dc:title>
+        <dc:creator opf:file-as="Féval, Paul" opf:role="aut">Paul Féval</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1857-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : « Sous la pierre, je trouvai la lettre adressée à Manuele avec cet écrit, où le pauvre homme avait tracé, la nuit même de sa mort, le plan de ces ruines. Enfant perdu que j'étais alors, je n'avais pas même l'idée de Dieu, puisque l'idée de Dieu, qui surgit en moi tout à coup, m'étonna et révolta mon orgueil. Je me souviens bien de cela. Qui m'aurait parlé de Dieu ? J'avais été, jusqu'à ce jour, tantôt avec les zingari du pays de Bari, tantôt avec les pirates de la mer Ionienne, tantôt avec les contrebandiers de la côte de France. Mais je savais l'histoire de Monteleone, le bienfaiteur de tout un peuple. Les zingari me l'avaient dite, les contrebandiers aussi, et aussi les pirates. Et il me sembla que c'était une marque de la volonté du ciel, que je fusse arrivé le premier dans ce cachot du Pizzo qui avait eu le dernier soupir du juste.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1454-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1454-7</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1455-4</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">feval_paul_-_les_compagnons_du_silence_i</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Paul Féval&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:26.328171+00:00" name="calibre:timestamp"/>
+        <meta content="Compagnons du Silence I, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

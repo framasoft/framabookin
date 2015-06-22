@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1730</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">987d47e7-ef87-4bd3-ac5c-8464bd5d0c91</dc:identifier>
+        <dc:title>Nouvelles et contes pour la jeunesse</dc:title>
+        <dc:creator opf:file-as="Meulan, Pauline de" opf:role="aut">Pauline de Meulan (Madame Guizot)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Elisabeth-Charlotte-Pauline de Meulan, première femme de F. Guizot, naquit à Paris, le 2 novembre 1773, d'une famille considérable dans la finance. Son père, M. de Meulan, était receveur général de la généralité de Paris. En 1790, son père mourut, et elle vit bientôt sa famille tomber de la fortune dans la gêne. Ce fut alors, pendant le dur hiver de 1794 à 1795, qu'un jour, en dessinant, elle conçut le soupçon, dit M. de Rémusat, « qu'elle pourrait bien avoir de l'esprit », et qu'elle se décida à écrire. Extrait : Alphonse s'excusa sur ce qu'il ne le savait pas. Mademoiselle Raymond voulut lui prouver qu'il devait le savoir ; Alphonse répliqua. Mademoiselle Raymond continua à se fâcher, et Alphonse, se fâchant à son tour, répondit à mademoiselle Raymond quelques mots assez peu polis, et rentra dans le salon en fermant la porte très fort. Mademoiselle Raymond y entra l'instant d'après, et ferma la porte avec une précaution marquée, et d'une voix encore toute agitée par la colère, elle dit à M. d'Aubecourt : - Comme vous n'aimez pas qu'on ferme les portes fort, vous aurez la bonté de le dire vous-même à monsieur votre petit-fils, car moi, il ne me permet pas de lui parler. - Que voulez-vous ! mademoiselle Raymond, répondit M. d'Aubecourt, c'est comme cela qu'on élève les enfants aujourd'hui ; c'est à nous à plier devant eux.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1534-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1534-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">meulan_pauline_de_-_nouvelles_et_contes_pour_la_jeunesse</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>nouvelle</dc:subject>
+        <dc:subject>conte</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Pauline de Meulan (Madame Guizot)&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:40.685415+00:00" name="calibre:timestamp"/>
+        <meta content="Nouvelles et contes pour la jeunesse" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

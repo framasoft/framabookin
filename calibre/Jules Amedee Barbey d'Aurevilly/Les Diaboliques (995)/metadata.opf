@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">995</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">25c02a96-d261-44fd-b1a1-03b1303f370a</dc:identifier>
+        <dc:title>Les Diaboliques</dc:title>
+        <dc:creator opf:file-as="Barbey d’Aurevilly, Jules" opf:role="aut">Jules Amédée Barbey d’Aurevilly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Les Diaboliques est un recueil de six nouvelles de Jules Barbey d'Aurevilly, paru en novembre 1874 à Paris chez l'éditeur Dentu. Le projet de ce recueil de nouvelles devait s'intituler à l'origine Ricochets de conversation. Il fallut cependant près de vingt-cinq ans à Barbey pour le voir paraître puisqu'il y travaillait déjà en 1850 lorsqu'il fit paraître Le dessous de cartes d'une partie de whist dans le journal La Mode dans un feuilleton en trois parties, La Revue des Deux Mondes l'ayant refusé. Barbey revint en Normandie à la faveur des événements de la Commune et l'acheva en 1873. Extrait : Pour qui connaissait le genre d'esprit de Mlle de Beaumont, on était libre de mettre une atroce intention dans ce mot. Malgré sa pâleur, cependant, malgré la couleur hortensia passé des lèvres de la comtesse du Tremblay de Stasseville, il y avait pour l'observateur avisé, précisément dans ces lèvres à peine marquées, ténues et vibrantes comme la cordelette d'un arc, une effrayante physionomie de fougue réprimée et de volonté. La société de province ne le voyait pas. Elle ne voyait, elle, dans la rigidité de cette lèvre étroite et meurtrière, que le fil d'acier sur lequel dansait incessamment la flèche barbelée de l'épigramme.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0844-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0844-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">barbey_d_aurevilly_jules_-_les_diaboliques</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Jules Amédée Barbey d’Aurevilly&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:10.815940+00:00" name="calibre:timestamp"/>
+        <meta content="Diaboliques, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

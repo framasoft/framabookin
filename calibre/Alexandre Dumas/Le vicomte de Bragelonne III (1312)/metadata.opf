@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1312</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9ed9034b-e767-40c9-895d-820d23dd715d</dc:identifier>
+        <dc:title>Le vicomte de Bragelonne III</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La fin de la trilogie des Mousquetaires. D'Artagnan et Athos participent, chacun à sa façon, à la restauration de Charles II sur le trône d'Angleterre. L'année suivante commence en France le règne personnel de Louis XIV, qui engage d'Artagnan dans sa lutte contre le surintendant Fouquet. Ce dernier est manipulé par Aramis, devenu évêque de Vannes et général des Jésuites, qui a entraîné Porthos dans ses aventures. Aramis ne vise à rien de moins qu'à devenir le maître de la France et de l'Eglise... Extrait : - Oh ! que vous avez tort, Athos ! que vous mentez à votre origine et à la destinée de votre âme ! Les hommes de votre trempe sont faits pour aller jusqu'au dernier jour dans la plénitude de leurs facultés. Voyez ma vieille épée de La Rochelle, cette lame espagnole ; elle servit trente ans aussi parfaite ; un jour d'hiver, en tombant sur le marbre du Louvre, elle se cassa net, mon cher. On m'en a fait un couteau de chasse qui durera cent ans encore. Vous, Athos, avec votre loyauté, votre franchise, votre courage froid et votre instruction solide, vous êtes l'homme qu'il faut pour avertir et diriger les rois. Restez ici : M. Fouquet ne durera pas aussi longtemps que ma lame espagnole. - Allons, dit Athos en souriant, voilà d'Artagnan qui, après m'avoir élevé aux nues, fait de moi une sorte de dieu, me jette du haut de l'Olympe et m'aplatit sur terre. J'ai des ambitions plus grandes, ami. Être ministre, être esclave, allons donc ! Ne suis-je pas plus grand ? je ne suis rien. Je me souviens de vous avoir entendu m'appeler quelquefois le grand Athos. Or, je vous défie, si j'étais ministre, de me confirmer cette épithète. Non, non, je ne me livre pas ainsi.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0062-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0062-5</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0063-2</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_le_vicomte_de_bragelonne_iii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:15.591553+00:00" name="calibre:timestamp"/>
+        <meta content="vicomte de Bragelonne III, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

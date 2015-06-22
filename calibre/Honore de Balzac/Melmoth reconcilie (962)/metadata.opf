@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">962</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eff59b98-21f5-4f5b-82db-98035c69a3f2</dc:identifier>
+        <dc:title>Melmoth reconcilié</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études philosophiques - Tome I. Quatorzième volume de l'édition Furne 1842. Extrait : Melmoth avait déjà dépassé sa victime. Si le premier mouvement de Castanier fut de chercher querelle à un homme qui lisait ainsi dans son âme, il était en proie à tant de sentiments contraires, qu’il en résultait une sorte d’inertie momentanée, il reprit donc son allure, et retomba dans cette fièvre de pensée naturelle à un homme assez vivement emporté par la passion pour commettre un crime, mais qui n’avait pas la force de le porter en lui-même sans de cruelles agitations. Aussi, quoique décidé à recueillir le fruit d’un crime à moitié consommé, Castanier hésitait-il encore à poursuivre son entreprise, comme font la plupart des hommes à caractère mixte, chez lesquels il se rencontre autant de force que de faiblesse, et qui peuvent être déterminés aussi bien à rester purs qu’à devenir criminels, suivant la pression des plus légères circonstances. Il s’est trouvé dans le ramas d’hommes enrégimentés par Napoléon beaucoup de gens qui, semblables à Castanier, avaient le courage tout physique du champ de bataille, sans avoir le courage moral qui rend un homme aussi grand dans le crime qu’il pourrait l’être dans la vertu.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1030-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1030-3</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0998-7</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_melmoth_reconcilie</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:04.210212+00:00" name="calibre:timestamp"/>
+        <meta content="Melmoth reconcilié" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

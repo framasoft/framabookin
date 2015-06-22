@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1217</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">245bb211-d69e-4464-9f1c-9d142174ede7</dc:identifier>
+        <dc:title>Le Nabat</dc:title>
+        <dc:creator opf:file-as="Daudet, Alphonse" opf:role="aut">Alphonse Daudet</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Le docteur Jenkins fournit en perles de jouvence le duc de Mora, haut dignitaire du second Empire. Il lui présente Jansoulet, dit le Nabab. De basse extraction, cet aventurier réalisa sa colossale fortune en Tunisie. De nombreux solliciteurs gravitent autour du Nabab, ce qui indigne son secrétaire, l'honnête Paul de Géry... Le duc de Mora fut inspiré à Daudet par le duc de Morny, auprès duquel il travailla. Ce roman nous décrit la «vie parisienne» sous le second empire : affaires, politique... Extrait : 68, rue Saint-Ferdinand, aux Ternes », dit-il en sautant dans sa voiture. Le cocher Joë, scandalisé, se fit répéter l'adresse deux fois ; le cheval lui-même eut une petite hésitation comme si la bête de prix, la fraîche livrée se fussent révoltées à l'idée d'une course dans un faubourg aussi lointain, en dehors du cercle restreint mais si brillant où se groupait la clientèle de leur maître. On arriva tout de même, sans encombre, au bout d'une rue provinciale inachevées et à la dernière de ses bâtisses, un immeuble à cinq étages, que la rue semblait avoir envoyé en reconnaissance pour savoir si elle pouvait continuer de ce côté, isolé qu'il était entre des terrains vagues attendant des constructions prochaines ou remplis de matériaux de démolitions, avec des pierres de taille, de vieilles persiennes posées sur le vide, des ais moisis dont les ferrures pendaient, immense ossuaire de tout un quartier abattu.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0090-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0090-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">daudet_alphonse_-_le_nabat</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alphonse Daudet&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:56.593116+00:00" name="calibre:timestamp"/>
+        <meta content="Nabat, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

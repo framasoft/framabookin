@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1741</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6884bf1a-bf2a-409e-8c5d-349cb3aa4603</dc:identifier>
+        <dc:title>Le Juif</dc:title>
+        <dc:creator opf:file-as="Stendhal" opf:role="aut">Stendhal</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1927-12-14T23:00:00+00:00</dc:date>
+        <dc:description>Le narrateur : Filippo Ebreo, y résume ses malheurs depuis le décès de son père jusqu’à son retour sur le sol italien, où, rentrer de France, il se retrouve aussi pauvre que le jour où il a quitté son pays natal ... Extrait : Enfin, je la rencontrai ; elle rejeta mes propos galants avec horreur. Mais j'étais le plus joli garçon de Venise. Dans la conversation, je lui dis que depuis trois mois je me privais de vin pour économiser la valeur d'un de mes colliers, et pouvoir le lui offrir. Elle ne répondit pas, mais me consulta sur le malheur qui lui était survenu depuis qu'elle ne m'avait vu. Ses frères se réunissaient pour rogner les espèces d’or qu’ils pouvaient se procurer. (Ils plongeaient les sequins et les napoléons dans un bain d’eau-forte.) Le fourrier avait été mis en prison, et de peur d’inspirer des soupçons, celui qui était garçon de caisse chez le pagatore ne voulait faire aucune démarche en sa faveur. Stella ne me demandait pas d’aller à la citadelle ; de mon côté je ne prononçai pas ce nom, mais je la priai de m’attendre le lendemain soir...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1149-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1149-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">stendhal_-_le_juif</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Stendhal&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:43.191214+00:00" name="calibre:timestamp"/>
+        <meta content="Juif, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

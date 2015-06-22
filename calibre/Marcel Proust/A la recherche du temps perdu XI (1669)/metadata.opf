@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1669</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dffb216b-2083-4f1d-a8f4-c1fb3d29bea7</dc:identifier>
+        <dc:title>À la recherche du temps perdu XI</dc:title>
+        <dc:creator opf:file-as="Proust, Marcel" opf:role="aut">Marcel Proust</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1925-06-02T22:00:00+00:00</dc:date>
+        <dc:description>La Prisonnière est le cinquième tome d'À la recherche du temps perdu de Marcel Proust publié en 1925 à titre posthume. Le thème principal de ce volume est l'amour possessif et jaloux qu'éprouve le narrateur pour Albertine. Il la fait surveiller, la soupçonne de liaisons homosexuelles, essaie de la retenir chez lui. Extrait : Elle n'aurait pas fermé une porte et, en revanche, ne se serait pas plus gênée d'entrer quand une porte était ouverte que ne fait un chien ou un chat. Son charme, un peu incommode, était ainsi d'être à la maison moins comme une jeune fille que comme une bête domestique, qui entre dans une pièce, qui en sort, qui se trouve partout où on ne s'y attend pas et qui venait -- c'était pour moi un repos profond -- se jeter sur mon lit à côté de moi, s'y faire une place d'où elle ne bougeait plus, sans gêner comme l'eût fait une personne. Pourtant, elle finit par se plier à mes heures de sommeil, à ne pas essayer non seulement d'entrer dans ma chambre, mais à ne plus faire de bruit avant que j'eusse sonné. C'est Françoise qui lui imposa ces règles. Elle était de ces domestiques de Combray sachant la valeur de leur maître et que le moins qu'elles peuvent est de lui faire rendre entièrement ce qu'elles jugent qui lui est dû. Quand un visiteur étranger donnait un pourboire à Françoise à partager avec la fille de cuisine, le donateur n'avait pas le temps d'avoir remis sa pièce que Françoise, avec une rapidité, une discrétion et une énergie égales, avait passé la leçon à la fille de cuisine qui venait remercier non pas à demi-mot, mais franchement, hautement, comme Françoise lui avait dit qu'il fallait le faire. Le curé de Combray n'était pas un génie, mais, lui aussi, savait ce qui se devait. Sous sa direction, la fille de cousins protestants de Mme Sazerat s'était convertie au catholicisme et la famille avait été parfaite pour lui : il fut question d'un mariage avec un noble de Méséglise. Les parents du jeune homme écrivirent, pour prendre des informations, une lettre assez dédaigneuse et où l'origine protestante était méprisée. Le curé de Combray répondit d'un tel ton que le noble de Méséglise, courbé et prosterné, écrivit une lettre bien différente, où il sollicitait comme la plus précieuse faveur de s'unir à la jeune fille.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0883-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0883-6</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1576-6</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">proust_marcel_-_a_la_recherche_du_temps_perdu_xi</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Marcel Proust&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:28.265345+00:00" name="calibre:timestamp"/>
+        <meta content="À la recherche du temps perdu XI" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

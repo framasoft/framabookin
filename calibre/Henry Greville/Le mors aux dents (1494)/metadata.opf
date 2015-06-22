@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1494</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">78c558cf-42e2-470f-8636-b0b2131ead8e</dc:identifier>
+        <dc:title>Le mors aux dents</dc:title>
+        <dc:creator opf:file-as="Gréville, Henry" opf:role="aut">Henry Gréville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1885-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Henry Gréville, pseudonyme de Alice Marie Céleste Durand née Fleury (1842-1902), a publié de nombreux romans, des nouvelles, des pièces, de la poésie ; elle a été à son époque un écrivain à succès. Extrait : Quant à Célie, elle trouvait Valéry beau garçon, aimable, amusant. Une sorte de réserve instinctive l'avertissait pourtant qu'il n'aurait guère avec elle de côtés communs dans l'esprit, mais tout cela n'est que billevesées sentimentales, et dans la maison de son oncle chacun était fort en garde contre ces rêveries romanesques, ces prétextes à déclamations, dont les poètes et les romanciers, gens pratiques, tirent d'ailleurs de bons écus sonnants, mais qui sans cela n'auraient point de raison d'être. Pendant que Célie terminait sa toilette de voyage, sa petite sœur Antoinette, blottie au fond d'un canapé, la regardait les yeux gros de larmes. C'était une fillette de douze ans, grande pour son âge, élégante et mince, aux bras trop longs, aux jambes trop maigres, mais tout cela deviendrait un jour gracieux et souple. Vêtue de bleu pâle, ses grosses boucles cendrées emmêlées et brouillées sur ses épaules, elle rongeait son petit mouchoir pour étouffer ses sanglots.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1510-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1510-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">greville_henry_-_le_mors_aux_dents</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Henry Gréville&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:53.104151+00:00" name="calibre:timestamp"/>
+        <meta content="mors aux dents, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

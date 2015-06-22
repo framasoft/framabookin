@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1637</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">66c0280b-a472-4ca2-8219-316dcdd86abc</dc:identifier>
+        <dc:title>Voyage sentimental sur la rue Saint-Jean</dc:title>
+        <dc:creator opf:file-as="Larue, Hubert" opf:role="aut">Hubert Larue</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1879-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Médecin, Hubert Larue (1833-1881) a étudié en Europe, avant d'enseigner la médecine à l'Université Laval, à Québec. Assidu de la librairie de Crémazie, il contribua à la fondation des Soirées canadiennes et du Foyer canadien, où il y fit paraître plusieurs écrits. Il a publié plusieurs manuels scolaires, une histoire du Canada destinée aux enfants, et une œuvre fantaisiste, Voyage sentimental sur la rue Saint-Jean, en 1879. Le livre est précédé, ici, d'un hommage posthume, par son ami Faucher de Saint-Maurice. Extrait : Au milieu d'une dissertation, d'une conférence, dans un salon, chez un ami, chez lui, au milieu d'un cours, son œil se voilait. Il balbutiait, terminait brusquement par un trait, par un axiome. Les uns ne constataient que de l'originalité. Ceux qui le connaissaient mieux n'y voyaient que des larmes. Son esprit ailleurs planait sur ces tombes chéries, dans ce petit cimetière, où il m'entraîna par une nuit de clair de lune, et où pendant plus d'une heure il s'agenouilla et sanglota comme un enfant. Après tous ces départs, il ne faut pas s'étonner si le père s'en est allé vers ses enfants. Huit jours de maladie suffirent. L'avant-veille de sa mort, on vint lui dire qu'un laboratoire qu'il faisait construire chez lui était terminé. Il sourit et regarda son crucifix. N'était-ce pas là qu'était la vraie, l'unique science ?</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1587-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1587-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">larue_hubert_-_voyage_sentimental_sur_la_rue_saint-jean</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Hubert Larue&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:21.862722+00:00" name="calibre:timestamp"/>
+        <meta content="Voyage sentimental sur la rue Saint-Jean" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1839</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0dce1014-8e8d-423c-a710-25358a40ce36</dc:identifier>
+        <dc:title>Le Midi bouge</dc:title>
+        <dc:creator opf:file-as="Arène, Paul" opf:role="aut">Paul Arène</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Le recueil contient trente-deux contes, précédés d'une introduction. Extrait : « Chut ! dit-il à Tréfume en excellent français, pas de bruit, de scandale inutile ; asseyons-nous là dans ce coin. -- Voilà qui va bien ! pense Tréfume. » Mais l'Américain continue : -- « Je sais pourquoi vous venez à New-York ; êtes-vous homme à nous entendre ? -- Pourquoi pas ? répond Tréfume qui croit qu'il s'agit de l'héritage ; on peut toujours s'entendre entre braves gens. -- Braves gens ou non, voici dans ce portefeuille cinquante mille francs en bank-notes. Si vous voulez, ils sont à vous, avec une somme égale qu'un inconnu vous remettra au moment du départ, quand la Bretagne lèvera l'ancre. Car la Bretagne part ce soir, et vous partirez avec elle. Est-ce dit ? -- C'est dit ! -- Maintenant, topez là, nous ne nous sommes jamais vus. »</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1232-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1232-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">arene_paul_-_le_midi_bouge</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Paul Arène&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:19:02.545687+00:00" name="calibre:timestamp"/>
+        <meta content="Midi bouge, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

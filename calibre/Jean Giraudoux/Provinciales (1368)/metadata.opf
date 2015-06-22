@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1368</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">249766ee-96ae-479c-80a4-db83959f184f</dc:identifier>
+        <dc:title>Provinciales</dc:title>
+        <dc:creator opf:file-as="Giraudoux, Jean" opf:role="aut">Jean Giraudoux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1909-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Provinciales est un roman de Jean Giraudoux publié en 1909 aux éditions Grasset. C'est la première œuvre littéraire publiée de l'auteur. Ce roman soutenu par Jules Renard, est sur la liste finale du prix Goncourt mais ne sera pas finalement récompensé. Extrait : Elle était fille de chambre chez un régisseur de la duchesse Martin et elle allait mourir de la typhoïde. Même à la duchesse les médecins affirmaient qu'elle ne pouvait en réchapper. Un soir, où il s'agissait seulement de savoir si c'était ou si ce n'était pas l'agonie, Estelle vit la Vierge se dresser au pied de son lit, la défendre contre le démon, et tout le reste de la semaine, chaque après-midi, elle revint lutter. On n'a jamais su pour qui les deux adversaires prenaient la malade, ni quelle fille de châtelaine est morte dans la contrée, victime de la confusion qui sauva la chambrière. Le jour où le diable fut terrassé, Estelle reprit connaissance. Elle guérit. Dès qu'elle put sortir, la duchesse l'établit dans une petite maison, lui servit une rente et, avec l'aide du curé, organisa un pèlerinage. La dixième année, un couvent de dominicaines fut fondé et il englobait la chambre sainte. Demain, quinzième anniversaire, on verrait défiler des étrangers de tous les États d'Europe et du Canada. Mais, à mesure que la gloire d'Estelle arrive aux peuples lointains, son propre bourg commence à la mépriser.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1490-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1490-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">giraudoux_jean_-_provinciales</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Jean Giraudoux&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:27.123627+00:00" name="calibre:timestamp"/>
+        <meta content="Provinciales" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

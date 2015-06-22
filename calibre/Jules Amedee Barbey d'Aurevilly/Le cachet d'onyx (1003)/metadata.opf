@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1003</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5daa3c96-e05f-4005-bb51-2f0fab67bd5d</dc:identifier>
+        <dc:title>Le cachet d'onyx</dc:title>
+        <dc:creator opf:file-as="Barbey d’Aurevilly, Jules" opf:role="aut">Jules Amédée Barbey d’Aurevilly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Lorsqu'il écrit Le Cachet d'onyx, Barbey a 23 ans. Il vit à Caen où il suit des études de Droit et s'intéresse à la politique. Ces années sont aussi marquées par la relation avec Louise, épouse d'Alfred de Méril, ainsi devenue cousine par alliance de l'auteur, relation qui bouleverse sa vie entière. Il semblerait que Louise soit la Maria à qui le narrateur s'adresse. Ce conte sonne ainsi comme une vengeance d'un jeune auteur déçu et blessé, à travers un récit brutal et froid. Extrait : Un jour, dans une de ces soirées que Paris compte parmi les plus brillantes, Dorsay avait souffert plus que jamais des plaisanteries de ses amis. Ces plaisanteries qu'ils infligeaient à sa vanité de fat étaient d'un goût si parfait et d'un ton si mesuré dans les termes qu'il était impossible à un homme de bonne compagnie de montrer de l'humeur ou du courroux, mais l'intention en était si blessante, si triomphante surtout, qu'il fallait d'un autre côté une grande puissance sur soi-même ou une grande peur de l'inconvenable pour se contenir en les entendant. Dorsay les écoutait les lèvres tremblantes, le front pâle et les traits frappés d'un vague sourire qui s'efforçait d'être insouciant et gai.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1292-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1292-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">barbey_d_aurevilly_jules_-_le_cachet_d_onyx</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Jules Amédée Barbey d’Aurevilly&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:12.385104+00:00" name="calibre:timestamp"/>
+        <meta content="cachet d'onyx, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

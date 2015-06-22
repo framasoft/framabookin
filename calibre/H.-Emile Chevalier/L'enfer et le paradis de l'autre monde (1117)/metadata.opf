@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1117</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0b2d8392-a81c-4218-a3dd-b5650deae76e</dc:identifier>
+        <dc:title>L'enfer et le paradis de l'autre monde</dc:title>
+        <dc:creator opf:file-as="Chevalier, H.-Émile" opf:role="aut">H.-Émile Chevalier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Henri-Émile Chevalier, né le 13 septembre 1828 à Châtillon-sur-Seine, mort le 26 août 1879 à Paris, est un homme de lettres français. Extrait : Rien n'est plus mal que d'exciter les gens à quitter leur patrie en leur forgeant des histoires de prospérité mensongère ! Puis, qu'avons-nous trouvé, après avoir tout quitté pour venir ici ? Oui, qu'avons-nous trouvé ? Est-ce là le foyer que l'on nous promettait en échange de celui que nous abandonnions ? Est-ce là la récompense de nos misères pendant la traversée ? Mais à quoi pensent-ils les gens d'ici ? Pensent-ils que parce qu'un homme est pauvre, parce qu'il est honnête, parce qu'il travaille pour manger, il ne respecte pas sa famille ? Pensent-ils que ce n'est rien d'avoir renoncé à sa petite maison, si humble qu'elle fût, qu'il avait mis des années à élever et qu'il en était venu à aimer ? Pensent-ils que ça n'a rien été pour sa femme et ses enfants de quitter leurs amis et leurs compagnons, tous ceux qui leur étaient chers, pour venir au milieu d'étrangers qu'ils ne connaissaient pas et qui ne les connaissent pas ? N'est-ce rien que tout ça ? Et serions-nous jamais venus ici, sans les journaux et les imprimés qu'on fait pleuvoir sur nos villes pour nous allécher ? Non, sans doute. Mais ces articles étaient-ils vrais ? Si on nous avait dit qu'il n'y avait pas d'ouvrage ici, qu'il y avait des milliers de mains oisives, est-ce que nous serions venus ? Aurions-nous déserté la patrie, nos amis, nos parents ? Est-ce que nous aurions, pour émigrer, dépensé jusqu'au dernier schelling que nous avions épargné avec tant de peine ? Je dis que ça n'est pas juste, que c'est cruellement inique, et personne ne peut dire autrement.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1300-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1300-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">chevalier_h_-emile_-_l_enfer_et_le_paradis_de_l_autre_monde</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;H.-Émile Chevalier&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:35.777422+00:00" name="calibre:timestamp"/>
+        <meta content="enfer et le paradis de l'autre monde, L'" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

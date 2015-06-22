@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1584</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bdef82c0-9586-42ab-b0e0-4b424a66163f</dc:identifier>
+        <dc:title>Le triangle d’or</dc:title>
+        <dc:creator opf:file-as="Leblanc, Maurice" opf:role="aut">Maurice Leblanc</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1918-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Un mutilé de guerre, le capitaine Patrice Belval déjoue une tentative d'enlèvement sur une infirmière connue sous le sobriquet de Maman Coralie. Amoureux de la jeune femme, il découvre bientôt que celle-ci est mariée, à l'occasion de l'assassinat sauvage de son mari. Ce crime est lié à une conjuration pour vider la France de ses réserves d'or (la 1re Guerre Mondiale bat son plein) et également à un mystère liant les deux jeunes gens. Extrait : - Un remerciement, mais pas de compliment. Saperlotte, quel mauvais gardien de prison je fais ! Et avec quelle dextérité les autres m'ont soufflé mon captif ! Comment n'ai-je pas prévu que le second de vos agresseurs, l'homme au feutre gris, irait avertir le troisième complice qui attendait dans son auto, et que tous deux ensemble viendraient au secours de leur compagnon ? Et voilà qu'ils sont venus. Et, tandis que vous et moi nous bavardions, ils ont forcé l'entrée de service, ont passé par la cuisine, sont arrivés devant la petite porte qui sépare l'office du vestibule et ont entrebâillé cette porte. Là, tout près d'eux, sur son canapé, le personnage est toujours évanoui, et solidement attaché. Comment faire ? Impossible de le tirer hors du vestibule sans donner l'éveil à Ya-Bon. Et pourtant, si on ne le délivre pas, il parlera, il vendra ses complices, il empêchera d'aboutir un plan soigneusement préparé. Alors ? Alors un des compagnons se penche furtivement, avance le bras, entoure de sa cordelette cette gorge que Ya-Bon a déjà rudement endommagée, ramène les boucles des deux extrémités, et serre, serre lentement, serre tranquillement, jusqu'à ce que mort s'ensuive. Aucun bruit. Pas un soupir. Tout cela s'opère dans le silence. On est venu, on tue, et l'on s'en va. Bonsoir. Le tour est joué, le camarade ne parlera pas.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1616-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1616-9</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1617-6</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leblanc_maurice_-_le_triangle_d_or</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Maurice Leblanc&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:11.142309+00:00" name="calibre:timestamp"/>
+        <meta content="triangle d’or, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1577</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5fbb8525-17e5-4954-9d6b-e0689ac516fa</dc:identifier>
+        <dc:title>Victor, de la Brigade mondaine</dc:title>
+        <dc:creator opf:file-as="Leblanc, Maurice" opf:role="aut">Maurice Leblanc</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1933-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Victor Hautin, « Inspecteur Victor » de la Brigade mondaine, fils d’un ancien procureur toulousain, a passé une bonne partie de sa carrière aux colonies. Il est apprécié de sa hiérarchie en dépit d’un esprit assez indépendant, d’une humeur capricieuse, et d’une manière de procéder un peu trop fantaisiste. De plus, incorrigible suborneur de femmes mariées et de filles à marier, il a vu sa promotion pour le poste d’inspecteur de la Sûreté compromise par des scandales. Aujourd’hui, plus calme et plus sage, sa renommée va bientôt atteindre le public au cours d’une affaire retentissante. Ses antécédents, sa perspicacité, sa ténacité et sa facilité au déguisement auraient pu faire penser à un des avatars de Lupin si ce récit ne l’amenait à lutter contre le célèbre aventurier qui justement recommence à faire parler de lui dans l’est du pays. Extrait : On découvrit bien l'endroit où la femme avait franchi la haie pour gagner la ruelle parallèle à la route. Et l'on découvrit aussi les empreintes laissées par les montants de l'échelle au-dessous du premier étage. Mais l'échelle, qui devait être en fer, pliante et portative, demeura introuvable. Et l'on ne sut pas comment les deux complices s'étaient rejoints et comment ils avaient quitté la région. Tout au plus put-on établir qu'une automobile avait stationné, à partir de minuit, trois cents mètres plus loin, le long du Haras de La Celle-Saint-Cloud, et qu'elle s'était remise en marche à une heure et quart, évidemment pour retourner à Paris par Bougival et les bords de la Seine. Le chien du père Lescot fut retrouvé dans sa niche, mort, empoisonné. Aucune trace de pas sur le gravier du jardin.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1619-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1619-0</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1599-5</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leblanc_maurice_-_victor_de_la_brigade_mondaine</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Maurice Leblanc&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:09.396877+00:00" name="calibre:timestamp"/>
+        <meta content="Victor, de la Brigade mondaine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

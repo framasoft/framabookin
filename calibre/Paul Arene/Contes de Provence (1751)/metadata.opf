@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1751</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5ac5cec3-accb-4361-b83f-c3b25e490ecb</dc:identifier>
+        <dc:title>Contes de Provence</dc:title>
+        <dc:creator opf:file-as="Arène, Paul" opf:role="aut">Paul Arène</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Paul-Auguste Arène est né en 1843 à Sisteron au milieu des montagnes parfumées de cette Provence, à laquelle ses vers et sa prose devaient à jamais rester fidèles. Après un court passage dans l'Université, il débute à l'Odéon par un acte en vers, Pierrot héritier (1865). Tout Paris fait fête aussitôt au jeune provincial. À vingt-deux ans par sa prose fluide et colorée, d'une grâce attique et comme embaumée des senteurs du pays natal, il se place au premier rang des écrivains. En 1870 il donne un de ses chefs-d'œuvre, Jean des Figues, puis les Comédiens errants (1873), le Duel aux lanternes, dont la virtuosité est étourdissante, et l'Ilote deux ans plus tard à la Comédie Française. Dans la chronique, dans la fantaisie, dans la nouvelle, au théâtre, partout se multiplie son clair et spirituel génie de latin. En 1878, c'est le Prologue sans le savoir,l'année suivante, la Vraie tentation de Saint-Antoine, puis ses Contes de Noël et ses Contes de Paris et de Provence, tendres ou ironiques et toujours exquis, la Chèvre d'or enfin en 1889 et en 1894 un autre roman, Domnine.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1230-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1230-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">arene_paul_-_contes_de_provence</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Paul Arène&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:45.173912+00:00" name="calibre:timestamp"/>
+        <meta content="Contes de Provence" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

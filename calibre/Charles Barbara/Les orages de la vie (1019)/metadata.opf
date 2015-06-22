@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1019</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a57c50ff-dec0-4f69-9d6d-b2e3ab147ea4</dc:identifier>
+        <dc:title>Les orages de la vie</dc:title>
+        <dc:creator opf:file-as="Barbara, Charles" opf:role="aut">Charles Barbara</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1860-03-05T23:00:00+00:00</dc:date>
+        <dc:description>Extrait : Un moment accablée par la menace d'un mariage qui n'allait à rien moins qu'à ruiner sa considération, Mme Marcille se remit promptement de la secousse. Au souvenir d'un passé exemplaire que n'avaient troublé ni grandes joies ni grandes peines, elle se rassura contre un malheur sérieux. Les gens gâtés par la fortune ne croient point aisément à des douleurs capables d'empoisonner leur vie entière. D'ailleurs, moins ferme que son fils, elle se savait bien plus habile, et les moyens pour l'empêcher de consommer une alliance honteuse affluaient déjà à son esprit. N'eût-elle songé qu'à ses frères, n'était ce pas assez pour apaiser ses craintes ? Leur caractère, leur autorité, leur qualité d'oncles riches, devaient infailliblement lui apparaître comme autant d'entraves que son fils n'oserait jamais briser.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1189-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1189-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">barbara_charles_-_les_orages_de_la_vie</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Charles Barbara&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:15.621763+00:00" name="calibre:timestamp"/>
+        <meta content="orages de la vie, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1522</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d8830f0e-abe0-43d8-ab4c-92f0f85a7939</dc:identifier>
+        <dc:title>Ariadne</dc:title>
+        <dc:creator opf:file-as="Gréville, Henry" opf:role="aut">Henry Gréville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1882-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Henry Gréville, pseudonyme de Alice Marie Céleste Durand née Fleury (1842-1902), a publié de nombreux romans, des nouvelles, des pièces, de la poésie ; elle a été à son époque un écrivain à succès. Extrait : Un léger frisson, froid ou crainte, passa sur les trois indépendantes, car elles se rapprochèrent instinctivement et se prirent par la main. La clarté diminuée des grandes lampes suspendues éclairait tristement les énormes promenoirs, le tapis de lisière extrêmement épais éteignait le bruit des pas ; cependant un léger frôlement, comme un grignotement de souris, les fit s'arrêter plus d'une fois pendant qu'elles se dirigeaient vers le grand escalier. Il fallait descendre un étage, parcourir en sens inverse un autre promenoir et entrer dans le réfectoire situé à l'extrémité du vaste bâtiment. Tout cela fut accompli avec une précision et une assurance qui dénotaient une certaine habitude de cette promenade.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1497-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1497-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">greville_henry_-_ariadne</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Henry Gréville&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:58.692255+00:00" name="calibre:timestamp"/>
+        <meta content="Ariadne" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1250</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">54d97cf3-89cb-4805-80e2-eeef17dfdc33</dc:identifier>
+        <dc:title>Le meneur de loups</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Une fois par an, le diable se réincarne sur terre sous la forme d'un loup noir. Durant ce jour fatidique, son enveloppe mortelle le rend vulnérable. C'est pourquoi, en cette année 1780, lorsque le diable se trouve pourchassé par la meute du seigneur Jean, dans les environs d'Haramont, il va chercher refuge dans la cabane d'un pauvre sabotier nommé Thibault... Extrait : Ce n'est pas que mon père crût au cauchemar de Mocquet ; ce n'est pas même qu'en admettant l'existence du cauchemar, il crût que c'était la mère Durand qui \emph{cauchemardait}son garde : non ; mais mon père connaissait les préjugés de nos paysans ; il savait que la croyance aux sorts, est encore fort répandue dans les campagnes. Il avait entendu raconter quelques terribles exemples de vengeance de la part d'ensorcelés qui avaient cru rompre le charme en tuant celui ou celle qui les avait charmés, et Mocquet, lorsqu'il était venu dénoncer la mère Durand à mon père, avait mis dans sa dénonciation un tel accent de menace, il avait serré les canons de son fusil de telle façon, que mon père avait cru devoir abonder dans le sens de Mocquet afin de prendre sur lui assez d'influence pour qu'il ne fit rien sans le consulter.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0048-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0048-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_le_meneur_de_loups</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:03.199643+00:00" name="calibre:timestamp"/>
+        <meta content="meneur de loups, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

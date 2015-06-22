@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1240</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7d67564d-faed-4336-a175-4b6e30f33a02</dc:identifier>
+        <dc:title>La Nounou</dc:title>
+        <dc:creator opf:file-as="Dombre, Roger" opf:role="aut">Roger Dombre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Roger Dombre, de son vrai nom Mme Andrée Sisson, est l'un des auteurs populaires les plus prolifiques. La critique qualifiait la multitude de nouvelles et romans qu'elle a écrits, d'attachants, originaux et pétillants d'esprit. Extrait : Cette histoire a eu lieu en 1840 environ sous le règne de Louis-Philippe, dans une forêt de la Bourgogne, alors moins peuplée de cantons et de châteaux, qu'elle ne l'est de nos jours. La nuit était sombre ; une vilaine nuit d'automne, sans lune, sans étoiles, avec une bise aigre qui faisait gémir les branches à demi dépouillées et qui cinglaient désagréablement le visage. Au milieu de la route solitaire qui conduit de Saint-Prestat à Champ-Bœuf, un homme cheminait en boitillant ; il venait de loin et jurait à chaque caillou que rencontrait son pied fourbu. Il portait un paquet qui semblait plus embarrassant que lourd. De temps en temps il se retournait, et une expression de terreur pâlissait son visage lorsqu'il croyait voir passer une ombre à ses côtés. Il était de taille colossale et robuste ; mais en ce moment il était craintif comme un enfant. « Pourvu qu'ils aient bien caché le corps !» grommelait-il entre ses dents.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1352-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1352-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dombre_roger_-_la_nounou</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Roger Dombre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:01.214829+00:00" name="calibre:timestamp"/>
+        <meta content="Nounou, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

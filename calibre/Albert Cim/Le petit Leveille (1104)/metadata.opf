@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1104</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">63709960-980b-4988-983d-8db491503612</dc:identifier>
+        <dc:title>Le petit Léveillé</dc:title>
+        <dc:creator opf:file-as="Cim, Albert" opf:role="aut">Albert Cim</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Albert-Antoine Cimochowski, dit Albert Cim, né à Bar-le-Duc le 22 octobre 1845 et mort le 8 mai 1924, est un romancier, critique littéraire et bibliographe français. Né d'une mère française et d'un père officier polonais réfugié en France après l'insurrection de 1830, Albert Cimochowski entame à Paris en 1861 une carrière de fonctionnaire aux Postes et télégraphes et, sous le nom d'Albert Cim, débute dans le journalisme par des articles de philologie, de critique et de bibliographie qui sont vite remarqués. Parallèlement, il publie en librairie des ouvrages pour la jeunesse et des romans, qui lui valent d'être cinq fois lauréat de l'Académie française, ainsi que des études documentaires, littéraires et bibliographiques. En 1896, il devient bibliothécaire au sous-secrétariat d'État des Postes et des télégraphes. Il est également membre de la Société des gens de lettres, dont il est deux fois vice-président. Extrait :  Non, mon enfant, répondait-il à Césaire, pas de profession uniquement artistique ! C'est trop incertain et aléatoire, trop dangereux. Sois musicien amateur tant que tu voudras, et même le plus que tu pourras, mais possède un métier matériel et d'utilité constante, un gagne-pain pratique assuré. C'est parce que je t'aime, parce que je te veux heureux plus tard, que je combats aujourd'hui ton désir, si vil qu'il soit. Vois-tu, mon petit Césaire, l'Art est peut-être ce qu'il y a de plus beau sur terre, de plus grand et de meilleur avec la Bonté ; mais ce dieu exige un culte désintéressé. Chercher à trafiquer de lui, à lui faire produire de l'argent, à vivre de cet autel, c'est bien chimérique d'abord, ou tout au moins très risqué ; puis peut-être, à mon humble sens, n'est-ce pas tout à fait digne. Mieux vaut, crois-moi, lui rester foncièrement et immuablement fidèle, mais se créer des ressources en dehors de lui.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1307-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1307-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">cim_albert_-_le_petit_leveille</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Albert Cim&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:32.869805+00:00" name="calibre:timestamp"/>
+        <meta content="petit Léveillé, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

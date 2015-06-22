@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1394</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a7f9644d-de02-433e-830e-2e42d31e52f1</dc:identifier>
+        <dc:title>L'oeuvre d'une nuit de mai</dc:title>
+        <dc:creator opf:file-as="Gaskell, Elizabeth" opf:role="aut">Elizabeth Gaskell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1875-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Extrait : De tout ceci, Ellenor ne se doutait guère. Le nouveau clerc n'était pour elle qu'un être de raison. Son père chéri primait toujours, à ses yeux, le demeurant de la race humaine. Elle n'avait conscience que de ses brillantes qualités, de sa douceur, de ses charmants propos, de ses connaissances variées, de sa générosité inépuisable. Après lui, elle aimait surtout miss Monro, et parmi les domestiques de la maison, le cocher Dixon. Dixon était un grand gaillard, robuste encore malgré les premières atteintes de l'âge, et qui s'étant trouvé jadis le compagnon de jeux de l'enfant destinée à devenir ensuite sa jeune maîtresse, n'avait jamais complètement perdu la tradition et les privilèges de cette lointaine intimité. Serviteur favori, on lui passait des libertés de langage qui n'eussent été tolérées chez aucun autre, et miss Ellenor, habituée dès l'enfance à le trouver fort discret, lui faisait par-ci par-çà telle confidence dont aurait pu être jaloux M. Corbet, qu'elle affectionnait pourtant,... mais en seconde ligne et après Dixon.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1477-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1477-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">gaskell_elizabeth_-_l_oeuvre_d_une_nuit_de_mai</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Angleterre</dc:subject>
+        <meta content="{&quot;Elizabeth Gaskell&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:32.381637+00:00" name="calibre:timestamp"/>
+        <meta content="oeuvre d'une nuit de mai, L'" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

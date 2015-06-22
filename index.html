@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <title>Framabookin</title>
+    <meta name="description" content="Framabookin est le catalogue OPDS de Framasoft. Vous pouvez vous abonner avec un logiciel supportant cette fonctionnalité vous donnant accès rapidement et simplement à tout une bibliothèque depuis votre ordinateur, smartphone ou tablette. Le catalogue OPDS de Framasoft (en cours d’élaboration) vous donnera accès à des milliers d’ouvrages non protégés par « copyright ».">
+    <meta name="author" content="Framasoft">
+
+    <link rel="shortcut icon" href="/nav/img/favicon.ico">
+    <script src="/nav/lib/jquery/jquery.min.js" type="text/javascript"></script>
+    <style>
+        body {
+            background:#eee;
+        }
+        h1 {
+            font-family: "DejaVu Sans",Verdana,Geneva,sans-serif !important;
+            font-size: 48px;
+            font-weight: bold;
+        }
+        
+        p.lead {
+            font-family: PTSansCaption,GillSans,sans-serif;
+            font-style: italic;
+            color: #616161;
+        }
+        
+        .container.ombre {
+            margin-top: 30px;
+            margin-bottom: 30px;
+            padding: 20px 30px;
+        }
+        #tuto-video p[role="presentation"] .fa,
+        #le-logiciel p[role="presentation"] .glyphicon,
+        #jardin p[role="presentation"] .glyphicon {
+            font-size:50px;
+        }
+        .modal img.ombre.center-block.img-responsive {
+            max-width:400px;
+            margin-top:20px;
+            margin-bottom:20px;
+        }
+        
+    </style>
+
+</head>
+
+<body>
+    <script src="/nav/nav.js" id="nav_js" type="text/javascript"></script>
+    <div class="container ombre">
+        <header role="banner">
+            <h1><span class="frama">Frama</span><span class="culture">bookin</span></h1>
+            <p class="lead">Une bibliothèque de plusieurs centaines d’ouvrages</p>
+            <hr class="trait" role="presentation" />
+        </header>
+        <main>
+            <div class="row">
+                <div class="col-md-8">
+                    <div class="text-center">
+                        <p><a href="b/" role="button" style="text-decoration:none">
+                            <img src="/img/framabookin1.jpg" alt="" class="img-responsive center-block ombre" style="width:85%; margin-top:60px;"/><br />
+                            <span class="btn btn-danger btn-lg" style="line-height: 48px; margin-top:30px;"><span class="fa fa-book"></span> Visiter la bibliothèque</span>
+                        </a>
+                        <a  href="opds://framabookin.org/b/opds/" class="btn btn-warning btn-lg"
+                            style="line-height: 24px; margin-top:30px; margin-left:30px;" 
+                            rel="popover" title="Ajouter la bibliothèque à votre application"
+                            data-placement="top" data-trigger="hover, focus"
+                            data-content="La bibilothèque Framabookin peut s’ajouter d’un simple clic depuis votre tablette ou smartphone pour votre application favorite comme Aldiko (Android), FBReader (Android), Bluefire (iPad, iPhone), Freda (Windows Phone)…">
+                            <span class="fa fa-rocket"></span> Ajouter à votre<br /> application
+                        </a>
+                        </p>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <h2>Qu’est ce que c’est ?</h2>
+                    <p><strong><span class="frama">Frama</span><span class="culture">bookin</span></strong> est la bibliothèque numérique de 
+                    <b><span class="frama">Frama</span><span class="soft">soft</span></b>. Elle contient quelques centaines d’ouvrages libres ou du domaine public.</p>
+                    <p>Elle est consultable en ligne sur les plateformes mobiles (<span lang="en">smartphones</span>, tablettes, liseuses…)
+                    mais peut aussi être ajoutée directement dans votre application préférée de lecture d’<span lang="en">ebook</span> 
+                    grâce au flux <a href="https://fr.wikipedia.org/wiki/Bookserver"><abbr lang="en" title="Open Publication Distribution System">OPDS</abbr></a>.</p>
+                    <p>En vous abonnant à ce flux, il vous sera possible directement au sein de votre application d’effectuer rapidement des recherche dans <b><span class="frama">Frama</span><span class="culture">bookin</span></b> et 
+                    d’ajouter les ouvrages qui vous intéressent à votre bibliothèque virtuelle personnelle d’un simple clic.</p>
+                    <h2>Quel est l’objectif ?</h2>
+                    <p>Framasoft n’a pas pour vocation d’héberger des millions de livres numériques comme peut le faire Google Book.</p>
+                    <p>En revanche, nous voulons démontrer que la mise en ligne d’une bibliothèque numérique, pour un usage familial, privé, institutionnel, 
+                    ou même commercial, <a href="http://framacloud.org/cultiver-son-jardin/installation-d-un-serveur-opds">peut se faire très simplement</a>.</p>
+                    <p>Il existe déjà de nombreux catalogues <abbr>OPDS</abbr> (<a href="http://www.atramenta.net/opds/catalog.atom">atramenta.net</a>, 
+                    <a href="http://bookserver.revues.org/">revue.org</a>, <a href="http://www.ebooksgratuits.com/opds/">ebooksgratuit.com</a>…), 
+                    en multipliant les instances comme celles-ci, ensemble, nous reprenons possession de nos données et participons à décentraliser le web.</p>
+                </div>
+            </div>
+            <hr />
+            <div class="row">
+                <div class="col-md-4" id="tuto-video">
+                    <h2>Tutoriels</h2>
+                    <p class="text-center" role="presentation"><span class="fa fa-support"></span></p>
+                    <p>Pour s’abonner manuellement depuis une application :</p>
+                        <ul>
+                            <li><a href="#AjoutManuelFBReader" data-toggle="modal">exemple avec FBReader sur Android</a> (application <b>libre</b>)</li>
+                            <li><a href="#AjoutManuelAldiko" data-toggle="modal">exemple avec Aldiko sur Android</a> (application gratuite)</li>
+                        </ul>
+                    <p>Sur d’autres applications et plateformes le principe est sensiblement le même.</p>
+                    <p>Pour consulter la bibliothèque lorsqu’on ne dispose pas d'application dédiée voici <a href="#NavigationBookeen" data-toggle="modal"> un exemple avec les liseuses Bookeen</a></p>
+                    <!-- AjoutManuelFBReader -->
+                    <div class="modal fade" id="AjoutManuelFBReader" tabindex="-1" role="dialog" aria-labelledby="AjoutManuelFBReaderLabel" aria-hidden="true">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                                    <h3 id="AjoutManuelFBReaderLabel">S’abonner manuellement depuis FBReader</h3>
+                                </div>
+                                <div class="modal-body">
+                                    <p>Dans la barre d'outil du haut, cliquez sur « Bibliothèque réseau » (icône représentant des livres avec un globe) puis cliquez sur « Ajouter un catalogue ».
+                                    <br/><img src="/img/fbreader-menu.jpg" alt="" class="ombre center-block img-responsive"/></p>
+                                    <p>Tapez <code>http://framabookin.org/b/opds</code> dans le champs « Adresse du catalogue sur le réseau ».
+                                    <br/><img src="/img/fbreader-ajout.jpg" alt="" class="ombre center-block img-responsive"/></p>
+                                    <p>Vous pouvez à présent fouiller dans les rayons de <b><span class="frama">Frama</span><span class="culture">bookin</span></b>.
+                                    <br/><img src="/img/fbreader-tag.jpg" alt="" class="ombre center-block img-responsive"/></p>
+                                    <p>Lorsque vous avez trouvé un livre qui vous plait, il suffit de cliquer sur le bouton « Télécharger » situé en haut à droite.
+                                    <br/><img src="/img/fbreader-telecharger.jpg" alt="" class="ombre center-block img-responsive"/></p> 
+                                    <p>Le livre est automatiquement ajouté à votre bibliothèque et la lecture peut commencer.
+                                    <br/><img src="/img/fbreader-lecture.jpg" alt="" class="ombre center-block img-responsive"/></p> 
+                                </div>
+                                <div class="modal-footer"><a href="#" class="btn btn-default" data-dismiss="modal">Fermer</a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- AjoutManuelAldiko -->
+                    <div class="modal fade" id="AjoutManuelAldiko" tabindex="-1" role="dialog" aria-labelledby="AjoutManuelAldikoLabel" aria-hidden="true">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                                    <h3 id="AjoutManuelAldikoLabel">S’abonner manuellement depuis Aldiko</h3>
+                                </div>
+                                <div class="modal-body">
+                                    <p>Cliquez sur l’icône en haut à gauche pour afficher le menu puis sur « Autres catalogues »
+                                    <br/><img src="/img/aldiko-menu.jpg" alt="" class="ombre center-block img-responsive"/>
+                                     et enfin « Ajouter un catalogue » (ou « Nouveau catalogue » en haut à droite).
+                                    <br/><img src="/img/aldiko-ajout-1.jpg" alt="" class="ombre center-block img-responsive"/></p>
+                                    <p class="clearfix">Tapez <code>http://framabookin.org/b/opds</code> dans le champs « Adresse du catalogue sur le réseau ».
+                                    <br/><img src="/img/aldiko-ajout-2.jpg" alt="" class="ombre center-block img-responsive"/></p>
+                                    <p>Vous pouvez à présent fouiller dans les rayons de <b><span class="frama">Frama</span><span class="culture">bookin</span></b>.
+                                    <br/><img src="/img/aldiko-tag.jpg" alt="" class="ombre center-block img-responsive"/></p>
+                                    <p>Lorsque vous avez trouvé un livre qui vous plait, il suffit de cliquer sur le bouton « Télécharger » situé à droite.
+                                    <br/><img src="/img/aldiko-telecharger.jpg" alt="" class="ombre center-block img-responsive"/></p> 
+                                    <p>Le livre est automatiquement ajouté à votre bibliothèque et la lecture peut commencer.
+                                    <br/><img src="/img/aldiko-bibliotheque.jpg" alt="" class="ombre center-block img-responsive"/></p> 
+                                </div>
+                                <div class="modal-footer"><a href="#" class="btn btn-default" data-dismiss="modal">Fermer</a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- NavigationBookeen -->
+                    <div class="modal fade" id="NavigationBookeen" tabindex="-1" role="dialog" aria-labelledby="NavigationBookeenLabel" aria-hidden="true">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                                    <h3 id="NavigationBookeenLabel">Consulter la bibliothèque avec les liseuses Bookeen</h3>
+                                </div>
+                                <div class="modal-body">
+                                    <p>Depuis la page d’accueil de votre liseuse, cliquez sur « Naviguer ».</p>
+                                    <p>Puis tapez <code>http://framabookin.org/b/</code> dans la barre d’adresse et validez.
+                                    <br/><img src="/img/navweb-framabookin-url.jpg" alt="" class="ombre center-block img-responsive"/></p>
+                                    <p>Vous pouvez fouiller dans les rayons de <b><span class="frama">Frama</span><span class="culture">bookin</span></b>.
+                                    Lorsque vous avez trouvé un livre qui vous plait, il suffit de cliquer sur le bouton « <span lang="en">Download</span> » situé entre le titre 
+                                    et la couverture de l'ouvrage puis cliquer sur le format de fichier à télécharger (<span lang="en">epub</span>, <abbr>cbz</abbr> ou <abbr>pdf</abbr>).
+                                    Le livre est automatiquement ajouté à votre bibliothèque.
+                                    <br/><img src="/img/navweb-framabookin-telecharger.jpg" alt="" class="ombre center-block img-responsive"/></p>
+                                    <p>Pensez à cliquer sur l’étoile pour ajouter le site à vos favoris ;)
+                                    <br/><img src="/img/navweb-framabookin-favoris.jpg" alt="" class="ombre center-block img-responsive"/></p>
+                                </div>
+                                <div class="modal-footer"><a href="#" class="btn btn-default" data-dismiss="modal">Fermer</a></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4" id="le-logiciel">
+                    <h2>Le logiciel</h2>
+                    <p class="text-center" role="presentation"><span class="glyphicon glyphicon-cloud"></span></p>
+                    <p><b><span class="frama">Frama</span><span class="culture">bookin</span></b> repose sur les logiciels libres <a href="http://calibre-ebook.com/">Calibre</a> et <a href="https://github.com/rvolz/BicBucStriim">BicBucStriim</a>.</p>
+                    <p>Calibre est sous <a href="http://www.gnu.org/licenses/gpl-3.0.fr.html">licence <abbr>GPLv3</abbr></a>, BicBucStriim est sous <a href="https://github.com/rvolz/BicBucStriim#license">licence <abbr>MIT</abbr></a>.</p>
+
+                    <p>La bibliothèque contient :</p>
+                    <ul>
+                        <li>l’ensemble des ouvrages édités chez <b><span class="frama">Frama</span><span class="culture">book</span></b></li>
+                        <li>ainsi que les <span lang="en">ebooks</span> libres ou du domaine public distribués par <a href="http://www.bibebook.com/">Bibebook</a></li>
+                    </ul>
+                    <p class="alert alert-warning">
+                        <span class="label label-warning">Important</span><br/>
+                        Ce projet n’est <b>pas ouvert à participation.</b> Nous ajouterons probablement d’autres collections 
+                        d’<span lang="en">ebooks</span> dans le futur mais ces ajouts seront ponctuels et soumis à une ligne éditoriale rigoureuse.
+                    </p>
+                </div>
+
+                <div class="col-md-4" id="jardin">
+                    <h2>Cultivez votre jardin</h2>
+                    <p class="text-center" role="presentation"><span class="glyphicon glyphicon-tree-deciduous"></span></p>
+                    <p>Pour participer au développement du logiciel, proposer des améliorations
+                        ou simplement le télécharger, rendez-vous sur <a href="https://github.com/rvolz/BicBucStriim">le site de développement</a>.</p>
+                    <br>
+                    <p>Si vous souhaitez installer ce logiciel pour votre propre usage et ainsi gagner en autonomie, nous vous aidons sur :</p>
+                    <p class="text-center"><a href="http://framacloud.org/cultiver-son-jardin/installation-d-un-serveur-opds" class="btn btn-success"><span class="glyphicon glyphicon-tree-deciduous"></span> framacloud.org</a></p>
+                </div>
+            </div>
+        </main>
+    </div>
+</body>
+</html>

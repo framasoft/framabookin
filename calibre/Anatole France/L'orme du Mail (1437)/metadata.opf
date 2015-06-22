@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1437</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">955e9851-1741-4be4-bf63-6f0ef91270e8</dc:identifier>
+        <dc:title>L'orme du Mail</dc:title>
+        <dc:creator opf:file-as="France, Anatole" opf:role="aut">Anatole France</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>L’Histoire contemporaine est une tétralogie d'Anatole France. Autour d'un universitaire, c'est une tétralogie satirique de la société française sous la Troisième république, du boulangisme au début du XXe siècle. Extrait : Monsieur l'abbé, je vais vous dire une grande vérité : tant que l'Etat se contente des ressources que lui fournissent les pauvres, tant qu'il a assez des subsides que lui assurent, avec une régularité mécanique, ceux qui travaillent de leurs mains, il vit heureux, tranquille, honoré ; les économistes et les financiers se plaisent à reconnaître sa probité ; mais, dès que ce malheureux Etat, pressé par le besoin, fait mine de demander de l'argent à ceux qui en ont, et de tirer des riches quelque faible contribution, on lui fait sentir qu'il commet un odieux attentat, viole tous les droits, manque de respect à la chose sacrée, détruit le commerce et l'industrie, et écrase les pauvres en touchant aux riches. On ne lui cache pas qu'il se déshonore.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1463-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1463-9</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0110-3</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">france_anatole_-_l_orme_du_mail</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Anatole France&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:41.036196+00:00" name="calibre:timestamp"/>
+        <meta content="orme du Mail, L'" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

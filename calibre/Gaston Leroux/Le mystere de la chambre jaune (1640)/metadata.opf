@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1640</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6de9a19a-e31b-474b-b30d-cb148eab60b4</dc:identifier>
+        <dc:title>Le mystère de la chambre jaune</dc:title>
+        <dc:creator opf:file-as="Leroux, Gaston" opf:role="aut">Gaston Leroux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1907-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Un soir, malgré la porte de la chambre fermée à clef « de l'intérieur », les volets de l'unique fenêtre solidement fermés eux aussi « de l'intérieur », et en l'absence de toute cheminée ou passage secret, Mlle Stangerson est agressée dans la chambre jaune. Une trace ensanglantée de la main du coupable est retrouvée sur le mur. Qui a tenté de tuer Mlle Stangerson ? Et surtout, par où l'assassin a-t-il pu fuir de la chambre jaune ? C'est le Mystère de la chambre jaune... La plus célèbre des aventures de Rouletabille... Extrait : Nous marchions depuis quelques minutes, Rouletabille et moi, le long d'un mur qui bordait la vaste propriété de M. Stangerson, et nous apercevions déjà la grille d'entrée, quand notre attention fut attirée par un personnage qui, à demi courbé sur la terre, semblait tellement préoccupé qu'il ne nous vit pas venir. Tantôt il se penchait, se couchait presque sur le sol, tantôt il se redressait et considérait attentivement le mur ; tantôt il regardait dans le creux de sa main, puis faisait de grands pas, puis se mettait à courir et regardait encore dans le creux de sa main droite. Rouletabille m'avait arrêté d'un geste : « Chut !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0274-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0274-2</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0275-9</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leroux_gaston_-_le_mystere_de_la_chambre_jaune</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture intermédiaire</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gaston Leroux&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:22.441194+00:00" name="calibre:timestamp"/>
+        <meta content="mystère de la chambre jaune, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

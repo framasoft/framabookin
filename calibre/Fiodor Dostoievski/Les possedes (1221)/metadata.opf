@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1221</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3c2c8a97-a9b1-484c-9d93-304607672f10</dc:identifier>
+        <dc:title>Les possédés</dc:title>
+        <dc:creator opf:file-as="Dostoïevski, Fiodor" opf:role="aut">Fiodor Dostoïevski</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>«Est-il possible de croire? Sérieusement et effectivement? Tout est là.» Stavroguine envoûte tous ceux qui l'approchent, hommes ou femmes. Il ne trouve de limite à son immense orgueil que dans l'existence de Dieu. Il la nie et tombe dans l'absurdité de la liberté pour un homme seul et sans raison d'être. Tous les personnages de ce grand roman sont possédés par un démon, le socialisme athée, le nihilisme révolutionnaire ou la superstition religieuse. Ignorant les limites de notre condition, ces idéologies sont incapables de rendre compte de l'homme et de la société et appellent un terrorisme destructeur. Sombre tragédie d'amour et de mort, «Les Possédés» sont l'incarnation géniale des doutes et des angoisses de Dostoïevski sur l'avenir de l'homme et de la Russie. Dès 1870, il avait pressenti les dangers du totalitarisme au XXe siècle. Extrait : - Votre cœur, Nicolas, est bon et noble, dit entre autres choses le gouverneur, -- vous êtes un homme fort instruit, vous avez vécu dans la haute société, et, ici même, jusqu'à présent, votre conduite pouvait être citée en exemple ; vous faisiez le bonheur d'une mère que nous aimons tous... Et voici que maintenant tout prend un aspect énigmatique et inquiétant pour tout le monde ! Je vous parle comme un ami de votre famille, comme un vieillard qui vous porte un sincère intérêt, comme un parent dont le langage ne peut offenser... Dites-moi, qu'est-ce qui vous pousse à commettre ces excentricités en dehors de toutes les règles et de toutes les conventions sociales ? Que peuvent dénoter ces frasques, pareilles à des actes de démence ?</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0380-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0380-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dostoievski_fiodor_-_les_possedes</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Russie</dc:subject>
+        <meta content="{&quot;Fiodor Dostoïevski&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:57.409711+00:00" name="calibre:timestamp"/>
+        <meta content="possédés, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

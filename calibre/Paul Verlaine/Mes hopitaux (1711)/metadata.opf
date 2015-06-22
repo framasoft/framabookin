@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1711</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b88597d3-0dfd-4676-ab95-bf0472906477</dc:identifier>
+        <dc:title>Mes hôpitaux</dc:title>
+        <dc:creator opf:file-as="Verlaine, Paul" opf:role="aut">Paul Verlaine</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Moins facile, sinon moins courageuse la seconde épreuve supportée. Au palais duretcru, mais comme protecteur ont succédé des baraquements, sapin et briques, à l'instar, paraît-il, des hôpitaux volants américains. L'extérieur ressemble passablement à quelque abattoir, dedans c'est l'architecture d'une chapelle méthodiste ; il n'y manque que des citations de saint Paul sur écriteaux blancs accrochés aux murs de bois verni. On dirait aussi du kursaal d'une station balnéaire nouvellement installée. C'est deux jours après la Toussaint. Les fenêtres donnent sur un jardin d'horticulteur fleuriste, riverain du chemin de fer de ceinture. Un rang d'acacias joue la lisière d'un bois dont l'intérieur des fortifications vues derrière serait l'épaisseur ; mais les feuilles, se raréfiant, défont vite cette illusion des yeux. Les médecins et les élèves sont toujours parfaits, mais semblent à la fois un peu bien sceptiques et infatués ; le personnel, mon Dieu, toujours irréprochable, mais les malades ne paraissent pas raffoler du départ des Sœurs. Eux-mêmes sont quinteux et quelques-uns plus bêtes que de droit.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1169-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1169-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">verlaine_paul_-_mes_hopitaux</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Paul Verlaine&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:36.988118+00:00" name="calibre:timestamp"/>
+        <meta content="Mes hôpitaux" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

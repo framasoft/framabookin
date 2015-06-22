@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1789</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">715660a9-7e4f-4de7-951f-f9e8f3b5cae8</dc:identifier>
+        <dc:title>Gaudissart II</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études de moeurs. Troisième et quatrième livres, Scènes de la vie parisienne et scènes de la vie politique - Tome XII (sic, erreur pour le tome IV). Douzième volume de l'édition Furne 1842. Extrait : Savoir vendre, pouvoir vendre, et vendre ! Le public ne se doute pas de tout ce que Paris doit de grandeurs à ces trois faces du même problème. L’éclat de magasins aussi riches que les salons de la noblesse avant 1789, la splendeur des cafés qui souvent efface, et très-facilement, celle du néo-Versailles, le poème des étalages détruit tous les soirs, reconstruit tous les matins ; l’élégance et la grâce des jeunes gens en communication avec les acheteuses, les piquantes physionomies et les toilettes des jeunes filles qui doivent attirer les acheteurs ; et enfin, récemment, les profondeurs, les espaces immenses et le luxe babylonien des galeries où les marchands monopolisent les spécialités en les réunissant, tout ceci n’est rien !... Il ne s’agit encore que de plaire à l’organe le plus avide et le plus blasé qui se soit développé chez l’homme depuis la société romaine, et dont l’exigence est devenue sans bornes, grâce aux efforts de la civilisation la plus raffinée. Cet organe, c’est l’œil des Parisiens !... Cet œil consomme des feux d’artifice de cent mille francs, des palais de deux kilomètres de longueur sur soixante pieds de hauteur en verres multicolores, des féeries à quatorze théâtres tous les soirs, des panoramas renaissants, de continuelles expositions de chefs-d’œuvre, des mondes de douleurs et des univers de joie en promenade sur les Boulevards ou errant par les rues ; des encyclopédies de guenilles au carnaval, vingt ouvrages illustrés par an, mille caricatures, dix mille vignettes, lithographies et gravures.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0976-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0976-5</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1017-4</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_gaudissart_ii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:52.695981+00:00" name="calibre:timestamp"/>
+        <meta content="Gaudissart II" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

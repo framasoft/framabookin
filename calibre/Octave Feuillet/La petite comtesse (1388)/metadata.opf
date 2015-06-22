@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1388</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5dc87209-04e6-4de1-8699-1cec12728e69</dc:identifier>
+        <dc:title>La petite comtesse</dc:title>
+        <dc:creator opf:file-as="Feuillet, Octave" opf:role="aut">Octave Feuillet</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1874-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Octave Feuillet,est un romancier et dramaturge français, surnommé le « Musset des familles ». Il fut membre de l'Académie française. On le destinait à la diplomatie, lorsque son père, à qui il confia son intention de devenir plutôt écrivain, le renia. Au bout de trois ans, son père lui pardonna et lui fit une pension. Feuillet put jouir alors d’une existence confortable à Paris et publia ses premiers romans. Extrait : Il y a des spectres ! Je fermais cette lettre, mon ami, au milieu d'un silence solennel, quand soudain mon oreille s'est emplie de bruits mystérieux et confus, qui paraissaient venir du dehors, et où j'ai cru distinguer le sourd murmure d'une foule. Je me suis approché, fort surpris, de la fenêtre de ma cellule, et je ne saurais trop te dire la nature précise de l'émotion que j'ai ressentie en apercevant les ruines de l'église éclairées d'une lumière resplendissante : le vaste portail et les ogives béantes jetaient des flots de clarté jusque sur les bois lointains. Ce n'était point, ce ne pouvait être un incendie.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1448-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1448-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">feuillet_octave_-_la_petite_comtesse</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Octave Feuillet&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:31.178439+00:00" name="calibre:timestamp"/>
+        <meta content="petite comtesse, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1497</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e044abfe-a242-4948-99d3-1ba86a3041ef</dc:identifier>
+        <dc:title>Contes d'un voyageur III</dc:title>
+        <dc:creator opf:file-as="Irving, Washington" opf:role="aut">Washington Irving</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1824-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Avec ses Contes du voyageur, Irving nous convie autant au voyage et à l'exotisme, qu'aux vagabondages de l'imagination, humaine et littéraire, dans toute sa splendeur. Ajoutez à ces récits la traduction française bancale et délicieusement vieillotte de 1825. Extrait : « Cousin, s'écria-t-il, que le diable m'emporte, je suis fâché de ce que j'ai dit : tu m'as traité comme je le méritais en m'étrillant, et je ne t'en aime que mieux. Voilà ma main ; viens vivre avec moi, et que le diable m'emporte si la meilleure chambre de la maison et le meilleur cheval de l'écurie ne sont pas à ton service. » J'avoue que je fus fort ému par ce mouvement affectueux de la nature qui se faisait jour à travers une si épaisse enveloppe de chair. Je pardonnai au butor ses deux crimes à la fois : d'être né d'un mariage légitime, et de m'avoir enlevé mon héritage. Je serrai la main qu'il m'offrait, pour lui prouver que je ne lui gardais pas rancune ; et puis, me frayant un chemin à travers la foule de ses parasites ébahis, je dis un éternel adieu aux domaines de mon oncle. C'est la dernière fois que j'aie vu mon cousin ; je n'ai plus entendu parler de lui ni de rien de ce qui regarde le Château des Doutes.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1559-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1559-9</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1560-5</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">irving_washington_-_contes_d_un_voyageur_iii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>conte</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Etats-Unis</dc:subject>
+        <meta content="{&quot;Washington Irving&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:53.721217+00:00" name="calibre:timestamp"/>
+        <meta content="Contes d'un voyageur III" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

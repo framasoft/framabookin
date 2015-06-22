@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1714</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2e896411-55ab-4e1c-9cd0-625e126cea91</dc:identifier>
+        <dc:title>Les poètes maudits</dc:title>
+        <dc:creator opf:file-as="Verlaine, Paul" opf:role="aut">Paul Verlaine</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Les Poètes maudits fut publié une première fois en 1884. Les commentaires éclairés de Paul Verlaine, qui fréquentait personnellement ces auteurs, se ponctuent d'anecdotes de première main. Dans ce texte, il écrit à propos de 6 auteurs qu'il estime talentueux, mais qui n'ont pas été reconnus à leur juste valeur (Tristan Corbière, Arthur Rimbaud, Stéphane Mallarmé, Marceline Desbordes-Valmore, Villiers de l’Isle-Adam et Pauvre Lelian). Extrait : Nous avons eu la joie de connaître Arthur Rimbaud. Aujourd'hui des choses nous séparent de lui sans que, bien entendu, notre très profonde admiration ait jamais manqué à son génie et à son caractère. A l'époque relativement lointaine de notre intimité, Arthur Rimbaud était un enfant de seize à dix-sept ans, déjà nanti de tout le bagage poétique qu'il faudrait que le vrai public connût et que nous essaierons d'analyser en citant le plus que nous pourrons. L'homme était grand, bien bâti, presque athlétique, au visage parfaitement ovale d'ange en exil, avec des cheveux châtain-clair mal en ordre et des yeux d'un bleu pâle inquiétant. Ardennais, il possédait en plus d'un joli accent de terroir trop vite perdu, le don d'assimilation prompte propre aux gens de ce pays-là, --- ce qui peut expliquer le rapide dessèchement sous le soleil fade de Paris, de sa veine, pour parler comme nos pères, de qui le langage direct et correct n'avait pas toujours tort, en fin de compte !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1177-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1177-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">verlaine_paul_-_les_poetes_maudits</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>poesie</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Paul Verlaine&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:37.578395+00:00" name="calibre:timestamp"/>
+        <meta content="poètes maudits, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

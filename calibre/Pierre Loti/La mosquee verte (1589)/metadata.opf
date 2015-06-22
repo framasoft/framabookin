@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1589</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">01fd0ed7-a0d4-46c5-9e3a-c13cb764ed84</dc:identifier>
+        <dc:title>La mosquée verte</dc:title>
+        <dc:creator opf:file-as="Loti, Pierre" opf:role="aut">Pierre Loti</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Mosquée Verte regroupe des extraits du journal intime de l’écrivain durant l’année 1894. Extrait : Quelle conception haute et sage ils ont de la vie, ces gens-là ! — Considérer comme transitoires les choses d’ici-bas ; espérer en Dieu et prier ; se créer très peu de besoins, très peu d’agitations, et jouir le moins brièvement possible de ce qui est d’une vraie beauté sur terre : les printemps, les matins limpides et les soirs d’or. Extrait : Quelle conception haute et sage ils ont de la vie, ces gens-là ! — Considérer comme transitoires les choses d’ici-bas ; espérer en Dieu et prier ; se créer très peu de besoins, très peu d’agitations, et jouir le moins brièvement possible de ce qui est d’une vraie beauté sur terre : les printemps, les matins limpides et les soirs d’or. Quand nous quittons les Imans de la Mosquée Verte, promettant de revenir les voir, leurs saluts sont gracieux et grands.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1095-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1095-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">loti_pierre_-_la_mosquee_verte</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Pierre Loti&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:12.161120+00:00" name="calibre:timestamp"/>
+        <meta content="mosquée verte, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

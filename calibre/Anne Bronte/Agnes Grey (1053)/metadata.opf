@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1053</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">07feef82-5391-4bc8-b9da-432883e695be</dc:identifier>
+        <dc:title>Agnès Grey</dc:title>
+        <dc:creator opf:file-as="Brontë, Anne" opf:role="aut">Anne Brontë</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Agnès Grey est la fille cadette d'un pasteur. Sa famille se retrouve dans une mauvaise passe financière et pour l'aider, Agnès décide de devenir gouvernante. Son passage dans deux familles va lui révéler que la situation de gouvernante n'est pas des plus faciles. Anne, la plus jeune des soeurs Bronte, s'est appuyée sur sa propre expérience de gouvernante pour écrire ce premier roman dans lequel elle dénonce les carences éducatives des enfants dans certaines familles riches. Extrait : Lorsque j'étais à son âge, ou plus jeune, la punition que je redoutais le plus était que l'on ne s'occupât pas de moi et que l'on ne me fît aucune caresse ; mais sur elle cela ne faisait aucune impression. Quelquefois, exaspérée au dernier point, il m'arrivait de la secouer violemment par les épaules, de tirer ses longs cheveux, ou de l'emprisonner dans le coin de la chambre, ce dont elle se vengeait par des cris perçants qui me traversaient la tête comme un coup de poignard. Elle savait que cela me faisait mal ; et, quand elle avait ainsi crié de toutes ses forces, elle me regardait d'un air de vengeance satisfaite et me disait : « Maintenant, êtes-vous contente ? voilà pour vous ! » Et elle se mettait de nouveau à crier si fort, que j'étais obligée de me boucher les oreilles.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0117-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0117-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">bronte_anne_-_agnes_grey</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Angleterre</dc:subject>
+        <meta content="{&quot;Anne Brontë&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:22.366381+00:00" name="calibre:timestamp"/>
+        <meta content="Agnès Grey" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

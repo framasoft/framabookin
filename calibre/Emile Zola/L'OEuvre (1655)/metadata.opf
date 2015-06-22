@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1655</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c0363c3e-7183-4470-9d3d-d95b938329c5</dc:identifier>
+        <dc:title>L'Œuvre</dc:title>
+        <dc:creator opf:file-as="Zola, Émile" opf:role="aut">Émile Zola</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1886-12-14T23:00:00+00:00</dc:date>
+        <dc:description>L’Œuvre est le quatorzième volume de la série Les Rougon-Macquart. L’ouvrage nous entraîne dans le monde de l’art et des artistes, à travers le portrait d’un peintre maudit, Claude Lantier, dont le personnage évoque celui de Paul Cezanne, grand ami de Zola, qui se brouillera avec l’écrivain après la publication du roman. Extrait : Du bout de sa brosse, il indiquait une académie peinte, pendue au mur, près de la porte. Elle était superbe, enlevée avec une largeur de maître ; et, à côté, il y avait encore d'admirables morceaux, des pieds de fillette, exquis de vérité délicate, un ventre de femme surtout, une chair de satin, frissonnante, vivante du sang qui coulait sous la peau. Dans ses rares heures de contentement, il avait la fierté de ces quelques études, les seules dont il fût satisfait, celles qui annonçaient un grand peintre, doué admirablement, entravé par des impuissances soudaines et inexpliquées.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0252-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0252-0</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0248-3</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">zola_emile_-_l_oeuvre</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Émile Zola&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:25.429999+00:00" name="calibre:timestamp"/>
+        <meta content="Œuvre, L'" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

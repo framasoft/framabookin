@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1725</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a66fee9b-35bb-4b8c-91cb-4ea19e5085e5</dc:identifier>
+        <dc:title>Élégies</dc:title>
+        <dc:creator opf:file-as="Verlaine, Paul" opf:role="aut">Paul Verlaine</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>A mon âge, je sais, il faut rester tranquille, - Dételer, cultiver l'art, peut-être imbécile, - D'être un bourgeois, poète honnête et chaste époux,A moins que de plonger, sevré de tout dégoût, - Dans la crapule des célibats innomables. - Je sais bien, et pourtant je trouve plus aimables - Les femmes et leurs yeux et tout d'elles, depuis - Les pieds fins jusqu'aux noirs cheveux, nuit de mes nuits, - Car les femmes c'est toi désormais pour la vie, - Pour moi, pour mon esprit et pour ma chair ravie, - Ma chair, elle se tend vers toi, pleine d'émoi - Sacré, d'un bel émoi, le feu, la fleur de moi ; - Mon âme, elle fond sur ton âme et s'y fond toute, - Et mon esprit veut ton esprit. - Et mon esprit veut ton esprit.Chérie, écoute - Moi bien : Or je suis vieux ou presque, et Dieu voulut - Te faire de dix ans plus jeune, dans le but - Évident d'être, toi, plausible compagne - De ma misère emmi mes châteaux en Espagne. - --- Ne me regarde pas de tes petits yeux bruns, - Naguère, moi compris, les bourreaux de d'aucuns.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1162-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1162-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">verlaine_paul_-_elegies</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>poesie</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Paul Verlaine&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:39.734298+00:00" name="calibre:timestamp"/>
+        <meta content="Élégies" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

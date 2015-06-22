@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1386</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7a29b105-2cb3-4d50-ae25-1088fbf4493d</dc:identifier>
+        <dc:title>Monsieur de Camors</dc:title>
+        <dc:creator opf:file-as="Feuillet, Octave" opf:role="aut">Octave Feuillet</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1867-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Octave Feuillet,est un romancier et dramaturge français, surnommé le « Musset des familles ». Il fut membre de l'Académie française. On le destinait à la diplomatie, lorsque son père, à qui il confia son intention de devenir plutôt écrivain, le renia. Au bout de trois ans, son père lui pardonna et lui fit une pension. Feuillet put jouir alors d’une existence confortable à Paris et publia ses premiers romans. Extrait : - Écoute, mon vieux Lescande, répondait Camors, qui achevait alors triomphalement sa rhétorique, je ne sais si ma destinée sera vulgaire ; mais je suis certain que mon âme ne l'est pas. J'y sens des ardeurs, des élans qui me donnent tantôt des joies, tantôt des souffrances inexprimables. Je voudrais découvrir un monde, sauver une nation, aimer une reine ! Je ne conçois que des ambitions ou des amours illustres... Les amours, au surplus, je n'y songe guère. Il faut à mon activité un ressort plus noble. Je prétends me dévouer à une des grandes causes sociales, politiques ou religieuses qui agitent le monde à cette heure du siècle. Quelle sera cette cause ? Je ne le sais pas encore. Je n'ai pas encore d'opinion bien arrêtée ; mais, dès que je serai sorti du collège, je chercherai la vérité, et je la découvrirai aisément.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1450-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1450-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">feuillet_octave_-_monsieur_de_camors</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Octave Feuillet&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:30.781299+00:00" name="calibre:timestamp"/>
+        <meta content="Monsieur de Camors" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

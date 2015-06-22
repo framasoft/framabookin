@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1432</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6e4a2b94-2503-446d-93ea-08c383adcce5</dc:identifier>
+        <dc:title>La clique dorée</dc:title>
+        <dc:creator opf:file-as="Gaboriau, Émile" opf:role="aut">Émile Gaboriau</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Melle Henriette, fille du comte de la Ville-Handry, est sauvée in-extrémis du suicide par le père Ravinet, brocanteur de son état. «Trop fière pour se plaindre, isolée par les pudeurs de la pauvreté, la malheureuse qui gisait là avait du subir bien des angoisses. Ainsi pensait le père Ravinet, quand une feuille de papier sur la commode attira ses regards. Il la prit. C'était comme le testament de la pauvre fille. Qu'on n'accuse personne. Je meurs volontairement. Je prie Mme Chevassat de porter à leur adresse les lettres jointes. Henriette.» Touché par son malheur, il décide de l'aider à retrouver fortune, honneur et amour et de châtier les escrocs qui cherchent à la dépouiller... Extrait : Et voyant que je restais tout interloqué, il m'explique qu'il loue ça pour y établir une jeune personne de province à laquelle il s'intéresse et que même la location et les quittances doivent être au nom de cette personne qui est donc mademoiselle Henriette. Cela se comprenait, n'est-ce pas ? Néanmoins, comme il était du devoir de mon état de m'informer de cette demoiselle, je m'informe, toujours poliment. Mais lui m'envoie promener, me disant qu'il n'a pas de comptes à me rendre et qu'il va envoyer des meubles pour garnir la chambre...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0222-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0222-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">gaboriau_emile_-_la_clique_doree</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Émile Gaboriau&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:40.033537+00:00" name="calibre:timestamp"/>
+        <meta content="clique dorée, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

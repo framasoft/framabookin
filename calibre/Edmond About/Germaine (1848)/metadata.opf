@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1848</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">94b6f6a4-7f99-4639-91cb-9f6d33e51d32</dc:identifier>
+        <dc:title>Germaine</dc:title>
+        <dc:creator opf:file-as="About, Edmond" opf:role="aut">Edmond About</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : L'assemblée se récria sur la naïveté du bonhomme qui enterrait ses écus tout vifs, au lieu de les faire travailler. Quinze ou seize exclamations s'élevèrent en même temps. Chacun dit son mot, trahit son secret, enfourcha son dada, secoua sa marotte. Chacun frappa sur sa poche et caressa bruyamment les espérances certaines, le bonheur clair et liquide qu'il avait emboursé le matin. L'or mêlait sa petite voix aiguë à ce concert de passions vulgaires~; et le cliquetis des pièces de vingt francs, plus capiteux que la fumée du vin ou l'odeur de la poudre, enivrait ces pauvres cervelles et accélérait le battement de ces cœurs grossiers.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1198-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1198-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">about_edmond_-_germaine</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Edmond About&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:19:04.337388+00:00" name="calibre:timestamp"/>
+        <meta content="Germaine" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

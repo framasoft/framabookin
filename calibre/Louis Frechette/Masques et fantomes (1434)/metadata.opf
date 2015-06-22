@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1434</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">695d5dca-b30c-47d7-a3b8-fda511eac220</dc:identifier>
+        <dc:title>Masques et fantômes</dc:title>
+        <dc:creator opf:file-as="Fréchette, Louis" opf:role="aut">Louis Fréchette</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Louis Fréchette a publié plusieurs recueils de poésies, des drames et deux recueils de contes, La Noël au Canada (1900) et Originaux et détraqués (1892). De plus, il a fait paraître plusieurs contes dans différents journaux. Louis Fréchette avait songé à publier un autre recueil de contes, qui aurait été intitulé Masques et fantômes, mais devant le peu de succès remporté par la Noël au Canada, il abandonna ce projet. Extrait : Jusque-là, rien d'absolument extraordinaire ; mais jugez de notre stupéfaction à tous lorsque la porte se referma d'elle-même, comme après avoir laissé passer quelqu'un, et, là, sous nos yeux, presque à portée de la main, nous entendîmes des pas et comme des frôlements de soutane se diriger vers l'escalier qui conduisait au premier, et dont chaque degré -- sans que nous pussions rien apercevoir -- craqua comme sous le poids d'une démarche lourde et fatiguée.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1467-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1467-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">frechette_louis_-_masques_et_fantomes</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>conte</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Louis Fréchette&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:40.440204+00:00" name="calibre:timestamp"/>
+        <meta content="Masques et fantômes" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

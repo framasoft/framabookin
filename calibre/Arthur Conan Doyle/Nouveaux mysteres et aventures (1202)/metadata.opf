@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1202</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">264efd3a-19d8-4a81-939d-2f15e3d6c232</dc:identifier>
+        <dc:title>Nouveaux mystères et aventures</dc:title>
+        <dc:creator opf:file-as="Doyle, Arthur Conan" opf:role="aut">Arthur Conan Doyle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Différentes histoires policières ou fictives ne faisant pas intervenir Sherlock Holmes : Notre Dame de la Mort; Les Os; Le mystère de la vallée de Sasassa; Notre cagnotte du derby; Le récit de l'Américain. Extrai : Elle était suivie de près par la cuisinière, personne replète mais craintive. Elles s'encourageaient, se poussaient mutuellement. Elles débitèrent leur histoire par strophe et antistrophe, comme un chœur grec, Jeanne parlant jusqu'à ce que l'haleine lui manquât, et laissant alors la parole à la cuisinière qui se voyait à son tour interrompue. Une bonne partie de ce qu'elles dirent resta à peu près inintelligible pour moi, à raison du dialecte extraordinaire qu'elles employaient, mais je pus saisir la marche générale de leur récit. Il paraît que pendant les premières heures du jour, la cuisinière avait été réveillée par quelque chose qui lui touchait la figure. Se réveillant tout à fait, elle avait vu une ombre vague debout près de son lit, et cette ombre s'était glissée sans bruit hors de la chambre. La domestique s'était éveillée au cri poussé par la cuisinière et affirmait carrément avoir vu l'apparition.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0167-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0167-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">doyle_arthur_conan_-_nouveaux_mysteres_et_aventures</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture aisée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Angleterre</dc:subject>
+        <meta content="{&quot;Arthur Conan Doyle&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:52.983924+00:00" name="calibre:timestamp"/>
+        <meta content="Nouveaux mystères et aventures" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

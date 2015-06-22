@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37eb1141-26c5-418f-81a0-0ff711eae512</dc:identifier>
+        <dc:title>Le C en 20 heures</dc:title>
+        <dc:creator opf:file-as="Berthomier, Eric &amp; Schang, Daniel" opf:role="aut">Berthomier, Eric</dc:creator>
+        <dc:creator opf:file-as="Berthomier, Eric &amp; Schang, Daniel" opf:role="aut">Schang, Daniel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Cet ouvrage se propose de vous faire découvrir par la pratique toutes les bases essentielles du langage C.&lt;/p&gt;
+&lt;p&gt;Destiné aux grands débutants, fruit de l'expérience pédagogique d'Eric Berthomier et Daniel Schang, &lt;i&gt;Le C en 20 heures&lt;/i&gt; n'est pourtant pas un manuel comme les autres.&lt;/p&gt;
+&lt;p&gt;Son intérêt est d'être parcouru de A à Z en suivant l'adage : « j'apprends le code en écrivant le code. »&lt;/p&gt;
+&lt;p&gt;Testée par de nombreux étudiants qui n'avaient aucune connaissance préalable du langage C, la méthode développée par les auteurs permet d'effectuer un apprentissage complet en une durée de 20 à 30 heures de travail.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Framasoft</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9782953918779</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Framabook</dc:subject>
+        <dc:subject>langage C</dc:subject>
+        <dc:subject>manuel</dc:subject>
+        <meta content="{&quot;Berthomier, Eric&quot;: &quot;&quot;, &quot;Schang, Daniel&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-05-26T15:25:22.976982+00:00" name="calibre:timestamp"/>
+        <meta content="C en 20 heures, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

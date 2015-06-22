@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1652</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6098d850-0acf-4e45-9da0-3c8ca78c851e</dc:identifier>
+        <dc:title>Impressions d’Afrique</dc:title>
+        <dc:creator opf:file-as="Roussel, Raymond" opf:role="aut">Raymond Roussel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1910-12-14T23:00:00+00:00</dc:date>
+        <dc:description>Raymond Roussel (1877-1933) avait un peu plus de trente ans et aspirait encore à la gloire littéraire lorsqu'il publia ces Impressions d'Afrique. En particulier le rôle des Nouvelles Impressions d’Afrique, méritent mieux leur nom qu’il n’y paraît. Ces longues énumérations de courts fragments occupant tout ou partie de un, deux ou trois vers ont au moins une fonction identifiable : elles contiennent des allusions aux œuvres de Roussel, ou plus précisément à leur texte sous-jacent. De Raymond Roussel le grand public, qui ne l'a pas lu, ne connaît vaguement que la légende pittoresque : sa richesse immense (mais il meurt ruiné) ; ses manies étranges (tous les repas quotidiens pris en un seul, ses chemises portées une seule fois) ; ses caprices (la première roulotte automobile de grand luxe) ; ses dépenses énormes pour se faire imprimer ou pour faire jouer ses pièces ; sa dernière passion : les échecs, sa mort mystérieuse.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1139-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1139-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">roussel_raymond_-_impressions_d_afrique</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Raymond Roussel&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:24.813859+00:00" name="calibre:timestamp"/>
+        <meta content="Impressions d’Afrique" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

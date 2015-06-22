@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1050</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">13e697db-50d8-45a0-847f-956ad6dcf198</dc:identifier>
+        <dc:title>Le professeur</dc:title>
+        <dc:creator opf:file-as="Brontë, Charlotte" opf:role="aut">Charlotte Brontë</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>The Professor (Le Professeur) (1857), publié par Smith, Elder and Co à titre posthume, à l'initiative  du Révérend Arthur Bell Nicholls, est le premier roman de Charlotte, qu'aucun éditeur n'avait accepté en 1847. C'est sans doute le moins réussi des quatre, faussé qu'il est par le point de vue choisi, une sorte d'autobiographie au masculin. Extrait : La danse commença : j'aurais, si l'on m'eût présenté à quelque jeune fille intelligente et belle, j'aurais aimé à lui montrer que je pouvais ressentir la joie qu'on peut avoir à épancher le trop-plein de son esprit, et à lui prouver que je savais faire partager mon plaisir ; mais je n'étais là qu'une masse inerte, un peu moins qu'un meuble ; personne ne se doutait que je fusse un être pensant, ayant une voix et un cœur. Des femmes souriantes passaient devant mes yeux, emportées par la valse ; mais leurs sourires se prodiguaient à d'autres qu'à moi ; leur taille souple et gracieuse était soutenue par d'autres mains que les miennes.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1280-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1280-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">bronte_charlotte_-_le_professeur</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Angleterre</dc:subject>
+        <meta content="{&quot;Charlotte Brontë&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:21.769631+00:00" name="calibre:timestamp"/>
+        <meta content="professeur, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

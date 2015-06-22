@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1717</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d4e95e0e-c7ed-47fa-a029-f3f30944719f</dc:identifier>
+        <dc:title>Essai sur le goût</dc:title>
+        <dc:creator opf:file-as="Montesquieu, Charles-Louis de Secondat" opf:role="aut">Montesquieu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>L’Essai sur le goût dans les choses de la nature et de l’art de Montesquieu forme une partie de l’article « Goût », paru dans le tome VII de l’Encyclopédie en 1757 de façon posthume et à l’état inachevé. Cet article est lui-même composé d’un article dû à Voltaire, puis du « fragment sur le goût » de Montesquieu, comme l’appellent Diderot et d’Alembert. Il est réédité en 1783, dans une version un peu différente fournie par Jean-Baptiste de Secondat. Il importe à cet égard de distinguer les quinze sections du texte publié dans l’Encyclopédie et les fragments ajoutés tardivement, à partir de l’édition Plassan de 1796 (« Des règles », « Plaisir fondé sur la raison », « De la considération de la situation meilleure », « Plaisir causé par les jeux, chutes, contrastes ») et repris à partir de l’édition Lefèvre de 1816.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1122-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1122-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">montesquieu_charles-louis_de_secondat_-_essai_sur_le_gout</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>non-fiction</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Montesquieu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:38.178249+00:00" name="calibre:timestamp"/>
+        <meta content="Essai sur le goût" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

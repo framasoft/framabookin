@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1163</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">30f3da74-c704-4be3-95cd-e9295d2318fe</dc:identifier>
+        <dc:title>Jane</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Un jeune lieutenant, Elim Melosor, second à bord du bateau russe Le Vladimir à l'époque des guerres napoléoniennes, assiste au naufrage d'un navire au large de la Hollande, pays ennemi. Accompagné de cinq marins, il tente de sauver les sinistrés. Ils ne peuvent y arriver; leur chaloupe est détruite et les marins sont rejetés sur les côtes de Hollande. Ils se réfugient dans un moulin, juste au bon moment pour sauver les occupants, attaqués par des bandits... Extrait : - Silence ! dit-il en faisant un signe de la main à ses compagnons. On entendait un bruit de voix confus, des pleurs, des menaces, des malédictions. Élim saisit quelques mots moitié allemands, moitié français. Sans doute, ces mots lui parurent nécessiter sa présence, car il tenta d'ouvrir la porte ; mais, comme elle était fermée, il la secoua rudement. La porte tint bon. - Ouvrez ! cria-t-il en français.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1371-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1371-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_jane</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:44.983725+00:00" name="calibre:timestamp"/>
+        <meta content="Jane" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1627</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d1c1ce08-4054-4d66-b3de-93d93fc93491</dc:identifier>
+        <dc:title>Arsène Lupin contre Herlock Sholmès</dc:title>
+        <dc:creator opf:file-as="Leblanc, Maurice" opf:role="aut">Maurice Leblanc</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1908-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Arsène Lupin contre Herlock Sholmès est un recueil de deux histoires écrites par Maurice Leblanc, sur les aventures opposant Arsène Lupin et Herlock Sholmès. Il fait suite à Arsène Lupin, gentleman-cambrioleur, notamment à la dernière nouvelle, Herlock Sholmes arrive trop tard. Dans "La Lampe juive", le baron d'Imblevalle, à qui on a volé une lampe contenant un bijou précieux, fait appel à Herlock Sholmès pour la retrouver. Lupin envoie une lettre au détective, le priant de ne pas intervenir. Sholmès n'en tient aucun compte et se rend à Paris avec Wilson. Il réussit finalement à retrouver la lampe juive mais découvre que son enquête a eu le résultat inverse de celui escompté. Elle a en effet perturbé les plans de Lupin qui voulait en réalité aider la famille du baron.La sortie d’Arsène Lupin contre Herlock Sholmès mécontente Conan Doyle, furieux de voir son détective Sherlock Holmes (« Herlock Sholmès ») et son faire-valoir Watson (« Wilson ») ridiculisés par des personnages parodiques créés par Maurice Leblanc. Extrait : Chaque fois que j'entreprends de raconter quelqu'une des innombrables aventures dont se compose la vie d'Arsène Lupin, j'éprouve une véritable confusion, tellement il me semble que la plus banale de ces aventures est connue de tous ceux qui vont me lire. De fait, il n'est pas un geste de notre « voleur national », comme on l'a si joliment appelé, qui n'ait été signalé de la façon la plus retentissante, pas un exploit que l'on n'ait étudié sous toutes ses faces, pas un acte qui n'ait été commenté avec cette abondance de détails que l'on réserve d'ordinaire au récit des actions héroïques.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1594-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1594-0</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1607-7</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leblanc_maurice_-_arsene_lupin_contre_herlock_sholmes</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Maurice Leblanc&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:19.862796+00:00" name="calibre:timestamp"/>
+        <meta content="Arsène Lupin contre Herlock Sholmès" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

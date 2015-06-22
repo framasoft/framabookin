@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1570</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">35c65d84-8fee-45af-a6ba-f89fa12c3281</dc:identifier>
+        <dc:title>L’exilée</dc:title>
+        <dc:creator opf:file-as="Loti, Pierre" opf:role="aut">Pierre Loti</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Louis Marie Julien Viaud, dit Pierre Loti est un littérateur  né à Rochefort le 14 janvier 1850, mort en 1923, d'une des anciennes familles protestantes du pays. II fit ses études à Rochefort, entra en 1867 dans la marine, et fit ses premières campagnes dans le Pacifique : aspirant en 1870, enseigne en 1873 et lieutenant de vaisseau en 1881. Il avait fait la campagne du Tonkin et fut mis en disponibilité pendant quelques mois pour avoir publié dans le Figaro une correspondance sur les actes de cruauté des soldats français lors de la prise de Hué (1883). Il a publié, sous le nom de Pierre Loti, des histoires d'amour exotiques, qui se déroulent dans les différentes parties du monde, à Tahiti, au Sénégal, en Turquie, au Maroc, au Japon, etc. La puissance de son talent descriptif et la sincérité pénétrante de son accent personnel, auquel une certaine monotonie ne fait pas tort, lui ont valu de bonne heure une très grande réputation. En 1894, il a été nommé membre de l'Académie française.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1103-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1103-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">loti_pierre_-_l_exilee</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Pierre Loti&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:08.044588+00:00" name="calibre:timestamp"/>
+        <meta content="L’exilée" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

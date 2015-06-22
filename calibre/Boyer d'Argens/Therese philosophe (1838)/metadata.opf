@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1838</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7f0bcf5c-a0c8-4f0d-b9dd-75e80e803ec3</dc:identifier>
+        <dc:title>Thérèse philosophe</dc:title>
+        <dc:creator opf:file-as="Argens, Boyer d'" opf:role="aut">Boyer d'Argens</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Thérèse philosophe, ou mémoires pour servir à l’histoire du Père Dirrag et de Mademoiselle Éradice, plus connu sous le nom de Thérèse philosophe est un roman de 1748 à l'attribution contestée. Produit d'une audacieuse entreprise éditoriale à cheval sur l'actuelle Belgique et la France, il est vraisemblablement composite. On peut citer parmi les attributions les plus solidement étayées pour ses différentes parties celle à Jean-Baptiste Boyer d'Argens, ainsi que celle à Louis-Charles Fougeret de Monbron. Thérèse Philosophe rapporte la relation entre Marie-Catherine Cadière et Jean-Baptiste Girard, de quasi trente ans son aîné. Principalement considéré comme un roman pornographique, ce qui explique ses ventes massives dans la France du XVIIIe siècle où les œuvres pornographiques réalisaient les meilleures ventes, ce roman des Lumières contient certaines idées des Philosophes. Extrait : Dès qu'Éradice eut reconnu l'illusion du feint cordon de Dirrag, par l'application amiable du membre naturel du moine, l'élégance de cette démonstration lui fit sentir qu'elle avait été grossièrement dupée. Sa vanité se trouva blessée, et la vengeance la porta à tous les excès que vous avez connus, de concert avec le fier moine qui, outre l'esprit de parti qui l'animait, était encore jaloux des faveurs que Dirrag avait surprises à son amante. Ses charmes étaient un bien qu'il croyait créé pour lui seul ; c'était un vol manifeste qu'il prétendait lui avoir été fait, dont il se flattait d'obtenir une punition exemplaire. La grillade seule de son rival, qu'il méditait, pouvait assouvir son ressentiment et sa vengeance.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1290-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1290-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">argens_boyer_d_-_therese_philosophe</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Boyer d'Argens&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:19:02.347744+00:00" name="calibre:timestamp"/>
+        <meta content="Thérèse philosophe" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

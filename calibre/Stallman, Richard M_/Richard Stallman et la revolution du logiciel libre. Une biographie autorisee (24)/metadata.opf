@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2c62ee46-f0ed-4d1c-9f7d-cee6b1da19a5</dc:identifier>
+        <dc:title>Richard Stallman et la révolution du logiciel libre. Une biographie autorisée</dc:title>
+        <dc:creator opf:file-as="Stallman, Richard M. &amp; Williams, Sam &amp; Masutti, Christophe" opf:role="aut">Stallman, Richard M.</dc:creator>
+        <dc:creator opf:file-as="Stallman, Richard M. &amp; Williams, Sam &amp; Masutti, Christophe" opf:role="aut">Williams, Sam</dc:creator>
+        <dc:creator opf:file-as="Stallman, Richard M. &amp; Williams, Sam &amp; Masutti, Christophe" opf:role="aut">Masutti, Christophe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;i&gt;Une lecture indispensable pour mieux comprendre l'histoire et l'avenir de l'informatique et les origines du mouvement du logiciel libre.&lt;/i&gt;&lt;/p&gt;&lt;p&gt;Cette biographie autorisée de Richard M. Stallman éclaire sans complaisance la vie de ce personnage autant décrié qu'encensé qui a révolutionné l'histoire du logiciel en fondant le mouvement pour le logiciel libre.&lt;/p&gt;&lt;p&gt;Amendée avec humour par Richard Stallman lui-même sans rien perdre de ses qualités critiques, elle retrace au travers d'anecdotes savoureuses la jeunesse d'un surdoué, les événements qui l'ont mené à la genèse de la licence GNU GPL, et sa lutte pour protéger l'ouvrage logiciel et en faire reconnaître le rang de patrimoine mondial.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Framasoft, Eyrolles</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9782212126099</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Framabook</dc:subject>
+        <dc:subject>biographie</dc:subject>
+        <dc:subject>Richard</dc:subject>
+        <dc:subject>Stallman</dc:subject>
+        <dc:subject>logiciel libre</dc:subject>
+        <dc:subject>histoire</dc:subject>
+        <meta content="{&quot;Williams, Sam&quot;: &quot;&quot;, &quot;Masutti, Christophe&quot;: &quot;&quot;, &quot;Stallman, Richard M.&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-05-26T17:05:29.311016+00:00" name="calibre:timestamp"/>
+        <meta content="Richard Stallman et la révolution du logiciel libre. Une biographie autorisée" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

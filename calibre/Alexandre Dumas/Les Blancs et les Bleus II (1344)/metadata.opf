@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1344</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ad119de4-1683-4b0e-9502-e734164e880a</dc:identifier>
+        <dc:title>Les Blancs et les Bleus II</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>En 1794 la terreur est à son paroxysme en France, l'ennemi menace aux frontières de toutes parts. A Strasbourg, c'est le général Pichegru que nous suivons dans ses victoires sur les Prussiens; à Toulon, c'est un jeune colonel du nom de Bonaparte qui reprend la ville aux Anglais. Extrait : Le voyageur reconnut que la statue qu'il cherchait était celle qui était placée dans une niche à droite de la grande porte. Il força son cheval de s'approcher du mur, et, se haussant sur les étriers, il atteignit le piédestal de la statue. Un intervalle existait entre la base et les parois de la niche ; il y glissa la main, sentit un anneau, tira à lui et devina, plutôt qu'il n'entendit, la trépidation d'une sonnette. Trois fois il recommença le même exercice. À la troisième fois, il écouta, il lui sembla alors entendre s'approcher de la porte un pas inquiet.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0051-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0051-9</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0052-6</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_les_blancs_et_les_bleus_ii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:22.270266+00:00" name="calibre:timestamp"/>
+        <meta content="Blancs et les Bleus II, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

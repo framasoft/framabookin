@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1327</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f4655784-e69a-469f-a910-0ab3d0478dd5</dc:identifier>
+        <dc:title>La comtesse de Charny I</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Les «Mémoires d'un médecin» est une suite romanesque qui a pour cadre la Révolution Française et qui comprend «Joseph Balsamo», «le Collier de la reine», «Ange Pitou» et la «Comtesse de Charny». Suite à la révolte du peuple du 6 octobre 1789, la famille royale est ramenée de force de Versailles à Paris et installée aux Tuileries. La reine Marie-Antoinette est de plus en plus injuste envers Andrée (la comtesse de Charny) parce qu'elle se rend compte que le mariage arrangé du comte (qu'elle aime passionnément) et de la comtesse de Charny peut devenir un mariage d'amour. Quittant alors le service de la reine, Andrée découvre enfin la joie de connaître son fils Sébastien, fruit de son viol par Gilbert lequel avait enlevé cet enfant à sa naissance. Extrait :  - Justement ! J'étais attendu avec une voiture à la barrière. On m'a dit : « Êtes-vous un tel ? » J'ai dit : « Oui. -- Bon ! c'est vous que nous attendons ; montez. -- Il faut que je monte ? -- Oui. » Je suis monté, on m'a bandé les yeux, la voiture a roulé une demi-heure à peu près, puis une porte s'est ouverte -- une grande porte ; j'ai heurté la première marche d'un perron, j'ai monté dix degrés, je suis entré dans un vestibule ; là, j'ai trouvé un domestique allemand qui a dit aux autres : « Zet pien, allez-fous-zen, on n'a blus pesoin de fous. » Les autres s'en sont allés. Il m'a défait mon bandeau, et il m'a montré ce que j'avais à faire. Je me suis mis à la besogne en bon ouvrier. À une heure, c'était fait. On m'a payé en beaux louis d'or, on m'a rebandé les yeux, remis dans la voiture, descendu au même endroit où j'étais monté, on m'a souhaité bon voyage -- et me voilà !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0014-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0014-4</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0015-1</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_la_comtesse_de_charny_i</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:18.537153+00:00" name="calibre:timestamp"/>
+        <meta content="comtesse de Charny I, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1295</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">98bfc8bf-3ed2-4734-a932-57ef43c3f74f</dc:identifier>
+        <dc:title>La San Felice V</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Revenant d'Aboukir où la flotte britannique a vaincu Bonaparte, l'Amiral Nelson est reçu en triomphateur à la cour de Naples. Garat, ambassadeur de la République, fait irruption dans cette manifestation d'hostilité anti-française et promet la guerre au Royaume de Naples. Trop vite cependant : le soir même, Salvato Palmieri, agent envoyé de Rome par le général Championnet pour informer Garat de la situation des Français et l'inviter à gagner du temps, est attaqué par les sbires de la reine Marie-Caroline de Naples. Laissé pour mort, il est recueilli par Luisa San Felice, jeune Napolitaine épouse du chevalier San Felice, vieil homme de lumières et bibliothécaire à la cour. Extrait : En ce moment, les cris redoublèrent, et il se fit un grand mouvement parmi cette foule. On entendit les crosses des fusils retentir sur le pavé, des voix impératives crièrent : « Place ! », une espèce de tranchée s'ouvrit, et Michele et Luisa se trouvèrent en face des deux prisonniers, dont l'un -- c'était le plus jeune -- tenait, entre ses bras liés autour du corps, le drapeau blanc des Bourbons. Ils étaient au milieu d'hommes portant d'une main des torches et de l'autre des sabres, et, malgré les injures, les huées et les insultes de la canaille, toujours prête à insulter, à huer, à injurier le plus faible, ils marchaient tête levée, comme des gens qui confessent hautement leur foi. Stupéfaite à cette vue, Luisa, au lieu de se ranger comme les autres, resta immobile et se trouva en face du plus jeune des deux prisonniers...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0034-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0034-2</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1383-0</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_la_san_felice_v</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:12.127687+00:00" name="calibre:timestamp"/>
+        <meta content="San Felice V, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

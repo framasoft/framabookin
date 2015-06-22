@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1821</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">758c09f5-117a-41fd-a208-457b2824edc5</dc:identifier>
+        <dc:title>Le commandant Delgrès</dc:title>
+        <dc:creator opf:file-as="Aimard, Gustave" opf:role="aut">Gustave Aimard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : L'homme perdu dans ces solitudes peut être considéré comme mort~; jamais il ne parviendra à en sortir ; les murailles mouvantes dont il est entouré lui forment un vert linceul qui l'enveloppe de toutes parts et dont il lui est impossible de soulever le poids, pourtant si léger en apparence, mais si lourd en réalité ; tous ses efforts pour sortir des réseaux immenses qui l'enlacent ne font qu'en resserrer davantage les flexibles anneaux ; ses forces s'épuisent dans une lutte insensée, il chancelle, veut résister encore, tombe et ne se relève plus ; c'en est fait ; la mort implacable étend vers lui sa main de squelette, et lui, ce vivant, si plein de jeunesse, de sève, de courage, de volonté, il est vaincu ; il se couche haletant et succombe dans d'horribles souffrances, au milieu de cette luxuriante et puissante végétation qui semble lui sourire railleusement, à quelques pas à peine du but qu'il voulait atteindre, sans se douter que, pendant de longues heures, il a vainement consumé toute son énergie à tourner toujours dans le même cercle, sans avancer d'un pas vers la délivrance.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1209-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1209-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">aimard_gustave_-_le_commandant_delgres</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture aisée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gustave Aimard&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:58.973552+00:00" name="calibre:timestamp"/>
+        <meta content="commandant Delgrès, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

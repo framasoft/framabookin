@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1370</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">95173935-5614-4023-a53a-0b272f78b8ff</dc:identifier>
+        <dc:title>L’école des indifférents</dc:title>
+        <dc:creator opf:file-as="Giraudoux, Jean" opf:role="aut">Jean Giraudoux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1911-06-02T23:00:00+00:00</dc:date>
+        <dc:description>L'École des indifférents est un recueil de trois nouvelles de Jean Giraudoux publié en 1911 aux éditions Grasset. Extrait : Une amie que je n'aimerais pas moins si elle était moins trépidante. C'est elle qui est chargée dans le monde d'établir les courants d'air. Elle ouvre sans répit les portes d'armoire, les tiroirs, les coffrets. Elle se contenterait au besoin d'un boîtier de montre. Si je parviens à la faire asseoir, elle met en marche une invisible machine à coudre, ou bien, jambes croisées, elle contrôle ses réflexes. Elle est peintre de miniatures : elle doit tourner autour des cercles qu'elle décore comme une aiguille de pendule autour de son pivot. Et il n'y a rien à faire : lui attacher les mains avec une courroie serait, prétend-elle, réunir ses deux pôles.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1488-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1488-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">giraudoux_jean_-_l_ecole_des_indifferents</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>nouvelle</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Jean Giraudoux&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:27.531959+00:00" name="calibre:timestamp"/>
+        <meta content="L’école des indifférents" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1647</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4c24cd31-f10e-435a-ae4b-7f5415f5962f</dc:identifier>
+        <dc:title>Le roi au masque d’or</dc:title>
+        <dc:creator opf:file-as="Schwob, Marcel" opf:role="aut">Marcel Schwob</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1920-12-14T23:00:00+00:00</dc:date>
+        <dc:description>Le Roi au masque d’or qui est son deuxième recueil, paraît en 1892. Extrait : D'ordinaire ils préféraient les fillettes communes assises aux portes des bonnes villes, le soir, à l'orée des cimetières. Elles n'avaient qu'une cotte et une chemise ; elles reposaient leurs pieds sur les pierres tombales, et la lune les faisait paraître blanches. Elles montaient sur les blocs et s'appelaient : « Denise ! Marion ! Museau ! » Elles couchaient à l'air, entre les fosses, dans l'eau croupissante. Elles rêvaient le sol jonché de paille des étuves, dans quelque rue noire. Les guetteurs de chemins, batteurs à loyer, épieurs et fausses gens de guerre, les emmenaient un peu de temps, et parfois ne leur coupaient pas la gorge. On les voyait passer entre deux étranges hommes d'armes, qui les tenaient sous les bras et entre-croisaient des vouges sur leurs têtes.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1143-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1143-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">schwob_marcel_-_le_roi_au_masque_d_or</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Marcel Schwob&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:23.812153+00:00" name="calibre:timestamp"/>
+        <meta content="roi au masque d’or, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1743</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">298ac1e0-2584-486d-928d-7ba490dd1ed4</dc:identifier>
+        <dc:title>Le chevalier de Saint-Ismier</dc:title>
+        <dc:creator opf:file-as="Stendhal" opf:role="aut">Stendhal</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1927-12-14T23:00:00+00:00</dc:date>
+        <dc:description>Extrait : Le pauvre Saint-Ismier dut s'enfuir de la terre près d'Orléans, comme il s'était enfui de Rouen, c'est-à-dire que le gentilhomme son ami étant venu le joindre à la chasse, où il était de l'autre côté de la Loire, pour lui communiquer la terrible lettre qu'il recevait, le chevalier, après l'avoir embrassé tendrement, s'approcha du fleuve dans l'espoir de trouver quelque petit bateau ; il eut le bonheur de voir près du bord un pêcheur qui, monté dans la plus exiguë des nacelles, retirait son filet. Il appela cet homme : « Je suis poursuivi par mes créanciers ; il y aura un demi-louis pour toi, si tu rames toute la nuit. Il faudra me déposer près de ma maison à une demi-lieue avant Blois. » Saint-Ismier suivit la Loire jusqu’à øøø, faisant le tour des villes à pied pendant la nuit, et le jour se faisant conduire par quelque petit bateau de pêcheur. Il ne fut rejoint par son domestique et ses chevaux qu’à øøø, petit village voisin de øøø.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1147-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1147-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">stendhal_-_le_chevalier_de_saint-ismier</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Stendhal&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:43.585734+00:00" name="calibre:timestamp"/>
+        <meta content="chevalier de Saint-Ismier, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

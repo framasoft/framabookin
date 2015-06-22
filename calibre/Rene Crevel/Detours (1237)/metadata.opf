@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1237</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">231d7876-b59d-4bc3-a2df-40db90f9fba0</dc:identifier>
+        <dc:title>Détours</dc:title>
+        <dc:creator opf:file-as="Crevel, René" opf:role="aut">René Crevel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1924-06-02T22:00:00+00:00</dc:date>
+        <dc:description>"On le lira de plus en plus et on délaissera les grands noms gonflés de vent de ses ainés qui acceptèrent la pourriture" : Ezra Pound. «Crevel, écrivait André Breton en 1952 dans ses Entretiens, avec ce beau regard d'adolescent que nous gardent quelques photographies, les séductions qu'il exerce, les craintes et les bravades aussi promptes à s'éveiller en lui... à travers tout cela c'est l'angoisse qui domine. Il est d'ailleurs psychologiquement très complexe, contrecarré dans une sorte de frénésie qui le possède par son amour du XVIIIe et particulièrement de Diderot. » « Né révolté comme d'autres naissent avec les yeux bleus» écrira Philippe Soupault. René Crevel vient d'apprendre, qu'il souffrait d'une tuberculose rénale alors qu'il se croyait guéri. La nuit suivante, il se suicide au gaz dans son appartement, après avoir griffonné sur un papier « Prière de m'incinérer. Dégoût ». Klaus Mann qui fut un ami proche résuma dans son livre Le Tournant " Il se suicida parce qu'il avait peur de la démence, il se suicida parce qu'il tenait le monde pour dément". Extrait : Accepterai-je la prédiction de l’odieuse Léila ? Ma cervelle bien vide et bien lisse va-t-elle refléter le bonheur, des pieds en soie lui faire confidence de leurs caresses ? Ma tête aura-t-elle la docilité des boules qui vont sous la marche des équilibristes comme s’il s’agissait simplement du jeu des doigts autour d’un fruit ? Léila et Myriam sont vulgaires. À force de désirer le violoniste, les lèvres du nègre ont dévoré son visage. Les stores orange se tachent de transpirer la tristesse et moi j’ai mal sans savoir où. On boit, on danse. Je vois les objets s’animer pour faire des faux pas, je perds jusqu’au goût des boissons fades et je compte.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1580-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1580-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">crevel_rene_-_detours</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;René Crevel&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:00.595843+00:00" name="calibre:timestamp"/>
+        <meta content="Détours" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

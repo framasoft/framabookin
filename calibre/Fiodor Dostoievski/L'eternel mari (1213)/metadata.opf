@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1213</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">746e61a5-db0d-4412-a3d5-f8a7b09f66f2</dc:identifier>
+        <dc:title>L’éternel mari</dc:title>
+        <dc:creator opf:file-as="Dostoïevski, Fiodor" opf:role="aut">Fiodor Dostoïevski</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>À partir d'un scénario de vaudeville, Dostoïevski bâtit une fable angoissante sur la fatalité des rapports humains et, d'une sinistre histoire d'adultère et de revenants, il dresse un constat grinçant sur l'absurde reproduction des comportements d'échec. Extrait : Environ quinze jours auparavant — à vrai dire, il ne se rappelait pas au juste, mais il devait bien y avoir cela —, il avait rencontré, pour la première fois, dans la rue, quelque part, oui, à l'angle des rues Podiatcheskaïa et Mechtchanskaïa, un homme qui portait un crêpe à son chapeau. Ce monsieur était comme tout le monde et n'avait rien de particulier ; il passa vite, mais en passant jeta à Veltchaninov un regard extrêmement direct, et qui attira extraordinairement son attention. Il eut immédiatement l'impression qu'il connaissait cette figure. Certainement, il l'avait rencontrée quelque part.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0382-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0382-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dostoievski_fiodor_-_l_eternel_mari</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Russie</dc:subject>
+        <meta content="{&quot;Fiodor Dostoïevski&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:55.338531+00:00" name="calibre:timestamp"/>
+        <meta content="L’éternel mari" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

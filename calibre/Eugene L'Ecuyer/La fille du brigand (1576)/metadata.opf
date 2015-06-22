@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1576</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8969d7e3-38dc-4083-b816-932deefbb759</dc:identifier>
+        <dc:title>La fille du brigand</dc:title>
+        <dc:creator opf:file-as="L'Écuyer, Eugène" opf:role="aut">Eugène L'Écuyer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1844-06-02T23:00:00+00:00</dc:date>
+        <dc:description>La fille du brigand (1844) est une oeuvre phare pour qui veut comprendre les tendances et les tensions de l'imaginaire au milieu du XIXe siècle.  Extrait : Julienne fixa attentivement Helmina ; elle était d'une pâleur livide ; ses yeux respiraient une mélancolie grave et réfléchie, sa figure un air d'élévation et de douceur angélique. Julienne ne put s'empêcher de frémir en apercevant le changement subit qui venait de s'opérer sur les traits d'Helmina. - Il y a bientôt six ans que je suis ici, continua Helmina, et depuis ce temps, ma chère Julienne, malgré les peines que j'ai eues, notamment celle que me cause la conduite cachée et mystérieuse de mon père, je n'en ai jamais éprouvé de plus cuisante que celle d'aujourd'hui ; car je vous l'avouerai, Julienne, quoique mon chagrin ne paraisse pas à l'extérieur d'une manière aussi frappante que ce matin, il n'en existe pas moins encore dans mon cœur et m'occupe entièrement. J'aime à vous parler de ma douleur ; ma tendre Julienne, parce que je sais que vous m'aiderez à la supporter, parce que je sens qu'il est doux pour une amie de s'épancher dans le cœur de son amie ; et assurément je n'en ai point, je n'en aurai jamais de plus sincère, de plus attachée que vous.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1621-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1621-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">l_ecuyer_eugene_-_la_fille_du_brigand</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Eugène L'Écuyer&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:09.201273+00:00" name="calibre:timestamp"/>
+        <meta content="fille du brigand, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

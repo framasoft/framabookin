@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1235</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5a790102-4777-4cc7-8181-312a831922c9</dc:identifier>
+        <dc:title>La mort difficile</dc:title>
+        <dc:creator opf:file-as="Crevel, René" opf:role="aut">René Crevel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1926-06-02T22:00:00+00:00</dc:date>
+        <dc:description>"On le lira de plus en plus et on délaissera les grands noms gonflés de vent de ses ainés qui acceptèrent la pourriture" : Ezra Pound. «Crevel, écrivait André Breton en 1952 dans ses Entretiens, avec ce beau regard d'adolescent que nous gardent quelques photographies, les séductions qu'il exerce, les craintes et les bravades aussi promptes à s'éveiller en lui... à travers tout cela c'est l'angoisse qui domine. Il est d'ailleurs psychologiquement très complexe, contrecarré dans une sorte de frénésie qui le possède par son amour du XVIIIe et particulièrement de Diderot. » « Né révolté comme d'autres naissent avec les yeux bleus» écrira Philippe Soupault. René Crevel vient d'apprendre, qu'il souffrait d'une tuberculose rénale alors qu'il se croyait guéri. La nuit suivante, il se suicide au gaz dans son appartement, après avoir griffonné sur un papier « Prière de m'incinérer. Dégoût ». Klaus Mann qui fut un ami proche résuma dans son livre Le Tournant " Il se suicida parce qu'il avait peur de la démence, il se suicida parce qu'il tenait le monde pour dément". Extrait : Faute de ciel, les yeux prennent à témoin le plafond. Les mains font de leur mieux et Mme Blok pense que Mme Dumont-Dufour ne serait pas déplacée dans quelque grand salon orné de cinquante lustres, soixante-quinze pianos à queue et une infinité de girandoles. Mais à la vérité, il ne s'agit pas d'un salon, si grand soit-il. Mme Dumont-Dufour évoque tout un pays, un continent et davantage encore : son domaine des souvenirs. Le domaine des souvenirs. Une mer où transparaît une ville engloutie, car, chère Mme Blok, elles sont au fond de l'eau, bien au fond les illusions de Mme Dumont-Dufour. Que lui reste-t-il ici-bas, à présent ? Des regrets, la mémoire de gestes sans joie. Quant à l'avenir, on n'ose y songer. Si elle était de ces folles qui se paient d'imagination, sans doute pourrait-elle passer le jour à se fabriquer des revanches imaginaires. Hélas ! Mme Dumont-Dufour qui aime la pompe et ne s'en laisse imposer que par les hautes montagnes, les cartes de visites noires de titres, les corbillards empanachés, les messes de mariage avec leurs candélabres étincelants, leurs lys sans pollen, et les familles sur leurs trente et un, Mme Dumont-Dufour qui préfère la majesté des plumes d'autruche à la couleur des oiseaux du paradis, non seulement n'est point comblée dans ses hautes aspirations, mais encore doit se refuser à l'espoir de satisfaire jamais ses nobles goûts. S'il y avait une justice terrestre, dès ici-bas, aujourd'hui à son automne, elle eût fait les honneurs d'un domaine de souvenirs aussi paisiblement noble que le Versailles de la Maintenon. Au lieu de quoi, assez forte dans son orgueil, pour ne mépriser point l'exaltante humilité, et affirmer sans se faire prier que les hommes sont poussière et rien que poussière, mais honteuse des chambres qui donnent sur la cour, elle connaît la torture de ne pouvoir rien désigner à l'envie de Mme Blok. Son passé, le domaine des souvenirs. Ni plus ni mieux qu'un vulgaire cabinet de débarras, où d'ailleurs, il ne lui est même pas permis de reléguer définitivement les piètres accessoires de sa vie conjugale, puisque, c'est un fait, le divorce lui demeure interdit.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1588-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1588-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">crevel_rene_-_la_mort_difficile</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;René Crevel&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:00.198920+00:00" name="calibre:timestamp"/>
+        <meta content="mort difficile, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

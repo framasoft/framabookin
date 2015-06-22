@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1319</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">da22bc67-e99a-4253-a10d-447ab9538f68</dc:identifier>
+        <dc:title>La comtesse de Charny IV</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Les «Mémoires d'un médecin» est une suite romanesque qui a pour cadre la Révolution Française et qui comprend «Joseph Balsamo», «le Collier de la reine», «Ange Pitou» et la «Comtesse de Charny». Suite à la révolte du peuple du 6 octobre 1789, la famille royale est ramenée de force de Versailles à Paris et installée aux Tuileries. La reine Marie-Antoinette est de plus en plus injuste envers Andrée (la comtesse de Charny) parce qu'elle se rend compte que le mariage arrangé du comte (qu'elle aime passionnément) et de la comtesse de Charny peut devenir un mariage d'amour. Quittant alors le service de la reine, Andrée découvre enfin la joie de connaître son fils Sébastien, fruit de son viol par Gilbert lequel avait enlevé cet enfant à sa naissance. Extrait : La Fayette avait un dernier espoir ; c'était de cet espoir qu'il venait faire part à ses souverains : le lendemain, il passerait une revue de la garde nationale avec le roi ; il n'y avait point à douter de l'enthousiasme qu'inspirerait la présence du roi et de l'ancien commandant général ; La Fayette profiterait de cette influence, marcherait sur l'Assemblée, mettrait la main sur la Gironde : pendant le tumulte, le roi partirait et gagnerait le camp de Maubeuge. C'était un coup hardi, mais, dans la situation des esprits, il était à peu près sûr.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0017-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0017-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_la_comtesse_de_charny_iv</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:16.949117+00:00" name="calibre:timestamp"/>
+        <meta content="comtesse de Charny IV, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1837</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f70c47c4-cadf-4a55-821b-d05d835241af</dc:identifier>
+        <dc:title>Pensée française</dc:title>
+        <dc:creator opf:file-as="Asselin, Olivar" opf:role="aut">Olivar Asselin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Comme Honoré Beaugrand, Olivar Asselin a, un temps, émigré aux États-Unis, à Fall River, Mass., où il a travaillé dans une filature de coton. Plus tard, en 1894, il deviendra rédacteur d'un hebdo français de cette ville, le Protecteur Canadien, mais il collaborera aussi à d'autres journaux. Il s'enrôle dans l'armée américaine durant la guerre contre l'Espagne (fin 19ème siècle), puis revient au Québec en 1900. Journaliste fougueux, Asselin fonde plusieurs journaux, dont Le Nationaliste, puis participe, aux côtés de Henri Bourassa, à la fondation du Devoir. Il a tenté, sans succès, de se faire élire député nationaliste. Ce qui ne l'empêchera pas de lutter sur tous les fronts : les droits du français, les lacunes de notre enseignement, le secours aux indigents... En 1955, un grand prix de journalisme, le prix Olivar-Asselin, a été créé.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1233-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1233-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">asselin_olivar_-_pensee_francaise</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Olivar Asselin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:19:02.149106+00:00" name="calibre:timestamp"/>
+        <meta content="Pensée française" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

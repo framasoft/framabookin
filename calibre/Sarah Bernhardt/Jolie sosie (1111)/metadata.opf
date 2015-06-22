@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1111</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">957e7752-9d3a-4249-903c-5795e0a8f75f</dc:identifier>
+        <dc:title>Jolie sosie</dc:title>
+        <dc:creator opf:file-as="Bernhardt, Sarah" opf:role="aut">Sarah Bernhardt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Madame Gordon-Hope éveillait son passé. Son mari, un pur Américain, toujours pressé, toujours affairé, aimait sa femme, mais oubliait de le lui dire. « Elle est riche, donc elle est heureuse », pensait-il ; puis, soudain, le rêve de la jeune femme s'assombrit. Une dépêche lui apprenait la mort de ce mari, frappé par une insolation, et elle ne l'avait plus jamais revu, même mort. On avait porté le corps dans la glacière de l'entrepreneur des pompes funèbres, puis au cimetière ...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1261-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1261-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">bernhardt_sarah_-_jolie_sosie</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Sarah Bernhardt&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:34.294106+00:00" name="calibre:timestamp"/>
+        <meta content="Jolie sosie" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

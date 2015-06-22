@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1775</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f87e15b-ebb6-429c-9db6-f6fc1579bfe6</dc:identifier>
+        <dc:title>Deux et deux font cinq</dc:title>
+        <dc:creator opf:file-as="Allais, Alphonse" opf:role="aut">Alphonse Allais</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Recueil de contes humoristiques. Extrait : Le lendemain, je m'amusai beaucoup au récit du docteur. Dès le matin, elle l'avait fait mander, et, folle de terreur, lui avait raconté son étrange indisposition. --- Ça moussait~! ça moussait~! Et ça faisait pschi, pschi, pschi, pschi. --- N'auriez-vous pas bu des boissons gazeuses, hier ? demanda-t-il. --- Si, du champagne. --- C'est bien cela. Vous ne pouvez pas digérer l'acide carbonique. Ne buvez plus ni champagne, ni soda, ni rien de gazeux. Minnie trouva la farce à son goût. Elle me récompensa en m'embrassant le mieux qu'elle put. Et quand les Américaines vous embrassent du mieux qu'elles peuvent, je vous prie de croire qu'on ne s'embête pas. Et encore j'emploie le mot embrasser pour rester dans la limite des strictes convenances.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0083-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0083-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">allais_alphonse_-_deux_et_deux_font_cinq</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alphonse Allais&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:49.909585+00:00" name="calibre:timestamp"/>
+        <meta content="Deux et deux font cinq" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

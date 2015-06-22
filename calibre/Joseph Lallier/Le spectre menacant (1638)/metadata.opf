@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1638</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3c442df6-a8fb-4252-abbe-212ac9dece9d</dc:identifier>
+        <dc:title>Le spectre menaçant</dc:title>
+        <dc:creator opf:file-as="Lallier, Joseph" opf:role="aut">Joseph Lallier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1932-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Joseph Lallier (1878-1937)? aurait écrit trois romans : Angéline Guillou (1930), Le Spectre menaçant (1932) et Allie (1936). Extrait : Il s'endormit bientôt profondément et toute sa vie repassa devant lui dans un rêve cruel. Il revit d'abord les jours heureux de son enfance, écoulés dans la vieille maison de pierres grises située sur les bords du grand fleuve, habitée par ses ancêtres depuis la fondation de la colonie. Il éprouva la douce sensation des tendres caresses de sa mère ; les attentions plutôt rustres mais sincères d'un père travailleur et économe, traversèrent son esprit. La petite école du « rang du bord de l'eau », fréquentée dès sa tendre enfance, et l'école du village de Verchères où il avait fait ses études, passèrent devant ses yeux comme sur un film enchanteur. Il revécut son entrée à la banque du village, puis son transfert à Montréal. Là il avait noué des relations assez intéressantes parmi les jeunes gens et les jeunes filles de son âge. Enfin ! l'heure fatale, où il avait été appréhendé, un dimanche, au sortir d'un cinéma, et jeté en prison. Ce fut ensuite ce procès terrible où une preuve accablante fit disparaître jusqu'au moindre vestige de doute sur sa culpabilité. Toutes les économies de son père avaient fondu dans ce retentissant procès où les meilleurs avocats avaient été retenus, pour tâcher de sauver l'honneur de sa famille. Pour compléter ses malheurs, les paroles de malédiction de son père, plus meurtri par la douleur qu'animé par la passion.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1586-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1586-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">lallier_joseph_-_le_spectre_menacant</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Joseph Lallier&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:22.054582+00:00" name="calibre:timestamp"/>
+        <meta content="spectre menaçant, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

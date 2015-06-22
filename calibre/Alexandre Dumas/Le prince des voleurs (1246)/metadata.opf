@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1246</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cc8888fb-17ba-45dc-b0f1-42df0378c29b</dc:identifier>
+        <dc:title>Le prince des voleurs</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>C'est en traversant la forêt de Sherwood pour se rendre au château du terrible baron Fitz-Awine, sheriff de Nottingham, afin de demander la main de Lady Christabel sa fille, qu'Allan Clare et sa sœur la jolie Marianne font la connaissance de Robin Hood dans des circonstances plutôt mouvementées. Ce jeune archer très habile et très rapide,confié dès son plus jeune âge au brave forestier Gilbert par deux inconnus, est en fait l'héritier direct du comté de Huntingdon. Extrait : La colère, les menaces du tout-puissant châtelain ne l'épouvantaient guère, et il ne pensait, le noble enfant, qu'aux inquiétudes et à la douleur de Gilbert et de Marguerite qui l'attendraient en vain, ce soir, demain et plus longtemps peut-être. Ces tristes pensées éveillèrent en Robin un violent désir de liberté, et, de même qu'un lionceau captif tournoie sans cesse autour de sa cage pour découvrir une issue, de même Robin tournoya autour de son cachot, frappant le sol du pied, mesurant la hauteur de la lucarne, étudiant les murailles, et supputant ce qu'il lui faudrait de force, de ruse ou d'adresse pour briser ou se faire ouvrir une porte bardée de fer, dont la clef devait être entre les mains du brutal cerbère. Le cachot était petit et percé de trois ouvertures : la porte, avec une petite lucarne au-dessus, et vis-à-vis une autre lucarne plus grande ; cette dernière, élevée de dix pieds au-dessus du sol, était garnie d'épais barreaux ; l'ameublement se composait d'une table, d'un banc et d'une botte de paille.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0065-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0065-6</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0066-3</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_le_prince_des_voleurs</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture avancée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:02.403620+00:00" name="calibre:timestamp"/>
+        <meta content="prince des voleurs, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

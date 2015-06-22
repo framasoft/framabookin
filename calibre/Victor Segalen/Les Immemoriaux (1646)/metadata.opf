@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1646</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d5168ef5-7348-436c-af77-2ccd16b72719</dc:identifier>
+        <dc:title>Les Immémoriaux</dc:title>
+        <dc:creator opf:file-as="Segalen, Victor" opf:role="aut">Victor Segalen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1921-12-14T23:00:00+00:00</dc:date>
+        <dc:description>Victor Segalen, tout jeune médecin de la marine, débarque à Tahiti le 23 janvier 1903. Le projet des Immémoriaux naît presque aussitôt d’un contact physique avec la terre, la langue et les peuples polynésiens. Les Immémoriaux était présenté par son auteur comme un candidat possible au tout jeune prix Goncourt (il ne recueillera finalement aucune voix). Sans avoir rien perdu de son charme romanesque fondé sur une extraordinaire invention verbale et sur une puissante architecture dramaturgique, il reste pour nous l’un des livres fondateurs de l’imaginaire anthropologique moderne. Il faut ici mesurer l’importance de ce que met en oeuvre, presque d’instinct, le jeune homme de vingt-cinq ans, novice en littérature, qui entame l’écriture des Immémoriaux. Avec une souveraineté d’inventeur, il balaie d’un revers trois stéréotypes de l’exotisme traditionnel : la beauté de la nature sauvage ; l’infériorité raciale ; et finalement leur conséquence politicohistorique : le principe colonial.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1144-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1144-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">segalen_victor_-_les_immemoriaux</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Victor Segalen&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:23.620862+00:00" name="calibre:timestamp"/>
+        <meta content="Immémoriaux, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

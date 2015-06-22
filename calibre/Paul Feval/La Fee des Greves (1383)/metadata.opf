@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1383</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9229370d-77ca-4fbf-b97d-ff1ad267d9ba</dc:identifier>
+        <dc:title>La Fée des Grèves</dc:title>
+        <dc:creator opf:file-as="Féval, Paul" opf:role="aut">Paul Féval</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1850-01-01T00:00:00+00:00</dc:date>
+        <dc:description>En ce 15e siècle, entre le Mont-Saint-Michel et celui de Tombelaine, un brouillard blanchâtre et cotonneux recouvre parfois la baie. Malheur à l'impudent égaré dans cet univers de désespérance. Le sable se dérobe lentement sous ses pieds et l'ensevelit inexorablement. Les habitants des villages voisins paysans ou pêcheurs de coques, n'évoquent pas sans frémir cette mort terrifiante dans les sables mouvants. Ils parlent aussi de la Fée des grèves, avec son manteau d'azur que certains ont vu marcher sur les eaux les soirs de brouillard. Extrait : - Reine de Maurever ! répéta Julien d'un accent enthousiaste ; oui, c'était elle, c'était Reine de Maurever ! Chaque soir elle venait, bravant le carreau des arbalètes ou la balle des arquebuses, elle venait apporter du pain au captif. Mais quand les deux bourreaux geôliers virent que la faim ne tuait pas monsieur Gilles assez vite, ils achetèrent trois paquets de poison au Milanais Marco Bastardi, l'âme damnée du sire de Montauban.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0553-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0553-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">feval_paul_-_la_fee_des_greves</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Paul Féval&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:30.167882+00:00" name="calibre:timestamp"/>
+        <meta content="Fée des Grèves, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

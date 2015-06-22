@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1642</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d5186874-1e04-475d-94cc-e8b595f876bb</dc:identifier>
+        <dc:title>Le fantôme de l'Opéra</dc:title>
+        <dc:creator opf:file-as="Leroux, Gaston" opf:role="aut">Gaston Leroux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1910-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Des événements étranges ont lieu à l'Opéra : le grand lustre s'effondre pendant une représentation, un machiniste est retrouvé pendu. La direction doit se rendre à l'évidence : un fantôme ou un homme machiavélique hante le théâtre. Certains affirment avoir vu le visage déformé de cet être qui ne semblerait pas être humain. Peu après, les directeurs de l'Opéra se voient réclamer 20 000 francs par mois de la part d'un certain « Fantôme de l'Opéra » qui exige aussi que la loge numéro 5 lui soit réservée. Extrait : « J'ai été dans la nécessité, écrit l'inspecteur, de requérir, ce soir -- l'inspecteur avait écrit son rapport la veille au soir -- un garde municipal pour faire évacuer par deux fois, au commencement et au milieu du second acte, la première loge n° 5. Les occupants -- ils étaient arrivés au commencement du second acte -- y causaient un véritable scandale par leurs rires et leurs réflexions saugrenues. De toutes parts autour d'eux, des chut ! se faisaient entendre et la salle commençait à protester quand l'ouvreuse est venue me trouver ; je suis entré dans la loge et je fis entendre les observations nécessaires. Ces gens ne paraissaient point jouir de tout leur bon sens et me tinrent des propos stupides. Je les avertis que si un pareil scandale se renouvelait je me verrais forcé de faire évacuer la loge. Je n'étais pas plus tôt parti que j'entendis de nouveau leurs rires et les protestations de la salle. Je revins avec un garde municipal qui les fit sortir. Ils réclamèrent, toujours en riant, déclarant qu'ils ne s'en iraient point si on ne leur rendait pas leur argent. Enfin, ils se calmèrent, et je les laissai rentrer dans la loge ; aussitôt les rires recommencèrent, et, cette fois, je les fis expulser définitivement. »</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0271-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0271-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leroux_gaston_-_le_fantome_de_l_opera</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gaston Leroux&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:22.839370+00:00" name="calibre:timestamp"/>
+        <meta content="fantôme de l'Opéra, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

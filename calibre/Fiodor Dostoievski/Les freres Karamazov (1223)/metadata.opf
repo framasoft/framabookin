@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1223</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f93b274d-0953-43a7-ba97-08b8a24ea142</dc:identifier>
+        <dc:title>Les frères Karamazov</dc:title>
+        <dc:creator opf:file-as="Dostoïevski, Fiodor" opf:role="aut">Fiodor Dostoïevski</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>L'intrigue principale tourne autour des trois fils d'un homme impudique, vulgaire et sans principes (Fiodor Pavlovitch Karamazov), et du parricide commis par l'un d'entre eux. En réalité, les enfants sont au nombre de quatre puisque le père donne naissance à un bâtard qu'il nommera Smerdiakov. Chacun des trois fils représente un idéal-type de la société russe de la fin du XIXe siècle : Alexeï, le benjamin, est un homme de foi ; Ivan, le deuxième fils, est un intellectuel matérialiste qui cherche à savoir si tout est permis, dans la mesure où Dieu n'existe pas ; Dimitri, leur très exalté demi-frère aîné, est un homme impétueux en qui le vice et la vertu se livrent une grande bataille : ce dernier incarne, selon l'auteur lui-même, « l'homme russe ».  Extrait : En abordant la biographie de mon héros, Alexéi Fiodorovitch, j'éprouve une certaine perplexité. En effet, bien que je l'appelle mon héros, je sais qu'il n'est pas un grand homme~; aussi prévois-je fatalement des questions de ce genre~: «~En quoi Alexéi Fiodorovitch est-il remarquable, pour avoir été choisi comme votre héros~? Qu'a-t-il fait~? De qui est-il connu et pourquoi~? Ai-je une raison, moi lecteur, de consacrer mon temps à étudier sa vie~?~» La dernière question est la plus embarrassante, car je ne puis qu'y répondre~: «~Peut-être~; vous le verrez vous-même dans le roman.~» Mais si on le lit sans trouver mon héros remarquable~? Je dis cela, malheureusement, car je prévois la chose. À mes yeux, il est remarquable, mais je doute fort de parvenir à convaincre le lecteur. Le fait est qu'il agit, assurément, mais d'une façon vague et obscure. D'ailleurs, il serait étrange, à notre époque, d'exiger des gens la clarté~!</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0379-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0379-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dostoievski_fiodor_-_les_freres_karamazov</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Russie</dc:subject>
+        <meta content="{&quot;Fiodor Dostoïevski&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:57.808069+00:00" name="calibre:timestamp"/>
+        <meta content="frères Karamazov, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

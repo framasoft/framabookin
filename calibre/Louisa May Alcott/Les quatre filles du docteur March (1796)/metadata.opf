@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1796</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2925e79b-c942-47c4-8727-d542556e2640</dc:identifier>
+        <dc:title>Les quatre filles du docteur March</dc:title>
+        <dc:creator opf:file-as="Alcott, Louisa May" opf:role="aut">Louisa May Alcott</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Aux États-Unis, pendant la Guerre de Sécession. En l’absence de leur père, pasteur nordiste (donc anti-esclavagiste) engagé comme aumônier dans le conflit, quatre jeunes sœurs issues de la classe moyenne de la société font face aux difficultés de la vie quotidienne en ce temps de guerre. Extrait : Vous continuerez de jouer la comédie aussi longtemps que vous mettrez avec plaisir une robe blanche à queue et des bijoux de papier doré. Vous êtes notre meilleure actrice, Meg, et tout sera fini si vous nous abandonnez, dit Jo. Nous devrions répéter ce soir quelques passages de notre pièce. Allons, Amy, venez reprendre la scène de l'évanouissement ; vous ferez bien de l'étudier, car vous êtes raide comme un piquet.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1216-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1216-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">alcott_louisa_may_-_les_quatre_filles_du_docteur_march</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture aisée</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Etats-Unis</dc:subject>
+        <meta content="{&quot;Louisa May Alcott&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:54.095752+00:00" name="calibre:timestamp"/>
+        <meta content="quatre filles du docteur March, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

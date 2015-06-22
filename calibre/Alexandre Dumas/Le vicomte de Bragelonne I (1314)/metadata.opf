@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1314</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7855ff59-9bc5-4002-bff1-a890f5b75600</dc:identifier>
+        <dc:title>Le vicomte de Bragelonne I</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La fin de la trilogie des Mousquetaires. D'Artagnan et Athos participent, chacun à sa façon, à la restauration de Charles II sur le trône d'Angleterre. L'année suivante commence en France le règne personnel de Louis XIV, qui engage d'Artagnan dans sa lutte contre le surintendant Fouquet. Ce dernier est manipulé par Aramis, devenu évêque de Vannes et général des Jésuites, qui a entraîné Porthos dans ses aventures. Aramis ne vise à rien de moins qu'à devenir le maître de la France et de l'Eglise... Extrait : Le comte était assis devant une table couverte de papiers et de livres : c'était bien toujours le noble et le beau gentilhomme d'autrefois, mais le temps avait donné à sa noblesse, à sa beauté, un caractère plus solennel et plus distinct. Un front blanc et sans rides sous ses longs cheveux plus blancs que noirs, un œil perçant et doux sous des cils de jeune homme, la moustache fine et à peine grisonnante, encadrant des lèvres d'un modèle pur et délicat, comme si jamais elles n'eussent été crispées par les passions mortelles ; une taille droite et souple, une main irréprochable mais amaigrie, voilà quel était encore l'illustre gentilhomme dont tant de bouches illustres avaient fait l'éloge sous le nom d'Athos. Il s'occupait alors de corriger les pages d'un cahier manuscrit, tout entier rempli de sa main.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0060-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0060-1</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0061-8</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_le_vicomte_de_bragelonne_i</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:15.977213+00:00" name="calibre:timestamp"/>
+        <meta content="vicomte de Bragelonne I, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

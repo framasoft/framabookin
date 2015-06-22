@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1172</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">794898ed-fe34-4639-9d2c-9e713b888b87</dc:identifier>
+        <dc:title>L'abîme</dc:title>
+        <dc:creator opf:file-as="Dickens, Charles" opf:role="aut">Charles Dickens</dc:creator>
+        <dc:creator opf:file-as="Dickens, Charles" opf:role="aut">Wilkie Collins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Après avoir abandonné son enfant à sa naissance à l'Hospice des Enfants Trouvés, une jeune mère prise de remords le récupère à l'âge de douze ans. Walter Wilding connaît alors une existence heureuse près de sa mère et devient marchand de vins. Malheureusement, lorsqu'il atteint l'âge de vingt cinq ans, sa mère décède ? Extrait : C'est pourquoi, continua Wilding qui s'animait et se noyait même un peu dans le flot montant de son éloquence, c'est pourquoi je demande dans les journaux une excellente femme de charge, pour prendre soin de la maison d'habitation de Wilding et Co., marchand de vins, Carrefour des Éclopés. Je veux rétablir chez moi quelques-uns de nos anciens usages et les rapports touchants qui existaient autrefois entre le patron et l'employé. Il me plaît de vivre à l'endroit où je gagne mon argent. Je veux, chaque jour, m'asseoir au haut bout de la table à laquelle les gens qui me servent viendront s'asseoir ; et nous mangerons ensemble du même rôti, du même bouilli, et nous boirons la même bière ; et mes serviteurs dormiront sous le même toit que Walter Wilding !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0197-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0197-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dickens_charles_-_l_abime</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Angleterre</dc:subject>
+        <meta content="{&quot;Wilkie Collins&quot;: &quot;&quot;, &quot;Charles Dickens&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:46.812703+00:00" name="calibre:timestamp"/>
+        <meta content="abîme, L'" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

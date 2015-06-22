@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1080</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">826805df-87d6-4c5c-8f22-b7ecb667deda</dc:identifier>
+        <dc:title>Argent et noblesse</dc:title>
+        <dc:creator opf:file-as="Conscience, Henri" opf:role="aut">Henri Conscience</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Hendrik Conscience, né Henri Conscience le 3 décembre 1812 à Anvers, mort le 10 septembre 1883 (à 70 ans) à Ixelles, est un écrivain belge d'expression néerlandaise. En 1855 les premières traductions commencèrent à paraître. Extrait : Le jeune homme commença à se laver la figure et les mains en grommelant. Quand il eut fini, il essaya également de nettoyer la terre et la boue qui couvraient ses habits ; mais la brosse était très usée et malgré toutes les peines qu'il se donna il ne réussit pas à faire disparaître les nombreuses taches. Il s'en plaignit amèrement et même, dans son dépit et son impatience, il jeta la brosse par terre. Il devint encore plus mécontent lorsqu'il se regarda pour la seconde fois dans la petite glace. Il paraissait terriblement laid avec son linge chiffonné, ses habits malpropres, ses yeux pleins de sang, ses joues tirées, blêmes et jaunes.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1321-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1321-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">conscience_henri_-_argent_et_noblesse</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Belgique</dc:subject>
+        <meta content="{&quot;Henri Conscience&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:27.787364+00:00" name="calibre:timestamp"/>
+        <meta content="Argent et noblesse" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

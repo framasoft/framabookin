@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1224</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4e175109-ece6-4dda-86fb-ecb015679cab</dc:identifier>
+        <dc:title>Fromont jeune et Risler aîné</dc:title>
+        <dc:creator opf:file-as="Daudet, Alphonse" opf:role="aut">Alphonse Daudet</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>C'est en 1874 qu'Alphonse décida d'écrire des romans de mœurs comme : Fromont jeune et Risler aîné. Sidonie Chèbe et Risler l'aîné viennent de se marier. Pourquoi m'a-t-elle épousé, moi qui ne suis ni beau ni très futé (mais riche et bien placé dans la société) se demande le marié. L'air de triomphe de Sidonie quand elle prend possession de sa nouvelle demeure laisse préjuger de l'avenir. En effet, Sidonie, issue d'une famille pauvre, a toujours envié les riches, et en particulier la famille Fromont, qui possède une usine. À une époque, elle a réussi à se rapprocher de cette famille, en devenant amie avec Claire. Puis elle est tombée amoureuse de l'héritier de la famille, Georges Fromont. Mais celui-ci a fini par épouser Claire, sous la pression de famille. Avec Risler l'aîné, Sidonie essaye de se rapprocher de cette bonne société qui la fascine tant. Mais vivre près de cette bonne société, ne veut pas dire en faire partie, Sidonie l'apprendra vite à ses dépens...Extrait : D'ailleurs il se trouvait là comme à presque toutes les noces deux courants bien distincts qui se frôlaient sans se confondre. L'un des deux fit bientôt place à l'autre. Ces Fromont qui irritaient tant M. Chèbe et qui formaient l'aristocratie du bal, le président de la chambre de commerce, le syndic des avoués, un fameux chocolatier député au Corps législatif, le vieux millionnaire Gardinois, tous se retirèrent un peu après minuit. Derrière eux, Georges Fromont et sa femme remontèrent dans leur coupé. Il ne resta plus que le côté Risler et Chèbe, et aussitôt la fête, changeant d'aspect, devint plus bruyante.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0085-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0085-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">daudet_alphonse_-_fromont_jeune_et_risler_aine</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alphonse Daudet&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:58.006720+00:00" name="calibre:timestamp"/>
+        <meta content="Fromont jeune et Risler aîné" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

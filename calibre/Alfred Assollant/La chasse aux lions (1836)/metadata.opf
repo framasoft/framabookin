@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1836</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d2335a57-abdc-4657-9e98-fdca0bd97bf7</dc:identifier>
+        <dc:title>La chasse aux lions</dc:title>
+        <dc:creator opf:file-as="Assollant, Alfred" opf:role="aut">Alfred Assollant</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Là-dessus mon sergent Broutavoine était mal à l'aise, comme tu peux croire. Il cherche de la main droite son briquet, de la gauche il attrape la panthère par les cheveux... ou, si tu préfères, par une oreille et par les poils tout autour... Il tire de son côté, elle tire du sien. Finalement elle emporte le morceau, qui n'était pas bien gros (par bonheur !) et pousse un cri fait comme le miaulement de trois cents chats en colère... Le sergent saute debout sur ses pieds, lire son briquet et le lui met dans la gorge en criant : ``À moi : les amis !'' On court, on arrive, on le trouve couché sous elle et couvert de sang... elle l'avait jeté par terre et voulait le dévorer. Lui, pas bête, lui tenait la gueule en l'air en serrant de toutes ses forces.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1234-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1234-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">assollant_alfred_-_la_chasse_aux_lions</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alfred Assollant&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:19:01.945710+00:00" name="calibre:timestamp"/>
+        <meta content="chasse aux lions, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1551</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d7007b0c-b6a6-4426-8a96-0839dae07a22</dc:identifier>
+        <dc:title>Reflets sur la route sombre</dc:title>
+        <dc:creator opf:file-as="Loti, Pierre" opf:role="aut">Pierre Loti</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Deux heures du matin, une nuit d'hiver, loin de tout, dans la profonde solitude des campagnes pyrénéennes. Du noir intense autour de moi, et sur ma tête des scintillements d'étoiles. Du noir intense, des confusions de choses noires, ici, dans l'infime région terrestre où vit et marche l'être infime que je suis ; un air pur et glacé, qui dilate momentanément ma poitrine d'atome et semble doubler ma vitalité éphémère. Et là-haut, sur le fond bleu noir des espaces, les myriades de feux, les scintillements éternels. Deux heures du matin, le cœur de la nuit, de la nuit d'hiver. L'étoile du Berger, reine des instants plus mystérieux qui précèdent le jour, brille dans l'Est de tout son éclat blanc. La vie se tait partout, en un froid sommeil qui ressemble à la mort ; même les bêtes de nuit ont fini de rôder et sont allées dormir. Dehors, personne. Les laboureurs et les bergers, qui pourtant se lèvent avant l'aube, sont blottis pour des heures encore sous les toits des hameaux. Seuls peut-être, par les chemins, circulant dans le grand silence, trouverait-on les hommes que tient éveillés l'amour ou le vagabondage, --- ou encore, en ce pays-ci, la contrebande. Sur la route où je marche, la lumière palpitante des étoiles semble tomber en pluie de phosphore. Et cette route, sèche et durcie, résonne, vibre comme si le sol était creux sous mes pas. D'ailleurs, je marche, je marche sans m'en apercevoir, tant est vivifiant cet air de la nuit ; mes jambes, dirait-on, vont d'elles-mêmes, comme feraient des ressorts une fois pour toutes remontés, dont le mouvement ne donnerait plus aucune peine.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1112-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1112-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">loti_pierre_-_reflets_sur_la_route_sombre</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Pierre Loti&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:04.375282+00:00" name="calibre:timestamp"/>
+        <meta content="Reflets sur la route sombre" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

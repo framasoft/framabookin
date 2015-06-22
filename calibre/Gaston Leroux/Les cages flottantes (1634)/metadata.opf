@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1634</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">06ecb5ad-5e2c-4001-bb9f-f1ff227bbcda</dc:identifier>
+        <dc:title>Les cages flottantes</dc:title>
+        <dc:creator opf:file-as="Leroux, Gaston" opf:role="aut">Gaston Leroux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1913-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Le commandant du Bayard ne respirera à l'aise qu'une fois à Cayenne, sa cargaison de forçats débarquée, car quelque. chose se prépare, il le sent. La mise aux fers de Chéri-Bibi, chef occulte et incontesté des forçats, ne le rassure pas et il a raison: Chéri-Bibi s'évade et s'empare du navire. « C'est comme ça, maintenant, dans la vie de ce monde, gémit le Rouquin. Il suffit qu'on n' « ait » rien fait pour qu'on vous « envoie » au bagne. J'en ai « zigouillé » cinq, parole d'honneur ! pas un de plus, pas un de moins ; eh bien, c'est pour le sixième, que je n'ai jamais vu, que vous avez le plaisir de ma compagnie. J' vous le dis comme je le pense, j'ai jamais commis de meurtre inutile : j'ai toujours eu de la conscience ; j' suis un misérable, c'est vrai ! un voleur, c'est vrai ! un assassin c'est encore vrai ! mais c'est pas une raison pour qu'on condamne un innocent !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0278-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0278-0</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0259-9</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leroux_gaston_-_les_cages_flottantes</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gaston Leroux&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:21.272394+00:00" name="calibre:timestamp"/>
+        <meta content="cages flottantes, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

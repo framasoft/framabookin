@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1257</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c06af143-4f13-4cfa-a696-bbe526e870b7</dc:identifier>
+        <dc:title>Le comte de Monte-Cristo IV</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Edmond Dantès, victime d'une dénonciation calomnieuse alors qu'il allait épouser la belle Mercédès, est enfermé pour 14 ans dans un sinistre cachot du château d'If en rade de Marseille. Son salut viendra de l'abbé Faria, un autre prisonnier avec lequel il entretient une amitié clandestine des années durant. Celui-ci lui transmet sa vaste culture et à sa mort, un trésor caché... Extrait : Eh mon Dieu, oui, un télégraphe. J'ai vu parfois au bout d'un chemin, sur un tertre, par un beau soleil, se lever ces bras noirs et pliants pareils aux pattes d'un immense coléoptère, et jamais ce ne fut sans émotion, je vous jure, car je pensais que ces signes bizarres fendant l'air avec précision, et portant à trois cents lieues la volonté inconnue d'un homme assis devant une table, à un autre homme assis à l'extrémité de la ligne devant une autre table, se dessinaient sur le gris du nuage ou sur l'azur du ciel, par la seule force du vouloir de ce chef tout-puissant : je croyais alors aux génies, aux sylphes, aux gnomes, aux pouvoirs occultes enfin, et je riais. Or, jamais l'envie ne m'était venue de voir de près ces gros insectes au ventre blanc, aux pattes noires et maigres, car je craignais de trouver sous leurs ailes de pierre le petit génie humain, bien gourmé, bien pédant, bien bourré de science, de cabale ou de sorcellerie. Mais voilà qu'un beau matin j'ai appris que le moteur de chaque télégraphe était un pauvre diable d'employé à douze cents francs par an, occupé tout le jour à regarder, non pas le ciel comme l'astronome, non pas l'eau comme le pêcheur, non pas le paysage comme un cerveau vide, mais bien l'insecte au ventre blanc, aux pattes noires, son correspondant, placé à quelque quatre ou cinq lieues de lui. Alors je me suis senti pris d'un désir curieux de voir de près cette chrysalide vivante et d'assister à la comédie que du fond de sa coque elle donne à cette autre chrysalide, en tirant les uns après les autres quelques bouts de ficelle.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0045-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0045-8</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1388-5</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_le_comte_de_monte-cristo_iv</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture avancée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:04.601681+00:00" name="calibre:timestamp"/>
+        <meta content="comte de Monte-Cristo IV, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

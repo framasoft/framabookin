@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1415</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a4757e47-5609-4f77-9601-94fbb626c7a7</dc:identifier>
+        <dc:title>Monsieur Lecoq II</dc:title>
+        <dc:creator opf:file-as="Gaboriau, Émile" opf:role="aut">Émile Gaboriau</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1869-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Un crime odieux a été commis dans un infâme bouge parisien baptisé La Poivrière. Après une longue filature, l'inspecteur Lecoq arrête un saltimbanque prétendant s'appeler Mai. Le policier se demande alors si ce curieux individu ne pourrait être le duc de Sairmeuse, mêlé à une ancienne et ténébreuse affaire. L'enquête nous entraîne à rebrousse-temps vers le théâtre d'un complot entre deux familles et aux sources d'une énigme passionnante qui s'impose par l'analyse psychologique et la dimension historique. Extrait : Avec le malheur, l'expérience lui venait vite, et cette science cruelle de la vie qui apprend à se tenir en garde contre les illusions. Ce n'est que depuis qu'il avait entendu causer les paysans qu'il comprenait bien l'horreur de la situation de M. Lacheneur. Précipité brusquement des hauteurs sociales qu'il avait atteintes, il ne trouvait en bas que haines, défiances et mépris. Des deux côtés on le repoussait et on le reniait. Traître, disaient les uns, voleur, criaient les autres. Il n'avait plus de condition sociale. Il était l'homme tombé, celui qui a été et qui n'est plus...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1470-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1470-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">gaboriau_emile_-_monsieur_lecoq_ii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Émile Gaboriau&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:36.614922+00:00" name="calibre:timestamp"/>
+        <meta content="Monsieur Lecoq II" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

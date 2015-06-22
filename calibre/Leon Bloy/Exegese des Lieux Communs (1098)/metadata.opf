@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1098</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">386a9ec5-b076-42fe-b38b-6dcb1fbadb6f</dc:identifier>
+        <dc:title>Exégèse des Lieux Communs</dc:title>
+        <dc:creator opf:file-as="Bloy, Léon" opf:role="aut">Léon Bloy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1902-01-02T23:00:00+00:00</dc:date>
+        <dc:description>De quoi s’agit-il sinon d’arracher la langue aux imbéciles, aux redoutables et définitifs idiots de ce siècle, comme saint Jérôme réduisit au silence les Pélagiens de son temps ? Obtenir enfin le mutisme du Bourgeois, quel rêve ! L’entreprise, je le sais bien, doit paraître fort insensée. Cependant je ne désespère pas de la démontrer d’une exécution facile et même agréable. Le vrai Bourgeois, c’est-à-dire, dans un sens moderne et aussi général que possible, l’homme qui ne fait aucun usage de la faculté de penser et qui vit ou paraît vivre sans avoir sollicité, un seul jour, par le besoin de comprendre quoi que ce soit, est nécessairement borné dans son langage à un très petit nombre de formules. Le répertoire des locutions patrimoniales qui lui suffisent est extrêmement exigu et ne va guère au delà de quelques centaines. Ah ! si on était assez béni pour lui ravir cet humble trésor, un paradisiaque silence tomberait aussitôt sur notre globe consolé ! » ( Léon Bloy)</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1061-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1061-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">bloy_leon_-_exegese_des_lieux_communs</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>non-fiction</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Léon Bloy&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:31.661644+00:00" name="calibre:timestamp"/>
+        <meta content="Exégèse des Lieux Communs" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1585</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6f2b2a82-78c2-4b94-8d52-763efbbbad2d</dc:identifier>
+        <dc:title>Les trois yeux</dc:title>
+        <dc:creator opf:file-as="Leblanc, Maurice" opf:role="aut">Maurice Leblanc</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1920-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Les Trois Yeux est un roman d’anticipation de Maurice Leblanc, paru d’abord en deux livraisons mensuelles dans Je sais tout, numéros 164 (15 juillet 1919) et 167 (15 octobre 1919). Puis édité pour la première fois en un volume in-12 chez Laffite en 1920. Victorien Beaugrand (le narrateur) séjourne chez son oncle Noël Dorgeroux à Meudon, en attendant sa nomination comme professeur à Grenoble. Il y entretient une idylle avec Bérangère, la filleule de cet oncle. Dorgeroux, chercheur solitaire qui travaille dans le secret au fond d’un hangar de son enclos, va le mettre au courant d’une découverte fantastique qui l’a bouleversé. Un pan de mur mystérieux que le chercheur dissimule habituellement sous un voile noir fait apparaître, une fois activé, un œil immense mais stylisé (une sorte de « triangle avec des côtés courbes ») , à l’intérieur duquel deux yeux expressifs semblent bouger et vivre. Puis une fantasmagorie se développe. Les deux hommes se rendent compte bientôt qu’à chaque fois, elle projette le « film » d’un événement du passé dont ils ont eu connaissance au cours de leur existence ; et, peu après, ils s’aperçoivent que ces deux yeux sont en réalité le regard de l’acteur principal de l’événement qui va suivre. Extrait : Un geste de mon oncle me prévint. Je tressaillis. L'aube se levait à la surface grise. J'aperçus, d'abord, une vapeur qui tourbillonnait autour d'un point central, vers lequel se précipitaient toutes les volutes et où elles s'engouffraient en roulant sur elles-mêmes. Puis, ce point s'élargit en un cercle de plus en plus grand, tendu d'un voile de brume légère qui se dissipa peu à peu, laissant apparaître une image confuse et flottante, comme ces fantômes qu'évoquent, dans leurs séances, spirites et médiums. Il y eut alors une certaine hésitation. Le fantôme luttait contre l'ombre éparse, et s'efforçait vers la vie et la lumière. Certains traits acquirent de la vigueur. Il se forma des contours et des reliefs et, enfin, un flot de clarté sortit du fantôme lui-même et en fit une image éblouissante, qui semblait inondée de soleil. C'était une figure de femme.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1615-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1615-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leblanc_maurice_-_les_trois_yeux</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Maurice Leblanc&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:11.357641+00:00" name="calibre:timestamp"/>
+        <meta content="trois yeux, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1832</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a2fbfe08-6f65-4d99-b0d7-78087ce7f66e</dc:identifier>
+        <dc:title>Jim l'Indien</dc:title>
+        <dc:creator opf:file-as="Aimard, Gustave" opf:role="aut">Gustave Aimard</dc:creator>
+        <dc:creator opf:file-as="Aimard, Gustave" opf:role="aut">J.-B. d'Auriac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Du pur western dans la tradition des «dime novels» américains. Ce livre est paru sous la double signature de Aimard,Gustave et Jules Berlioz d'Auriac, mais il semble que ce soit Jules Berlioz d'Auriac qui ait écrit ce roman, il est même possible que ce dernier n'ait fait que copier de jeunes auteurs américains... Extrait : Lorsque la guerre abolitionniste éclata, le jeune Halleck bondit de joie, et, à force de diplomatie, parvint à entrer comme dessinateur expéditionnaire dans la collaboration d'une importante feuille illustrée. Mais le sort ne le servit pas précisément comme il l'aurait voulu~: au premier engagement, lui, ses crayons et ses pinceaux furent faits prisonniers. Heureusement, il se rencontra, dans les rangs ennemis, avec un officier qui avait été son camarade de classe, à Yale. Halleck fut mis en liberté, et revint au logis, bien résolu à chercher désormais la gloire partout ailleurs que sous les drapeaux.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0404-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0404-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">aimard_gustave_-_jim_l_indien</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture aisée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gustave Aimard&quot;: &quot;&quot;, &quot;J.-B. d'Auriac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:19:01.142641+00:00" name="calibre:timestamp"/>
+        <meta content="Jim l'Indien" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

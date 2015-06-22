@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1793</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f31ff9f7-0bd3-46cf-a831-53645aa7f0db</dc:identifier>
+        <dc:title>Ève et David</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études de moeurs. Deuxième livre, Scènes de la vie de province - Tome IV. Huitième volume de l'édition Furne 1842.Extrait : Lucien fut charmant avec ses anciens camarades qui lui témoignèrent une admiration presque respectueuse. Il causa pendant environ une demi-heure avec beaucoup d’esprit, car il se trouvait sur un piédestal et voulait justifier l’opinion du pays : il se mit les mains dans les goussets, il parla tout à fait en homme qui voit les choses de la hauteur où ses concitoyens l’ont mis. Il fut modeste, et bon enfant, comme un génie en déshabillé. Ce fut les plaintes d’un athlète fatigué des luttes à Paris, désenchanté surtout, il félicita ses camarades de ne pas avoir quitté leur bonne province, etc. Il les laissa tout enchantés de lui.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0972-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0972-7</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0974-1</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_eve_et_david</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:53.496049+00:00" name="calibre:timestamp"/>
+        <meta content="Ève et David" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

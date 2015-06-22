@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1328</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">60198e70-1f93-4b3d-ace6-c2b91154dc49</dc:identifier>
+        <dc:title>La comtesse de Charny</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Il s'agit ici de la version complète de La Comtesse de Charny qui regroupe tous les tomes de cette édition. Les «Mémoires d'un médecin» est une suite romanesque qui a pour cadre la Révolution Française et qui comprend «Joseph Balsamo», «le Collier de la reine», «Ange Pitou» et la «Comtesse de Charny». Suite à la révolte du peuple du 6 octobre 1789, la famille royale est ramenée de force de Versailles à Paris et installée aux Tuileries. La reine Marie-Antoinette est de plus en plus injuste envers Andrée (la comtesse de Charny) parce qu'elle se rend compte que le mariage arrangé du comte (qu'elle aime passionnément) et de la comtesse de Charny peut devenir un mariage d'amour. Quittant alors le service de la reine, Andrée découvre enfin la joie de connaître son fils Sébastien, fruit de son viol par Gilbert lequel avait enlevé cet enfant à sa naissance. Extrait : « Eh bien ! Gamain, où en sommes-nous ? -- N, i, ni, c'est fini, sire, lui ai-je répondu. » Et je lui ai fait voir la porte, qui marchait que c'était un plaisir, sans jeter le plus petit cri, et la serrure, qui jouait comme un automate de M. Vaucanson. « Bon ! m'a-t-il dit ; alors, Gamain, tu vas m'aider à compter l'argent que je veux cacher là-dedans. » Et il a fait apporter quatre sacs de doubles louis par le valet de chambre, et il m'a dit : « Comptons. » Alors, j'en ai compté pour un million et lui pour un million ; après quoi, comme il en restait vingt-cinq de mécompte : « Tiens, Gamain, a-t-il dit, ces vingt-cinq louis-là, c'est pour ta peine » ; comme si ce n'était pas une honte de faire compter un million de louis à un pauvre homme qui a cinq enfants, et de lui en donner vingt-cinq en récompense !... Hein, qu'en dites-vous ?</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1375-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1375-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_la_comtesse_de_charny</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:18.741049+00:00" name="calibre:timestamp"/>
+        <meta content="comtesse de Charny, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

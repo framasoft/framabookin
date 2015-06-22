@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1400</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8161dfe6-b75e-4a4b-8751-614cf15eb545</dc:identifier>
+        <dc:title>L’Invasion ou le Fou Yégof</dc:title>
+        <dc:creator opf:file-as="Erckmann-Chatrian" opf:role="aut">Erckmann-Chatrian</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Après la débacle des armées napoléoniennes relatées dans «Le conscrit de 1813», les armées coalisées apparaissent en France. Le sabotier Hullin et sa cousine Catherine Lefèvre suscitent chez les montagnards un mouvement de résistance qui contribue pendant un temps à arrêter l'ennemi. La résistance à l'oppresseur s'organise dans les Vosges, où les armées ont plus de mal à passer.  Mais le mouvement échoue à cause du fou Yégof, qui prédit depuis trente ans le triomphe des hordes germaniques... Extrait : Pour concevoir l'ensemble de cette scène terrible, il faut se figurer la mêlée sur le plateau des Minières ; les hurlements, les hennissements des chevaux, les cris de rage, la fuite des uns, jetant leurs armes pour courir plus vite, l'acharnement des autres ; -- au-delà du ravin, les échelles, couvertes d'uniformes blancs, hérissées de baïonnettes ; -- les montagnards sur la rampe, se défendant avec désespoir ; -- les flancs de la côte, la route et surtout le bas des abatis encombrés de morts et de blessés : -- la masse des ennemis, le fusil sur l'épaule, les officiers au milieu d'eux, se pressant de suivre le mouvement ; -- enfin Materne, debout sur la crête du talus, la crosse en l'air, la bouche ouverte jusqu'aux oreilles, appelant à grands cris son fils Frantz, qui accourait avec sa troupe, maître Jean-Claude en tête, au secours de la défense.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0694-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0694-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">erckmann-chatrian_-_l_invasion</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Erckmann-Chatrian&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:33.592935+00:00" name="calibre:timestamp"/>
+        <meta content="L’Invasion ou le Fou Yégof" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

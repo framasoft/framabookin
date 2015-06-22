@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1747</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">50c6ebe3-9d71-4e2f-a50f-c22623d5612a</dc:identifier>
+        <dc:title>Son Excellence Eugène Rougon</dc:title>
+        <dc:creator opf:file-as="Zola, Émile" opf:role="aut">Émile Zola</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1876-12-14T23:00:00+00:00</dc:date>
+        <dc:description>Son Excellence Eugène Rougon est le sixième volume de la série Les Rougon-Macquart. Dans cet ouvrage, selon ses propres termes, Zola pénètre les « coulisses politiques » du Second Empire. Les personnages sont des proches du pouvoir : ministres, députés, hauts fonctionnaires. L'action se déroule de 1856 à 1861. Extrait : Delestang baissa le nez. Toujours il se trouvait embarqué dans quelque passion scabreuse. En 1851, il avait même failli compromettre son avenir politique ; il adorait alors la femme d'un député socialiste, et le plus souvent, pour plaire au mari, il votait avec l'opposition, contre l'Élysée. Aussi, au 2 Décembre, reçut-il un véritable coup de massue. Il s'enferma pendant deux jours, perdu, fini, anéanti, tremblant qu'on ne vînt l'arrêter d'une minute à l'autre. Rougon avait dû le tirer de ce mauvais pas, en le décidant à ne point se présenter aux élections, et en le menant à l'Élysée, où il pêcha pour lui une place de conseiller d'État.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0255-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0255-1</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0247-6</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">zola_emile_-_son_excellence_eugene_rougon</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Émile Zola&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:44.371522+00:00" name="calibre:timestamp"/>
+        <meta content="Son Excellence Eugène Rougon" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

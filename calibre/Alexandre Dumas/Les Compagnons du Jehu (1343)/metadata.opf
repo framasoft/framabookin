@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1343</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">94617457-fc8c-4c9c-86e1-6179c3197892</dc:identifier>
+        <dc:title>Les Compagnons du Jéhu</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Bonaparte rentre d'Egypte accompagné de Roland de Montrevel, son aide de camp et ami. En Avignon, ils apprennent les exploits des Compagnons de Jéhu, bande armée de jeunes nobles intrépides, qui arrêtent les diligences et détournent ainsi les fonds du gouvernement pour financer l'insurrection royaliste en Vendée et en Bretagne. La république est mise à mal, de l'extérieur par de puissants royaumes, notamment l'Angleterre et l'Autriche, d'où opèrent les royalistes français émigrés, et de l'intérieur par les tenants de Louis XVIII, dont les Chouans à l'ouest et les Compagnons de Jéhu à l'est. Le Directoire s'essouffle, Bonaparte va saisir l'occasion pour prendre le pouvoir lors du coup d'Etat du 18 brumaire (9 novembre), aidé notamment de Talleyrand. Extrait : Quant aux paroles qu'il avait prononcées, nous avons dit qu'elles étaient rares, si rares qu'en réalité c'étaient plutôt des exclamations que des paroles ; seulement, à chaque explication qui avait été demandée sur l'état de la France, l'Anglais avait ostensiblement tiré un calepin de sa poche, et, en priant soit le marchand de vin, soit l'abbé, soit le jeune noble, de répéter l'explication -- ce que chacun avait fait avec une complaisance pareille à la courtoisie qui présidait à la demande -- il avait pris en note ce qui avait été dit de plus important, de plus extraordinaire et de plus pittoresque, sur l'arrestation de la diligence, l'état de la Vendée et les compagnons de Jéhu, remerciant chaque fois de la voix et du geste, avec cette roideur familière à nos voisins d'outre-mer, et chaque fois remettant dans la poche de côté de sa redingote son calepin enrichi d'une note nouvelle.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0052-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0052-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_les_compagnons_du_jehu</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:22.073191+00:00" name="calibre:timestamp"/>
+        <meta content="Compagnons du Jéhu, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

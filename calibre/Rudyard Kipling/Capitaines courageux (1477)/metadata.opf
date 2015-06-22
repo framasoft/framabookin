@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1477</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">40504cd6-08e8-4eb6-87c3-e3610f14ccbf</dc:identifier>
+        <dc:title>Capitaines courageux</dc:title>
+        <dc:creator opf:file-as="Kipling, Rudyard" opf:role="aut">Rudyard Kipling</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>À quinze ans, Harvey Cheyne possède au suprême degré le don de se rendre antipathique. Les passagers du paquebot sur lequel a pris place ce fils d'un multi-millionnaire américain sont unanimes à lui reprocher son insolence prétentieuse. Harvey tombe par-dessus le bastingage. Est-ce pour lui la fin? Non, c'est le commencement de l'existence. Les hommes du We're Here, géolette britannique que commande le rude, mais bienveillant Disko Troop, se chargent de lui apprendre à vivre, au cours d'une campagne de pêche mouvementée. Extrait : Il se sentait très malheureux ; mais il vit le steward du pont en train d'amarrer des chaises ensemble, et, comme il s'était vanté devant cet homme de n'avoir jamais le mal de mer, son orgueil le fit aller tout au bout du pont, passé le salon des secondes, à l'arrière, lequel se terminait en dos de tortue. Le pont était désert, et il se traîna tout à l'extrémité, près du mât de pavillon. Là, il se plia en deux dans tout l'abandon de l'agonie, car le Wheelingstogie se joignait à la houle et à la vibration de l'hélice pour lui arracher l'âme. Il lui sembla que sa tête enflait ; des étincelles lui dansèrent devant les yeux ; son corps lui parut diminuer de poids, pendant que ses talons flottaient au gré du vent. Il perdit connaissance sous l'effet du mal de mer, et un coup de roulis le souleva par-dessus la lisse jusque sur le rebord uni du dos de tortue. Alors une grosse vague mélancolique et grise sortit du brouillard en se balançant, prit pour ainsi dire Harvey sous le bras, et l'entraîna au loin dans la direction du vent. La grande verte se referma sur lui, et il s'en alla tranquillement dormir...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1566-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1566-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">kipling_rudyard_-_capitaines_courageux</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Angleterre</dc:subject>
+        <meta content="{&quot;Rudyard Kipling&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:49.784037+00:00" name="calibre:timestamp"/>
+        <meta content="Capitaines courageux" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1324</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">43ebd3f3-d174-48a5-b14e-d9c6023b188d</dc:identifier>
+        <dc:title>Les trois mousquetaires I</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Premier volume de la trilogie comprenant également Vingt ans après et Le vicomte de Bragelonne. Le roman raconte les aventures d'un Gascon désargenté de 18 ans, d'Artagnan, monté à Paris faire carrière. Il se lie d'amitié avec Athos, Porthos et Aramis, mousquetaires du roi Louis XIII. Ces quatre hommes vont s'opposer au premier ministre, le Cardinal de Richelieu et à ses agents, dont la belle et mystérieuse Milady de Winter, pour sauver l'honneur de la reine de France Anne d'Autriche. Avec ses nombreux combats et ses rebondissements romanesques, Les Trois mousquetaires est l'exemple type du roman de cape et d'épée. Extrait : Le cœur du jeune Gascon battait à lui briser la poitrine, non pas de peur, Dieu merci ! il n'en avait pas l'ombre, mais d'émulation ; il se battait comme un tigre en fureur, tournant dix fois autour de son adversaire, changeant vingt fois ses gardes et son terrain. Jussac était, comme on le disait alors, friand de la lame, et avait fort pratiqué ; cependant il avait toutes les peines du monde à se défendre contre un adversaire qui, agile et bondissant, s'écartait à tout moment des règles reçues, attaquant de tous côtés à la fois, et tout cela en parant en homme qui a le plus grand respect pour son épiderme. Enfin cette lutte finit par faire perdre patience à Jussac. Furieux d'être tenu en échec par celui qu'il avait regardé comme un enfant, il s'échauffa et commença à faire des fautes. D'Artagnan, qui, à défaut de la pratique, avait une profonde théorie, redoubla d'agilité. Jussac, voulant en finir, porta un coup terrible à son adversaire en se fendant à fond ; mais celui-ci para prime, et tandis que Jussac se relevait, se glissant comme un serpent sous son fer, il lui passa son épée au travers du corps. Jussac tomba comme une masse.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0059-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0059-5</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1402-8</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_les_trois_mousquetaires_i</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture avancée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:17.929658+00:00" name="calibre:timestamp"/>
+        <meta content="trois mousquetaires I, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

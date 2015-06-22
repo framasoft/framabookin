@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1212</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3a88bc25-8700-4f40-9911-84393813aa78</dc:identifier>
+        <dc:title>Souvenirs de la maison des morts</dc:title>
+        <dc:creator opf:file-as="Dostoïevski, Fiodor" opf:role="aut">Fiodor Dostoïevski</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Ce roman a également été traduit sous les titres Récits de la maison des morts et Les Carnets de la maison morte, le titre russe étant : Записки из Мертвого дома (littéralement, Notes [provenant] de la maison morte). Ce roman a été commencé en 1855, après que l'auteur eut purgé une peine de cinq ans de bagne. Il fut publié en 1862. Premier récit sur le système pénitentiaire des tsars, c'est une œuvre phare de la littérature concentrationnaire. Extrait : Il y avait là des meurtriers par imprudence, des meurtriers de métier, des brigands et des chefs de brigands, de simples filous, maîtres dans l'industrie de trouver de l'argent dans la poche des passants ou d'enlever n'importe quoi sur une table. Il aurait pourtant été difficile de dire pourquoi et comment certains détenus se trouvaient à la maison de force. Chacun d'eux avait son histoire, confuse et lourde, pénible comme un lendemain d'ivresse. Les forçats parlaient généralement fort peu de leur passé, qu'ils n'aimaient pas à raconter ; ils s'efforçaient même de n'y plus penser. Parmi mes camarades de chaîne j'ai connu des meurtriers qui étaient si gais et si insouciants qu'on pouvait parier à coup sûr que jamais leur conscience ne leur avait fait le moindre reproche ; mais il y avait aussi des visages sombres, presque toujours silencieux. Il était bien rare que quelqu'un racontât son histoire, car cette curiosité-là n'était pas à la mode, n'était pas d'usage ; disons d'un seul mot que cela n'était pas reçu.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0389-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0389-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dostoievski_fiodor_-_souvenirs_de_la_maison_des_morts</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Russie</dc:subject>
+        <meta content="{&quot;Fiodor Dostoïevski&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:55.132789+00:00" name="calibre:timestamp"/>
+        <meta content="Souvenirs de la maison des morts" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

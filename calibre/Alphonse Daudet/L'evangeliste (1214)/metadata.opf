@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1214</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">09e31c16-d1a8-44db-a045-d2dc6f5da0db</dc:identifier>
+        <dc:title>L'évangéliste</dc:title>
+        <dc:creator opf:file-as="Daudet, Alphonse" opf:role="aut">Alphonse Daudet</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Ce roman a souvent été considéré comme le premier, en France, consacré à la religion protestante, depuis le XVIIe siècle. Mme Hautmann, épouse d'un banquier, se préoccupe d'évangéliser les milieux difficiles. Après avoir formé des jeunes filles au niveau des institutrices, elle les envoie comme évangélistes dans ces endroits difficiles. Le matin, elles apprennent à lire et à écrire. Le soir, elles organisent des séances d'évangélisation et prêchent. Mme Hautmann est une personne assez fanatique, dénuée de sensibilité et dominatrice. Un vieux pasteur va s'opposer à elle... Extrait : Quand on a vécu vingt ans dans l'administration, on ne s'entend plus guère à faire autre chose, fatigué, banalisé par le ronflant et le vide de l'existence officielle. Personne ne savait mieux que lui tourner une lettre administrative, dans ce style arrondi, incolore, qui a horreur du mot propre, ne doit viser qu'à une chose : parler sans rien dire. Personne ne connaissait plus à fond le formulaire des salutations hiérarchiques, comment on écrit à un président de tribunal, à un évêque, un chef de corps, un « cher ancien camarade » ; et pour tenir haut le drapeau de l'administration en face de la magistrature, son irréconciliable ennemie, et pour la passion du bureau, de la paperasse, fiches, cartons verts, registres à souches, pour les visites d'après-midi à la présidente, à la générale, débiter debout -- le dos à la cheminée, en écartant ses basques -- toutes sortes de phrases enveloppées, jamais compromettantes, de façon à être avec chaleur de l'avis de tout le monde, louer brutalement, contredire avec douceur, le binocle en l'air</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0096-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0096-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">daudet_alphonse_-_l_evangeliste</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alphonse Daudet&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:55.535567+00:00" name="calibre:timestamp"/>
+        <meta content="évangéliste, L'" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

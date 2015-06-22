@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1568</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">feb9399a-7c15-471b-8c1d-6d692a76cd62</dc:identifier>
+        <dc:title>Sabre et scalpel</dc:title>
+        <dc:creator opf:file-as="Legendre, Napoléon" opf:role="aut">Napoléon Legendre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1872-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Journaliste et chroniqueur, Napoléon Legendre a publié de la poésie (dont les Perce-Neige en 1886) et deux romans : Sabre et scalpel, et en 1898, Annibal, dont l'action a pour cadre les rébellions de 1837 et 1838. En 1877, il a publié aussi deux volumes de causeries : Échos de Québec. Sabre et scalpel a été publié en feuilleton dans l'Album de la Minerve en 1872-73. Il a paru en volume pour la première fois en 1998 aux éditions de la Huit, à Sainte-Foy, Québec. Dans l'Électeur, en 1888, Napoléon Legendre écrit à propos de son roman : « ... ce n'était pas un chef-d'œuvre que ce roman, premier-né d'une famille qui est encore à naître. Je l'ai relu en partie l'an dernier, et ce que j'y ai trouvé de plus remarquable, c'est le nombre prodigieux des fautes d'impression. Vous verrez encore dans ce recueil, qui n'a duré qu'un peu d'une année, de la prose et des vers signés par tous les noms un peu connus ; mais, au milieu d'un talent réel, on sent la hâte d'une production un peu forcée... » Extrait : Gilles se mit à chercher le baquet, mais la vague l'avait emporté. Il saisit son chapeau de feutre et se mit à vider de toutes ses forces. Malgré cela, la chaloupe déjà alourdie plongeait sous chaque lame, et faisait eau de plus en plus par-dessus les bords. Quelques minutes encore et elle allait s'engloutir, Chagru avait négligé quelque peu son gouvernail et ses voiles, pour aider à Gilles, lorsqu'un choc épouvantable se fit sentir, suivi d'un craquement sinistre. Au même moment, l'embarcation pirouetta sur elle-même, et les deux hommes furent précipités violemment sur les roches, dans un clapotis qui les suffoquait. Ils n'avaient pas eu le temps de se reconnaître, qu'une vague furieuse vint les saisir, les souleva sur sa crête, et, après les avoir balancés un instant, les roula sur les galets.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1620-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1620-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">legendre_napoleon_-_sabre_et_scalpel</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Napoléon Legendre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:07.655323+00:00" name="calibre:timestamp"/>
+        <meta content="Sabre et scalpel" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

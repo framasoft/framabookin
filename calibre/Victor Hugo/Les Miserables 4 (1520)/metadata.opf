@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1520</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c92f6012-6015-47d8-b76b-202bc12438e9</dc:identifier>
+        <dc:title>Les Misérables 4</dc:title>
+        <dc:creator opf:file-as="Hugo, Victor" opf:role="aut">Victor Hugo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Tome 4. Ce roman, un des plus populaires de la littérature française, a donné lieu à de nombreuses adaptations au cinéma. Victor Hugo y décrit la vie de misérables dans Paris et la France provinciale du xixe siècle et s'attache plus particulièrement aux pas du bagnard Jean Valjean qui n'est pas sans rappeler le condamné à mort du Dernier Jour d'un condamné ou Claude Gueux. C'est un roman historique, social et philosophique dans lequel on retrouve les idéaux du romantisme et ceux de Victor Hugo concernant la nature humaine. L'auteur lui-même accorde une grande importance à ce roman et écrit en mars 1862, à son éditeur Lacroix : « Ma conviction est que ce livre sera un des principaux sommets, sinon le principal, de mon œuvre ». Jean Valjean, un ancien forçat condamné en 1796, trouve asile, après avoir été libéré du bagne et avoir longtemps erré, chez Mgr Myriel, évêque de Digne. Il se laisse tenter par les couverts d'argent du prélat et déguerpit à l'aube. Des gendarmes le capturent, mais l'évêque témoigne en sa faveur et le sauve. Bouleversé, Jean Valjean cède à une dernière tentation en détroussant un petit Savoyard puis devient honnête homme. En 1817 à Paris, Fantine a été séduite par un étudiant puis abandonnée avec sa petite Cosette, qu'elle a confiée à un couple de sordides aubergistes de Montfermeil, les Thénardier. Elle est contrainte de se prostituer...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1076-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1076-1</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1078-5</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">hugo_victor_-_les_miserables_4</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture avancée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Victor Hugo&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:58.297096+00:00" name="calibre:timestamp"/>
+        <meta content="Misérables 4, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

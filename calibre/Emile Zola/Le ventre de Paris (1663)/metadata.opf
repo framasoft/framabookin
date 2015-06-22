@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1663</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">09d12fc8-7707-46ab-b45d-bf1911920fe3</dc:identifier>
+        <dc:title>Le ventre de Paris</dc:title>
+        <dc:creator opf:file-as="Zola, Émile" opf:role="aut">Émile Zola</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1878-12-14T23:00:00+00:00</dc:date>
+        <dc:description>Le Ventre de Paris est le troisième roman de la série Les Rougon-Macquart. L’action se passe pour l’essentiel aux Halles centrales de Paris, construites par Victor Baltard entre 1854 et 1870, énorme bâtiment à structure métallique dans lequel les murs sont remplacés par des vitres, la plus grande innovation architecturale du Second Empire. Fasciné par les Halles, Zola en fait dans son roman une sorte de monstre, comme le seront plus tard le grand magasin dans Au Bonheur des Dames, l’alambic dans l'Assommoir ou la locomotive dans la Bête humaine. Extrait : C'était là qu'une bande de sergents de ville l'avait pris, dans la nuit du 4 décembre. Il suivait le boulevard Montmartre, vers deux heures, marchant doucement au milieu de la foule, souriant de tous ces soldats que l'Élysée promenait sur le pavé pour se faire prendre au sérieux, lorsque les soldats avaient balayé les trottoirs, à bout portant, pendant un quart d'heure. Lui, poussé, jeté à terre, tomba au coin de la rue Vivienne ; et il ne savait plus, la foule affolée passait sur son corps, avec l'horreur affreuse des coups de feu. Quand il n'entendit plus rien, il voulut se relever. Il avait sur lui une jeune femme, en chapeau rose, dont le châle glissait, découvrant une guimpe plissée à petits plis. Au-dessus de la gorge, dans la guimpe, deux balles étaient entrées ; et, lorsqu'il repoussa doucement la jeune femme, pour dégager ses jambes, deux filets de sang coulèrent des trous sur ses mains.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0251-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0251-3</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0239-1</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">zola_emile_-_le_ventre_de_paris</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Émile Zola&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:27.051901+00:00" name="calibre:timestamp"/>
+        <meta content="ventre de Paris, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

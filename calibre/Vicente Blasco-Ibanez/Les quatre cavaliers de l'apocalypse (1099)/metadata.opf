@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1099</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">34025428-a63c-45a5-8452-14cd69705d7e</dc:identifier>
+        <dc:title>Les quatre cavaliers de l'apocalypse</dc:title>
+        <dc:creator opf:file-as="Blasco-Ibañez, Vicente" opf:role="aut">Vicente Blasco-Ibañez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Prenez garde, capitaine, répondit-il d'un ton conciliant. Ce que vous dites manque peut-être de logique. Comment une guerre favoriserait-elle l'industrie allemande ? D'un jour à l'autre l'Allemagne élargit davantage son action économique ; elle conquiert chaque mois un marché nouveau ; chaque année, son bilan commercial augmente dans des proportions incroyables. Il y a un demi-siècle, elle était réduite à donner pour matelots à ses quelques navires les cochers de Berlin punis par la police ; aujourd'hui ses flottes de commerce et de guerre sillonnent tous les océans, et il n'est aucun port où la marchandise allemande n'occupe sur les quais la place la plus considérable. Donc, ce qu'il faut à l'Allemagne, c'est continuer à vivre ainsi et se préserver des aventures guerrières. Encore vingt ans de paix, et les Allemands seront les maîtres de tous les marchés du monde, triompheront de l'Angleterre, leur maîtresse et leur rivale, dans cette lutte où il n'y a pas de sang répandu. Voulez-vous, comme un homme qui risque sur une carte sa fortune entière, exposer de gaieté de cœur toute cette prospérité dans une lutte qui, en somme, pourrait vous être défavorable ?</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1267-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1267-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">blasco-ibanez_vicente_-_les_quatre_cavaliers_de_l_apocalypse</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Espagne</dc:subject>
+        <meta content="{&quot;Vicente Blasco-Ibañez&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:31.865151+00:00" name="calibre:timestamp"/>
+        <meta content="quatre cavaliers de l'apocalypse, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

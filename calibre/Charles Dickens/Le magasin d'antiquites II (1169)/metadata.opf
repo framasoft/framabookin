@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1169</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">24101517-13e5-4cb5-b0cd-e1c4e5332a39</dc:identifier>
+        <dc:title>Le magasin d'antiquités II</dc:title>
+        <dc:creator opf:file-as="Dickens, Charles" opf:role="aut">Charles Dickens</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Nelly et son grand-père vivent dans une petite maison. Kit, un brave et honnête garçon, les sert avec une loyauté sans faille... Mais le vieil homme, bien qu'adorant l'enfant, cache de sombres secrets... Un horrible nain, Mr Quilp, va les chasser de leur maison et les poursuivre, persuadé que le vieil homme a emporté un magot. Pendant ce douloureux voyage au travers de l'Angleterre, ils rencontreront toute une galerie de personnages parfois sinistres mais aussi souvent pittoresques (les deux polichinelles, le dresseur de chien, la dame du musée de cire, etc). Au travers du destin tragique de Nelly, Dickens dénonce le caractère inhumain du monde industriel de cette Angleterre de la fin du XIXème siècle. Extrait : C'était son grand-père. Le premier mouvement de l'enfant fut d'appeler le vieillard ; le second, de se demander quels pouvaient être ses compagnons et dans quelle intention ils se trouvaient là réunis, une crainte vague d'abord, puis le désir violent d'éclaircir ses doutes, rapprocha Nelly du groupe présent à ses yeux : toutefois elle eut soin de dissimuler ses pas, et de se glisser le long d'une haie. Elle put de là arriver jusqu'à quelques pieds seulement du bivouac, et, cachée entre de jeunes arbres, voir et entendre à la fois sans craindre d'être aperçue.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0203-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0203-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dickens_charles_-_le_magasin_d_antiquites_ii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Angleterre</dc:subject>
+        <meta content="{&quot;Charles Dickens&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:46.232179+00:00" name="calibre:timestamp"/>
+        <meta content="magasin d'antiquités II, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

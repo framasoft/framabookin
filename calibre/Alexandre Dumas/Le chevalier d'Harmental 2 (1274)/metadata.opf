@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1274</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0650d7dc-d2ac-45f1-89fe-58b9a8cc5c71</dc:identifier>
+        <dc:title>Le chevalier d’Harmental 2</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Raoul d'Harmental, jeune aristocrate monté à Paris en 1711, est un aventurier plutôt susceptible et impétueux. S'étant illustré à la dernière victoire de Louis XIV, nommé colonel à cette occasion, d'Harmental se trouve après la mort du roi mêlé au conflit qui oppose le parti des princes légitimes et celui des bâtards. Extrait : En effet, à quatre heures précises, moment fixé pour la cérémonie, la porte du salon s'ouvrit, et l'on aperçut, dans une galerie tendue de satin incarnat semé d'abeilles d'argent, sur un trône élevé de trois marches, la belle fée Ludovise, à qui la petitesse de sa taille et la délicatesse de ses traits, bien plus encore que la baguette d'or qu'elle tenait à la main, donnaient l'apparence de l'être aérien dont elle avait pris le nom. Elle fit un geste de la main, et toute sa cour, passant du salon dans la galerie, se rangea en demi-cercle autour de son trône, sur les marches duquel allèrent se placer les grands dignitaires de l'ordre. Lorsque chacun fut à son poste, une porte latérale s'ouvrit, et Bessac, enseigne des gardes de monseigneur le duc du Maine, portant le costume de héraut, c'est-à-dire une robe cerise toute brodée d'abeilles d'argent, et coiffé d'un bonnet en forme de ruche, entra...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1412-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1412-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_le_chevalier_d_harmental_ii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:07.925547+00:00" name="calibre:timestamp"/>
+        <meta content="chevalier d’Harmental 2, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

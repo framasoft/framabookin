@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1026</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8845f5e0-9ef7-4be8-a4b4-0888d9790bb4</dc:identifier>
+        <dc:title>La vendetta</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>1830. La Comédie humaine - Études de moeurs. Premier livre, Scènes de la vie privée - Tome I. Premier volume de l'édition Furne 1842. Ginevra Piombo fait la connaissance de Luigi Porta, réfugié dans l'atelier d'un peintre chez qui elle prend des leçons. Luigi Porta a été blessé à Waterloo. Ginevra le secourt, le protège, et veut le présenter à sa famille. Mais elle découvre que les familles Piombo et Porta sont ennemies. Malgré le refus et les menaces de son père, elle épouse Porta pour le meilleur et pour le pire... Extrait : Les jeunes personnes qui composaient le groupe des nobles appartenaient aux familles royalistes les plus exaltées de Paris. Il serait difficile de donner une idée des exagérations de cette époque et de l’horreur que causaient les bonapartistes. Quelque insignifiante et petite que puisse paraître aujourd’hui l’action d’Amélie Thirion, elle était alors une expression de haine fort naturelle. Ginevra Piombo, l’une des premières écolières de Servin, occupait la place dont on voulait la priver depuis le jour où elle était venue à l’atelier ; le groupe aristocratique l’avait insensiblement entourée : la chasser d’une place qui lui appartenait en quelque sorte était non-seulement lui faire injure, mais lui causer une espèce de peine ; car les artistes ont tous une place de prédilection pour leur travail. Mais l’animadversion politique entrait peut-être pour peu de chose dans la conduite de ce petit Côté Droit de l’atelier. Ginevra Piombo, la plus forte des élèves de Servin, était l’objet d’une profonde jalousie : le maître professait autant d’admiration pour les talents que pour le caractère de cette élève favorite qui servait de terme à toutes ses comparaisons ; enfin, sans qu’on s’expliquât l’ascendant que cette jeune personne obtenait sur tout ce qui l’entourait, elle exerçait sur ce petit monde un prestige presque semblable à celui de Bonaparte sur ses soldats.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1000-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1000-6</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1027-3</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_la_vendetta</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:16.985987+00:00" name="calibre:timestamp"/>
+        <meta content="vendetta, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

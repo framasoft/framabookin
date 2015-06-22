@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1123</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">494c87c9-f531-4bc9-bf80-f99eddca1f77</dc:identifier>
+        <dc:title>Terre d'Espagne</dc:title>
+        <dc:creator opf:file-as="Bazin, René" opf:role="aut">René Bazin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Trois officiers de marine sont debout sur la plate-forme de l'escalier de bois qui conduit à la plage. Une baleinière, montée par une douzaine d'hommes, se balance à trente mètres du rivage. On a laissé glisser, à mi-longueur du câble, le chalet mauresque, blanc et bleu, mobile sur des rails, où sont les appartements de bains de la famille royale. J'écoute si le bruit d'une voiture, dévalant la pente, n'annonce pas l'arrivée. Rien. Je me remets à considérer la longue bande de sable, de plus en plus envahie, sauf en face de nous, dans la partie réservée que limitent deux cordes tendues. Tout à coup, un mouvement de mes voisins, qui s'effacent le long du parapet, me fait me retourner, et je reconnais la reine, à quelques pas. Elle vient à pied, vêtue de deuil, élégante et marchant très bien. Le petit roi est à sa gauche, une des infantes à sa droite. Derrière elle, deux valets de pied seulement et deux grands lévriers qui sautent, l'un blanc et l'autre jaune. Tout le monde se découvre et salue. La reine remercie en s'inclinant ; elle a le sourire intelligent, doux et triste. On la sent contente d'être ici, dans la liberté relative de Saint-Sébastien, contente des marques de respect qu'elle reçoit, et malheureuse au fond. Et, pour dire toute mon impression, j'ai cru lire bien souvent, sur le visage de jeunes femmes inconnues, la légende mélancolique de leur vie, les trois mots que rien n'efface : « Je suis seule » ; et il m'a semblé les relire sur le front de la souveraine qui passait entre ses deux enfants.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1251-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1251-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">bazin_rene_-_terre_d_espagne</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;René Bazin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:37.001245+00:00" name="calibre:timestamp"/>
+        <meta content="Terre d'Espagne" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

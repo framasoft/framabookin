@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1545</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c7a1c6f2-3552-4c2e-8aeb-7702625b7e61</dc:identifier>
+        <dc:title>Écrits sur le Québec</dc:title>
+        <dc:creator opf:file-as="Hémon, Louis" opf:role="aut">Louis Hémon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Louis Hémon n'a fait paraître de son vivant que quelques textes de fiction, dont une nouvelle, Lizzie Blakeston, en 1908. Son roman le plus connu, Maria Chapdelaine, parut d'abord en feuilleton dans le journal parisien Le Temps (1914), puis en volume à Montréal (1916). Mais c'est une édition parisienne (1922) qui permettra au roman de connaître un succès extraordinaire ; ce sera même pendant longtemps le roman français ayant connu le plus grand tirage. Il fut traduit en des dizaines de langues et se vendit à des millions d'exemplaires. Cependant, d'autres ouvrages de Louis Hémon ont paru par la suite : la Belle que voilà (1923) ; Colin-Maillard (1924) ; Battling Malone, pugiliste(1926) ; Monsieur Ripois et la Némésis (1950). Louis Hémon reste l'écrivain emblématique du Canada francophone par son évocation mythique du début du XXe siècle et de la terre québécoise. Il est d'ailleurs très régulièrement intégré aux listes des écrivains canadiens français, mais un peu abusivement puisque Louis Hémon a vécu moins de deux ans au Canada. Extrait : Les textes de Louis Hémon qui traitent du Québec sont intéressants sous maints aspects. La plupart traite de son sujet de prédilection~: le sport, qui, pour lui, est un moyen de se réaliser mais aussi de se faire respecter. Certains textes ont été publiés, évidemment, comme la date de parution l'indique, à titre posthume. Les textes ont d'abord, pour la plupart, paru soit dans La Presse de Montréal, ou dans le journal sportif français L'Auto. Le texte intitulé Itinéraire fait le récit de son arrivée au Québec, à partir de Liverpool en Angleterre. « Cela n'empêche pas que nous sommes hautement civilisés, ici à Péribonka. Il y a un petit bateau à vapeur qui vient au village tous les deux jours, quand l'eau est navigable. Si le bateau se mettait en grève il faudrait pour aller au chemin de fer à Roberval faire le tour par la route du tour du lac, c'est-à-dire quatre-vingts kilomètres environ.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1540-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1540-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">hemon_louis_-_ecrits_sur_le_quebec</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Louis Hémon&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:03.225363+00:00" name="calibre:timestamp"/>
+        <meta content="Écrits sur le Québec" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

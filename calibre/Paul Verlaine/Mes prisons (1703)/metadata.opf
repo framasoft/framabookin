@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1703</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fa7cece7-b552-497e-9532-d15224254d9f</dc:identifier>
+        <dc:title>Mes prisons</dc:title>
+        <dc:creator opf:file-as="Verlaine, Paul" opf:role="aut">Paul Verlaine</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Rue Chaptal. Presque au coin de la rue Blanche, à droite en venant de Notre-Dame de Lorette. Une grille monumentale sur une cour pavée, menant au réfectoire de la pension L... A main droite, une petite porte donnant accès à l'intérieur de l'établissement, aux côtés de laquelle, accrochés, deux panneaux noirs portaient en lettres d'or les sciences et arts divers enseignés dans l'établissement. Un immense mur avec des défenses interminablement longues, en lourds caractères officiels à demi effacés par les intempéries, d'afficher et de déposer des ordures, en vertu de telles et telles lois de telles années déjà très anciennes, et, derrière, le dépassant d'à peu près un mètre et demi, les constructions basses des études et des dortoirs. Tout cela disparu depuis cinq ou six ans pour faire place, bien entendu, à de belles maisons de rapport à des trente-six étages au-dessus de l'entresol. C'était là qu'il y a trop longtemps je commençais mes « études » après avoir achevé d'apprendre à lire, à écrire --- et à compter (mal) dans une petite classe élémentaire</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1170-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1170-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">verlaine_paul_-_mes_prisons</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Paul Verlaine&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:35.235600+00:00" name="calibre:timestamp"/>
+        <meta content="Mes prisons" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

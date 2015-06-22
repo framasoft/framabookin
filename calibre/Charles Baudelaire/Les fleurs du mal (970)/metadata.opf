@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">970</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bafbf9ee-4885-4af6-807b-605d4e94fabe</dc:identifier>
+        <dc:title>Les fleurs du mal</dc:title>
+        <dc:creator opf:file-as="Baudelaire, Charles" opf:role="aut">Charles Baudelaire</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1861-12-14T23:00:00+00:00</dc:date>
+        <dc:description>Œuvre majeure de Baudelaire, publiée le 25 juin 1857 et rééditée en 1861, Les Fleurs du mal sont l’une des œuvres les plus importantes de la poésie moderne, empreinte d’une nouvelle esthétique où la beauté et le sublime surgissent, grâce au langage poétique, de la réalité la plus triviale. L'œuvre exerça une influence considérable sur Paul Verlaine, Stéphane Mallarmé ou encore Arthur Rimbaud. Le 7 juillet, la direction de la Sûreté publique saisit le parquet pour « outrage à la morale publique » et pour « outrage à la morale religieuse ». Baudelaire et ses éditeurs sont condamnés à une d’amende, ainsi qu'à la suppression de six pièces (sur les cent que compte le recueil), pour délit d’outrage à la morale publique.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1058-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1058-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">baudelaire_charles_-_les_fleurs_du_mal</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>poesie</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Charles Baudelaire&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:05.814264+00:00" name="calibre:timestamp"/>
+        <meta content="fleurs du mal, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1425</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6be8c22a-3cf9-49b1-8f08-8e1e69be9a37</dc:identifier>
+        <dc:title>Le crime d’Orcival</dc:title>
+        <dc:creator opf:file-as="Gaboriau, Émile" opf:role="aut">Émile Gaboriau</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1866-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Deux braconniers, le père et le fils, trouvent Berthe de Trémorel sauvagement assassinée dans le parc du chateau du comte de Trémorel, son époux, ce dernier restant introuvable. Ils sont vite accusés, avec un domestique du chateau au comportement suspect et sans alibi, du meurtre de ces deux notables très appréciés de leurs concitoyens d'Orcival. Les trois suspects, défavorablement connus des services de la police, s'enferment dans un mutisme révélateur. À peine arrivé, l'inspecteur Lecoq, constate que l'enquête a été baclée et la reprend à zéro. Il propose rapidement un début d'explication qui va à l'encontre de celle du juge d'instruction, ce dernier restant persuadé de la justesse de son analyse de la situation... Extrait : Sur le bord de la rivière, parmi les joncs et les glaïeuls, le cadavre d'une femme gisait. Ses longs cheveux dénoués s'éparpillaient parmi les herbes aquatiques~; sa robe de soie grise en lambeaux était souillée de boue et de sang. Toute la partie supérieure du corps plongeait dans l'eau peu profonde, et le visage était enfoncé dans la vase.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0228-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0228-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">gaboriau_emile_-_le_crime_d_orcival</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Émile Gaboriau&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:38.617404+00:00" name="calibre:timestamp"/>
+        <meta content="crime d’Orcival, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

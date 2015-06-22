@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1136</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eba26750-5a54-4419-849b-35174f8522f7</dc:identifier>
+        <dc:title>Contes et historiettes</dc:title>
+        <dc:creator opf:file-as="Carraud, Zulma" opf:role="aut">Zulma Carraud</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Zulma Carraud est née le 24 mars 1796 à Issoudun, dans la maison de ses parents qui étaient commerçants (mercerie-draperie) et morte le 24 avril 1889 à Paris, est un écrivain français, amie et égérie de Balzac. C'était une famille très aisée jusqu'en 1847, date à laquelle ils sont expropriés par le chemin de fer. Extrait : Olivier était un garçon fort doux ; il supportait sans se plaindre les mauvais tours de ses camarades, qui abusaient souvent de sa patience. Un jour qu'il se promenait avec son petit frère, ils s'amusèrent à tourmenter l'enfant ; l'un d'eux alla même jusqu'à le frapper. Olivier, sortant de son caractère pacifique, se plaça résolument entre l'agresseur et son frère, et, montrant ses poings fermés, il dit : « Le premier qui touchera cet enfant aura affaire à moi ! » Les camarades furent très étonnés de trouver autant de courage chez Olivier qu'ils avaient cru poltron parce qu'il était patient, et ils ne songèrent plus à tourmenter l'enfant.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1291-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1291-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">carraud_zulma_-_contes_et_historiettes</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Zulma Carraud&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:39.594423+00:00" name="calibre:timestamp"/>
+        <meta content="Contes et historiettes" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

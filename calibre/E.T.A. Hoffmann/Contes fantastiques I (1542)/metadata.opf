@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1542</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5b381371-a5c8-4138-8748-31317e56f922</dc:identifier>
+        <dc:title>Contes fantastiques I</dc:title>
+        <dc:creator opf:file-as="Hoffmann, E.T.A." opf:role="aut">E.T.A. Hoffmann</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1829-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Les poètes eux-mêmes ne passent pas pour être tous les jours braves, depuis qu'Horace a fait l'aveu d'avoir abandonné son bouclier ; mais il n'en était pas ainsi d'Hoffmann. Il était à Dresde à l'époque critique où cette ville, sur le point d'être prise par les Alliés, fut sauvée par le retour soudain de Bonaparte et de sa garde. Il vit alors la guerre de près, et s'aventura plusieurs fois à cinquante pas des tirailleurs français, qui échangeaient leurs balles, en vue de Dresde, avec celles des Alliés. Lors du bombardement de cette ville, une bombe éclata devant la maison où Hoffmann était avec le comédien Keller, le verre à la main, et regardant d'une fenêtre élevée les progrès de l'attaque. L'explosion tua trois personnes, Keller laissa tomber son verre ; mais Hoffmann, après avoir vidé le sien : « Qu'est-ce que la vie ? s'écria-t-il philosophiquement ; et combien est fragile la machine humaine, qui ne peut résister à un éclat de fer brûlant ! » Extrait : Ce violon, me dit Crespel, est un morceau merveilleux d'un artiste inconnu, qui vivait sans doute du temps de Tartini. Je suis convaincu qu'il y a dans sa construction intérieure quelque chose de particulier, et qu'un secret, que je poursuis depuis longtemps, se dévoilera à mes yeux, lorsque je démonterai cet instrument. Riez de ma faiblesse si vous voulez ; mais cet objet inanimé à qui je donne, quand je le veux, la vie et la parole, me parle souvent d'une façon merveilleuse, et lorsque j'en jouai pour la première fois, il me sembla que je n'étais que le magnétiseur qui excite le somnambule, et l'aide à révéler ses sensations cachées. Vous pensez bien que cette folie ne m'a jamais occupé sérieusement, mais il est à remarquer que je n'ai jamais pu me décider à détruire cette sotte machine. Je suis content aujourd'hui de ne pas l'avoir fait ; car, depuis qu'Antonie est ici, je joue quelquefois de ce violon devant elle. Antonie l'écoute, avec plaisir, avec trop de plaisir !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1551-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1551-3</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1553-7</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">hoffmann_e_t_a_-_contes_fantastiques_i</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>conte</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Allemagne</dc:subject>
+        <meta content="{&quot;E.T.A. Hoffmann&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:02.639818+00:00" name="calibre:timestamp"/>
+        <meta content="Contes fantastiques I" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

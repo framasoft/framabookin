@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1662</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d939a407-ed10-4891-b463-eb68f120c3e3</dc:identifier>
+        <dc:title>À la recherche du temps perdu XII</dc:title>
+        <dc:creator opf:file-as="Proust, Marcel" opf:role="aut">Marcel Proust</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1925-06-02T22:00:00+00:00</dc:date>
+        <dc:description>La Prisonnière est le cinquième tome d'À la recherche du temps perdu de Marcel Proust publié en 1925 à titre posthume. Le thème principal de ce volume est l'amour possessif et jaloux qu'éprouve le narrateur pour Albertine. Il la fait surveiller, la soupçonne de liaisons homosexuelles, essaie de la retenir chez lui. Extrait : Faisant semblant de ne pas voir le louche individu qui lui avait emboîté le pas (quand le baron se hasardait sur les boulevards, ou traversait la salle des Pas-Perdus de la gare Saint-Lazare, ces suiveurs se comptaient par douzaines qui, dans l'espoir d'avoir une thune, ne le lâchaient pas) et de peur que l'autre ne s'enhardît à lui parler, le baron baissait dévotement ses cils noircis qui, contrastant avec ses joues poudrerizées, le faisaient ressembler à un grand inquisiteur peint par le Greco. Mais ce prêtre faisait peur et avait l'air d'un prêtre interdit, diverses compromissions auxquelles l'avait obligé la nécessité d'exercer son goût et d'en protéger le secret ayant eu pour effet d'amener à la surface du visage précisément ce que le baron cherchait à cacher, une vie crapuleuse racontée par la déchéance morale. Celle-ci, en effet, quelle qu'en soit la cause, se lit aisément, car elle ne tarde pas à se matérialiser, et prolifère sur un visage, particulièrement dans les joues et autour des yeux, aussi physiquement que s'y accumulent les jaunes ocreux dans une maladie de foie ou les répugnantes rougeurs dans une maladie de peau. Ce n'était pas, d'ailleurs, seulement dans les joues, ou mieux les bajoues de ce visage fardé, dans la poitrine tétonnière, la croupe rebondie de ce corps livré au laisser-aller et envahi par l'embonpoint, que surnageait maintenant, étalé comme de l'huile, le vice jadis si intimement renfoncé par M. de Charlus au plus secret de lui-même. Il débordait maintenant dans ses propos.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1576-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1576-6</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0881-2</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">proust_marcel_-_a_la_recherche_du_temps_perdu_xii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Marcel Proust&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:26.847631+00:00" name="calibre:timestamp"/>
+        <meta content="À la recherche du temps perdu XII" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

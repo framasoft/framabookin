@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1465</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">00ab2474-d789-4683-bce5-67e7b09d2046</dc:identifier>
+        <dc:title>Nouveaux contes bleus</dc:title>
+        <dc:creator opf:file-as="Laboulaye, Édouard" opf:role="aut">Édouard Laboulaye</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1863-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Édouard Laboulaye,  est un juriste et un homme politique français. Il fut député, puis sénateur inamovible de la Troisième République. C'est lui qui insuffla l'idée d'offrir une statue représentant la « Liberté » aux États-Unis. Extrait : Le paysan était devant sa porte, occupé à traire sa vache, tandis que tous les enfants se pressaient autour d'elle et la caressaient. Quand il eut reçu le message du prince, le bonhomme secoua la tête et dit qu'il ne céderait Bukolla à aucun prix. -- Elle est à moi, ajouta-t-il, c'est mon bien, c'est ma chose, je l'aime mieux que toutes les vaches et que tout l'or du roi. Prières ni menaces ne le firent changer d'avis. L'heure avançait ; le chef des gardes craignait le courroux du maître ; il saisit le licou de Bukolla pour l'entraîner ; le paysan se leva pour résister, un coup de hache l'étendit mort par terre. À cette vue, tous les enfants se mirent à sangloter, hormis Briam, l'aîné, qui resta en place, pâle et muet. Le chef des gardes savait qu'en Islande le sang se paye avec le sang, et que tôt ou tard le fils venge le père. Si l'on ne veut pas que l'arbre repousse, il faut arracher du sol jusqu'au dernier rejeton. D'une main furieuse, le brigand saisit un des enfants qui pleuraient : -- Où souffres-tu ? lui dit-il. -- Là, répondit l'enfant en montrant son cœur ; aussitôt le scélérat lui enfonça un poignard dans le sein. Six fois il fit la même question, six fois il reçut la même réponse, et six fois il jeta le cadavre du fils sur le cadavre du père.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1582-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1582-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">laboulaye_edouard_-_nouveaux_contes_bleus</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <dc:subject>conte</dc:subject>
+        <meta content="{&quot;Édouard Laboulaye&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:47.294304+00:00" name="calibre:timestamp"/>
+        <meta content="Nouveaux contes bleus" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

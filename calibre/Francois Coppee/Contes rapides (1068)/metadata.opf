@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1068</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8837a6ad-8508-433c-9fcf-12ba8fa03c3c</dc:identifier>
+        <dc:title>Contes rapides</dc:title>
+        <dc:creator opf:file-as="Coppée, François" opf:role="aut">François Coppée</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>François Édouard Joachim Coppée, né le 26 janvier 1842 à Paris où il est mort le 23 mai 1908, fut le poète populaire et sentimental de Paris et de ses faubourgs, des tableaux de rue intimistes du monde des humbles. Extrait : Comme il l'aimait, dans ce moment-là ! Comme il l'aimait bien ! Sans désirs. Deux nuits d'ivresse les avaient éteints. Mais il était plus tendre encore dans son accablement. Devant le lit préparé, qui embaumait la lavande, devant les deux oreillers jumeaux, il savourait d'avance la volupté délicate de s'abandonner à l'étreinte de son amie, de lui dire bonsoir dans un baiser sans fièvre et de s'endormir sur ce cœur simple, qui ne battait que pour lui.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1320-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1320-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">coppee_francois_-_contes_rapides</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;François Coppée&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:25.407034+00:00" name="calibre:timestamp"/>
+        <meta content="Contes rapides" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1509</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0668e8f1-dccf-4798-b624-927dbadeaee5</dc:identifier>
+        <dc:title>Le drageoir aux épices</dc:title>
+        <dc:creator opf:file-as="Huysmans, Joris-Karl" opf:role="aut">Joris-Karl Huysmans</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1874-06-02T23:00:00+00:00</dc:date>
+        <dc:description>En 1874, Joris-Karl Huysmans, de son vrai nom Charles Marie Georges Huysmans, fait paraître à compte d'auteur un premier recueil de poèmes en prose intitulé Le Drageoir aux épices. Il s’agit d’un mélange hétéroclite de pièces de prose poétique, où l’auteur rend hommage aux peintres hollandais et flamands (Rembrandt, Rubens, Brouwer, van Ostade, Béga…) et à la poésie de François Villon. Extrait : Je sens sourdre dans mon âme une indicible rage, quand je pense à toi, Ninon. Qu'une fille à qui sa mère a dit : Tu es jeune, tu es belle, tu es vierge, cela se vend ; que cette fille se livre à un libertin riche et tombe de degré en degré aux excès les plus dégradants, je l'excuse ; qu'une fille se donne par amour à un homme qui, après l'avoir mise enceinte, l'abandonne comme un lâche qu'il est ; que cette fille s'étale devant le premier venu pour nourrir son enfant, celle-là, je la plains ; mais qu'une fille bien élevée, qui est à même de gagner honnêtement sa vie, se roule, de propos délibéré, dans toutes les fanges et dans toutes les sanies, celle-là, je la hais et je la méprise. Entends-tu, ribaude infâme, je te hais, je te méprise... et je t'aime !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1544-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1544-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">huysmans_joris-karl_-_le_drageoir_aux_epices</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>poesie</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Joris-Karl Huysmans&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:56.122323+00:00" name="calibre:timestamp"/>
+        <meta content="drageoir aux épices, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1173</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7f31536c-3c73-444d-94b9-3f9801048da9</dc:identifier>
+        <dc:title>David Copperfield 2</dc:title>
+        <dc:creator opf:file-as="Dickens, Charles" opf:role="aut">Charles Dickens</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La vie de David Copperfield est sans histoire jusqu'au jour où sa mère se remarie. Maltraité par son beau-père, envoyé en pension, David commence une lente descente aux enfers. Travaillant à Londres pour survivre, il n'a plus qu'une idée en tête: s'enfuir et retrouver le bonheur perdu... Mais il ne peux compter que sur lui et la providence pour s'en sortir... Extrait : Je n'oublierai jamais les regards qu'il jetait du coin de la rue vers Tottenham-Court-Road, pendant que Peggotty marchandait ces objets si précieux, ni son agitation quand elle revint lentement vers nous, après avoir inutilement offert son prix, jusqu'à ce qu'elle fut rappelée par le marchand et qu'elle retourna sur ses pas. En fin de compte, elle racheta la propriété de Traddles pour un prix assez modéré ; il était transporté de joie.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0196-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0196-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dickens_charles_-_david_copperfield_2</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture intermédiaire</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Angleterre</dc:subject>
+        <meta content="{&quot;Charles Dickens&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:47.005191+00:00" name="calibre:timestamp"/>
+        <meta content="David Copperfield 2" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

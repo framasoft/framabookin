@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1419</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ff51abd4-7abd-4cd7-8e41-d8fca5281dff</dc:identifier>
+        <dc:title>Histoire d'un conscrit de 1813</dc:title>
+        <dc:creator opf:file-as="Erckmann-Chatrian" opf:role="aut">Erckmann-Chatrian</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1864-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Joseph Bertha, apprenti horloger à Phalsbourg, voit passer les troupes de Napoléon et l'Empereur lui-même en marche vers la Russie. Amoureux de Catherine, il craint de se voir appelé sous les drapeaux, malgré sa boiterie. L'hiver est terrible et l'on apprend les défaites lointaines qui amènent finalement une conscription générale et sans exception. Joseph Bertha est enrôlé en dépit de son infirmité, et il reçoit sa feuille de route pour Mayence où il arrive après une marche pénible. À Francfort, il apprend la discipline de fer des armées tandis qu'on voit revenir de Pologne des convois de blessés... Extrait : C'est moi qui conduisais Catherine à la grand-messe et aux vêpres, et, pendant la fête, elle ne quittait pas mon bras et refusait de danser avec les autres garçons du village. Tout le monde savait que nous devions nous marier un jour ; mais, si j'avais le malheur de partir à la conscription, tout était fini. Je souhaitais d'être encore mille fois plus boiteux, car, dans ce temps, on avait d'abord pris les garçons, puis les hommes mariés, sans enfants, et malgré moi je pensais : « Est-ce que les boiteux valent mieux que les hommes mariés ? est-ce qu'on ne pourrait pas me mettre dans la cavalerie ! » Rien que cette idée me rendait triste ; j'aurais déjà voulu me sauver.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0684-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0684-9</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1439-4</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">erckmann-chatrian_-_histoire_d_un_conscrit_de_1813</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Erckmann-Chatrian&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:37.414608+00:00" name="calibre:timestamp"/>
+        <meta content="Histoire d'un conscrit de 1813" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

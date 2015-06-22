@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fcf7fb3b-2a26-4a76-9d33-3f371965d75d</dc:identifier>
+        <dc:title>Tout ce que vous avez toujours voulu savoir sur LaTeX sans jamais oser le demander</dc:title>
+        <dc:creator opf:file-as="Lozano, Vincent" opf:role="aut">Lozano, Vincent</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-12-01T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;Depuis un long moment déjà, proche de vous, on a prononcé le mot « LaTeX » (dites « latek »). Depuis quelque temps, vous subissez les faiblesses et la lourdeur des traitements de texte « ordinaires ».&lt;/p&gt;
+&lt;p&gt;Malgré tout vous avez perçu la puissance des feuilles de styles de ces logiciels sans être vraiment convaincu de leur mise en œuvre. Alors voici la liste exhaustive des meilleures raisons de ne pas utiliser LaTeX et donc de ne pas lire ce formidable livre:&lt;br&gt;
+&lt;strong&gt;Vous utilisez un traitement de texte seulement&lt;/strong&gt; pour faire vos cartes de voeux, votre courrier, pour noter quelques idées, etc.;&lt;br&gt;
+&lt;strong&gt;Vous adorez les souris&lt;/strong&gt; (1 ou 3 boutons indifféremment) et vous pensez que la seule manière d’écrire des équations est de les utiliser (les souris) de manière intensive;&lt;br&gt;
+&lt;strong&gt;Vous avez une aversion particulière&lt;/strong&gt; pour tout langage de programmation même les plus simples;&lt;br&gt;
+&lt;strong&gt;Vous trouvez normal&lt;/strong&gt; :&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;que votre logiciel préféré ne puisse pas lire le document que vous avez produit avec la version précédente, et/ou&lt;/li&gt;
+&lt;li&gt;que la nouvelle version vous oblige à changer de système d’exploitation,&lt;/li&gt;
+&lt;li&gt;que la nouvelle version dudit système d’exploitation vous oblige à changer d’ordinateur, et…&lt;/li&gt;
+&lt;li&gt;…que votre nouvel ordinateur…&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Vous ne savez pas&lt;/strong&gt; où se trouve la touche \ sur votre clavier.&lt;/p&gt;
+&lt;p&gt;Dans le cas contraire vous serez alors séduit par l’une des plus belles émanations du monde du logiciel libre : LaTeX, un projet né dans les années 80. S’appuyant sur une approche qui apparait aujourd’hui très actuelle : séparer le fond et la forme, la qualité des documents produits est remarquable et rarement égalée si bien qu’elle mène naturellement les utilisateurs vers le monde de la typographie. Enfin, si LaTeX est complexe et fascinant comme tous les logiciels puissants, le fait qu’il soit hautement programmable le rend également amusant.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Framasoft</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9791092674002</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Framabook</dc:subject>
+        <dc:subject>LaTeX</dc:subject>
+        <dc:subject>manuel</dc:subject>
+        <meta content="{&quot;Lozano, Vincent&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-05-26T16:57:44.792849+00:00" name="calibre:timestamp"/>
+        <meta content="Tout ce que vous avez toujours voulu savoir sur LaTeX sans jamais oser le demander" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

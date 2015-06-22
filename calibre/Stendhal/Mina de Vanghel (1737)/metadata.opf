@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1737</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">568c0ec9-14f8-463d-b2d3-c1983d0cd1af</dc:identifier>
+        <dc:title>Mina de Vanghel</dc:title>
+        <dc:creator opf:file-as="Stendhal" opf:role="aut">Stendhal</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1927-12-14T23:00:00+00:00</dc:date>
+        <dc:description>Extrait : Mina fut très malheureuse. Les succès que lui avaient valu ses grands yeux bleus si doux et son air si distingué diminuèrent rapidement quand on apprit à la cour qu'elle avait des idées qui contrariaient celles de son altesse sérénissime. Plus d'une année se passa de la sorte ; Mina désespérait d'obtenir la permission indispensable. Elle forma le projet de se déguiser en homme et de passer en Angleterre, où elle comptait vivre en vendant ses diamants. Madame de Vanghel s'aperçut avec une sorte de terreur que Mina se livrait à de singuliers essais pour altérer la couleur de sa peau. Bientôt après, elle sut que Mina avait fait faire des habits d'homme.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1154-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1154-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">stendhal_-_mina_de_vanghel</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Stendhal&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:42.383515+00:00" name="calibre:timestamp"/>
+        <meta content="Mina de Vanghel" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

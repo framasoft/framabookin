@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1341</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a63beba7-a2ac-41c0-84c9-641bc07a3bdf</dc:identifier>
+        <dc:title>Les frères corses</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Dumas raconte avoir débarqué sur l’île de beauté en mars 1841. Il y fait du tourisme et trouve à loger un beau soir à Sullacaro, chez la veuve de Franchi qui a deux jumeaux. Louis est avocat à Paris tandis que Lucien «sera corse» selon le mot d’un voisin. L’écrivain touriste est fort impressionné par son hôte (Lucien) qui l’installe dans la chambre libre de son frère (Louis). Au cours du dîner, Dumas apprend que Louis et Lucien étaient attachés par le côté à la naissance et qu’il a fallu les séparer au scalpel. Louis en aurait gardé une sensibilité physique à ce que son frère siamois ressent, même à distance. En outre, Lucien raconte que les défunts de la lignée apparaissent à leurs survivants mâles quand l’heure est grave.  Extrait : Il faut vivre de manière à pouvoir dire tout haut tout ce qu'on fait. Je n'ai jamais eu de maîtresse, je n'en aurai jamais. Si mon frère se marie et a des enfants, il est probable que je ne me marierai même pas. Si, au contraire, il ne prend point de femme, il faudra bien que j'en prenne une ; mais alors ce sera pour que la race ne s'éteigne pas. Je vous l'ai dit, ajouta-t-il en riant, je suis un véritable sauvage, et je suis venu au monde cent ans trop tard. Mais je continue à bavarder comme une corneille, et, à l'heure du souper, je ne serai pas prêt.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0053-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0053-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_les_freres_corses</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:21.662549+00:00" name="calibre:timestamp"/>
+        <meta content="frères corses, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

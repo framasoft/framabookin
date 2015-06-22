@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1817</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dcaafc4e-f28a-4db5-a0d6-0bcb59b409cb</dc:identifier>
+        <dc:title>Le roi du Klondike</dc:title>
+        <dc:creator opf:file-as="Auzias-Turenne, Raymond" opf:role="aut">Raymond Auzias-Turenne</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Pour la première fois de cette inoubliable journée, il se fit quelques secondes d'un silence tel qu'on entendit parfaitement la respiration de cette bête monstrueuse, qui règne sur les nations civilisées, la Bourse. Puis, il y eut une bousculade au pied de la petite tribune où se tenaient deux employés à visage impassible, quoiqu'en réalité leurs nerfs fussent tendus comme des cordes d'arc. Le premier poussa une clef, la grande aiguille de l'indicateur oscilla un peu, descendit sur 158, commença à remonter ; le second frappa un rappel sur son Morse, et les trois chiffres prestigieux, 160, apparurent à Chicago juste au moment où l'aiguille de New-York les indiquait sur le cadran.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1238-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1238-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">auzias-turenne_raymond_-_le_roi_du_klondike</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Raymond Auzias-Turenne&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:58.206020+00:00" name="calibre:timestamp"/>
+        <meta content="roi du Klondike, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

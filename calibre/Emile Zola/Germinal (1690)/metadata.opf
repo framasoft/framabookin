@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1690</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e5e4f5f2-6e5e-4a6a-881e-c12480fcbc0d</dc:identifier>
+        <dc:title>Germinal</dc:title>
+        <dc:creator opf:file-as="Zola, Émile" opf:role="aut">Émile Zola</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1885-12-14T23:00:00+00:00</dc:date>
+        <dc:description>treizième roman de la série des Rougon-Macquart. Fils de Gervaise Macquart et de son amant Lantier, le jeune Étienne Lantier s'est fait renvoyer de son travail pour avoir donné une gifle à son employeur. Chômeur, il part, en pleine crise industrielle, dans le Nord de la France, à la recherche d’un nouvel emploi. Il se fait embaucher aux mines de Montsou et connaît des conditions de travail effroyables. Extrait : Sa gaieté redoubla, un grincement de poulie mal graissée, qui finit par dégénérer en un accès terrible de toux. La corbeille de feu, maintenant, éclairait en plein sa grosse tête, aux cheveux blancs et rares, à la face plate, d'une pâleur livide, maculée de taches bleuâtres. Il était petit, le cou énorme, les mollets et les talons en dehors, avec de longs bras dont les mains carrées tombaient à ses genoux. Du reste, comme son cheval qui demeurait immobile sur les pieds, sans paraître souffrir du vent, il semblait en pierre, il n'avait l'air de se douter ni du froid ni des bourrasques sifflant à ses oreilles. Quand il eut toussé, la gorge arrachée par un raclement profond, il cracha au pied de la corbeille, et la terre noircit.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0236-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0236-0</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0252-0</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">zola_emile_-_germinal</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture avancée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Émile Zola&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:32.514449+00:00" name="calibre:timestamp"/>
+        <meta content="Germinal" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1326</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">76469c0c-5128-4d15-b5c8-ef6a9b549f63</dc:identifier>
+        <dc:title>La comtesse de Charny II</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Les «Mémoires d'un médecin» est une suite romanesque qui a pour cadre la Révolution Française et qui comprend «Joseph Balsamo», «le Collier de la reine», «Ange Pitou» et la «Comtesse de Charny». Suite à la révolte du peuple du 6 octobre 1789, la famille royale est ramenée de force de Versailles à Paris et installée aux Tuileries. La reine Marie-Antoinette est de plus en plus injuste envers Andrée (la comtesse de Charny) parce qu'elle se rend compte que le mariage arrangé du comte (qu'elle aime passionnément) et de la comtesse de Charny peut devenir un mariage d'amour. Quittant alors le service de la reine, Andrée découvre enfin la joie de connaître son fils Sébastien, fruit de son viol par Gilbert lequel avait enlevé cet enfant à sa naissance. Extrait : Elle aussi, son cœur battait violemment : elle avait sous les yeux cet homme haï, décrié, fatal ; cet homme qu'on accusait d'avoir fait les 5 et 6 octobre ; cet homme vers lequel on s'était tourné un instant, mais qui avait été repoussé par les gens mêmes de la Cour, et qui, depuis, avait fait sentir la nécessité de traiter de nouveau avec lui, par deux coups de foudre, par deux magnifiques colères qui avaient monté jusqu'au sublime. La première était son apostrophe au clergé. La seconde, le discours où il avait expliqué comment les représentants du peuple, de députés du bailliage, s'étaient faits Assemblée nationale.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0015-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0015-1</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0016-8</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_la_comtesse_de_charny_ii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:18.335969+00:00" name="calibre:timestamp"/>
+        <meta content="comtesse de Charny II, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1603</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">422af240-8bcf-4d5d-8e86-ecd98c76cdc4</dc:identifier>
+        <dc:title>Aziyadé</dc:title>
+        <dc:creator opf:file-as="Loti, Pierre" opf:role="aut">Pierre Loti</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Aziyadé est le premier roman de Pierre Loti publié anonymement en 1879. Le livre a pour thème une histoire d'amour dans le cadre exotique de la Turquie de 1876-1877 entre un officier de marine européen et une jeune femme du harem d'un riche vieillard à Salonique d'abord puis à Istanbul. La vraisemblance de l'intrigue a été discutée : certains critiques ont souligné l'invraisemblance de la rencontre entre un européen de passage et une femme dans un harem. D'autres comme Roland Barthes, dans une préface reprise dans Le Degré zéro de l'écriture en Points Seuil, a même avancé qu'Aziyadé était un personnage destiné à masquer la véritable histoire sentimentale de Loti à Istanbul : une liaison homosexuelle avec Samuel, l'ami de Salonique, puis avec Achmet avec qui il se lie à Istanbul.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1089-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1089-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">loti_pierre_-_aziyade</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Pierre Loti&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:14.985979+00:00" name="calibre:timestamp"/>
+        <meta content="Aziyadé" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

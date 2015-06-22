@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1013</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">51b26012-04bc-4c7a-9404-08f6818973d7</dc:identifier>
+        <dc:title>Le contrat de mariage</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>1835. La Comédie humaine - Études de moeurs. Premier livre, Scènes de la vie privée - Tome III. Troisième volume de l'édition Furne 1842 . Après avoir mené une intense vie mondaine à Paris et à travers l'Europe, le jeune comte Paul de Manerville décide de se retirer dans sa région natale pour se marier. C'est à Bordeaux qu'il fait la connaissance de Natalie Evangelista, dont le père était très fortuné. Paul la demande en mariage, mais lors de la préparation du contrat de mariage, le notaire de Paul découvre que la fortune de Natalie a été dilapidée par sa mère. Celle-ci et Natalie vont tout faire pour mettre la main sur la fortune de Paul. Extrait : Pour découvrir dans l’attitude ou dans la physionomie, dans les paroles ou dans les gestes de mademoiselle Évangélista les indices qui eussent révélé le tribut d’imperfections que comportait son caractère, comme celui de toute créature humaine, Paul aurait dû posséder non-seulement les sciences de Lavater et de Gall, mais encore une science de laquelle il n’existe aucun corps de doctrine, la science individuelle de l’observateur et qui exige des connaissances presque universelles. Comme toutes les jeunes personnes, Natalie avait une figure impénétrable. La paix profonde et sereine imprimée par les sculpteurs aux visages des figures vierges destinées à représenter la Justice, l’Innocence, toutes les divinités qui ne savent rien des agitations terrestres ; ce calme est le plus grand charme d’une fille, il est le signe de sa pureté ; rien encore ne l’a émue ; aucune passion brisée, aucun intérêt trahi n’a nuancé la placide expression de son visage ; est-il joué, la jeune fille n’est plus. Sans cesse au cœur de sa mère, Natalie n’avait reçu, comme toute femme espagnole, qu’une instruction purement religieuse et quelques enseignements de mère à fille, utiles au rôle qu’elle devait jouer. Le calme de son visage était donc naturel.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1005-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1005-1</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0966-6</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_le_contrat_de_mariage</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:14.413025+00:00" name="calibre:timestamp"/>
+        <meta content="contrat de mariage, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

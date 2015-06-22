@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1602</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bfb85424-2499-4d7b-95c1-71c9708c878a</dc:identifier>
+        <dc:title>Discours de réception à l’Académie française</dc:title>
+        <dc:creator opf:file-as="Loti, Pierre" opf:role="aut">Pierre Loti</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Discours de réception de la Séance de l'Académie française du 7 avril 1892. Extrait : C’est un fait acquis, que je ne lis jamais. Des notes biographiques l’ont dit et redit, dans des journaux ou des revues ; cela s’est répété partout. Des différentes légendes, que mon constant éloignement a laissées se former autour de moi, et qui sont en général pour faire sourire, celle-ci par hasard s’est trouvée fondée. C’est vrai ; par paresse d’esprit, par frayeur inexpliquée de la pensée écrite, par je ne sais quelle lassitude avant d’avoir commencé, je ne lis pas. Ce qui n’empêche que, si par hasard j’ai ouvert un livre, je suis très capable de me passionner pour lui, quand il en vaut la peine.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1087-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1087-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">loti_pierre_-_discours_de_reception_a_l_academie_francaise</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>non-fiction</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Pierre Loti&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:14.782709+00:00" name="calibre:timestamp"/>
+        <meta content="Discours de réception à l’Académie française" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

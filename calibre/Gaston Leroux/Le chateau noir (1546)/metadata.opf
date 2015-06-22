@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1546</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d460b0ed-b9ef-4316-a3c9-17687ef991c8</dc:identifier>
+        <dc:title>Le château noir</dc:title>
+        <dc:creator opf:file-as="Leroux, Gaston" opf:role="aut">Gaston Leroux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1914-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Rouletabille est en Bulgarie pour couvrir la guerre des Balkans, en compagnie de son collègue La Candeur et de son interprète Vladimir. Il y retrouve la belle Ivana, qu'il a connue à Paris, et qui se dit menacée par un certain Gaulow. Notre héros apprend bientôt que Gaulow a dérobé les plans secrets de mobilisation. Il part donc avec ses amis pour le repaire du méchant, le Château noir... Extrait : Quelle abominable chose se passait, en ce moment ? Cependant l'alarme a dû être donnée, puisque des officiers sont accourus. Rouletabille les a vus disparaître dans la maison, de ses yeux. Pourvu qu'ils arrivent à temps ! Il bondit derrière eux, à travers le jardin lunaire, sans pouvoir retenir un rauque gémissement. Il pense à Ivana et à cette terrible histoire qu'elle lui a dite. Toutefois il s'efforce de se persuader que le cri qu'il a entendu tout à l'heure n'est point un cri de femme. Il le désire tellement ! Si ce cri était à elle, maintenant elle était peut-être morte ! Dans le moment qu'il allait franchir le seuil obscur de la maison, une faible lumière s'alluma à une fenêtre, au rez-de-chaussée, à gauche. Il y courut. Il allait donc savoir tout de suite ce qui se passait.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0267-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0267-4</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0270-4</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leroux_gaston_-_le_chateau_noir</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture intermédiaire</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gaston Leroux&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:03.412765+00:00" name="calibre:timestamp"/>
+        <meta content="château noir, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

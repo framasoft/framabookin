@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1385</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7bbdf715-afce-4f3d-843d-b9e0b3ca15bf</dc:identifier>
+        <dc:title>Contes de Bretagne</dc:title>
+        <dc:creator opf:file-as="Féval, Paul" opf:role="aut">Paul Féval</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1878-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Trois contes : Le joli château -- Anne des Îles -- La Femme blanche des marais. Extrait : M. de Malestroit, avant de quitter son château pour guerroyer contre les huguenots, avait laissé sa femme, Marguerite de Guer, au soin d'un fidèle serviteur, roturier de naissance, qui avait nom Toussaint Rocher. Toussaint n'avait jamais porté l'épée ni l'arquebuse de combat, mais il était brave, et, dans une rencontre, il eût été un dangereux adversaire, car, chasseur de son métier, il maniait également bien l'arbalète et la lourde carabine à rouet. C'était un homme des marais. Son enfance s'était passée sur les bords de l'Oust, dans un petit manoir de la maison de Malestroit, que son père tenait à fief. Appelé par son seigneur au château où il remplissait l'office de veneur depuis plusieurs années, Toussaint n'avait point oublié le passe-temps de sa jeunesse. Il se souvenait de ses compagnons restés simples paysans, et venait souvent visiter sa vieille mère, veuve maintenant, et habitant toujours le petit manoir de Gourlâ, dont les murailles lézardées se miraient dans les eaux claires du marais.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1451-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1451-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">feval_paul_-_contes_de_bretagne</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Paul Féval&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:30.572428+00:00" name="calibre:timestamp"/>
+        <meta content="Contes de Bretagne" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

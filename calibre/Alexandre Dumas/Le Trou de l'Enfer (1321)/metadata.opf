@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1321</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">36a50b8d-ccb5-4fd1-9005-224a3b8e4ccd</dc:identifier>
+        <dc:title>Le Trou de l'Enfer</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>En se rendant à Heidelberg afin d'accomplir une mission pour la Tugendbund, une société secrète aspirant à la liberté du peuple allemand, deux étudiants, Julius d'Hermelindfeld et Samuel Gelb, se retrouvent pris sous un violent orage, près d'un gouffre appelé le Trou de l'Enfer. Guidés par Gretchen, une jeune chevrière assez sauvage, ils trouvent refuge chez le pasteur Schreiber qui habite avec sa fille Christiane et son petit fils Lothario.Appréciés par le pasteur, Julius et Samuel sont invités à revenir lors du prochain week-end. Si Christiane est ravie à l'idée de revoir le tendre Julius pour qui elle éprouve de l'amour, il n'en est pas de même pour le cynique Samuel, envers lequel elle ressent de l'aversion... Extrait : C'est que, mon cher, il faut mener lestement ton affaire avec cette petite. Je t'aiderai. Si je t'abandonnais à ta nature, tu te rouillerais dans les mélancolies sentimentales, et, au bout d'un an, tu serais aussi avancé que la veille du jour où tu l'as vue pour la première fois. Mais je suis là, sois tranquille. Tu vois avec quelle obligeance déjà je me suis abstenu de te faire concurrence. Je me rabats sur Gretchen. La chevrière m'en veut, elle me redoute d'instinct, elle m'a presque insulté. Cela me pique. J'en viendrai à bout. Je ne lui plais pas : donc elle me plaît. À qui de nous deux arrivera le premier. Un pari, veux-tu ? Un coup d'éperon dans le ventre de nos chevaux, commençons cette course à la beauté, et tu verras comme je suis un grand sauteur de scrupules. Julius était redevenu sérieux.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1406-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1406-6</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1366-3</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_le_trou_de_l_enfer</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:17.336073+00:00" name="calibre:timestamp"/>
+        <meta content="Trou de l'Enfer, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

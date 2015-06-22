@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1784</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e550fd5c-460b-4471-8922-06b75b84e849</dc:identifier>
+        <dc:title>À se tordre</dc:title>
+        <dc:creator opf:file-as="Allais, Alphonse" opf:role="aut">Alphonse Allais</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Des nouvelles pleines d'humour, pour se tordre... Extrait : Quand j'ai épousé ma femme, elle était bonne chez le sous-inspecteur des douanes. C'est même lui qui m'a engagé à l'épouser. Il savait bien ce qu'il faisait, le bougre, car six mois après elle accouchait de notre aîné, celui que j'appelle le Sous-inspecteur, comme de juste. L'année suivante, ma femme avait une petite fille qui ressemblait tellement à un grand jeune homme norvégien dont elle faisait le ménage, que je n'eus pas une minute de doute. Celle-là, c'est la Norvégienne. Et puis, tous les ans, ça a continué. Non pas que ma femme soit plus dévergondée qu'une autre, mais elle a trop bon cœur. Des natures comme ça, ça ne sait pas refuser. Bref, j'ai sept enfants, et il n'y a que le dernier qui soit de moi.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0081-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0081-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">allais_alphonse_-_a_se_tordre</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alphonse Allais&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:51.711850+00:00" name="calibre:timestamp"/>
+        <meta content="À se tordre" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

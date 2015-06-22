@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1718</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8f34301a-f7fd-4b1c-8c7e-480a1e271ca5</dc:identifier>
+        <dc:title>Éloge de M. De Montesquieu par M. De Maupertuis</dc:title>
+        <dc:creator opf:file-as="Montesquieu, Charles-Louis de Secondat" opf:role="aut">Montesquieu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Édition : Édouard Laboulaye Garnier Frères, Paris, 1875-1879. Extrait : Si l’ouvrage de M. de Montesquieu n’est pas ce système de législation qui rendrait les hommes les plus heureux, il contient tous les matériaux dont ce système devrait être formé. Plusieurs y sont déjà mis en œuvre, les autres y sont contenus ; ils y sont, non comme les métaux et les pierres précieuses se trouvent dans leurs mines, séparés, et mêlés de matières hétérogènes : ici tout est pur, tout est diamant ou or. Extrait : Nous réclamerons donc ici un bien commun, dont une partie nous appartient : si quelque chose pouvait nous empêcher d’entreprendre l’éloge de M. de Montesquieu, ce ne serait que la grandeur du sujet et le sentiment de notre insuffisance. Toutes les académies qui ont eu l’honneur de le posséder ne manqueront pas de rendre le même hommage à sa mémoire, et s’en acquitteront mieux que nous ; mais nous avons cru qu’on ne saurait trop parler, ni parler dans trop de lieux, d’un homme qui a tant fait d’honneur à la science et à l’humanité ; qu’on ne saurait trop présenter l’image de M. de Montesquieu, dans un siècle surtout où tant de gens de lettres paraissent si indifférents sur les mœurs : où ils ont voulu persuader, et n’ont peut-être que trop persuadé, que les qualités de l’esprit et celles du cœur devaient être séparées, si même elles n’étaient pas incompatibles.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1121-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1121-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">montesquieu_charles-louis_de_secondat_-_eloge_de_m_de_montesquieu_par_m_de_maupertuis</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>non-fiction</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Montesquieu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:38.375967+00:00" name="calibre:timestamp"/>
+        <meta content="Éloge de M. De Montesquieu par M. De Maupertuis" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

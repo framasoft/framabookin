@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1179</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e99d2bbf-1e93-4465-ae57-a58b899b96a0</dc:identifier>
+        <dc:title>Conscience l'innocent</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>En 1810, dans le petit village d'Haramont, près de Villers-Cotterêts, deux familles se soutiennent pour faire face à la dureté de la vie paysanne. D'un côté la famille Cadet composée du grand-père, de la belle-fille et du petit-fils Conscience que l'on appelle «l'innocent» du fait de sa grande franchise et de sa grande douceur, que ce soit envers les hommes ou les animaux. De l'autre coté une jeune fille Mariette, sa mère et son petit frère... Extrait : À peine le voisin Mathieu fut-il sorti, que le père Cadet ferma la porte derrière lui, alla écouter au premier pas de l'escalier si Madeleine, qui était dans sa chambre, n'avait pas quelque velléité d'en descendre ; puis, s'approchant sans bruit de son lit tout en jetant un regard inquiet autour de lui, il tira d'une cachette pratiquée dans la muraille une boîte en fer qu'il ouvrit avec une petite clef retenue à la boutonnière du gousset de sa culotte par une mince lanière de cuir, l'ouvrit, souleva doucement et d'une main le couvercle...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1365-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1365-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_conscience_l_innocent</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:48.186712+00:00" name="calibre:timestamp"/>
+        <meta content="Conscience l'innocent" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

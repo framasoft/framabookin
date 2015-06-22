@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">981</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">13fda433-81c4-4525-8473-afe55903c5cb</dc:identifier>
+        <dc:title>Un jardin sur l'Oronte</dc:title>
+        <dc:creator opf:file-as="Barrès, Maurice" opf:role="aut">Maurice Barrès</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Un jour l'Émir de Qalaat reçut une ambassade des chrétiens de Tripoli, désireux d'établir avec lui des rapports de bon voisinage. Il accueillit avec empressement ces porteurs du rameau vert, car il ne rêvait que de jouir en paix de ses richesses, de ses beaux jardins et de son harem, qui passait pour le mieux composé de l'Asie. À leur tête se trouvait un chevalier de vingt-quatre ans, sire Guillaume, plein de coeur, de franchise et d'élan, et qui, malgré sa jeunesse, avait été choisi pour cette mission, parce qu'il excellait dans l'art de bien dire, comme les fameux chevaliers-poètes, et qu'arrivé de France à seize ans, il s'était mis merveilleusement à parler l'arabe. Tout de suite il plut à l'Émir qui avait le goût de renouveler ses plaisirs en les étalant devant un étranger. Et bientôt ils ne se quittèrent plus.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1244-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1244-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">barres_maurice_-_un_jardin_sur_l_oronte</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Maurice Barrès&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:07.988030+00:00" name="calibre:timestamp"/>
+        <meta content="jardin sur l'Oronte, Un" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

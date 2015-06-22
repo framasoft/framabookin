@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1101</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">58b4c622-3da3-4665-8abb-53255abc3abd</dc:identifier>
+        <dc:title>La Dame en blanc</dc:title>
+        <dc:creator opf:file-as="Collins, Wilkie" opf:role="aut">Wilkie Collins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>William Wilkie Collins (8 janvier 1824 – 23 septembre 1889) est un écrivain britannique de l'époque victorienne, contemporain et ami de Charles Dickens. Très populaire de son vivant, il est l'auteur de 27 romans, plus de 50 nouvelles, au moins 15 pièces de théâtre et plus de 100 essais. Extrait : Examiner ! répéta le professeur comme un écho. Qu'y a-t-il à examiner, mon Dieu ? Ne vous êtes-vous pas plaint de votre santé, ces derniers temps, et n'avez-vous pas dit que vous aspiriez à un peu d'air frais ? Eh bien ! vous tenez en main le papier qui vous offre ce que vous appelez « un coup de fouet » et l'air frais de la campagne à volonté pendant quatre mois, n'est-il pas vrai ? Vous avez besoin d'argent, et quatre guinées par semaine ne sont pas à dédaigner, je crois ! Quatre guinées par semaine, deux jeunes filles, un gîte, une nourriture soignée et abondante ! Vraiment, Walter, mon cher et bon ami, pour la première fois de ma vie, je ne vous comprends pas !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1310-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1310-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">collins_wilkie_-_la_dame_en_blanc</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Angleterre</dc:subject>
+        <meta content="{&quot;Wilkie Collins&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:32.258553+00:00" name="calibre:timestamp"/>
+        <meta content="Dame en blanc, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1258</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a473ca67-729b-440b-ba2f-c3e812aa8435</dc:identifier>
+        <dc:title>Le comte de Monte-Cristo III</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Edmond Dantès, victime d'une dénonciation calomnieuse alors qu'il allait épouser la belle Mercédès, est enfermé pour 14 ans dans un sinistre cachot du château d'If en rade de Marseille. Son salut viendra de l'abbé Faria, un autre prisonnier avec lequel il entretient une amitié clandestine des années durant. Celui-ci lui transmet sa vaste culture et à sa mort, un trésor caché... Extrait : Rien de plus simple, monsieur, répondit le comte, je connaissais le fameux Vampa depuis plus de dix ans. Tout jeune et quand il était encore berger, un jour que je lui donnai je ne sais plus quelle monnaie d'or parce qu'il m'avait montré mon chemin, il me donna, lui, pour ne rien devoir à moi, un poignard sculpté par lui et que vous avez dû voir dans ma collection d'armes. Plus tard, soit qu'il eût oublié cet échange de petits cadeaux qui eût dû entretenir l'amitié entre nous, soit qu'il ne m'eût pas reconnu, il tenta de m'arrêter ; mais ce fut moi tout au contraire qui le pris avec une douzaine de ses gens. Je pouvais le livrer à la justice romaine, qui est expéditive et qui se serait encore hâtée en sa faveur, mais je n'en fis rien. Je le renvoyai, lui et les siens.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0044-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0044-1</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0045-8</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_le_comte_de_monte-cristo_iii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture avancée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:04.806315+00:00" name="calibre:timestamp"/>
+        <meta content="comte de Monte-Cristo III, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

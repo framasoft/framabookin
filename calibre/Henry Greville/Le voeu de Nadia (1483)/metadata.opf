@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1483</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e429dda9-ff52-4eb2-8006-8977641c5417</dc:identifier>
+        <dc:title>Le voeu de Nadia</dc:title>
+        <dc:creator opf:file-as="Gréville, Henry" opf:role="aut">Henry Gréville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1883-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Henry Gréville, pseudonyme de Alice Marie Céleste Durand née Fleury (1842-1902), a publié de nombreux romans, des nouvelles, des pièces, de la poésie ; elle a été à son époque un écrivain à succès. Extrait : Le bien qu'elle faisait autour d'elle ne lui suffisait pas : pendant les années de son adolescence, sa bourse, sans cesse remplie par son père, s'était sans cesse vidée dans des mains plus avides que méritantes. Quelques désillusions dans cette voie lui inspirèrent le désir d'attaquer le mal dans sa source, au lieu de chercher à l'amoindrir dans ses effets. Nadia fit alors comme la plupart des jeunes filles riches de son époque ; elle eut à la campagne son école du dimanche, où les enfants des villages voisins furent attirés par la promesse de récompenses ; elle fut au nombre des fondatrices d'une crèche, d'un orphelinat, d'une maison de refuge. Son nom figura sur toutes les listes de charité à côté de sommes considérables ; mais, avant d'avoir dix-neuf ans, elle connaissait l'inanité de ces œuvres, entreprises à grands frais par des femmes inexpérimentées, qui dépensent dix fois la somme nécessaire pour faire le bien et n'obtiennent qu'un résultat parfois nul, toujours médiocre, faute de savoir ou de vouloir écarter toute ostentation ruineuse et inutile.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1516-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1516-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">greville_henry_-_le_voeu_de_nadia</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Henry Gréville&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:50.955662+00:00" name="calibre:timestamp"/>
+        <meta content="voeu de Nadia, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1606</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">73a2ecbc-128e-4592-927c-ad8efd724cf2</dc:identifier>
+        <dc:title>La femme aux deux sourires</dc:title>
+        <dc:creator opf:file-as="Leblanc, Maurice" opf:role="aut">Maurice Leblanc</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1933-06-02T22:00:00+00:00</dc:date>
+        <dc:description>La Femme aux deux sourires est un roman de Maurice Leblanc, paru dans Le Journal en 46 feuilletons, du 6 juin au 20 août 1932, puis publié pour la première fois chez Laffite en volume in-12, en juillet 1933. L’inspecteur principal Gorgeret est sur la piste de Clara la Blonde, fichée comme la maîtresse du grand Paul, sur la trace duquel elle est susceptible de mettre les policiers qui l’ont prise en filature. Jolie, tournure élégante, cheveux blonds ondulés, yeux bleus, entre 20 et 25 ans, voilà un signalement qui ne pourra pas laisser indifférent un certain monsieur Raoul. Par une chance extraordinaire, cette demoiselle vient sonner à son domicile. Par erreur puisqu’elle voulait voir l’habitant de l’étage au-dessus, le marquis Jean d’Erlemont.  Extrait : Les gens du village essayèrent vainement de le faire parler : leur curiosité fut déjouée. Il montait la garde âprement. Tout au plus remarqua-t-on que, à diverses reprises, peut-être une fois par an, et à des époques différentes, un monsieur arrivait le soir en automobile, couchait au château, et repartait le lendemain dans la nuit. Le propriétaire, sans doute, qui venait s'entretenir avec Lebardon. Mais aucune certitude. On n'en sut pas davantage de ce côté. Onze ans plus tard, le gendarme Lebardon mourait. Sa femme demeura seule dans la tour d'entrée. Aussi peu bavarde que son mari, elle ne dit rien de ce qui se passait dans le château. Mais s'y passait-il quelque chose ? Et quatre ans encore s'écoulèrent.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1604-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1604-6</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1619-0</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leblanc_maurice_-_la_femme_aux_deux_sourires</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <meta content="{&quot;Maurice Leblanc&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:15.659376+00:00" name="calibre:timestamp"/>
+        <meta content="femme aux deux sourires, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

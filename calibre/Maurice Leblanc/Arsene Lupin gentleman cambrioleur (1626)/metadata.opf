@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1626</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7d50e577-fc9f-4ec0-aa03-4420a0a3f718</dc:identifier>
+        <dc:title>Arsène Lupin gentleman cambrioleur</dc:title>
+        <dc:creator opf:file-as="Leblanc, Maurice" opf:role="aut">Maurice Leblanc</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1907-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Arsène Lupin, gentleman-cambrioleur est un recueil de neuf nouvelles, écrites par Maurice Leblanc, qui constituent les premières aventures d'Arsène Lupin. La première nouvelle du recueil, L'Arrestation d'Arsène Lupin, est publiée en juillet 1905 dans le journal Je sais tout. Il s'agit de la première nouvelle mettant en œuvre Arsène Lupin. Celle-ci ayant rencontré un réel succès, Maurice Leblanc est encouragé à écrire la suite par son éditeur. Or, comme l'auteur est perplexe sur la façon poursuivre les aventures d'un héros qui vient d'être coffré, l'éditeur l'enjoint de le faire évader. La saga du gentleman-cambrioleur est née. Plusieurs nouvelles paraissent dans Je sais tout, à intervalles irréguliers, jusqu'en 1907, avant d'être regroupées en volume. Extrait : Au fond, je bénissais Arsène Lupin. N'était-ce pas lui qui nous rapprochait ? N'était-ce pas grâce à lui que j'avais le droit de m'abandonner aux plus beaux rêves ? Rêves d'amour et rêves moins chimériques, pourquoi ne pas le confesser ? Les Andrézy sont de bonne souche poitevine, mais leur blason est quelque peu dédoré, et il ne me paraît pas indigne d'un gentilhomme de songer à rendre à son nom le lustre perdu. Et ces rêves, je le sentais, n'offusquaient point Nelly. Ses yeux souriants m'autorisaient à les faire. La douceur de sa voix me disait d'espérer. Et jusqu'au dernier moment, accoudés au bastingage, nous restâmes l'un près de l'autre, tandis que la ligne des côtes américaines voguait au-devant de nous. On avait interrompu les perquisitions. On attendait. Depuis les premières jusqu'à l'entrepont où grouillaient les émigrants, on attendait la minute suprême où s'expliquerait enfin l'insoluble énigme. Qui était Arsène Lupin ? Sous quel nom, sous quel masque se cachait le fameux Arsène Lupin ?</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1595-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1595-7</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1612-1</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leblanc_maurice_-_arsene_lupin_gentleman_cambrioleur</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Maurice Leblanc&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:19.660966+00:00" name="calibre:timestamp"/>
+        <meta content="Arsène Lupin gentleman cambrioleur" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

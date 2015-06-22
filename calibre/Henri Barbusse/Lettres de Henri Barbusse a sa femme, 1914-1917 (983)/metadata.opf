@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">983</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d18fa49a-46f3-4fe5-919c-f66d46465da3</dc:identifier>
+        <dc:title>Lettres de Henri Barbusse à sa femme, 1914-1917</dc:title>
+        <dc:creator opf:file-as="Barbusse, Henri" opf:role="aut">Henri Barbusse</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1937-12-14T23:00:00+00:00</dc:date>
+        <dc:description>Il s'agit de la correspondance de guerre de Henri Barbusse. Bien qu'âgé de quarante et un ans, L'écrivain s'est engagé en août 1914 comme simple soldat au 23e régiment de Ligne. Il part au Front le 21 décembre. Extrait : « Dans le boyau même, il y avait des cadavres qu’on ne peut retirer de là ni ensevelir (on n’a pas eu le temps jusqu’ici), et qu’on piétine en passant. L’un d’eux, qui a un masque de boue et deux trous d’yeux, laisse traîner une main qui est effilochée et à moitié détruite par les pieds des soldats qui se hâtent, en file, le long de ce boyau. On a pu le voir, le boyau étant couvert à cet endroit, on a allumé, une seconde. N’est-ce point macabre, ces morts qu’on use de la sorte comme de pauvres choses ? »</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1057-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1057-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">barbusse_henri_-_lettres_de_henri_barbusse_a_sa_femme_1914-1917</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>correspondance</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Henri Barbusse&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:08.398344+00:00" name="calibre:timestamp"/>
+        <meta content="Lettres de Henri Barbusse à sa femme, 1914-1917" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

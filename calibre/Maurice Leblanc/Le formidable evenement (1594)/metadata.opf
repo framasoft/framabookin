@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1594</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">53639054-92ef-4bb2-bad6-e17efa795e1f</dc:identifier>
+        <dc:title>Le formidable événement</dc:title>
+        <dc:creator opf:file-as="Leblanc, Maurice" opf:role="aut">Maurice Leblanc</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Le Formidable Événement est un roman de science-fiction de Maurice Leblanc. Dans les premières années du XXe siècle, un soulèvement géologique soudain et de grande ampleur fait remonter le sol de la Manche, permettant du coup de passer d’Angleterre en France à pied sec.  Les humeurs tectoniques ont fait apparaître une terre sans nation, sans loi... Extrait : Autour d'eux, il y avait peu de monde, l'affolement ayant porté davantage sur les voyageurs de première classe. Mais, hormis les deux fiancés, tous ceux qui avaient persisté trahissaient, par quelque signe, leur inquiétude secrète ou leur effroi. À droite, c'étaient deux vieux, très vieux pasteurs, qu'un troisième plus jeune accompagnait. Ces trois-là restaient impassibles, frères de ces héros qui chantaient des hymnes au naufrage du Titanic. Pourtant leurs mains étaient jointes comme pour la prière. À droite se tenait le couple français dont Simon Dubosc avait surpris les paroles douloureuses. Le père et la mère, serrés l'un contre l'autre, interrogeaient l'horizon avec des yeux de fièvre. Quatre garçons, les aînés, tous quatre forts, solides, les joues rouges de santé, allaient et venaient, en quête de renseignements qu'ils rapportaient aussitôt. Assise aux pieds de ses parents, une petite fille pleurait, sans rien dire. La mère nourrissait le sixième enfant qui, de temps en temps, se retournait vers Isabel et lui souriait.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1611-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1611-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leblanc_maurice_-_le_formidable_evenement</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Maurice Leblanc&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:13.170106+00:00" name="calibre:timestamp"/>
+        <meta content="formidable événement, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1541</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">882fe4ad-7185-48d8-ba83-22cac17ff976</dc:identifier>
+        <dc:title>Contes fantastiques II</dc:title>
+        <dc:creator opf:file-as="Hoffmann, E.T.A." opf:role="aut">E.T.A. Hoffmann</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1829-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Il est l'auteur de nombreux contes (Märchen en allemand) comme : L'Homme au sable, Les Mines de Falun ou Casse-noisette et le Roi des souris et de plusieurs romans, dont son œuvre principale Le Chat Murr. Il devient alors, dès les années 1820, l'une des illustres figures du romantisme allemand et il inspire de nombreux artistes, en Europe comme dans le reste du monde. Par exemple, Jacques Offenbach écrit l'opéra fantastique en cinq actes Les Contes d'Hoffmann en s'inspirant de l'univers du romantique allemand. Extrait : Pendant ce temps, le peuple s'était rassemblé autour du jeune homme que l'on croyait mort, et il se passa une scène singulière. Au moment où on se disposait à l'emporter, une vieille femme couverte de haillons se fit jour à travers la foule, et s'écria : -- Laissez-le, laissez-le ; il n'est pas mort ! Elle s'agenouilla alors auprès de lui, posa sa tête sur son sein, et lui frotta doucement le front, en le nommant des noms les plus doux. En contemplant l'affreuse figure ridée de la vieille, qui se penchait sur le charmant visage du jeune homme, dont les traits étaient pâles et immobiles ; en voyant les sales et hideux haillons de la mendiante, qui flottaient sur les riches habits du bel adolescent ; ces mains osseuses et décharnées, qui se promenaient sur ce front blanc et uni, il semblait que ce fût dans les bras de la mort même que reposait cet enfant. Un effroi involontaire s'empara des assistants ; un grand nombre d'entre eux s'éloigna en silence, et il n'en resta que quelques-uns qui le portèrent à une gondole que leur indiqua la vieille mendiante. La barque s'éloigna rapidement et les conduisit tous deux vers une modeste demeure.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1553-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1553-7</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1552-0</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">hoffmann_e_t_a_-_contes_fantastiques_ii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>conte</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Allemagne</dc:subject>
+        <meta content="{&quot;E.T.A. Hoffmann&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:02.440656+00:00" name="calibre:timestamp"/>
+        <meta content="Contes fantastiques II" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

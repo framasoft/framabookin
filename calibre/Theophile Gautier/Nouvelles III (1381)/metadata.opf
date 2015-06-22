@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1381</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">31a1bf9f-0422-4a64-8499-150b4d67777f</dc:identifier>
+        <dc:title>Nouvelles III</dc:title>
+        <dc:creator opf:file-as="Gautier, Théophile" opf:role="aut">Théophile Gautier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Gautier a écrit une trentaine de contes et nouvelles, pour la plupart de nature fantastique. Extrait : Je fus surpris de sa légèreté ; ce n'était pas un pied de métal, mais bien un pied de chair, un pied embaumé, un pied de momie : en regardant de près, l'on pouvait distinguer le grain de la peau et la gaufrure presque imperceptible imprimée par la trame des bandelettes. Les doigts étaient fins, délicats, terminés par des ongles parfaits, purs et transparents comme des agathes ; le pouce, un peu séparé, contrariait heureusement le plan des autres doigts à la manière antique, et lui donnait une attitude dégagée, une sveltesse de pied d'oiseau ; la plante, à peine rayée de quelques hachures invisibles, montrait qu'elle n'avait jamais touché la terre, et ne s'était trouvée en contact qu'avec les plus fines nattes de roseaux du Nil et les plus moelleux tapis de peaux de panthères.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1482-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1482-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">gautier_theophile_-_nouvelles_iii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Théophile Gautier&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:29.761501+00:00" name="calibre:timestamp"/>
+        <meta content="Nouvelles III" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

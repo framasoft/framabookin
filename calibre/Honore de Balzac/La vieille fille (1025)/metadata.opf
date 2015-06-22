@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1025</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2a1867d6-4e9f-4447-80c8-864a7a6c09af</dc:identifier>
+        <dc:title>La vieille fille</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études de moeurs. Deuxième livre, Scènes de la vie de province - Tome III. Septième volume de l'édition Furne 1842. Extrait : Ce qui, de Paris à Pékin, aurait fait remarquer le chevalier, était la douce paternité de ses manières avec ces grisettes ; elles lui rappelaient les filles d’autrefois, ces illustres reines d’Opéra, dont la célébrité fut européenne pendant un bon tiers du dix-huitième siècle. Il est certain que le gentilhomme qui a vécu jadis avec cette nation féminine oubliée comme toutes les grandes choses, comme les Jésuites et les Flibustiers, comme les Abbés et les Traitants, a conquis une irrésistible bonhomie, une facilité gracieuse, un laissez-aller dénué d’égoïsme, tout l’incognito de Jupiter chez Alcmène, du roi qui se fait la dupe de tout, qui jette à tous les diables la supériorité de ses foudres, et veut manger son Olympe en folies, en petits soupers, en profusions féminines, loin de Junon surtout. Malgré sa robe de vieux damas vert, malgré la nudité de la chambre où il recevait, et où il y avait à terre une méchante tapisserie en guise de tapis, de vieux fauteuils crasseux, où les murs tendus d’un papier d’auberge offraient ici les profils de Louis XVI et des membres de sa famille tracés dans un saule pleureur, là le sublime testament imprimé en façon d’urne, enfin toutes les sentimentalités inventées par le royalisme sous la Terreur ; malgré ses ruines, le chevalier se faisant la barbe devant une vieille toilette ornée de méchantes dentelles respirait le dix-huitième siècle !... Toutes les grâces libertines de sa jeunesse reparaissaient, il semblait riche de trois cent mille livres de dettes et avoir son vis-à-vis à la porte. Il était aussi grand que Berthier communiquant, pendant la déroute de Moscou, des ordres aux bataillons d’une armée qui n’existait plus.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1002-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1002-0</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0999-4</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_la_vieille_fille</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:16.790712+00:00" name="calibre:timestamp"/>
+        <meta content="vieille fille, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

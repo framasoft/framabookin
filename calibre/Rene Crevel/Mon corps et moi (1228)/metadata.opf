@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1228</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c5580a2c-300d-4e4f-b933-40d53d8e1712</dc:identifier>
+        <dc:title>Mon corps et moi</dc:title>
+        <dc:creator opf:file-as="Crevel, René" opf:role="aut">René Crevel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1925-06-02T22:00:00+00:00</dc:date>
+        <dc:description>"On le lira de plus en plus et on délaissera les grands noms gonflés de vent de ses ainés qui acceptèrent la pourriture" : Ezra Pound. «Crevel, écrivait André Breton en 1952 dans ses Entretiens, avec ce beau regard d'adolescent que nous gardent quelques photographies, les séductions qu'il exerce, les craintes et les bravades aussi promptes à s'éveiller en lui... à travers tout cela c'est l'angoisse qui domine. Il est d'ailleurs psychologiquement très complexe, contrecarré dans une sorte de frénésie qui le possède par son amour du XVIIIe et particulièrement de Diderot. » « Né révolté comme d'autres naissent avec les yeux bleus» écrira Philippe Soupault. René Crevel vient d'apprendre, qu'il souffrait d'une tuberculose rénale alors qu'il se croyait guéri. La nuit suivante, il se suicide au gaz dans son appartement, après avoir griffonné sur un papier « Prière de m'incinérer. Dégoût ». Klaus Mann qui fut un ami proche résuma dans son livre Le Tournant " Il se suicida parce qu'il avait peur de la démence, il se suicida parce qu'il tenait le monde pour dément". Extrait : J'étais seul à table. Me voici seul dans ma chambre. Seul. Cette aventure, je l'ai si fort et si longtemps désirée que j'ai souvent douté qu'elle pût être jamais. Or ce soir, mon souhait enfin réalisé, je me trouve disponible à moi-même. Aucun pont ne me conduit aux autres. Des plus et des mieux aimés je n'ai pour tout souvenir qu'une fleur, une photo.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1584-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1584-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">crevel_rene_-_mon_corps_et_moi</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;René Crevel&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:58.801083+00:00" name="calibre:timestamp"/>
+        <meta content="Mon corps et moi" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

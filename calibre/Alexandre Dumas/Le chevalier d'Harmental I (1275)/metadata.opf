@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1275</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7432b294-ddde-486d-b79e-e42480fc4246</dc:identifier>
+        <dc:title>Le chevalier d’Harmental I</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Raoul d'Harmental, jeune aristocrate monté à Paris en 1711, est un aventurier plutôt susceptible et impétueux. S'étant illustré à la dernière victoire de Louis XIV, nommé colonel à cette occasion, d'Harmental se trouve après la mort du roi mêlé au conflit qui oppose le parti des princes légitimes et celui des bâtards. Extrait : Le chevalier d'Harmental avait assisté en spectateur intéressé, il est vrai, mais en spectateur passif, à toutes ces intrigues, attendant toujours qu'elles revêtissent un caractère qui lui permît d'y prendre part. S'il y avait eu lutte franche et armée, il se fût rangé du côté où la reconnaissance l'appelait. Trop jeune et trop chaste encore, si on peut le dire en matière politique, pour tourner avec le vent de la fortune, il resta respectueux à la mémoire de l'ancien roi et aux ruines de la vieille cour. Son absence du Palais-Royal, autour duquel gravitait à cette heure tout ce qui voulait reprendre une place dans le ciel politique, fut interprétée à opposition, et un matin, comme il avait reçu le brevet qui lui accordait un régiment, il reçut l'arrêté qui le lui enlevait.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0039-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0039-7</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1412-7</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_le_chevalier_d_harmental_i</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:08.126539+00:00" name="calibre:timestamp"/>
+        <meta content="chevalier d’Harmental I, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

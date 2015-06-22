@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1175</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">04d9be47-dc13-4cf4-a194-fab41e0ac4ee</dc:identifier>
+        <dc:title>Fernande</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La baronne de Barthèle, quadragénaire encore belle, reçoit ce matin-là son vieil ami et amant le comte de Montgiroux, pair de France. Elle lui apprend qu'elle compte le garder pour toute la journée et la nuit car son fils Maurice se meurt de fièvre cérébrale. Maurice est marié à la nièce du comte. Cet ordre de la baronne indispose le comte qui prétexte avoir des affaires politiques à régler en soirée, mais on devine vite que c'est plutôt une galanterie qui l'attend... Extrait : L'apparition du nouveau personnage qui venait d'entrer en scène avait encore, comme on le comprend bien, augmenté le trouble et la confusion de tous les acteurs du drame intime que nous essayons de mettre sous les yeux de nos lecteurs : l'âge et le titre de mère donnaient à madame de Barthèle une sorte de puissance morale aux yeux des jeunes gens et de la femme qu'ils avaient amenée ; mais Clotilde, avec son titre d'épouse, se trouvait placée dans une situation fausse qu'il ne lui était plus possible d'éviter. On avait beau se dire à soi-même, et répéter hautement à tous, qu'on eût ou qu'on n'eût pas la conviction d'un péril imminent...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0006-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0006-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_fernande</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:47.397608+00:00" name="calibre:timestamp"/>
+        <meta content="Fernande" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

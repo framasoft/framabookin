@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1219</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">81ed1696-53ed-4907-ac64-e41840f14034</dc:identifier>
+        <dc:title>Jack</dc:title>
+        <dc:creator opf:file-as="Daudet, Alphonse" opf:role="aut">Alphonse Daudet</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>En décembre 1858, refusé par l'institution jésuite de Vaugirard, Jack, fils adultérin d'Ida de Barancy, une demi-mondaine, échoue dans le collège insalubre du mulâtre Moronval. Ida succombe au charme d'un des professeurs, le rimailleur d'Argenton, et quitte son riche amant pour son poète. Jack s'enfuit du collège et rejoint le couple après maintes tribulations. L'intelligence de l'enfant se développe au contact du docteur Rivals. Mais d'Argenton, qui ne l'aime pas, décrète qu'il sera ouvrier. Dans une île bretonne, Jack apprend son dur métier de fondeur chez les Roudic... Roman noir, comme le Petit Chose, inspiré par une histoire authentique, Jack reprend la trame d'une enfance malheureuse, alors à la mode. La narration se centre sur le destin de Jack et en souligne l'implacable et fatal développement. Extrait : Son vieux devait être très riche, car madame ne regardait à rien, et il y avait un coulage énorme dans la maison, que dirigeait Mlle Constant, une femme de chambre factotum, seule et véritable influence du logis. C'était cette Constant qui donnait à sa maîtresse des adresses de fournisseurs, qui guidait son inexpérience de la vie parisienne et de la bonne société ; car, avant tout, le rêve, le désir de cette déclassée, désir qui lui était venu sans doute avec la fortune, était de passer pour une femme comme il faut, distinguée, noble, irréprochable.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0086-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0086-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">daudet_alphonse_-_jack</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alphonse Daudet&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:57.007823+00:00" name="calibre:timestamp"/>
+        <meta content="Jack" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

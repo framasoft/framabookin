@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1825</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">588c23f5-458f-4e65-9465-410d0593f286</dc:identifier>
+        <dc:title>Emma</dc:title>
+        <dc:creator opf:file-as="Austen, Jane" opf:role="aut">Jane Austen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Emma vit avec son père, un vieil homme veuf et malade. Elle est belle intelligente et riche. Avec le mariage de sa gouvernante qui la quitte, Emma décide de s'occuper du mariage de nombre de ses relations. Sûre d'elle, elle est persuadée d'avoir les talents pour cette activité. Mais son inexpérience de l'amour et des gens, ses propres erreurs de jugement sur ses émotions amoureuses, lui valent bien des surprises et déceptions. Ce roman décrivant la vie et les moeurs des jeunes femmes provinciales de la classe moyenne est souvent considéré comme le roman le plus abouti de Jane Austen. Extrait : Elle se demanda comment elle supporterait ce changement ? Malgré tous ses avantages personnels et sa situation, elle allait se trouver isolée intellectuellement ; son père en effet ne pouvait la suivre sur le terrain d'une conversation sérieuse ou enjouée ; la grande disproportion de leurs âges (M. Woodhouse ne s'était pas marié jeune) se trouvait augmentée par la suite de la constitution et des habitudes de ce dernier ; dénué d'activité physique et morale, il paraissait plus vieux qu'il ne l'était ; tout le monde l'aimait pour la bonté de son cœur et son aimable caractère, mais en aucun temps il n'avait brillé par son esprit.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0790-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0790-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">austen_jane_-_emma</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Angleterre</dc:subject>
+        <meta content="{&quot;Jane Austen&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:59.748779+00:00" name="calibre:timestamp"/>
+        <meta content="Emma" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

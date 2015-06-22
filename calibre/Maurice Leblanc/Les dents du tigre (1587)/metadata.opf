@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1587</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">efc541b2-0796-4c25-85af-e3855590a915</dc:identifier>
+        <dc:title>Les dents du tigre</dc:title>
+        <dc:creator opf:file-as="Leblanc, Maurice" opf:role="aut">Maurice Leblanc</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1921-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Le roman connaît une pré-publication en feuilleton dans Le Journal en 1920, mais a été écrit par Maurice Leblanc pendant la Première Guerre mondiale en 1918. Il relate le combat poignant d'Arsène Lupin, en tant que Don Luis Perenna, contre un ennemi sournois et manipulateur qui n'agit que par procuration en captivant ses victimes afin de s'attribuer un héritage de 200 millions. Extrait : Puis la voix s'affaiblit encore, des sons indistincts sortirent de ses lèvres blêmes. Sa bouche parut mâcher dans le vide, comme celle de certains vieillards qui ruminent interminablement. Sa tête s'inclina peu à peu sur sa poitrine. Il poussa deux ou trois soupirs, fut secoué d'un grand frisson et ne bougea plus. Et le râle de l'agonie commença, très bas, d'un rythme égal, avec des interruptions où un effort suprême de l'instinct semblait ranimer le souffle vacillant de l'esprit et susciter dans les yeux éteints comme des lueurs de conscience. À cinq heures moins dix, le préfet de police entrait dans son cabinet de travail.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1613-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1613-8</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1606-0</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leblanc_maurice_-_les_dents_du_tigre</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Maurice Leblanc&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:11.753479+00:00" name="calibre:timestamp"/>
+        <meta content="dents du tigre, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

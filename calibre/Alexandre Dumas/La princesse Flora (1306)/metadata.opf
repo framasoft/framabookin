@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1306</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bc199f19-ab2a-494b-a51c-d0c0c345d653</dc:identifier>
+        <dc:title>La princesse Flora</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La jeune et jolie Flora, épouse du prince Pierre, vit à Saint-Pétersbourg. Un jour, à bord de la frégate L'Espérance, elle rencontre le capitaine du vaisseau, Pravdine, et tombe sous son charme. Le capitaine, alors, devient fou, selon les commentaires de son second et ami Nil-Pavlovitch: il est amoureux et néglige sa frégate. Il préfère assiéger la princesse. Celle-ci repousse de son mieux, bien que fort coquettement, les avances du capitaine. Extrait : - Voilà la chose ! s'écria le lieutenant avec terreur ; de la délacer ! On aurait demandé à Élie-Petrovitch où passe et où s'amarre la dernière cargue de chaque vaisseau chrétien ou barbaresque, et il aurait débité sa réponse aussi couramment que  Pater Noster, de la quille jusqu'au mât de perroquet ; mais il n'aurait pu dire de la même façon où chercher la bouline des dames. Voilà comment le goéland a été pris au piège ; il est difficile de faire sans accident le tour du monde ; mais une jolie femme est bien autrement dangereuse que le cap Horn ! Depuis ce temps, en vérité, notre capitaine expose la frégate et l'équipage, comme si le diable en personne était assis à son gouvernail. On lui dit qu'il faut réparer le cabestan, et il répond guirlande ; on le prie de changer d'ancre, et il change de gilet ; quand il regarde à travers son binocle, il lui semble qu'une galiote hollandaise passe, en robe jaune ; quand un grain s'abat sur le bâtiment et que les agrès craquent, il se met à rire. Nous rions, et il soupire ; nous buvons, et il regarde dans son verre, comme s'il cherchait sa bonne aventure dans du marc de café.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0028-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0028-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_la_princesse_flora</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:14.396928+00:00" name="calibre:timestamp"/>
+        <meta content="princesse Flora, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

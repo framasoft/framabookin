@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1665</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ac2ff5f5-2506-4912-ba64-48bbb22d24a4</dc:identifier>
+        <dc:title>Le rêve</dc:title>
+        <dc:creator opf:file-as="Zola, Émile" opf:role="aut">Émile Zola</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1888-12-14T23:00:00+00:00</dc:date>
+        <dc:description>Le Rêve est le seizième volume de la série Les Rougon-Macquart. Zola y aborde le thème de la religion, mais de façon beaucoup moins violente et polémique qu’il ne l’avait fait dans la Conquête de Plassans ou la Faute de l'abbé Mouret. Cette fois-ci, il s’intéresse à la foi populaire et au renouveau du mysticisme dans la société française de la seconde moitié du xixe siècle. extrait : Et, de toute la cité mystique, la maison des Hubert, où désormais Angélique allait vivre, était la plus voisine de la cathédrale, celle qui tenait à sa chair même. L'autorisation de bâtir là, entre deux contreforts, avait dû être accordée par quelque curé de jadis, désireux de s'attacher l'ancêtre de cette lignée de brodeurs, comme maître chasublier, fournisseur de la sacristie. Du côté du midi, la masse colossale de l'église barrait l'étroit jardin : d'abord le pourtour des chapelles latérales dont les fenêtres donnaient sur les plates-bandes, puis le corps élancé de la nef que les arcs-boutants épaulaient, puis le vaste comble couvert de feuilles de plomb.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0250-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0250-6</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0238-4</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">zola_emile_-_le_reve</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Émile Zola&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:27.456023+00:00" name="calibre:timestamp"/>
+        <meta content="rêve, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

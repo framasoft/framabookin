@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1473</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9bc7915f-1f20-4c2f-a9cc-46c15cf6201f</dc:identifier>
+        <dc:title>Madame de Dreux</dc:title>
+        <dc:creator opf:file-as="Gréville, Henry" opf:role="aut">Henry Gréville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1882-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Henry Gréville, pseudonyme de Alice Marie Céleste Durand née Fleury (1842-1902), a publié de nombreux romans, des nouvelles, des pièces, de la poésie ; elle a été à son époque un écrivain à succès. Extrait : Elle aimait Guy de tout son cœur, mais peut-être plus encore de tous ses yeux. C'est à trente ans que les femmes aiment avec leur âme ; à dix-huit, elles sont le plus souvent surprises par un amour dont les apparences seules sont éthérées. C'est ce qui donne la clef de nombre de séductions sans cela inexplicables : elles ne choisissent pas, elles subissent. Celles qui ont l'âme haute et l'esprit cultivé n'hésitent pas ; leur amour est leur devoir, et leur devise celle du lierre : « Je meurs où je m'attache. » Blanche fut ainsi. La main de Guy, en touchant la sienne dans une contredanse, avait fait courir dans ses veines un frisson délicieux. Cet homme devait être son mari.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1521-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1521-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">greville_henry_-_madame_de_dreux</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Henry Gréville&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:48.989246+00:00" name="calibre:timestamp"/>
+        <meta content="Madame de Dreux" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

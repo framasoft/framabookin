@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1591</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">08351853-3e9a-46d7-8d63-2ef8419c530e</dc:identifier>
+        <dc:title>Jérusalem</dc:title>
+        <dc:creator opf:file-as="Loti, Pierre" opf:role="aut">Pierre Loti</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Pierre Loti, agnostique notable, promène son regard dans Jérusalem et nous présente le Saint Sépulcre, la mosquée d'Omar, le Dôme du Rocher, le Mur des Lamentations ou la vallée de Josaphat. Bien qu'il n'y ait pas retrouvé la foi qu'il était venu chercher, il en donne un compte rendu vibrant. Jérusalem est le deuxième volet d'un triptyque, les deux autres étant Le Désert et La Galilée. Extrait : Vraiment, mon livre ne pourra être lu et supporté que par ceux qui se meurent d’avoir possédé et perdu l’Espérance Unique ; par ceux qui, à jamais incroyants comme moi, viendraient encore au Saint-Sépulcre avec un cœur plein de prière, des yeux pleins de larmes, et qui, pour un peu, s’y traîneraient à deux genoux...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1093-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1093-8</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1094-5</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">loti_pierre_-_jerusalem</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Pierre Loti&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:12.565680+00:00" name="calibre:timestamp"/>
+        <meta content="Jérusalem" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1808</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">66fc0a95-4f2d-451e-a9d3-726a050d5081</dc:identifier>
+        <dc:title>Les terres d'or</dc:title>
+        <dc:creator opf:file-as="Aimard, Gustave" opf:role="aut">Gustave Aimard</dc:creator>
+        <dc:creator opf:file-as="Aimard, Gustave" opf:role="aut">J.-B. d'Auriac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Son existence tenait du roman ; -- comme cela arrive beaucoup trop fréquemment pour l'ordre et le bonheur de la société -- il avait été le héros d'une mésalliance qui avait fait grand bruit dans le monde londonien. À une époque où il était jardinier dans les propriétés d'une noble famille, il avait su se faire adorer par la fille de la maison, l'avait enlevée, et avait fui avec elle en Amérique. La malheureuse et imprudente victime de cette passion s'était aperçue trop tard de son funeste aveuglement ; il lui avait fallu dévorer dans l'humiliation et les larmes le pain amer de la pauvreté, assaisonné de remords et d'affronts, -- car son séducteur n'était qu'un cœur faux, un esprit misérable, tout à fait indigne du sacrifice consommé en sa faveur. Enchaînée à ce misérable époux, Mistress Newcome avait perdu non seulement amis et famille, mais encore sa fortune et ses espérances, car elle avait été déshéritée. Thomas n'avait convoité en elle que la richesse ; quand il la vit pauvre il la prit en horreur. La malheureuse femme traîna pendant quelques années une existence désespérée ; puis elle mourut, laissant une fille unique à laquelle elle léguait sa beauté, son esprit fin, distingué, impressionnable, et, par dessus tout, les noirs chagrins qui l'avaient tuée.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1240-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1240-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">aimard_gustave_-_les_terres_d_or</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture aisée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gustave Aimard&quot;: &quot;&quot;, &quot;J.-B. d'Auriac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:56.460254+00:00" name="calibre:timestamp"/>
+        <meta content="terres d'or, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

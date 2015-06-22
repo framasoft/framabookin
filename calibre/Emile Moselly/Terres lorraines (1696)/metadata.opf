@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1696</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d0ca139b-92c2-405a-9de1-592ef63795a7</dc:identifier>
+        <dc:title>Terres lorraines</dc:title>
+        <dc:creator opf:file-as="Moselly, Émile" opf:role="aut">Émile Moselly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1907-12-14T23:00:00+00:00</dc:date>
+        <dc:description>Terres lorraines est un roman publié en 1907. Il fut récompensé rétroactivement la même année par le prix Goncourt, en lieu et place du recueil de nouvelles Jean des Brebis ou le livre de la misère du même auteur. Extrait : Celle-là véritablement ressemblait à une demoiselle de la ville, avec son col blanc rabattu, sa robe d’étoffe grise dessinant sa taille souple, ses bandeaux plats séparés par une raie. On voyait bien à la fraîcheur de son teint qu’elle restait à la maison, loin des hâles desséchants et des soleils qui mordent la peau. Sous ses longs cils noirs, son regard avait une douceur soyeuse, une profondeur pensive qui attirait. Jolie ? On n’en savait rien. Mais à la regarder longuement, de toute sa personne s’exhalait un charme qui finissait par vous prendre. Ainsi poussent, dans les haies, des fleurs chétives, maltraitées par les vents, mais dont l’odeur tenace, inoubliable, fait chanter dans notre coeur des rêves infinis de tendresse.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1132-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1132-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">moselly_emile_-_terres_lorraines</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Émile Moselly&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:33.751798+00:00" name="calibre:timestamp"/>
+        <meta content="Terres lorraines" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

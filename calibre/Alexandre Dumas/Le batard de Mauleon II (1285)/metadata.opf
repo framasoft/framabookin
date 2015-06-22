@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1285</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5be846b9-face-4136-abe1-22ee50f13830</dc:identifier>
+        <dc:title>Le bâtard de Mauléon II</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Agénor de Mauléon et son fidèle écuyer Musaron se dirigent vers le Portugal, pour y rejoindre Frédéric, Grand Maître de Saint-Jacques, frère de don Pedro, roi d'Espagne. Agénor rencontre sur sa route un Maure et sa suite, dont une litière aux rideaux fermés qui l'intrigue fort. Ce Maure, Mothril, vient chercher Frédéric pour le conduire à Séville, chez le roi. Agénor les accompagne; il perce alors le secret de la litière... Extrait : - Voici, très saint-père : les illustres soldats, un peu mécréants, c'est vrai, mais fort repentants, que vous voyez d'ici, nombreux comme les feuilles des forêts et comme les sables de la mer, -- la comparaison est tirée des livres saints, -- je crois, -- les illustres soldats que vous voyez d'ici, dis-je, sous les ordres du seigneur Hugues de Caverley, du Chevalier-Vert, de Claude l'Écorcheur, du Bègue de Vilaine, d'Olivier de Mauny et autres valeureux chevaliers, attendent de Votre Sainteté un subside pour entrer en campagne. Le roi de France a promis cent mille écus d'or ; c'est un prince très chrétien, et qui mérite d'être canonisé certainement, ni plus ni moins qu'un pape. Or, Votre Sainteté, qui est la clef de voûte de la chrétienté, pourra bien donner deux cent mille écus, par exemple.  Urbain fit un nouveau bond sur son fauteuil. Mais cette élasticité dans les muscles du saint-père, élasticité qui ne pouvait venir que d'une surexcitation nerveuse, ne déconcerta point Bertrand, qui resta dans la même attitude respectueuse, mais ferme. - Messire, dit Sa Sainteté, je vois qu'on se gâte dans la société des brigandeaux, et certaines gens que je ne nommerai pas, et qui ont joui jusqu'à présent des faveurs du Saint-Siège, eussent été mieux payés selon leur mérite, à ce qu'il me semble, s'ils en eussent subi les rigueurs.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1385-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1385-4</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1386-1</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_le_batard_de_mauleon_ii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:10.139630+00:00" name="calibre:timestamp"/>
+        <meta content="bâtard de Mauléon II, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

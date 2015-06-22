@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1501</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ce8239fe-0473-4ef8-8a7a-068e99836d41</dc:identifier>
+        <dc:title>Marthe, et autres nouvelles</dc:title>
+        <dc:creator opf:file-as="Huysmans, Joris-Karl" opf:role="aut">Joris-Karl Huysmans</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1876-06-02T23:00:00+00:00</dc:date>
+        <dc:description>En 1876, Huysmans publie son premier roman, d'inspiration ouvertement naturaliste, Marthe, histoire d'une fille, qui a pour thème la vie et les déboires d’une jeune parisienne contrainte par une société cupide et sans scrupules à aller jusqu'à se prostituer pour survivre. Craignant la censure qui sévit alors en France, Huysmans fit d’abord éditer ce roman à Bruxelles. Extrait : - Bête, la petite, très bête, supérieurement bête, ah ! mais oui ! prendre un amant c'est bien s'il est riche ; mieux vaut sans cela garder le vieux museau de Ginginet -- pas beau, c'est vrai -- Ginginet -- pas jeune, c'est encore vrai, -- mais artiste lui ! artiste ! et elle lui préfère un greluchon qui fait des vers ! un métier de crève-la-faim ! c'est clair, comme ma voix -- pas ce soir par exemple -- je suis rogomme comme tout -- ça me rappelle tout ça la chanson que je chantais à Amboise quand j'étais premier ténor au Grand Théâtre, ma gloire passée, quoi ! -- la chanson de « ma femme et de mon parapluie ». Étaient-ils bêtes, au reste, ces couplets ! comme si une poupée et un landau à baleines c'était pas la même chose ! tous les deux se retournent et vous lâchent quand il fait mauvais ! Eh ! Bourdeau, écoute donc, je te disais que j'étais un père pour elle, un père noble qui la laissait battre de l'œil devant les jeunes gens riches, mais devant des pauvres, devant des raffalés comme ça, pouah ! zut ! raca !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1546-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1546-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">huysmans_joris-karl_-_marthe_et_autres_nouvelles</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Joris-Karl Huysmans&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:54.534510+00:00" name="calibre:timestamp"/>
+        <meta content="Marthe, et autres nouvelles" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

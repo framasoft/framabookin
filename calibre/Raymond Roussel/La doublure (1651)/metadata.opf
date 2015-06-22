@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1651</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a62aab47-6652-4065-b0c9-32bb4349a1e2</dc:identifier>
+        <dc:title>La doublure</dc:title>
+        <dc:creator opf:file-as="Roussel, Raymond" opf:role="aut">Raymond Roussel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1897-12-14T23:00:00+00:00</dc:date>
+        <dc:description>Raymond Roussel a 20 ans lorsque son premier livre, «la Doublure», sort en librairie. Mais son insuccès marque à jamais l’auteur orgueilleux qui ne trouvera la gloire tant recherchée qu’à titre posthume. Raymond Roussel est ce qu'on appelle un auteur “difficile”. Délibérément ou non, il heurte les habitudes de lecture et les idées reçues. « Quand le volume parut, quand le jeune homme, avec une grand émotion, sortit dans la rue et s’aperçut qu’on ne se retournait pas sur son passage, le sentiment de gloire et la luminosité s’éteignirent brusquement. Alors commença une véritable crise de dépression mélancolique avec une sorte de délire de persécution, prenant la forme de l’obsession et de l’idée délirante du dénigrement universel des hommes les uns par les autres »</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1140-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1140-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">roussel_raymond_-_la_doublure</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Raymond Roussel&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:24.613940+00:00" name="calibre:timestamp"/>
+        <meta content="doublure, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

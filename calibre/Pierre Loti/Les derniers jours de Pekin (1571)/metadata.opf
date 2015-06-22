@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1571</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">29fdef20-f327-4419-93af-2d49c9fc006a</dc:identifier>
+        <dc:title>Les derniers jours de Pékin</dc:title>
+        <dc:creator opf:file-as="Loti, Pierre" opf:role="aut">Pierre Loti</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>"Je me suis borné à noter les choses qui ont passé directement sous mes yeux au cours des missions que vous m'avez données et d'un voyage que vous m'avez permis de faire dans une certaine Chine jusqu'ici à peu près inconnue. Quand nous sommes arrivés dans la mer Jaune, Pékin était pris et les batailles finissaient." Loti décrit ce qu'il voit de Pékin et de la Chine au lendemain du siège des légations par "ces incompréhensibles Boxers, à la fois atroces et admirables, grands hystériques de la patrie chinoise, qu'affolaient la haine et la terreur de l'étranger, — qui tel jour s’enfuyaient peureusement sans combattre, et, le lendemain, avec des clameurs de possédés, se jetaient à l’arme blanche au-devant de la mort, sous des pluies de balles, contre des troupes dix fois plus nombreuses."</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1102-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1102-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">loti_pierre_-_les_derniers_jours_de_pekin</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Pierre Loti&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:08.235843+00:00" name="calibre:timestamp"/>
+        <meta content="derniers jours de Pékin, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

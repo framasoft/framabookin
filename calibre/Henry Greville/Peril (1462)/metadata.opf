@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1462</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">91413be9-5ec0-4ba7-aa6c-90c6804cea8e</dc:identifier>
+        <dc:title>Péril</dc:title>
+        <dc:creator opf:file-as="Gréville, Henry" opf:role="aut">Henry Gréville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1891-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Henry Gréville, pseudonyme de Alice Marie Céleste Durand née Fleury (1842-1902), a publié de nombreux romans, des nouvelles, des pièces, de la poésie ; elle a été à son époque un écrivain à succès. Extrait : Des pleurs jaillirent des yeux de Mme Heurtey. Elle souffrait, ah ! certes ! Fallait-il qu'il l'aimât, la femme qui l'avait gardé cette nuit-là, pour avoir obtenu de lui qu'il lui sacrifiât sa mère ! Les autres, qu'importait ! puisqu'il les avait toujours quittées pour rentrer chez lui. Mais cette fois, avait-elle trouvé sa rivale, la femme qu'on préfère à tout, à sa mère, à son art, à son honneur ? Il fallait que ce fût celle-là ! car, à vingt-six ans, André savait ce qu'il faisait ; il savait quelle indignation l'attendait au retour... Il avait pesé, d'une part, son nouvel amour ; de l'autre, le respect de sa mère, et, volontairement, il avait sacrifié celui-ci à celui-là !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1526-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1526-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">greville_henry_-_peril</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Henry Gréville&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:46.705088+00:00" name="calibre:timestamp"/>
+        <meta content="Péril" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

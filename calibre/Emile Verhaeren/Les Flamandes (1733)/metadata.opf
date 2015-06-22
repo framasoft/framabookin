@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1733</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">37b06abe-1379-430b-b815-d53f66e8af03</dc:identifier>
+        <dc:title>Les Flamandes</dc:title>
+        <dc:creator opf:file-as="Verhaeren, Émile" opf:role="aut">Émile Verhaeren</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1883-12-14T23:00:00+00:00</dc:date>
+        <dc:description>Émile Adolphe Gustave Verhaeren, né à Saint-Amand, en Belgique,  est un poète belge flamand, d'expression française. En 1883, il publia son premier recueil de poèmes réalistes-naturalistes, Les Flamandes, consacré à son pays natal. Accueilli avec enthousiasme par l'avant-garde, l'ouvrage fit scandale au pays natal. Ses parents essayèrent même avec l'aide du curé du village d'acheter la totalité du tirage et de le détruire. Le scandale avait été un but inavoué du poète, afin de devenir connu plus rapidement. Extrait : Elles, ces folles, sont reines dans les godailles, - Que leurs goulus d’amour, en flamands, en lurons, - Mènent comme au beau temps des vieilles truandailles, - Tempes en eau, regards en feu, langue dehors, - Avec de grands hoquets, scandant les chansons grasses, - Des jurons crachés drus, des luttes corps à corps - Et des coups assommés à broyer leurs carcasses, - Tandis qu’elles, le sang toujours à fleur de peau, - La bouche ouverte aux cris, le gosier aux rasades, - Après des sauts de danse à fendre le carreau, - Des chocs de corps, des heurts de chair et des bourrades, - Des lèchements subis dans un étreignement, - Toutes moites d’ardeurs tombent dépoitraillées.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1157-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1157-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">verhaeren_emile_-_les_flamandes</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Belgique</dc:subject>
+        <meta content="{&quot;Émile Verhaeren&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:41.261608+00:00" name="calibre:timestamp"/>
+        <meta content="Flamandes, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

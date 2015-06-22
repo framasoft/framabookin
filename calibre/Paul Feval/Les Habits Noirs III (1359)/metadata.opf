@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1359</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">21e8e02b-f4d1-4892-ade2-0c28234c8664</dc:identifier>
+        <dc:title>Les Habits Noirs III</dc:title>
+        <dc:creator opf:file-as="Féval, Paul" opf:role="aut">Paul Féval</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1863-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Ce roman met en scène les tentatives criminelles des Habits Noirs (que couvre Lecoq, alors devenu chef de la Sûreté) contre la famille de Champmas, et contre la richissime mais avare paysanne Mathurine Goret. L'appât, dans les deux cas, est le «faux Louis XVII», rôle rempli parmi les Habits noirs par plusieurs personnages successifs. Celui-ci, qu'on appelle aussi M. Nicolas, séduit d'abord Ysole de Champmas, fille bâtarde du général de Champmas, et se sert de sa complicité inconsciente pour tenter de tuer sa soeur légitime, Suavita... Extrait : Il était cinq heures du soir environ. Dans cette chambre du premier étage, dont Paul Labre avait regardé si souvent, ce soir, les persiennes fermées, une jeune fille, une enfant plutôt, était couchée sur une chaise longue et semblait sommeiller. Elle était pâle comme une vierge de cire. Ses cheveux blonds éparpillaient leurs boucles sur le coussin et ses cils bruns, demi-clos, laissaient glisser un paresseux rayon. Elle paraissait avoir treize ou quatorze ans à peine, quoiqu'elle eût la taille d'une femme. Sa beauté était d'un ange -- mais de ces anges qui n'ont fait qu'effleurer la terre et qui vont remonter au ciel. C'était la plus jeune des filles de M. de Champmas, sa fille légitime. Sa mère amoureuse lui avait donné le nom de Suavita.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0559-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0559-0</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0562-0</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">feval_paul_-_les_habits_noirs_iii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Paul Féval&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:25.333791+00:00" name="calibre:timestamp"/>
+        <meta content="Habits Noirs III, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

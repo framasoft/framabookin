@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1590</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3f03fad7-a7d2-4a41-a86c-c1f6381ea08f</dc:identifier>
+        <dc:title>La Galilée</dc:title>
+        <dc:creator opf:file-as="Loti, Pierre" opf:role="aut">Pierre Loti</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Parmi ses nombreux récits, le triptyque Le Désert, Jérusalem, La Galilée tient une place particulière puisque ce voyage n’est pas lié comme la plupart à une mission militaire ou diplomatique, mais résulte d’une démarche personnelle de Loti. Il espère en foulant la Terre Sainte retrouver la foi de son enfance. Ce récit relève plus du journal intime. Le troisième volet de son triptyque commence le 17 avril 1894, lorsqu’il quitte Jérusalem, en direction de Damas puis Beyrouth où doit prendre fin son voyage en Terre Sainte. De sa quête presque naïve d'un signe de Dieu ou du Christ pour retrouver la foi, réel but de son voyage en Terre Sainte, Loti ressort plus proche encore de la mort, idée qui, en absence de foi en une religion, le terrifie.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1094-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1094-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">loti_pierre_-_la_galilee</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Pierre Loti&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:12.361952+00:00" name="calibre:timestamp"/>
+        <meta content="Galilée, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

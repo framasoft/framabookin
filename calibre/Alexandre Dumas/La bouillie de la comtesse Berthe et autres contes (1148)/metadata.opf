@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1148</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a56287a5-5cb3-4a42-a80c-ce271c48fc99</dc:identifier>
+        <dc:title>La bouillie de la comtesse Berthe et autres contes</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Alexandre Dumas, l'auteur des Trois mousquetaires, du Comte de Monte-Christo, et de nombreux autres romans, a aussi laissé des contes à l'intention des enfants. Il a ainsi publié plusieurs recueils de contes, dont Le Père Gigogne, L'Homme aux contes et Contes pour les grands et les petits enfants. Extrait : Il faut vous dire, mes chers enfants, qu'il y avait autrefois en Allemagne une race de bons petits génies qui malheureusement a disparu depuis, dont le plus grand atteignait à peine six pouces de haut, et qui s'appelaient cobolds. Ces bons petits génies, aussi vieux que le monde, se plaisaient surtout dans les châteaux, dont les propriétaires étaient, selon le cœur de Dieu, bons eux-mêmes. Ils détestaient les méchants, les punissaient par de petites méchancetés à leur taille, tandis qu'au contraire ils protégeaient de tout leur pouvoir, qui s'étendait sur tous les éléments, ceux que leur excellent naturel rapprochait d'eux ; voilà pourquoi ces petits nains, qui, de temps immémorial, habitaient le château de Wistgaw, après avoir connu leurs pères, leurs aïeux et leurs ancêtres, affectionnaient tout particulièrement le comte Osmond, ainsi que la comtesse Berthe, et poussaient avec leur souffle bien loin de leurs domaines bénis le nuage chargé de grêle et d'éclairs.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1372-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1372-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_la_bouillie_de_la_comtesse_berthe_et_autres_contes</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>conte</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:41.955281+00:00" name="calibre:timestamp"/>
+        <meta content="bouillie de la comtesse Berthe et autres contes, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

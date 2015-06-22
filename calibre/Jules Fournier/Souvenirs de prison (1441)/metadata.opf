@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1441</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fcef9a2e-4a64-4021-81ef-0a74507455c1</dc:identifier>
+        <dc:title>Souvenirs de prison</dc:title>
+        <dc:creator opf:file-as="Fournier, Jules" opf:role="aut">Jules Fournier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1909-01-01T00:00:00+00:00</dc:date>
+        <dc:description>En 1908, désireux d'avoir ses coudées franches pour critiquer notre politique tant fédérale que provinciale, il (Fournier) succède à Asselin à la direction du \emph{Nationaliste,}et, influencé par Bourassa, il devient lui-même un ardent nationaliste. Devant la violence de ses attaques, Lomer Gouin, premier ministre provincial, intente à Fournier un retentissant procès pour libelle (1909), à la suite duquel le journaliste devra faire un court séjour en prison... Extrait : De là à la vraie prison, c'est à peine s'il y a trois pas, et vous n'avez qu'à le vouloir pour vous rendre tout de suite aux cellules. Rien n'est plus facile. Vous tournez à votre droite, vous montez un petit escalier branlant, et vous arrivez devant une grande porte grillagée. Vous frappez discrètement, et un garde vient vous ouvrir. Alors, vous pouvez vraiment vous vanter d'être en prison.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1461-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1461-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">fournier_jules_-_souvenirs_de_prison</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Jules Fournier&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:41.826836+00:00" name="calibre:timestamp"/>
+        <meta content="Souvenirs de prison" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

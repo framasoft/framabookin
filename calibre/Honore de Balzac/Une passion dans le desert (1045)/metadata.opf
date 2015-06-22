@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1045</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">159b8a2e-0b99-48db-a75a-bb1fd62aad33</dc:identifier>
+        <dc:title>Une passion dans le désert</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études de moeurs. Cinquième livre, Scènes de la vie militaire. Treizième volume de l'édition Furne 1842. Extrait : Après avoir marché pendant quelque temps dans le sable avec tout le courage d’un forçat qui s’évade, le soldat fut forcé de s’arrêter, le jour finissait. Malgré la beauté du ciel pendant les nuits en Orient, il ne se sentit pas la force de continuer son chemin. Il avait heureusement pu gagner une éminence sur le haut de laquelle s’élançaient quelques palmiers, dont les feuillages aperçus depuis longtemps avaient réveillé dans son cœur les plus douces espérances. Sa lassitude était si grande qu’il se coucha sur une pierre de granit, capricieusement taillée en lit de camp, et s’y endormit sans prendre aucune précaution pour sa défense pendant son sommeil. Il avait fait le sacrifice de sa vie. Sa dernière pensée fut même un regret. Il se repentait déjà d’avoir quitté les Maugrabins dont la vie errante commençait à lui sourire, depuis qu’il était loin d’eux et sans secours.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1041-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1041-9</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1010-5</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_une_passion_dans_le_desert</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:20.794736+00:00" name="calibre:timestamp"/>
+        <meta content="passion dans le désert, Une" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

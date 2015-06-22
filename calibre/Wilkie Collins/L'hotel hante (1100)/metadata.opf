@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1100</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4b73a04d-e10c-48d7-82f6-3c28d95a5161</dc:identifier>
+        <dc:title>L'hôtel hanté</dc:title>
+        <dc:creator opf:file-as="Collins, Wilkie" opf:role="aut">Wilkie Collins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Le précurseur de la «detective novel», le «Gaboriau anglais», les qualificatifs ne manquent pas pour qualifier le premier grand auteur de romans policiers anglais, des années avant Arthur Conan Doyle et son SHerlock Holmes. Après un mariage scandaleux, Lord Montbarry décède en voyage de noces dans un hôtel à Venise. Malgré les circonstances troubles ,une enquête diligentée par les assurances ne trouve rien de suspect... Mais alors, pourquoi la veuve Montbarry semble sombrer dans la folie, comme sous le poids d'un secret terrible ?... Extrait : Elle avait demandé qu'on l'écoutât, et maintenant elle semblait n'avoir plus rien à dire. Une torpeur étrange s'était emparée de cette femme si résolue. Forcé de parler le premier, le docteur lui demanda simplement, avec la phrase sacramentelle, ce qu'il pouvait faire pour elle. Le son de cette voix parut la réveiller ; fixant toujours la lumière, elle dit tout à coup :
+ « J'ai une question pénible à vous faire.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0518-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0518-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">collins_wilkie_-_l_hotel_hante</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Angleterre</dc:subject>
+        <meta content="{&quot;Wilkie Collins&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:32.062874+00:00" name="calibre:timestamp"/>
+        <meta content="hôtel hanté, L'" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

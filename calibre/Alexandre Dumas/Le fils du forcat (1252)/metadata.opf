@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1252</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a857b03c-9077-41a3-b708-24e388a4d584</dc:identifier>
+        <dc:title>Le fils du forçat</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Monsieur Coumbes, portefaix à Marseille, n'a que deux passions dans la vie: son cabanon de Montredon, entouré d'un coin de jardin où le mistral ne laisse rien pousser; et la pêche aux poissons de roche pour la bouillabaisse. Loisirs qui occupent joyeusement ses dimanches. Un soir, il entend des hurlements dans l'appartement au-dessus du sien. M. Coumbes est égoïste et insensible mais pas assez pour laisser se commettre un assassinat. Il intervient et empêche Pierre Manas de pendre sa femme Millette. Extrait : Pendant les premiers jours, le calme inaccoutumé qui s'était fait autour d'elle, les attentions dont son voisin la comblait, lui parurent étranges ; la vie misérable qu'elle avait menée lui semblait la vie normale ; elle croyait rêver. Peu à peu elle s'y habitua, et ce fut le passé, au contraire, qui lui parut un songe. Enfin elle en arriva à trembler en pensant que ce songe pourrait bien devenir une réalité. Pour se réconforter, elle se disait que la rude leçon qu'il aurait reçue ne pouvait manquer d'avoir corrigé son mari. Il l'était si bien, que, lors de l'expiration de sa peine, lorsque Millette alla humblement l'attendre à la porte de la prison, il ne daigna pas jeter un regard sur elle, et s'enfuit en donnant le bras à une autre femme de mauvaise vie, avec laquelle, selon les us des voleurs, devenus ses compagnons, il avait entretenu une correspondance galante pour tromper les ennuis de sa captivité. Millette fut atterrée de ce nouveau trait. Revenue chez elle, elle songea à retourner auprès de sa mère ; une lettre cachetée de noir lui apprit, en ce moment même, que sa mère venait de mourir.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0046-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0046-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_le_fils_du_forcat</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:03.598096+00:00" name="calibre:timestamp"/>
+        <meta content="fils du forçat, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

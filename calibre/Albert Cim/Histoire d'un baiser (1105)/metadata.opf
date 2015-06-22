@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1105</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">43f4a6de-ae3b-446b-b8f1-2a14485054c4</dc:identifier>
+        <dc:title>Histoire d'un baiser</dc:title>
+        <dc:creator opf:file-as="Cim, Albert" opf:role="aut">Albert Cim</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Albert-Antoine Cimochowski, dit Albert Cim, né à Bar-le-Duc le 22 octobre 1845 et mort le 8 mai 1924, est un romancier, critique littéraire et bibliographe français. Né d'une mère française et d'un père officier polonais réfugié en France après l'insurrection de 1830, Albert Cimochowski entame à Paris en 1861 une carrière de fonctionnaire aux Postes et télégraphes et, sous le nom d'Albert Cim, débute dans le journalisme par des articles de philologie, de critique et de bibliographie qui sont vite remarqués. Parallèlement, il publie en librairie des ouvrages pour la jeunesse et des romans, qui lui valent d'être cinq fois lauréat de l'Académie française, ainsi que des études documentaires, littéraires et bibliographiques. En 1896, il devient bibliothécaire au sous-secrétariat d'État des Postes et des télégraphes. Il est également membre de la Société des gens de lettres, dont il est deux fois vice-président. Extrait : « Bien que n'ayant pas l'honneur d'être connu de vous, j'ose prendre la liberté de vous adresser ces lignes : je ne puis résister au besoin de vous exprimer la profonde émotion qui m'a saisi au seul aspect de votre image, et par quelle toute-puissante, quelle providentielle sympathie, je me sens attiré vers vous. Oui, il me semble que j'obéis à une voix du ciel, qu'une inspiration surnaturelle me guide et me pousse... Il est impossible qu'avec un regard si pur, si ouvert, si franc, des yeux à la fois si pétillants d'esprit et si remplis de mansuétude et de bonté, vous n'ayez pas un cœur généreux, compatissant et aimant.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1306-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1306-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">cim_albert_-_histoire_d_un_baiser</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Albert Cim&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:33.074805+00:00" name="calibre:timestamp"/>
+        <meta content="Histoire d'un baiser" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

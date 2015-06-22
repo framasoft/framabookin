@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1201</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">283af9a9-1c83-4b37-ae8c-2ec4098d2a01</dc:identifier>
+        <dc:title>La grande Ombre</dc:title>
+        <dc:creator opf:file-as="Doyle, Arthur Conan" opf:role="aut">Arthur Conan Doyle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Conan Doyle aborde l'époque de la lutte acharnée entre l'Angleterre et Napoléon. Il accompagne jusque sur le champ de bataille de Waterloo un jeune villageois arraché au calme de ses falaises natales par le désir de protéger le sol national contre le cauchemar de l'invasion française, qui hantait alors l'imagination britannique.  Extrait : Ma parole, dit-il, mais vous feriez un grenadier pour une compagnie de flanc. Quant aux questions que vous me faites, j'aurais le droit de m'en fâcher, s'il s'agissait de tout autre que vous, mais vous avez le droit d'être renseigné, après m'avoir traité avec tant de courtoisie. Je me nomme Bonaventure de Lapp. Je suis soldat et voyageur de profession, et je viens de Dunkerque, ainsi que vous pouvez le voir en grosses lettres sur le bateau.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0153-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0153-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">doyle_sir_arthur_conan_-_la_grande_ombre</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Angleterre</dc:subject>
+        <meta content="{&quot;Arthur Conan Doyle&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:52.730916+00:00" name="calibre:timestamp"/>
+        <meta content="grande Ombre, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1480</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8e5b2f06-c1c2-409b-a4ed-eb360099241d</dc:identifier>
+        <dc:title>Louis Breuil, histoire d'un pantouflard</dc:title>
+        <dc:creator opf:file-as="Gréville, Henry" opf:role="aut">Henry Gréville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1883-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Henry Gréville, pseudonyme de Alice Marie Céleste Durand née Fleury (1842-1902), a publié de nombreux romans, des nouvelles, des pièces, de la poésie ; elle a été à son époque un écrivain à succès. Extrait : Ils étaient alors au bout éclairé de la petite avenue, et le jeune homme put voir que le visage de Marine n'exprimait ni surprise ni fausse honte. Une teinte rosée dorait l'ambre mat de ses jours, et ses yeux regardaient au loin les bois encore teintés de pourpre par le dernier reflet des nuages. Elle semblait flotter tout entière dans une vapeur d'un pourpre adouci. Au lieu de reculer dans l'ombre pour cacher son émotion, elle s'avança bravement jusqu'au bord du parapet qui terminait la terrasse, au-dessus de la vallée, comme une sorte de bastion, et Louis, qui la regardait toujours, ne put s'empêcher d'admirer la noble simplicité de ce mouvement. Marine ne voulait rien dérober elle-même au moment de prendre une décision qui engagerait sa vie tout entière.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1519-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1519-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">greville_henry_-_louis_breuil_histoire_d_un_pantouflard</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Henry Gréville&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:50.373393+00:00" name="calibre:timestamp"/>
+        <meta content="Louis Breuil, histoire d'un pantouflard" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

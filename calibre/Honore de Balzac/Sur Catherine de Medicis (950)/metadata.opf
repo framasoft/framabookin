@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">950</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7f6d6185-267c-4a49-ad3a-b27b12837112</dc:identifier>
+        <dc:title>Sur Catherine de Médicis</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études philosophiques - Tome II. Quinzième et seizième volume de l'édition Furne 1842. Extrait : Catherine apprit alors officiellement de la bouche du pape l’alliance à laquelle elle était réservée. Le duc d’Albany n’avait pu que maintenir, et à grand’peine, le roi de France dans sa promesse de donner à Catherine la main de son second fils. Aussi l’impatience de Clément fut-elle si grande, il eut une telle peur de trouver ses projets renversés soit par quelque intrigue de l’empereur, soit par le dédain de la France, où les grands du royaume voyaient ce mariage de mauvais œil, qu’il s’embarqua sur-le-champ et se dirigea vers Marseille. Il y arriva vers la fin de ce mois d’octobre 1533. Malgré ses richesses, la maison de Médicis fut éclipsée par la maison de France. Pour montrer jusqu’où ces banquiers poussèrent la magnificence, le douzain mis dans la bourse de mariage par le pape, fut composé de médailles d’or d’une importance historique incalculable, car elles étaient alors uniques.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1053-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1053-2</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1022-8</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_sur_catherine_de_medicis</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:01.809562+00:00" name="calibre:timestamp"/>
+        <meta content="Sur Catherine de Médicis" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">954</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">081841d0-5212-4b50-875e-4e10d7ee5ee7</dc:identifier>
+        <dc:title>Pierre Grassou</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études de moeurs. Troisième livre, Scènes de la vie parisienne - Tome XI (sic, erreur pour le tome III). Onzième volume de l'édition Furne 1842. Extrait : Il fit son début en 1819. Le premier tableau qu’il présenta au Jury pour l’Exposition du Louvre représentait une noce de village, assez péniblement copiée d’après le tableau de Greuze. On refusa la toile. Quand Fougères apprit la fatale décision, il ne tomba point dans ces fureurs ou dans ces accès d’amour-propre épileptique auxquels s’adonnent les esprits superbes, et qui se terminent quelquefois par des cartels envoyés au directeur ou au secrétaire du Musée, par des menaces d’assassinat. Fougères reprit tranquillement sa toile, l’enveloppa de son mouchoir, la rapporta dans son atelier en se jurant à lui-même de devenir un grand peintre. Il plaça sa toile sur son chevalet, et alla chez son ancien Maître, un homme d’un immense talent, chez Schinner, artiste doux et patient comme il était, et dont le succès avait été complet au dernier Salon : il le pria de venir critiquer l’œuvre rejetée.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1034-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1034-1</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1023-5</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_pierre_grassou</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:02.601394+00:00" name="calibre:timestamp"/>
+        <meta content="Pierre Grassou" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

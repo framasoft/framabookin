@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1241</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cb56f634-42a9-4523-ba9b-e8f4af3e2ede</dc:identifier>
+        <dc:title>Folla</dc:title>
+        <dc:creator opf:file-as="Dombre, Roger" opf:role="aut">Roger Dombre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Roger Dombre, de son vrai nom Mme Andrée Sisson, est l'un des auteurs populaires les plus prolifiques. La critique qualifiait la multitude de nouvelles et romans qu'elle a écrits, d'attachants, originaux et pétillants d'esprit. Extrait : Folla s'en alla toute pénétrée de cette grande pensée de la mort qui en épouvante tant d'autres, et que le paysan, l'homme du travail et des privations, souvent voit approcher avec un calme si résigné. Et cette vieille qui souffrait tant, qui avait à peine le nécessaire, tandis que Juliette, l'enfant gâtée, pour avoir eu un peu mal au cœur, était comblée de soins et de remèdes, et voyait satisfaire toutes ses fantaisies !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1351-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1351-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dombre_roger_-_folla</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Roger Dombre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:01.408079+00:00" name="calibre:timestamp"/>
+        <meta content="Folla" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

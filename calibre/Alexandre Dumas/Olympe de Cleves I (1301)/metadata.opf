@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1301</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aa7b9514-2c32-4ac5-9162-6552ed4695ee</dc:identifier>
+        <dc:title>Olympe de Clèves I</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Bannière, jeune novice chez les jésuites, passionné de théâtre, voit l'actrice Olympe de Clèves par la fenêtre de son couvent. Il en tombe amoureux, s'enfuit et se rend au théâtre, où il se retrouve sur les planches, remplaçant Champmeslé, acteur pieux honteux d'être comédien. Ce dernier vole les habits de Bannière et se fait jésuite à sa place. Bannière est contraint de fuir, ayant rompu son noviciat. Olympe, qui vient de se faire éconduire par son amant, M. de Mailly, s'éprend de Bannière, et ils fuient vers Lyon. Extrait : On énervait toutes les résistances par l'obscurité, par les veillées et par la faim. Le novice dormait-il de ce bon sommeil si doux à la jeunesse, on le tirait tout à coup de ce repos, et, sans motif, sans utilité, sans autre but que celui d'amener le corps et l'esprit à l'obéissance passive, on lui ordonnait de faire cent fois le tour du jardin, ou de dire l'office de la Vierge. Était-il mourant de faim, prêt à prendre un bon repas, au moment où il allait porter le premier morceau à sa bouche, arrivait l'ordre d'assister à quelque conférence de deux, de trois, de quatre, de cinq heures. Aspirait-il avec trop de désirs ces premiers rayons de soleil de mai, ces premières brises printanières qui semblent, avec les parfums des jeunes fleurs, apporter sur leurs ailes la vie et la santé, on le plongeait pour un jour, pour deux jours, pour une semaine souvent, pour un mois parfois, dans quelque sombre caveau, où lui arrivait pour tout air l'émanation de la tombe ; pour toute brise ce vent souterrain qui se plaint si tristement aux angles des piliers qui soutiennent les voûtes des cryptes. Puis enfin, quand l'âme et la pensée assoupies n'avaient plus pour toute volonté que la volonté supérieure qui présidait à cette grande et merveilleuse association que l'on appelait le Société de Jésus, le novice était reçu dans le sein de l'ordre ; et là, il devenait, selon son intelligence, sa capacité, son génie, ou simple moellon, ou pierre angulaire, ou clef de voûte de l'immense édifice bâti dans l'ombre par les noirs ouvriers qui aspiraient à la domination universelle.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0000-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0000-0</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1414-1</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_olympe_de_cleves_i</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:13.394043+00:00" name="calibre:timestamp"/>
+        <meta content="Olympe de Clèves I" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1698</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">237815cd-dd77-4bd3-a3cf-0988e63f365e</dc:identifier>
+        <dc:title>Voyage à Paphos</dc:title>
+        <dc:creator opf:file-as="Montesquieu, Charles-Louis de Secondat" opf:role="aut">Montesquieu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Le Voyage à Paphos a toujours été attribué à Montesquieu. Cependant on ne l'a jamais publié dans les œuvres complètes de l'auteur. Il est vrai que cette petite pièce offre peu d'intérêt. On n'y trouve point, comme dans le  Temple de Gnide, certaines réflexions, certaines phrases où l'on reconnaît, parmi bien des fadeurs, la marque du maître. Le  Voyage à Paphos a été peut-être improvisé pour amuser l'oisiveté d'une grande dame, mais ni l'invention ni l'exécution n'ont dû causer grand'peine au poëte ; tout y est pâle et sans relief. Nous l'avons cependant réimprimé à cause de sa rareté et pour être complet.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1130-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1130-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">montesquieu_charles-louis_de_secondat_-_voyage_a_paphos</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Montesquieu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:34.176007+00:00" name="calibre:timestamp"/>
+        <meta content="Voyage à Paphos" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1004</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">96fd9588-2c00-4698-8704-5fa9e5fb5eeb</dc:identifier>
+        <dc:title>L'amour impossible</dc:title>
+        <dc:creator opf:file-as="Barbey d’Aurevilly, Jules" opf:role="aut">Jules Amédée Barbey d’Aurevilly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Commencé en novembre 1837, le roman l'Amour impossible, parut pour la première fois en 1841. Barbey d'Aurevilly avait alors 29 ans. Extrait : Mais l'attention de Mme de Gesvres, pour un homme dont les regards obstinément fixés sur elle devaient avoir le velouté d'un hommage, ne dura que quelques instants. Gâtée par les prosternements des hommes, objet des plus ardentes contemplations, cible ajustée par toutes les lorgnettes, Mme de Gesvres se détourna bientôt de cet homme de plus qui probablement l'admirait. Comme ce soir-là était un de ses plus cruels moments d'ennui, elle sortit bien avant la fin du spectacle, et ne se douta point que la lettre qui lui fut remise en descendant de voiture fût précisément du seul être qui dans la soirée l'eût fait sortir, pour une minute, de ses anéantissements.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0842-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0842-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">barbey_d_aurevilly_jules_-_l_amour_impossible</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Jules Amédée Barbey d’Aurevilly&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:12.582865+00:00" name="calibre:timestamp"/>
+        <meta content="amour impossible, L'" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

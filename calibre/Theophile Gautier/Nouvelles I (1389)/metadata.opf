@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1389</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1620577e-2a46-4ec9-8523-863ad19954a5</dc:identifier>
+        <dc:title>Nouvelles I</dc:title>
+        <dc:creator opf:file-as="Gautier, Théophile" opf:role="aut">Théophile Gautier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Gautier a écrit une trentaine de contes et nouvelles, pour la plupart de nature fantastique. Extrait : Et nous commençâmes à valser. Le sein de la jeune fille touchait ma poitrine, sa joue veloutée effleurait la mienne, et son haleine suave flottait sur ma bouche. Jamais de la vie je n'avais éprouvé une pareille émotion ; mes nerfs tressaillaient comme des ressorts d'acier, mon sang coulait dans mes artères en torrent de lave, et j'entendais battre mon coeur comme une montre accrochée à mes oreilles. Pourtant cet état n'avait rien de pénible. J'étais inondé d'une joie ineffable et j'aurais toujours voulu demeurer ainsi, et, chose remarquable, quoique l'orchestre eût triplé de vitesse, nous n'avions besoin de faire aucun effort pour le suivre. Les assistants, émerveillés de notre agilité, criaient bravo, et frappaient de toutes leurs forces dans leurs mains, qui ne rendaient aucun son.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1480-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1480-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">gautier_theophile_-_nouvelles_i</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>conte</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Théophile Gautier&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:31.379679+00:00" name="calibre:timestamp"/>
+        <meta content="Nouvelles I" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1631</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a67b8d53-9cbd-4013-ad97-ea6ae06da6d0</dc:identifier>
+        <dc:title>Les Ténébreuses 2</dc:title>
+        <dc:creator opf:file-as="Leroux, Gaston" opf:role="aut">Gaston Leroux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1924-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Le grand duc Ivan est amoureux de la modeste Prisca et s'oppose à sa mère qui veut le voir épouser la fille du prince Khirkof. De plus, il dénonce l'attitude de Raspoutine qui entraîne les dames de la cour dans une secte où elles deviennent les Ténébreuses. Il reçoit l'aide de la Kouliguine, célèbre danseuse qui dirige un complot contre le Tsar. Ivan et Prisca se réfugient en Finlande. Mais Prisca est enlevée, et promise à devenir une soeur des Ténébreuses... Extrait : --- Qui t'a dit que Doumine était mort ? - C'est la Kouliguine, répondit le domestique sans sourciller ; elle avait besoin que je sache cela... Mais vous croyez qu'il est mort, et il n'est peut-être pas mort ! - Si tu sais qu'il est mort, tu dois savoir aussi comment il est mort. Parle un peu pour voir, commanda Vera toujours un peu soupçonneuse. - Vous l'avez tué chez la Katharina, répondit Iouri, mais vous croyez peut-être l'avoir tué !... - Qu'est-ce qui te fait supposer qu'il ne serait pas mort ?... Moi, je l'ai vu mort, étendu dans son sang, sous un tapis... - Je sais... je sais... mais on croit que les gens sont morts et ils ne sont peut-être pas morts... - Celui-là est mort et enterré... - Je sais aussi où il est enterré et qui l'a enterré. Vous voyez bien que je sais tout. - Alors, ne parle plus jamais de Doumine, il n'en vaut pas la peine, je t'assure... - Mais on croit que les gens sont enterrés et ils ne le sont peut-être pas ! reprit Iouri, qui était décidément très entêté. - Où veux-tu en venir ? Tu m'ennuies, encore une fois, mais tu ne réussiras pas à m'effrayer. - Eh bien, je désire que la petite maîtresse vienne avec son serviteur. - Où cela ? Où me conduis-tu ? Je veux savoir.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0283-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0283-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leroux_gaston_-_les_tenebreuses_2</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gaston Leroux&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:20.668893+00:00" name="calibre:timestamp"/>
+        <meta content="Ténébreuses 2, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

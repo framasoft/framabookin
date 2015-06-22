@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1330</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8eaf3363-5d20-4c50-89ad-cf3e5f5925d0</dc:identifier>
+        <dc:title>Les Quarante-Cinq I</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Les Quarante-Cinq est le troisième volume de la trilogie sur les guerres de religion. Henri III a perdu ses favoris, tous tués en duel à la fin de La Dame de Monsoreau, tandis que le brave Bussy trouvait la mort dans une embuscade tendue par son maître, le duc d'Anjou. Ne lui reste que le moins aimé, D'Epernon, devenu duc et courtisan paresseux. Il se console donc en reportant son affection sur le duc Anne de Joyeuse et son frère Henri. Extrait : Pendant que maître Miton se cramponnait aux branches de la haie pour passer par-dessus, et que le compère Friard cherchait vainement une ouverture pour se glisser par-dessous, l'inconnu s'était levé, avait purement et simplement ouvert le compas de ses longues jambes, et d'un simple mouvement, pareil à celui que fait un cavalier pour se mettre en selle, il avait enjambé la haie sans qu'une seule branche effleurât son haut-de-chausse. Maître Miton l'imita en déchirant le sien en trois endroits, mais il n'en fut point ainsi du compère Friard, qui, ne pouvant passer ni par-dessous ni par-dessus, et, de plus en plus menacé d'être écrasé par la foule, poussait des cris déchirants, lorsque l'inconnu allongea son grand bras, le saisit à la fois par sa fraise et par le collet de son pourpoint, et, l'enlevant, le transporta de l'autre côté de la haie avec la même facilité qu'il eût fait d'un enfant.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0056-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0056-4</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0057-1</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_les_quarante-cinq_i</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:19.481479+00:00" name="calibre:timestamp"/>
+        <meta content="Quarante-Cinq I, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

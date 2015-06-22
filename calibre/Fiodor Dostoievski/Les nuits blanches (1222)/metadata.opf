@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1222</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f2210ce9-8829-438d-a074-70b4310d6b14</dc:identifier>
+        <dc:title>Les nuits blanches</dc:title>
+        <dc:creator opf:file-as="Dostoïevski, Fiodor" opf:role="aut">Fiodor Dostoïevski</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Un jeune fonctionnaire parcourt Saint-Pétersbourg en tous sens pour tromper son ennui et sa solitude. Au retour d'une promenade, il croise sur les bords de la Néva une jeune fille qui pleure. Il voudrait l'aborder mais n'ose pas, pourtant il lui évite d’être importuné par un homme saoul. Elle accepte d'être raccompagnée chez elle. Les deux jeunes gens promettent de se revoir le lendemain soir au même endroit... Extrait : Un instant de silence, puis encore un sanglot. Mon Dieu ! mon cœur se serra. Je suis d'ordinaire très timide avec les femmes, mais dans un pareil moment !... -- Je retournai sur mes pas, je m'approchai d'elle et j'aurais certainement prononcé le mot : « Madame », si je ne m'étais rappelé à temps que ce mot est utilisé au moins dans mille circonstances analogues par tous nos romanciers mondains. Ce n'est que cela qui m'arrêta, et je cherchais un mot plus rare quand la jeune fille m'aperçut, se redressa et glissa vivement devant moi en longeant le canal. Je me mis aussitôt à la suivre. Mais elle s'en aperçut, quitta le quai, traversa la rue et prit le trottoir. Je n'osais traverser la rue à mon tour, mon cœur sautait dans ma poitrine comme un oiseau en cage. Heureusement le hasard me vint en aide.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1356-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1356-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dostoievski_fiodor_-_les_nuits_blanches</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>nouvelle</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Russie</dc:subject>
+        <meta content="{&quot;Fiodor Dostoïevski&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:57.609264+00:00" name="calibre:timestamp"/>
+        <meta content="nuits blanches, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

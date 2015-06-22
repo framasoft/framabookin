@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1357</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d737c37c-6fe5-4860-beb8-0383d5afef5f</dc:identifier>
+        <dc:title>Les Habits Noirs V</dc:title>
+        <dc:creator opf:file-as="Féval, Paul" opf:role="aut">Paul Féval</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1863-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La suite de «L'arme invisible». Extrait : - C'est gras, murmura-t-il, c'est bien portant, ça ne se prive de rien, buvant sa bouteille à chaque repas, sans jamais se faire du mal, ni tomber dans les excès que je n'approuve pas chez les dames. Ça n'a pas d'autre faiblesse que celle de la sensibilité qui fait que tous les biens de la vie, généralement à sa portée, elle s'en fiche pas mal, tout entière à une seule toquade. C'est vrai que ce serait un délice de déjeuner tous les jours, dîner et souper en tête à tête avec la divinité de mes rêves, et tout à discrétion, mais ça me plairait encore plus de souffrir avec elle, de me précipiter dans le torrent pour la sauver ou au sein des flammes dévorantes ! Les autres l'ont abandonnée par l'égoïsme naturel au genre humain, mais moi, je reste, je fais serment de ne la quitter ni le jour ni la nuit, et si ça lui est agréable, je répandrai pour elle jusqu'à la dernière goutte de mon sang !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0579-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0579-8</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0563-7</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">feval_paul_-_les_habits_noirs_v</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Paul Féval&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:24.922614+00:00" name="calibre:timestamp"/>
+        <meta content="Habits Noirs V, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

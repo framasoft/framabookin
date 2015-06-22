@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1668</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6b0bc074-b217-4748-b801-b0bc1f793a9f</dc:identifier>
+        <dc:title>L’Assommoir</dc:title>
+        <dc:creator opf:file-as="Zola, Émile" opf:role="aut">Émile Zola</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1879-12-14T23:00:00+00:00</dc:date>
+        <dc:description>L'Assommoir est le septième volume de la série Les Rougon-Macquart. C'est un ouvrage totalement consacré au monde ouvrier et, selon Zola, « le premier roman sur le peuple, qui ne mente pas et qui ait l'odeur du peuple ». L'écrivain y restitue la langue et les mœurs des ouvriers, tout en décrivant les ravages causés par la misère et l'alcoolisme. A sa parution, l'ouvrage suscite de vives polémiques car il est jugé trop cru. Mais c'est ce réalisme qui, cependant, provoque son succès, assurant alors la célébrité et la fortune de l'auteur. Extrait : Les premiers seaux, mal lancés, les touchaient à peine. Mais elles se faisaient la main. Ce fut Virginie qui, la première, en reçut un en pleine figure ; l'eau, entrant par son cou, coula dans son dos et dans sa gorge, pissa par-dessous sa robe. Elle était encore tout étourdie, quand un second la prit de biais, lui donna une forte claque contre l'oreille gauche, en trempant son chignon, qui se déroula comme une ficelle. Gervaise fut d'abord atteinte aux jambes ; un seau lui emplit ses souliers, rejaillit jusqu'à ses cuisses ; deux autres l'inondèrent aux hanches. Bientôt, d'ailleurs, il ne fut plus possible de juger les coups.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0247-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0247-6</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0257-5</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">zola_emile_-_l_assommoir</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Émile Zola&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:28.061592+00:00" name="calibre:timestamp"/>
+        <meta content="L’Assommoir" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

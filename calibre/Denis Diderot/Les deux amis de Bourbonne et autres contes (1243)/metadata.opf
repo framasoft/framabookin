@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1243</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f45d9a47-ecea-4689-85e5-629b8b2c7138</dc:identifier>
+        <dc:title>Les deux amis de Bourbonne et autres contes</dc:title>
+        <dc:creator opf:file-as="Diderot, Denis" opf:role="aut">Denis Diderot</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Le texte initial de Diderot, rédigé fin de l'été 1770, et envoyé depuis Bourbonne à Naigeon a aujourd'hui disparu, mais deux (autres) versions du texte sont aujourd'hui connues. La première, chronologiquement, plus courte et précédée de deux lettres (l'une de madame de Pruneveaux à Naigeon, l'autre de madame de Pruneveaux à un curé, est retrouvée en 1985 et éditée par Jean Varloot dans la Revue de la bibliothèque nationale (de France). La seconde est celle qui paraît dans la Correspondance littéraire le 15 décembre 1770. Extrait : Il y avait au fond d'un bois, où vous vous êtes promenée quelquefois, un charbonnier dont la cabane servait d'asile à ces sortes de gens ; c'était aussi l'entrepôt de leurs marchandises et de leurs armes. Ce fut là que Félix se rendit, non sans avoir couru le danger de tomber dans les embûches de la maréchaussée qui le suivait à la piste. Quelques-uns de ses associés y avaient porté la nouvelle de son emprisonnement à Reims ; et le charbonnier et la charbonnière le croyaient justicié, lorsqu'il leur apparut.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1350-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1350-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">diderot_denis_-_les_deux_amis_de_bourbonne_et_autres_contes</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Denis Diderot&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:01.804958+00:00" name="calibre:timestamp"/>
+        <meta content="deux amis de Bourbonne et autres contes, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

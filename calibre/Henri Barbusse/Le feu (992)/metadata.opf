@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">992</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ab65c43a-788c-4942-954d-ffcd40cdaf2d</dc:identifier>
+        <dc:title>Le feu</dc:title>
+        <dc:creator opf:file-as="Barbusse, Henri" opf:role="aut">Henri Barbusse</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1916-12-14T23:00:00+00:00</dc:date>
+        <dc:description>C’est le journal d’une escouade que Barbusse met en scène. Il couvre les deux premières années de guerre et peint la vie des hommes aux tranchées. Barbusse décrit tout ce par quoi passent les soldats du caporal Bertrand ; les tranchées, les attaques, les corvées, la peur, la mort, la permission ... Le Feu (sous-titré Journal d'une escouade) est un roman autobiographique d'Henri Barbusse paru sous forme de feuilleton dans le quotidien L'Œuvre à partir du 3 août 1916 puis intégralement à la fin de novembre 1916 aux éditions Flammarion et ayant obtenu le Prix Goncourt la même année. L’ouvrage est inspiré de l’expérience personnelle de Barbusse. Lors de cette Première Guerre Mondiale, il est soldat aux tranchées de Soissonais, de l’Argonne et de l’Artois avant de devenir brancardier au 231ème régiment d’infanterie.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1056-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1056-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">barbusse_henri_-_le_feu</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Henri Barbusse&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:10.224116+00:00" name="calibre:timestamp"/>
+        <meta content="feu, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

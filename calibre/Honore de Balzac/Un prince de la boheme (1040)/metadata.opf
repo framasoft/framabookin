@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1040</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a5259303-fbec-4b84-beec-879e7a64e654</dc:identifier>
+        <dc:title>Un prince de la bohème</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études de moeurs. Troisième et quatrième livres, Scènes de la vie parisienne et scènes de la vie politique - Tome XII (sic, erreur pour le tome IV). Douzième volume de l'édition Furne 1842. Extrait : Voici cinq francs, rendez-moi cent sous. On en a fait une caricature. Il eut le malheur, en style d’acte d’accusation, de rendre une jeune fille mère. L’enfant peu ingénue avoue sa faute à sa mère, bonne bourgeoise qui accourt chez la Palferine et lui demande ce qu’il compte faire. ― « Mais, madame, je ne suis ni chirurgien ni sage-femme. » Elle fut foudroyée ; mais elle revint à la charge trois ou quatre ans après, en insistant et demandant toujours à la Palferine ce qu’il comptait faire. ― « Oh ! madame, répondit-il, quand cet enfant aura sept ans, âge auquel les enfants passent des mains des femmes entre celles des hommes... (mouvement d’assentiment chez la mère), si l’enfant est bien de moi (geste de la mère), s’il me ressemble d’une manière frappante, s’il promet d’être un gentilhomme, si je reconnais en lui mon genre d’esprit, et surtout l’air Rusticoli, oh ! alors (nouveau mouvement), par ma foi de gentilhomme, je lui donnerai... un bâton de sucre d’orge ! »</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1046-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1046-4</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0967-3</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_un_prince_de_la_boheme</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:19.792600+00:00" name="calibre:timestamp"/>
+        <meta content="prince de la bohème, Un" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

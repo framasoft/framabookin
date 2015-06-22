@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1109</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d04581cc-a7c3-41b5-870f-2fa84e007ded</dc:identifier>
+        <dc:title>Le débutant</dc:title>
+        <dc:creator opf:file-as="Bessette, Arsène" opf:role="aut">Arsène Bessette</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Arsène Bessette est un journaliste et écrivain québécois. Extrait : Un jour Paul confia à sa tante un gros secret : il voulait épouser l'institutrice. La brave femme s'en boucha les oreilles : « C'était-y-possible, à son âge ! » Elle se promit de l'envoyer à confesse au plus tôt et ne dit rien. L'enfant, prenant ce silence pour une approbation, crut son projet de mariage parfaitement réalisable, et, déjà, presque réalisé. Ce fut une joie innocente et profonde.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1264-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1264-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">bessette_arsene_-_le_debutant</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Arsène Bessette&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:33.884047+00:00" name="calibre:timestamp"/>
+        <meta content="débutant, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

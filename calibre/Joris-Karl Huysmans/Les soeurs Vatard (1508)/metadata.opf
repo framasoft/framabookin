@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1508</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">30ac0123-754f-4869-b624-c156afb86333</dc:identifier>
+        <dc:title>Les soeurs Vatard</dc:title>
+        <dc:creator opf:file-as="Huysmans, Joris-Karl" opf:role="aut">Joris-Karl Huysmans</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1879-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Son deuxième roman, Les Sœurs Vatard, qui suit également la veine naturaliste, paraît en 1879, accompagné d'une dédicace à Zola, qu’il reconnaît comme son maître en littérature. Extrait : Au fond, tous ces amours au débotté lui décrépissaient la face et ne la contentaient guère. Tous ces va-et-vient, toutes ces pirouettes avec l'un, toutes ces culbutes avec l'autre se résumaient en une alternance de mal en pis et de pis en mal. Celui-ci lui grugeait son argent et le buvait avec une autre, celui-là la battait comme plâtre, se moquant d'elle, la contrefaisant, alors qu'effrayée de lui voir retrousser ses manches, elle poussait des cris de bête qu'on égorge. En fin de compte, taloches sur le nez, coups de pieds dans le râble, tel était son lot; l'homme était plus ou moins fort, la danse plus ou moins vive: -voilà tout. - C'était assez naturel d'ailleurs. -Céline n'avait pas ces allures de farceuse qui réjouissent les hommes. Elle était jolie, chiffonnée, pimpante, belle fille même, avec cette maigreur délicate et comme ébranlée des filles qui se sont corrompues avant l'âge, mais les goujats de la brochure lui préféraient ces énormes truies dont les soies craquent sur les chairs massées et qui gouaillent, le bec en l'air, avec des rires qui leur secouent la gargoulette et leur font danser le ventre.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0832-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0832-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">huysmans_joris-karl_-_les_soeurs_vatard</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Joris-Karl Huysmans&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:55.930994+00:00" name="calibre:timestamp"/>
+        <meta content="soeurs Vatard, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

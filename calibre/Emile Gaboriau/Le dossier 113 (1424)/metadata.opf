@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1424</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">58852591-0c17-47fc-8181-40d3b359a270</dc:identifier>
+        <dc:title>Le dossier 113</dc:title>
+        <dc:creator opf:file-as="Gaboriau, Émile" opf:role="aut">Émile Gaboriau</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1867-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Un vol important vient d'être commis rue de Provence à Paris, au préjudice de la banque Fauvel. Or, deux personnes seulement connaissaient la combinaison du coffre duquel 300000 francs ont été soustraits... Après une enquête sommaire, la police arrête Prosper Bertomy, le caissier principal. Mais une seconde enquête commence, menée par l'inspecteur Fanferlot, surnommé l'Écureuil, qui découvre l'existence de Nina Gipsy, une mystérieuse jeune femme entretenue par le caissier... Fanferlot fait alors appel au redoutable policier Lecoq. Aux côtés de celui-ci, il remonte la piste d'une affaire beaucoup plus complexe. Et nous voilà transportés des années en arrière, sous la Restauration, tandis que l'auteur nous dévoile une mystification d'envergure, historique, tout autant que criminelle. Extrait : On peut tout dire à son père, reprit M. André Fauvel, que l'émotion de Prosper gagnait, ne craignez rien. Un père n'offre pas le pardon, mais l'oubli. Ne sais-je pas les tentations terribles qui, dans une ville comme Paris, peuvent assaillir un jeune homme ? Il est de ces convoitises qui brisent les plus solides probités. Il est des heures d'égarement et de vertige où l'on n'est plus soi, où l'on agit comme un fou, comme un forcené, sans avoir, pour ainsi dire, la conscience de ses actes. Parlez, Prosper, parlez.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0229-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0229-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">gaboriau_emile_-_le_dossier_113</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Émile Gaboriau&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:38.414053+00:00" name="calibre:timestamp"/>
+        <meta content="dossier 113, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1555</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4536e285-96e0-42f6-85bf-e0751d5837d1</dc:identifier>
+        <dc:title>La double vie de Théophraste Longuet</dc:title>
+        <dc:creator opf:file-as="Leroux, Gaston" opf:role="aut">Gaston Leroux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1904-06-02T23:00:00+00:00</dc:date>
+        <dc:description>La surprenante et terrible histoire de Théophraste Longuet, modeste fabricant de timbres de caoutchouc. Au détour d'une visite à la Conciergerie, la découverte d'un billet caché dans une anfractuosité d'un cachot met en branle une terrifique et incroyable «résurrection». L'humble Théophraste se retrouve dans le corps et l'esprit du célèbre et impitoyable Cartouche qui ensanglanta Paris au XVIIIe siècle et mourut sous les coups du bourreau en 1721.. Extrait : Depuis un instant, Marceline avait placé sous la table son pied sur le pied d'Adolphe. Du reste, c'était là, le plus souvent, quand il y avait table entre eux, que l'on pouvait trouver le pied de Marceline. Il ne faut point l'en blâmer. Songez que sa tendresse pour son mari pouvait librement s'exprimer ; il lui était loisible, devant tout le monde, de l'embrasser, de le caresser, de l'appeler « mon Théo ! » et de l'entourer de ces mille petites attentions qui, venant d'une femme, surtout de la sienne, flattent infiniment le cœur et la vanité si naturelle d'un époux. Mais si quelque démonstration de sympathie un peu osée lui eût échappé en public à l'adresse d'Adolphe Lecamus, on n'eût point manqué de dire que Théophraste était trompé par son meilleur ami. Elle, Marceline, eût été compromise, Théophraste eut été ridicule et Adolphe Lecamus eût passé pour un vilain monsieur. Comme Marceline était une femme intelligente, elle avait résolu d'éviter cette inutile et triple catastrophe en réservant toutes ses caresses visibles à son mari et en gardant les cachées pour son amant. Il se rencontre beaucoup de femmes mariées qui n'ont point cette discrétion, et elles s'en trouvent, les premières, châtiées par les désagréments que tant de bénévole audace leur attire.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0262-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0262-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leroux_gaston_-_la_double_vie_de_theophraste_longuet</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gaston Leroux&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:05.151583+00:00" name="calibre:timestamp"/>
+        <meta content="double vie de Théophraste Longuet, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

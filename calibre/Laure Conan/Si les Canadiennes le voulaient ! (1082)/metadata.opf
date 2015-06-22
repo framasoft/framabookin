@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1082</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e232331f-9a47-4a8e-9845-5e7b850e498d</dc:identifier>
+        <dc:title>Si les Canadiennes le voulaient !</dc:title>
+        <dc:creator opf:file-as="Conan, Laure" opf:role="aut">Laure Conan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Marie-Louise Félicité Angers, dite Laure Conan, née à La Malbaie (Canada-Est, aujourd'hui le Québec) le 9 janvier 1845, décédée le 6 juin 1924 à l'Hôtel-Dieu de Québec, est une écrivaine canadienne-française. En 1862, elle fait la connaissance de l'arpenteur-géomètre Pierre-Alexis Tremblay qui lui fait une cour assidue. Leur rupture, en 1868, met un terme à sa vie publique. Elle s'isole dans sa vaste demeure et remet en cause les conventions sociales, puis décide de se consacrer à l'écriture. Extrait : C'est dommage qu'il n'y ait pas une chimie des sentiments. J'aimerais à voir ces cœurs embrasés au fond des alambics de M. Laflamme. Comme tous les vrais Canadiens seraient rassurés ! quel noble amour de soi, du pouvoir et de l'argent, on verrait distiller !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1319-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1319-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">conan_laure_-_si_les_canadiennes_le_voulaient</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Laure Conan&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:28.192911+00:00" name="calibre:timestamp"/>
+        <meta content="Si les Canadiennes le voulaient !" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

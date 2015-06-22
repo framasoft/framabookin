@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1609</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4eb82970-fa7f-43cd-a136-6c100d31704d</dc:identifier>
+        <dc:title>La demeure mystérieuse</dc:title>
+        <dc:creator opf:file-as="Leblanc, Maurice" opf:role="aut">Maurice Leblanc</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1929-06-02T22:00:00+00:00</dc:date>
+        <dc:description>La Demeure mystérieuse est un roman policier de Maurice Leblanc, paru en 37 feuilletons quotidiens dans Le Journal du 25 juin au 31 juillet 1928, puis en volume chez Pierre Lafitte en juillet 1929. Il met en scène le gentleman-cambrioleur Arsène Lupin et fait suite à L'Agence Barnett et Cie, dont on retrouve un personnage phare, le brigadier Béchoux. À Paris, en 1907, un enlèvement est commis à l'Opéra durant un défilé de haute couture: la belle chanteuse Régine Aubry est conduite par deux individus dans une maison non-identifiée où on la dépouille de son corselet de diamants. Puis elle est relâchée, sans sa parure évidemment au grand dam du diamantaire véreux Van Houben qui avait conçu la robe. Extrait : L'auto fila rapidement. Régine ôta son voile et reconnut la place du Trocadéro. Si près qu'elle fût de son appartement (elle habitait à l'entrée de l'avenue Henri-Martin), il lui fallut un effort prodigieux pour s'y rendre. Ses jambes fléchissaient sous elle, son cœur battait à lui faire mal. Il lui semblait à tout instant qu'elle allait tournoyer et s'abattre comme une masse. Mais, au moment où ses forces l'abandonnaient, elle avisa quelqu'un qui venait en courant à sa rencontre, et elle se laissa tomber dans les bras de Jean d'Enneris, qui l'assit sur un banc de l'avenue déserte. « Je vous attendais, dit-il, très doucement. J'étais certain qu'on vous reconduirait près de votre maison, dès que les diamants seraient volés. Pourquoi vous eût-on gardée ? C'eût été trop périlleux. Reposez-vous quelques minutes... et puis ne pleurez plus. »</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1601-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1601-5</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1598-8</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leblanc_maurice_-_la_demeure_mysterieuse</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <meta content="{&quot;Maurice Leblanc&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:16.254601+00:00" name="calibre:timestamp"/>
+        <meta content="demeure mystérieuse, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

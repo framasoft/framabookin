@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1120</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0e592d5e-d0ab-44fe-8fd2-d01c0e066ee2</dc:identifier>
+        <dc:title>La chasse-galerie</dc:title>
+        <dc:creator opf:file-as="Beaugrand, Honoré" opf:role="aut">Honoré Beaugrand</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Elle accepta avec un sourire qui me fit oublier que j'avais risqué le salut de mon âme pour avoir le plaisir de me trémousser et de battre des ailes de pigeon en sa compagnie. Pendant deux heures de temps, une danse n'attendait pas l'autre et ce n'est pas pour me vanter si je vous dis que, dans ce temps-là, il n'y avait pas mon pareil à dix lieues à la ronde pour la gigue simple ou la voleuse. Mes camarades, de leur côté, s'amusaient comme des lurons, et tout ce que je puis vous dire, c'est que les garçons d'habitants étaient fatigués de nous autres, lorsque quatre heures sonnèrent à la pendule. J'avais cru apercevoir Baptiste Durand qui s'approchait du buffet où les hommes prenaient des nippes de whisky blanc, de temps en temps, mais j'étais tellement occupé avec ma partenaire que je n'y portai pas beaucoup d'attention.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1254-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1254-3</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">beaugrand_honore_-_la_chasse-galerie</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Honoré Beaugrand&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:36.412947+00:00" name="calibre:timestamp"/>
+        <meta content="chasse-galerie, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

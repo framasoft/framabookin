@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1748</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">db720532-55b7-4f1d-aab5-80ea874f6374</dc:identifier>
+        <dc:title>Pot-bouille</dc:title>
+        <dc:creator opf:file-as="Zola, Émile" opf:role="aut">Émile Zola</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1883-12-14T23:00:00+00:00</dc:date>
+        <dc:description>Pot-Bouille est le dixième roman de la série les Rougon-Macquart. Le mot pot-bouille désignait au xixe siècle en langage familier la cuisine ordinaire des ménages, en gros synonyme de popote. Mais il n’est pas question ici de cuisine, sinon au sens figuré : Zola veut en effet nous montrer l’envers du décor d’un grand immeuble parisien où, derrière un luxe de façade, vivent des familles bourgeoises dont le comportement quotidien est aussi peu ragoûtant qu’un médiocre brouet, un pot-bouille. Extrait : Des mères faisaient visiblement le rêve qu'elles mariaient leurs filles, la bouche fendue, les dents féroces, dans un abandon inconscient ; c'était la rage de ce salon, un furieux appétit de gendres, qui dévorait ces bourgeoises, aux sons asthmatiques du piano. Les filles, très lasses, s'endormaient, la tête entre les épaules, oubliant de se tenir droites. Octave, qui avait le mépris des jeunes personnes, s'intéressa davantage à Valérie ; elle était laide, décidément, dans son étrange robe de soie jaune, garnie de satin noir, et il revenait toujours à elle, inquiet, séduit quand même ; tandis que, les yeux vagues, énervée par l'aigre musique, elle avait le sourire détraqué d'une malade.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0254-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0254-4</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0235-3</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">zola_emile_-_pot-bouille</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Émile Zola&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:44.571559+00:00" name="calibre:timestamp"/>
+        <meta content="Pot-bouille" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

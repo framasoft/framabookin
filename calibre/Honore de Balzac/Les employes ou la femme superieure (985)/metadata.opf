@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">985</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6b81fbed-e8f6-4427-8ecc-05b1fc9276c0</dc:identifier>
+        <dc:title>Les employés ou la femme supérieure</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études de moeurs. Troisième livre, Scènes de la vie parisienne - Tome XI (sic, erreur pour le tome III). Onzième volume de l'édition Furne 1842. Extrait : Rabourdin et sa femme crurent à cette mystérieuse puissance. Emportés par l’espérance et par le laissez-aller que les premières amours conseillent aux jeunes mariés, monsieur et madame Rabourdin dévorèrent en cinq ans près de cent mille francs sur leur capital. Justement effrayée de ne pas voir avancer son mari, Célestine voulut employer en terres les cent mille francs restant de sa dot, placement qui donna peu de revenu ; mais un jour la succession de monsieur Leprince récompenserait de sages privations par les fruits d’une belle aisance. Quand le vieux commissaire-priseur vit son gendre déshérité de ses protections, il tenta, par amour pour sa fille, de réparer ce secret échec en risquant une partie de sa fortune dans une spéculation pleine de chances favorables ; mais le pauvre homme, atteint par une des liquidations de la Maison Nucingen, mourut de chagrin ne laissant qu’une dizaine de beaux tableaux qui ornèrent le salon de sa fille, et quelques meubles antiques qu’elle mit au grenier. Huit années de vaine attente firent enfin comprendre à madame Rabourdin que le paternel protecteur de son mari devait avoir été surpris par la mort, que le testament avait été supprimé ou perdu.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1019-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1019-8</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0531-6</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_les_employes_ou_la_femme_superieure</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:08.799609+00:00" name="calibre:timestamp"/>
+        <meta content="employés ou la femme supérieure, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1363</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fe62eabd-35a3-4e58-b682-6737056745f3</dc:identifier>
+        <dc:title>Les Compagnons du Silence II</dc:title>
+        <dc:creator opf:file-as="Féval, Paul" opf:role="aut">Paul Féval</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1857-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Son geste, à celle-là, était tantôt brusque et presque viril, tantôt d'une mollesse si exquise, que la rêverie naissait rien qu'à la voir, et que l'âme se berçait en une langueur soudaine. Grands yeux noirs voilés de franges recourbées, front à facettes, couronné de cheveux prodigues~; nez moqueur, dont la passion enflait les narines mobiles~; bouche cruelle où le gai sourire pétillait~; pieds et mains de fée. Taille frêle, et si forte~! Il y avait là-dedans de l'Espagnole un peu. Mais l'or bruni de cette carnation allait plus loin que l'Espagne. Ceux-là seulement qui, par une nuit d'orage, dans les plaines désertes de l'Italie du Sud, ont soulevé la toile bariolée de la tente des gitanes, auraient su dire à quelle race appartenait cette délicieuse créature.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1455-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1455-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">feval_paul_-_les_compagnons_du_silence_ii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Paul Féval&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:26.126493+00:00" name="calibre:timestamp"/>
+        <meta content="Compagnons du Silence II, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">998</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d1b99b0f-0b5f-48cd-b89e-985cafdb75af</dc:identifier>
+        <dc:title>L’enfant maudit</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études philosophiques - Tome II. Quinzième volume de l'édition Furne 1842. Extrait : La parole du comte retentit dans le sein de la jeune femme alors enceinte ; à l’instant même, un de ces pressentiments qui sillonnent l’âme comme un éclair de l’avenir l’avertit qu’elle accoucherait à sept mois. Une chaleur intérieure enveloppa la jeune femme de la tête aux pieds, en concentrant la vie au cœur avec tant de violence qu’elle se sentit extérieurement comme dans un bain de glace. Depuis lors, il ne se passa pas un jour sans que ce mouvement de terreur secrète n’arrêtât les élans les plus innocents de son âme. Le souvenir du regard et de l’inflexion de voix par lesquels le comte accompagna son arrêt, glaçait encore le sang de la comtesse et faisait taire ses douleurs, lorsque, penchée sur cette tête endormie, elle voulait y trouver durant le sommeil les indices d’une pitié qu’elle y cherchait vainement pendant la veille.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1012-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1012-9</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1020-4</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_l_enfant_maudit</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:11.401522+00:00" name="calibre:timestamp"/>
+        <meta content="L’enfant maudit" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

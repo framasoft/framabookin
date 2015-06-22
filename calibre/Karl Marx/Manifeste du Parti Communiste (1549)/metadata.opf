@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1549</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c6504e07-0ea8-414e-946e-ac8ba7404870</dc:identifier>
+        <dc:title>Manifeste du Parti Communiste</dc:title>
+        <dc:creator opf:file-as="Marx, Karl" opf:role="aut">Karl Marx</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1895-12-14T23:00:00+00:00</dc:date>
+        <dc:description>En 1848, Karl Marx et Friedrich Engels veulent rendre publics les principes du communisme, dans un manifeste qui exprimerait clairement ceux-ci : c’est le Manifeste du Parti communiste. A cette époque en effet le communisme en Europe est craint par tous mais est aussi très vivement critiqué. C’est pour ces raisons majeures, pour éviter les erreurs ou les a priori sur le communisme, que Marx et Engels et bon nombre de communistes de nationalités diverses se réunissent en 1848 à Londres et rédigent ce manifeste, qui fixe à la fois les grands principes du communisme mais aussi ses projets. Ce texte n'est pas l'œuvre d'un homme isolé mais une commande de la Ligue des communistes. Karl Marx a rédigé le texte final sur la base de textes et discussions préparatoires au sein de la Ligue des communistes, et notamment sur la base d'une contribution de son ami Friedrich Engels. Le slogan final — « Prolétaires de tous les pays, unissez-vous » — avait été adopté par la Ligue des communistes plusieurs mois auparavant. Il est d'abord paru anonymement, puis a été réédité plus tard avec mention de Karl Marx et Friedrich Engels comme auteurs, sous le titre Manifeste communiste.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1115-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1115-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">marx_karl_-_manifeste_du_parti_communiste</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>non-fiction</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Allemagne</dc:subject>
+        <meta content="{&quot;Karl Marx&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:03.993033+00:00" name="calibre:timestamp"/>
+        <meta content="Manifeste du Parti Communiste" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

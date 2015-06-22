@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1094</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f8d805e5-51af-4648-adf2-e5b59432e3d7</dc:identifier>
+        <dc:title>Aux jours de Maisonneuve</dc:title>
+        <dc:creator opf:file-as="Conan, Laure" opf:role="aut">Laure Conan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Laure Conan n'a écrit que deux pièces de théâtre : Si les Canadiennes le voulaient !, en 1886, et Aux jours de Maisonneuve, en 1920, alors que l'auteure est âgée de soixante-quinze ans. Cette dernière pièce est une adaptation de son roman L'Oublié, ouvrage couronné par l'Académie française. La pièce fut créée le 21 mars 1921, par une troupe d'amateurs, sur la scène du Monument national, à Montréal ; elle ne connut que très peu de succès.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1314-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1314-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">conan_laure_-_aux_jours_de_maisonneuve</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Laure Conan&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:30.868078+00:00" name="calibre:timestamp"/>
+        <meta content="Aux jours de Maisonneuve" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

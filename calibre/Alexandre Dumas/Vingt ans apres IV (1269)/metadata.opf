@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1269</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">af7e08d2-e9a9-4ff3-b88b-9434eefdb0e3</dc:identifier>
+        <dc:title>Vingt ans après IV</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>En 1648, il y a bien longtemps que les quatre amis ne se sont pas revus. La Fronde menace: d'Artagnan et Porthos sont, sur le conseil de Rochefort (qui n'en est pas moins frondeur) recrutés par le cardinal Mazarin, tandis qu'Aramis et Athos rejoignent les rangs des rebelles. Les deux premiers tentent vainement d'empêcher l'évasion du duc de Beaufort, à laquelle participent les deux derniers. Ceci ne les empêche pas de se jurer une amitié éternelle. Ils se retrouvent dans des camps opposés pendant la guerre civile anglaise. Extrait : Après avoir refermé avec soin la porte derrière lui, Mordaunt se glissa dans le souterrain, tout en remettant au fourreau son épée inutile, et, gagnant la maison voisine, il s'arrêta pour se tâter et reprendre haleine. « Bon ! dit-il, rien, presque rien : des égratignures, voilà tout ; deux au bras, l'autre à la poitrine. Les blessures que je fais sont meilleures, moi ! Qu'on demande au bourreau de Béthune, à mon oncle de Winter et au roi Charles ! Maintenant pas une seconde à perdre, car une seconde de perdue les sauve peut-être, et il faut qu'ils meurent tous quatre ensemble, d'un seul coup, dévorés par la foudre des hommes à défaut de celle de Dieu. Il faut qu'ils disparaissent brisés, anéantis, dispersés. Courons donc jusqu'à ce que mes jambes ne puissent plus me porter, jusqu'à ce que mon cœur se gonfle dans ma poitrine, mais arrivons avant eux. »</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1419-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1419-6</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0060-1</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_vingt_ans_apres_iv</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:06.943728+00:00" name="calibre:timestamp"/>
+        <meta content="Vingt ans après IV" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

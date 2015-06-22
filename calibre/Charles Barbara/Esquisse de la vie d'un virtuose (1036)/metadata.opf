@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1036</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c0ba2524-2d4a-4bd9-adce-a3cc83acca91</dc:identifier>
+        <dc:title>Esquisse de la vie d’un virtuose</dc:title>
+        <dc:creator opf:file-as="Barbara, Charles" opf:role="aut">Charles Barbara</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1860-03-05T23:00:00+00:00</dc:date>
+        <dc:description>Louis-Charles Barbara est le fils d'un luthier originaire de Dausenau (près de Coblence), établi à Orléans. Extrait : Insensiblement, le jour arrivait où le débile jeune homme était dirigé sur Paris et interné au Conservatoire. Objet tout d'abord d'une bienveillance unanime, en même temps qu'il émerveillait les professeurs par une étonnante facilité, il les contristait par sa détestable éducation, et recevait de toutes les bouches le conseil de fréquenter les classes élémentaires. Il s'y glissait en effet par obéissance, mais pour s'en échapper presque sur-le-champ, par honte de se voir confondu avec des enfants qui le caillaient de sa haute taille et de ses bévues. La dextérité de ses doigts y gagna ; ses progrès sur l'instrument n'en furent que plus rapides.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1178-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1178-2</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">barbara_charles_-_esquisse_de_la_vie_d_un_virtuose</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Charles Barbara&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:18.988030+00:00" name="calibre:timestamp"/>
+        <meta content="Esquisse de la vie d’un virtuose" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

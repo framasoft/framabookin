@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1192</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b396e14-2e19-40be-866a-8411d0b4fb4a</dc:identifier>
+        <dc:title>Esclave... ou reine?</dc:title>
+        <dc:creator opf:file-as="Delly" opf:role="aut">Delly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Delly est le nom de plume conjoint d'un frère et d'une sœur, Jeanne-Marie Petitjean de La Rosière, née à Avignon en 1875, et Frédéric Petitjean de La Rosière, né à Vannes en 1876, auteurs de romans d'amour populaires. Les romans de Delly, peu connus des lecteurs actuels et ignorés par le monde universitaire, furent extrêmement populaires entre 1910 et 1950, et comptèrent parmi les plus grands succès de l'édition mondiale à cette époque. Extrait : Sa voix était froide, très calme, mais Lise frissonna sous le regard dur et troublant qui s'attachait sur elle. La main de la jeune femme s'entrouvrit, laissant voir la fleur blanche. Mais elle ne la tendit pas à Serge. Ce fut lui qui la prit entre ses doigts gantés. Il la jeta à terre et appuya son talon dessus. -- Voilà ce que je fais des « fleurs du souvenir ». Quant à une pareille résistance à ma volonté, je me dispense de la qualifier. Mais je vous engage à ne plus recommencer une scène de ce genre. Il lui prit le bras, et, le serrant sous le sien, emmena la jeune femme vers la porte du cimetière. Elle se laissait faire, incapable de résister. Mais son pauvre cœur bondissait de douleur et d'effroi, et des larmes s'amoncelaient sous ses paupières frémissantes.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1339-7</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1339-7</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">delly_-_esclave_ou_reine</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Delly&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:50.779371+00:00" name="calibre:timestamp"/>
+        <meta content="Esclave... ou reine?" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

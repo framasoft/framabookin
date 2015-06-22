@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1612</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">85c0ea07-79a6-44ab-b25d-ccee43f76616</dc:identifier>
+        <dc:title>Les portes de l'enfer</dc:title>
+        <dc:creator opf:file-as="Level, Maurice" opf:role="aut">Maurice Level</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1910-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Après avoir fait des études de médecine, il fut journaliste au Figaro, à la Vie parisienne et au Matin. Écrivain, il s'était spécialisé, bien qu'il ait abordé à peu près tous les genres littéraires et notamment le fantastique, dans la littérature d'épouvante. Il a donné des romans (les plus connus sont Lady Harrington, L'Epouvante, La Cité des voleurs) et de très nombreux contes et nouvelles. Extrait : Je ne sais pourquoi, mais il me sembla que la porcelaine frappant à intervalles réguliers la planchette, rendait un son bizarre et douloureux. Sous la lumière rouge, le liquide caressait la plaque dans un va-et-vient monotone~: le bruit léger qu'il faisait le long des parois évoquait un bruit de sanglots, et je ne pouvais détacher mes yeux de ce carré de verre à la couleur laiteuse qui, peu à peu, se teintait de noir, vers les bords. Le bain, d'abord très clair, fonça insensiblement~; bientôt, une tache apparut au milieu de la plaque, une tache qui, peu à peu, s'élargit, adoucie par endroits de nuances plus claires. Je regardai mon ami. Ses lèvres, agitées d'un tremblement, murmuraient d'inintelligibles paroles.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0898-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0898-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">level_maurice_-_les_portes_de_l_enfer</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>nouvelle</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Maurice Level&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:16.856161+00:00" name="calibre:timestamp"/>
+        <meta content="portes de l'enfer, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

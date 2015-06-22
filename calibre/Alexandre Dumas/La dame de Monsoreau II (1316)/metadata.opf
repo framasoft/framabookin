@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1316</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5ee98ebd-7094-4eb2-926b-822daa9b54f5</dc:identifier>
+        <dc:title>La dame de Monsoreau II</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La suite de «La reine Margot». Deuxième partie de la trilogie sur les guerres de religion, entre La Reine Margot et Les Quarante-Cinq.  Henri III a succédé à son frère Charles IX sur le trône de France. Henri est un roi superstitieux et indécis qui laisse gouverner   sa mère, Catherine de Médicis. Le pays est toujours divisé par les luttes entre catholiques et protestants et le roi ne peut compter que sur quelques amis : ses mignons, Saint-Luc, et surtout son bouffon, Chicot, en qui il a toute confiance. Il doit notamment sans cesse composer avec son frère le duc d'Anjou et se défier de nombreux ennemis, dont les Guise qui ont créé une Ligue de catholiques. Extrait : Et, tandis que David se tordait dans les convulsions de l'agonie, Chicot courut au lit, souleva le matelas et trouva, sous le chevet, un petit rouleau de parchemin, que David, dans l'ignorance de la catastrophe qui le menaçait, n'avait pas songé à cacher mieux. Au moment même où il le déroulait pour s'assurer que c'était bien le papier qu'il cherchait, David se soulevait avec rage, puis, retombant aussitôt, rendait le dernier soupir. Chicot parcourut d'abord d'un œil étincelant de joie et d'orgueil le parchemin...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0020-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0020-5</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0021-2</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_la_dame_de_monsoreau_ii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:16.363827+00:00" name="calibre:timestamp"/>
+        <meta content="dame de Monsoreau II, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

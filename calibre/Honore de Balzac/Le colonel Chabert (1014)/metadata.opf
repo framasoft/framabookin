@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1014</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5b1ba961-e0cf-4f80-b611-4ccfb961d4c4</dc:identifier>
+        <dc:title>Le colonel Chabert</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études de moeurs. Troisième livre, Scènes de la vie parisienne - Tome II. Dixième volume de l'édition Furne 1842. Extrait : ...le vieillard resta silencieux, et sa bizarre figure prit une expression si dépourvue d’intelligence, que le clerc, après l’avoir regardé, ne s’occupa plus de lui. Quelques instants après, Derville rentra, mis en costume de bal ; son Maître clerc lui ouvrit la porte, et se remit à achever le classement des dossiers. Le jeune avoué demeura pendant un moment stupéfait en entrevoyant dans le clair-obscur le singulier client qui l’attendait. Le colonel Chabert était aussi parfaitement immobile que peut l’être une figure en cire de ce cabinet de Curtius où Godeschal avait voulu mener ses camarades. Cette immobilité n’aurait peut-être pas été un sujet d’étonnement, si elle n’eût complété le spectacle surnaturel que présentait l’ensemble du personnage. Le vieux soldat était sec et maigre. Son front, volontairement caché sous les cheveux de sa perruque lisse, lui donnait quelque chose de mystérieux. Ses yeux paraissaient couverts d’une taie transparente : vous eussiez dit de la nacre sale dont les reflets bleuâtres chatoyaient à la lueur des bougies. Le visage pâle, livide, et en lame de couteau, s’il est permis d’emprunter cette expression vulgaire, semblait mort. Le cou était serré par une mauvaise cravate de soie noire. L’ombre cachait si bien le corps à partir de la ligne brune que décrivait ce haillon, qu’un homme d’imagination aurait pu prendre cette vieille tête pour quelque silhouette due au hasard, ou pour un portrait de Rembrandt, sans cadre. Les bords du chapeau qui couvrait le front du vieillard projetaient un sillon noir sur le haut du visage.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1004-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1004-4</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0973-4</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_le_colonel_chabert</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture avancée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:14.616616+00:00" name="calibre:timestamp"/>
+        <meta content="colonel Chabert, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

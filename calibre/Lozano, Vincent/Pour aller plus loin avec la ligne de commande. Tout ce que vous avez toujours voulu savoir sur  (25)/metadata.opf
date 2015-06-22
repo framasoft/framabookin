@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e3a5f97b-a429-49cb-8962-ebbc7ae65c21</dc:identifier>
+        <dc:title>Pour aller plus loin avec la ligne de commande. Tout ce que vous avez toujours voulu savoir sur Unix sans jamais oser le demander</dc:title>
+        <dc:creator opf:file-as="Lozano, Vincent" opf:role="aut">Lozano, Vincent</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-30T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;Lors de la création d’Unix, au début des années 70, un de ses concepteurs établit trois règles pour concevoir les composants de la « boîte à outils » qui permit à Unix de s’étendre :&lt;p&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Écrivez des programmes qui font une chose et le font bien;&lt;/li&gt;
+&lt;li&gt;Écrivez des programmes qui peuvent communiquer entre eux;&lt;/li&gt;
+&lt;li&gt;Écrivez des programmes qui traitent des flux de texte car c’est l’interface universelle.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Aujourd’hui, Vincent Lozano vous propose à la fois de découvrir ces outils, situés « sous le capot » de votre distribution Unix (GNU/Linux en est une) mais aussi de concevoir les vôtres.&lt;/p&gt;&lt;p&gt;
+Si vous appréciez votre système Unix et que vous pressentez qu’il existe des outils qui rendent votre système programmable, cet ouvrage est pour vous ! Le langage de commande d’Unix vous offre en effet la possibilité de piloter votre système d’exploitation – et donc votre ordinateur – par le biais de scripts. Pour planifier des tâches aussi précises que vous le souhaitez, vous aurez donc le loisir de passer des ordres, à la fois de manière souple et puissante, à votre système informatique.&lt;/p&gt;
+&lt;p&gt;Dans cet ouvrage vous découvrirez les liens qui unissent l’histoire d’Unix et le mouvement pour les logiciels libres. Vous vous plongerez dans les utilitaires classiques de votre système et apprendrez à les assembler. Vous serez donc à même d’ajouter de nouvelles pièces à la boîte à outils. L’auteur vous guidera également pour que vous parveniez à créer vos propres programmes écrits dans le langage du système d’exploitation : le langage de commande.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Framasoft, In Libro Veritas</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9782359220230</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>Framabook</dc:subject>
+        <dc:subject>unix</dc:subject>
+        <dc:subject>manuel</dc:subject>
+        <dc:subject>ligne de commande</dc:subject>
+        <meta content="{&quot;Lozano, Vincent&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-05-26T17:16:50.608023+00:00" name="calibre:timestamp"/>
+        <meta content="Pour aller plus loin avec la ligne de commande. Tout ce que vous avez toujours voulu savoir sur Unix sans jamais oser le demander" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

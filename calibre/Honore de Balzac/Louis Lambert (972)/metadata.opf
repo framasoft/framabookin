@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">972</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d4b10e3b-ed29-4133-ad6f-726b90c345fd</dc:identifier>
+        <dc:title>Louis Lambert</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études philosophiques. Seizième volume de l'édition Furne 1842. Extrait : Le père Haugoult se mit donc à raconter fort complaisamment les singuliers événements qui allaient, le lendemain, nous valoir le plus extraordinaire des Nouveaux. Aussitôt les jeux cessèrent. Tous les Petits arrivèrent en silence pour écouter l’aventure de ce Louis Lambert, trouvé, comme un aérolithe, par madame de Staël au coin d’un bois. Monsieur Haugoult dut nous expliquer madame de Staël : pendant cette soirée, elle me parut avoir dix pieds ; depuis j’ai vu le tableau de Corinne, où Gérard l’a représentée et si grande et si belle ; hélas ! la femme idéale rêvée par mon imagination la surpassait tellement, que la véritable madame de Staël a constamment perdu dans mon esprit, même après la lecture du livre tout viril intitulé De l’Allemagne. Mais Lambert fut alors une bien autre merveille : après l’avoir examiné, monsieur Mareschal, le directeur des études, avait hésité, disait le père Haugoult, à le mettre chez les Grands.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1026-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1026-6</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1052-5</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_louis_lambert</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:06.206294+00:00" name="calibre:timestamp"/>
+        <meta content="Louis Lambert" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

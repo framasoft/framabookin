@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1146</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9b741387-4bbf-4abf-845d-1eb3c3751513</dc:identifier>
+        <dc:title>La colombe</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>En mai 1637, la colombe Iris revient chez sa maîtresse, une religieuse du nom d'Isabelle de Lautrec, au bout d'une semaine d'absence. Quelle surprise pour Isabelle de retrouver, accrochée à la patte de sa colombe, une lettre d'un correspondant mystérieux. Piquée par la curiosité, elle veut en savoir plus et un échange régulier de lettres commence alors. Extrait : Vous n'accusez ni Iris, ni moi, n'est-ce pas ? Je n'étais point dans ma chambre lorsque votre messagère est arrivée : seulement la fenêtre était ouverte pour cueillir les premiers souffles de la brise du soir. Iris est entrée, et, comme si la charmante petite créature avait compris qu'elle avait une lettre à rendre et une réponse à emporter, elle a patiemment attendu mon retour, et, lorsque je suis rentré, de la planche sur laquelle elle était posée, elle avait volé sur mon épaule... Hélas ! dans la chute que j'ai faite à travers les divers degrés de la grandeur humaine, j'ai, aux deux côtés du chemin, trouvé bien des émotions tristes ou joyeuses. Eh bien ! nulle n'a été plus triste que celle dont je me sentis saisi, lorsqu'en vous renvoyant votre colombe, dont je ne savais pas même le nom, nom prédestiné, vous l'avez dit vous-même, j'ai cru me séparer d'elle à jamais. Nulle n'a été plus joyeuse que celle que j'ai éprouvée, lorsque, croyant m'être séparé d'elle à jamais, je l'ai aperçue dans ma chambre et que j'ai senti la fraîcheur de son aile caresser ma joue en venant se poser sur mon épaule.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1411-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1411-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_la_colombe</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:41.568599+00:00" name="calibre:timestamp"/>
+        <meta content="colombe, La" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

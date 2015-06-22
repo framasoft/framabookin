@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1360</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ed446fce-384c-4e0a-b912-147986b7cc22</dc:identifier>
+        <dc:title>Tarass Boulba</dc:title>
+        <dc:creator opf:file-as="Gogol, Nicolaï" opf:role="aut">Nicolaï Gogol</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1839-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Tarass Boulba est un cosaque ukrainien robuste et belliqueux. Ses deux fils, Andreï et Ostap, rentrant de Kiev après avoir fini leurs études, sont très vite conduits à la Setch, le campement militaire cosaque. Une rumeur circulant dans le camp constitue un motif suffisant pour entrer en guerre contre les Polonais, au nom de la défense de la foi orthodoxe. Extrait : De quelle manière veux-tu donc te battre avec moi, est-ce à coups de poing ? – La manière m'est fort égale. – Va pour les coups de poing, répondit Tarass Boulba en retroussant ses manches. Je vais voir quel homme tu fais à coups de poing. Et voilà que père et fils, au lieu de s'embrasser après une longue absence, commencent à se lancer de vigoureux horions dans les côtes, le dos, la poitrine, tantôt reculant, tantôt attaquant. – Voyez un peu, bonnes gens : le vieux est devenu fou ; il a tout à fait perdu l'esprit, disait la pauvre mère, pâle et maigre, arrêtée sur le perron, sans avoir encore eu le temps d'embrasser ses fils bien-aimés. Les enfants sont revenus à la maison, plus d'un an s'est passé depuis qu'on ne les a vus ; et lui, voilà qu'il invente, Dieu sait quelle sottise… se rosser à coups de poing !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0949-9</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0949-9</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">gogol_nicolai_-_tarass_boulba</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Russie</dc:subject>
+        <meta content="{&quot;Nicolaï Gogol&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:25.534439+00:00" name="calibre:timestamp"/>
+        <meta content="Tarass Boulba" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

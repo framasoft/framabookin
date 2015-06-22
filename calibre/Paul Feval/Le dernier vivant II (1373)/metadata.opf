@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1373</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9cfe0f3f-c4a2-49b6-b171-4fc05599d8af</dc:identifier>
+        <dc:title>Le dernier vivant II</dc:title>
+        <dc:creator opf:file-as="Féval, Paul" opf:role="aut">Paul Féval</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1871-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : - Vous direz à M. Geoffroy de Rœux que je pleure toujours mon fils Albert, le jour et la nuit. C'est en automne qu'il aurait eu ses trente ans. Je suis obligée de partir parce qu'on m'a invitée en vendanges, mais je compte sur M. de Rœux pour se mettre à la recherche de cette drôlesse de Fanchette. On l'a laissée partir. La justice est une bête. M. de Rœux nous doit bien ça à mon fils et à moi. L'autre ami de mon fils, l'avocat Thibaut, s'est mis du côté de la coquine. Il y a des hommes bien abominables ! Quand je reviendrai de la Bourgogne, je verrai votre maître. Dites-lui qu'il peut s'adresser à M. le conseiller Ferrand pour les démarches. C'est un aimable homme, et fort au whist. Si on retrouve la créature, je la déchirerai de mes propres mains, allez ! »</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1453-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1453-0</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">feval_paul_-_le_dernier_vivant_ii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Paul Féval&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:28.130464+00:00" name="calibre:timestamp"/>
+        <meta content="dernier vivant II, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

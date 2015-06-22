@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1583</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e9f12718-0027-46ef-87b8-4b3567e600ad</dc:identifier>
+        <dc:title>L'île aux Trente-Cercueils</dc:title>
+        <dc:creator opf:file-as="Leblanc, Maurice" opf:role="aut">Maurice Leblanc</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1919-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Ce roman paraît en feuilleton dans Le Journal à partir de juin 1919, mais l'auteur y travaillait depuis début 1918. Le volume sort en librairie en octobre 1919. À noter qu'en 1922, il sortira en deux volumes : Véronique et La Pierre miraculeuse. Il relate les aventures de Véronique d'Hergemont, à la recherche de son père et de son fils, déclarés morts en 1902. Extrait : Au bout d'un instant, l'émotion croissante des sœurs Archignat fit comprendre à Véronique que l'on approchait du Grand-Chêne, et elle l'aperçut en effet, plus gros que les autres, élevé sur un piédestal de terre et de racines, et séparé d'eux par des intervalles plus grands. Il lui fut impossible de ne pas penser que plusieurs hommes pouvaient se dissimuler derrière ce tronc massif, et qu'il s'en dissimulait peut-être. Malgré leur effroi, les sœurs avaient accéléré l'allure, et elles ne regardèrent pas l'arbre fatal. On s'en éloigna. Véronique respira plus librement. Tout danger était passé, et elle allait railler les sœurs Archignat, lorsque l'une d'elles, Clémence, tournoya sur elle-même et s'abattit avec un gémissement. En même temps quelque chose tomba à terre, quelque chose qui l'avait frappée dans le dos. C'était une hache, une hache de pierre.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1617-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1617-6</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1613-8</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leblanc_maurice_-_l_ile_aux_trente-cercueils</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Maurice Leblanc&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:10.941759+00:00" name="calibre:timestamp"/>
+        <meta content="île aux Trente-Cercueils, L'" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

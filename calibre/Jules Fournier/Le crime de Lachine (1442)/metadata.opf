@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1442</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1049198d-fd05-4194-957a-ec9deac70eeb</dc:identifier>
+        <dc:title>Le crime de Lachine</dc:title>
+        <dc:creator opf:file-as="Fournier, Jules" opf:role="aut">Jules Fournier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1904-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Jules Fournier n'a écrit qu'un seul roman, Le crime de Lachine. Il en a fait la rédaction, comme il le dit lui-même dans la préface, en une semaine, soit du 19 au 26 décembre 1904, alors qu'il n'a que vingt ans. Il destinait cette œuvre pour une collection de livres à dix sous, mais par la suite la céda au journal Le Canada qui le servit en feuilleton à ses lecteurs, un an plus tard, du 23 décembre 1905 au 18 janvier 1906. Le roman ne parut jamais en volume par la suite. Voici la première édition. Extrait : Son père semble maintenant revenu des mauvais sentiments qu'il eut à son égard. La perte de Georges, la maladie, puis d'autres épreuves encore l'ont porté à réfléchir, on dirait. Et il paraît aujourd'hui avoir le remords de ses anciennes actions, -- de la conduite qu'il eut si longtemps envers son jeune fils -- le meilleur, il s'en aperçoit enfin. Il ne lui parle plus, comme autrefois, avec injures. On dirait, à certains gestes, à certaines intonations, qu'il se sent gêné en présence de Maurice, qu'il a envie de lui demander pardon de ses longues et cruelles injustices.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1460-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1460-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">fournier_jules_-_le_crime_de_lachine</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Jules Fournier&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:42.023647+00:00" name="calibre:timestamp"/>
+        <meta content="crime de Lachine, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

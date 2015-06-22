@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1786</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6694e2e9-c4a9-49ed-957d-7598b657c394</dc:identifier>
+        <dc:title>À l'oeil</dc:title>
+        <dc:creator opf:file-as="Allais, Alphonse" opf:role="aut">Alphonse Allais</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Pendant quinze années et, plusieurs fois par semaine, Alphonse Allais a distribué de la joie à des milliers de lecteurs. Alors, dans les wagons qui des banlieues amènent à Paris ouvriers et ouvrières, petits et petites employés, dans le métro, dans les omnibus (il n'y avait pas encore d'autobus), dans la rue, on entendait cette phrase : -- « Avez-vous lu celui de ce matin ? » -- Il s'agissait de l'article d'Alphonse Allais et, pendant quelques instants, ces humbles gens avaient pu croire, effectivement, que la vie était drôle. Résultat émouvant ! L'explication de cette réussite, comme l'a très bien remarqué Alfred Capus, c'est qu'Alponse Allais avait du goût. La muflerie, la bassesse, l'hypocrisie, l'avarice, la méchanceté, lui faisaient horreur. Il avait aussi un grand bon sens, jusque-là qu'il a pu signer Francisque Sarcey de petites parodies d'une drôlerie impayable, et dont l'Oncle était le premier à rire aux larmes.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1218-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1218-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">allais_alphonse_-_a_l_oeil</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alphonse Allais&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:52.106411+00:00" name="calibre:timestamp"/>
+        <meta content="À l'oeil" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

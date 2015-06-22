@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1515</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">054ef11d-5ef3-434c-bf2e-ac6acf9124de</dc:identifier>
+        <dc:title>Cité Ménard</dc:title>
+        <dc:creator opf:file-as="Gréville, Henry" opf:role="aut">Henry Gréville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1880-06-02T23:00:00+00:00</dc:date>
+        <dc:description>Henry Gréville, pseudonyme de Alice Marie Céleste Durand née Fleury (1842-1902), a publié de nombreux romans, des nouvelles, des pièces, de la poésie ; elle a été à son époque un écrivain à succès. Extrait : - Elle est morte ? C'est celui-là qui aurait dû mourir avec elle, et pas le mien ! Personne n'avait besoin de celui-là, qui n'était pas né, et moi j'avais besoin du mien. Ôtez-le bien vite, Cécile, emportez-le, je n'en veux pas. Ah ! oui, les mères devraient mourir avec leurs petits ; ce serait plus juste ! -- Ce n'est pas sa faute, madame Gardin, ce n'est la faute de personne ! Regardez-le, comme il a bonne envie de vivre.-- Je n'en veux pas ! fit délibérément la mère en se levant et en refermant sa robe. Mais la douleur que lui causait la montée du lait, appelé par les lèvres de l'enfant, devint si intolérable qu'elle se laissa retomber sur sa chaise.-- Ah ! que je souffre ! dit-elle d'une voix éteinte.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1501-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1501-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">greville_henry_-_cite_menard</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Henry Gréville&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:57.307891+00:00" name="calibre:timestamp"/>
+        <meta content="Cité Ménard" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

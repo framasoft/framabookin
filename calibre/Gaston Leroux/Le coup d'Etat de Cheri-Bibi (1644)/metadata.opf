@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1644</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a9b9de1e-e82c-4877-bd17-4ca72b48e151</dc:identifier>
+        <dc:title>Le coup d'État de Chéri-Bibi</dc:title>
+        <dc:creator opf:file-as="Leroux, Gaston" opf:role="aut">Gaston Leroux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1925-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Paris est une poudrière. Dans la rue, dans les bistrots, dans les clubs, on ne parle que coup d'état et révolution. Inerte, le gouvernement semble coincé entre les extrémistes de gauche et les partisans du commandant Jacques qui prônent une reprise en main autoritaire. A l'Assemblée Nationale, l'arrestation du jeune député semble imminente quand, coup sur coup, ses deux accusateurs décèdent. Hasard providentiel ou meurtre ? Qu'importe pour l'impétueux commandant. Mais peut-être changerait-il d'avis s'il connaissait l'identité de son ange gardien. Publié sous le titre "Chéri-Bibi, le marchand de cacahouètes" en 81 feuilletons quotidiens dans "Le Matin", du 16 juillet au 4 octobre 1925, puis en volume en 1926, Librairie Baudinière. Extrait : - Ah ! mon cher ami, quelle chose atroce que le transport de ce cadavre à la tribune avec son poignard dans le cœur ! Une scène de la révolution, vous dis-je. J'ai vu une scène de la révolution ! - Vous avez vu un fait divers, répliqua Florent d'un ton sec, car il était fort vexé de n'avoir point assisté à cette scène-là et il ne manquait point d'en abaisser autant qu'il le pouvait le caractère, désespéré à l'idée du succès que ce satané Barkimel allait avoir le soir, dans les arrière-boutiques, en le racontant. - Un fait divers. On vous en donnera tous les jours des faits divers comme celui-là, fit Barkimel, offusqué plus qu'on ne saurait dire : un fait divers !</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0269-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0269-8</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leroux_gaston_-_le_coup_d_etat_de_cheri-bibi</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gaston Leroux&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:23.226556+00:00" name="calibre:timestamp"/>
+        <meta content="coup d'État de Chéri-Bibi, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

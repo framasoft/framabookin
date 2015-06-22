@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1814</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">98401c0f-fe94-4120-b29a-8c2642ec927b</dc:identifier>
+        <dc:title>Adieu</dc:title>
+        <dc:creator opf:file-as="Balzac, Honoré de" opf:role="aut">Honoré de Balzac</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>La Comédie humaine - Études philosophiques - Tome II. Quinzième volume de l'édition Furne 1842.Extrait : Monsieur d’Albon admira les longs cils de ses yeux, ses sourcils noirs bien fournis, une peau d’une blancheur éblouissante et sans la plus légère nuance de rougeur. De petites veines bleues tranchaient seules sur son teint blanc. Quand le conseiller se tourna vers son ami pour lui faire part de l’étonnement que lui inspirait la vue de cette femme étrange, il le trouva étendu sur l’herbe et comme mort. Monsieur d’Albon déchargea son fusil en l’air pour appeler du monde, et cria : *Au secours !* en essayant de relever le colonel. Au bruit de la détonation, l’inconnue, qui était restée immobile, s’enfuit avec la rapidité d’une flèche, jeta des cris d’effroi comme un animal blessé, et tournoya sur la prairie en donnant les marques d’une terreur profonde. Monsieur d’Albon entendit le roulement d’une calèche sur la route de l’Île-Adam, et implora l’assistance des promeneurs en agitant son mouchoir. Aussitôt, la voiture se dirigea vers les Bons-Hommes, et monsieur d’Albon y reconnut monsieur et madame de Grandville, ses voisins, qui s’empressèrent de descendre de leur voiture en l’offrant au magistrat. Madame de Grandville avait, par hasard, un flacon de sels, que l’on fit respirer à monsieur de Sucy. Quand le colonel ouvrit les yeux, il les tourna vers la prairie où l’inconnue ne cessait de courir en criant, et laissa échapper une exclamation indistincte, mais qui révélait un sentiment d’horreur ; puis il ferma de nouveau les yeux en faisant un geste comme pour demander à son ami de l’arracher à ce spectacle. Monsieur et madame de Grandville laissèrent le conseiller libre de disposer de leur voiture, en lui disant obligeamment qu’ils allaient continuer leur promenade à pied.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0962-8</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0962-8</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1015-0</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">balzac_honore_de_-_adieu</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Honoré de Balzac&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:57.634272+00:00" name="calibre:timestamp"/>
+        <meta content="Adieu" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

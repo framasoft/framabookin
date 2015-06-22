@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1633</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3ee37b38-cfd6-42b6-9457-c5244ed56efc</dc:identifier>
+        <dc:title>Les étranges noces de Rouletabille</dc:title>
+        <dc:creator opf:file-as="Leroux, Gaston" opf:role="aut">Gaston Leroux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1914-06-02T23:00:00+00:00</dc:date>
+        <dc:description>La suite du Château noir... Les noces dont il est question dans le titre concerne Ivana et notre sympathique reporter... Extrait : Le Bulgare dormait profondément, enveloppé dans son manteau qui lui servait de couverture. À la lueur de la bougie plantée dans le goulot d'une bouteille, Rouletabille considéra assez longtemps ce rude visage. Pendant le sommeil, il était vraiment apaisé, c'était là une figure d'honnête homme qui ne reflétait aucun remords et qui se reposait de tous les tourments des jours mauvais, lesquels depuis plus de dix ans avaient creusé leurs sillons terribles dans cette chair encore jeune. «~Il est digne d'être aimé~!~» se dit Rouletabille, mais il pensa qu'Ivana ne l'aimait pas et que c'était une traîtresse qui avait trompé tout le monde. Là-dessus, il se déshabilla, fit ses ablutions comme chez lui, éteignit le fourneau à pétrole et se glissa sous les couvertures de son lit de camp. À tout hasard, sur la tablette, il avait mis une carabine toute chargée à portée de sa main. Il  s'endormit en pensant à sainte Sophie et il rêva qu'il se noyait dans une cataracte.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0280-3</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0280-3</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0289-6</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leroux_gaston_-_les_etranges_noces_de_rouletabille</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture intermédiaire</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gaston Leroux&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:21.067661+00:00" name="calibre:timestamp"/>
+        <meta content="étranges noces de Rouletabille, Les" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

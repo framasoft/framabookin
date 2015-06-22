@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1081</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">310cf7da-efc9-4d1b-89c9-034f55dd7673</dc:identifier>
+        <dc:title>Un amour vrai</dc:title>
+        <dc:creator opf:file-as="Conan, Laure" opf:role="aut">Laure Conan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Marie-Louise Félicité Angers, dite Laure Conan, née à La Malbaie (Canada-Est, aujourd'hui le Québec) le 9 janvier 1845, décédée le 6 juin 1924 à l'Hôtel-Dieu de Québec, est une écrivaine canadienne-française. En 1862, elle fait la connaissance de l'arpenteur-géomètre Pierre-Alexis Tremblay qui lui fait une cour assidue. Leur rupture, en 1868, met un terme à sa vie publique. Elle s'isole dans sa vaste demeure et remet en cause les conventions sociales, puis décide de se consacrer à l'écriture. Extrait :J'ai été témoin dans ma vie d'un héroïque sacrifice. Celle qui l'a fait et celui pour qui il a été fait sont maintenant dans l'éternité. J'écris ces quelques pages pour les faire connaître. Leur souvenir m'a suivie partout, mais c'est surtout ici, dans cette maison où tout me les rappelle, que j'aime à remuer les cendres de mon cœur. Ô mon Dieu, vous êtes infiniment bon pour toutes vos créatures, mais vous êtes surtout bon pour ceux que vous affligez. Vous savez quel vide ils ont laissé dans ma vie et dans mon cœur~; et pourtant, même dans mes plus amères tristesses, j'éprouve un immense besoin de vous remercier et de vous bénir. Oui, soyez béni, pour m'avoir donné le bonheur de les connaître et de les aimer~; soyez béni pour cette foi profonde, pour cette admirable générosité, pour cette si grande puissance d'aimer que vous aviez mises dans ces deux nobles cœurs.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0858-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0858-4</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">conan_laure_-_un_amour_vrai</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Canada</dc:subject>
+        <meta content="{&quot;Laure Conan&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:27.989977+00:00" name="calibre:timestamp"/>
+        <meta content="amour vrai, Un" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

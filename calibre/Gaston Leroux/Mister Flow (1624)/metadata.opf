@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1624</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">478001db-ddaf-4fc9-a4e4-08f43c7cd368</dc:identifier>
+        <dc:title>Mister Flow</dc:title>
+        <dc:creator opf:file-as="Leroux, Gaston" opf:role="aut">Gaston Leroux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1927-06-02T22:00:00+00:00</dc:date>
+        <dc:description>Mister Flow est un malfaiteur qui emprisonné pour une peccadille, réussit à engager son avocat, Antonin Roze, dans la plus folle des aventures qui l'amène à s'éprendre de Lady Scarlett, la maîtresse du malfaiteur. Lady Scarlett séduite, s'enfuit avec lui après avoir essayé de le compromettre dans des cambriolages. Extrait : Quelles pauvres choses on me passe au greffe ! Le dossier le plus important, écoutez cela ! C'est celui qui a le plus de chance de mettre en valeur ma haute éloquence : « Vol et abus de confiance » : un domestique qui a volé une épingle de cravate à son maître. L'homme ne nie pas. Il a été pris sur le fait ; un imbécile par-dessus le marché. Il s'appelle Charles Durin. Et voilà ! Et pourtant, il y a des coups de couteau ! Ils ne sont jamais pour moi ! Des crimes magnifiques, des escroqueries étourdissantes ! Jamais époque judiciaire n'a été plus fertile en miracles. Ouvrez un journal. De la première à la dernière colonne (dernière heure mise à part et publicité), ça n'est qu'exploits d'apaches du grand monde ! Car les autres n'existent plus\ldots{} Ils ont déserté les bouges et remisé leurs casquettes. Ils ont appris à danser et s'habillent place Vendôme.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0286-5</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0286-5</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leroux_gaston_-_mister_flow</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gaston Leroux&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:19.250463+00:00" name="calibre:timestamp"/>
+        <meta content="Mister Flow" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">993</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1d50cd15-d848-4e83-a048-26d2cb7a2dd4</dc:identifier>
+        <dc:title>J’accuse !</dc:title>
+        <dc:creator opf:file-as="Barbusse, Henri" opf:role="aut">Henri Barbusse</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1932-12-14T23:00:00+00:00</dc:date>
+        <dc:description>Henri Barbusse, l'auteur du « Feu », Henri Barbusse qui a lancé à la face du belliciste Tardieu son « J'accuse! ». Henri Barbusse un des hommes qui est à l'origine du mouvement mondial contre la guerre impérialiste et le fascisme, dont le Congrès d'Amsterdam en 1932 a constitué le point de départ. Extrait : J’ACCUSE tous les gouvernements français qui se sont succédé depuis la guerre d’avoir accueilli, encouragé, aidé, payé et armé les sociétés de moins en moins secrètes de gardes blancs, qui constituent une organisation internationale de criminels ayant pour but le meurtre et la guerre. J’ACCUSE les gouvernements d’être responsables des assassinats successivement commis par ces bandits, dont les énormes, multiples et opulents groupements étendent leurs tentacules sur le monde entier et ont leur foyer en France.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1055-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1055-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">barbusse_henri_-_j_accuse</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>non-fiction</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Henri Barbusse&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:10.430854+00:00" name="calibre:timestamp"/>
+        <meta content="J’accuse !" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

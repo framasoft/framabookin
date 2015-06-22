@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1822</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a8989cc6-62aa-48f3-a11a-22a4c14c31e3</dc:identifier>
+        <dc:title>Le chercheur de pistes</dc:title>
+        <dc:creator opf:file-as="Aimard, Gustave" opf:role="aut">Gustave Aimard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Extrait : Depuis que les Américains des États-Unis ont révélé au monde, en s'emparant de la moitié du Mexique, où tend leur ambition, les habitants de ce beau pays sont un peu sortis de la torpeur dans laquelle ils se complaisaient et ont tenté de grands efforts pour coloniser leurs provinces et appeler sur leur sol, si riche et si fécond, des hommes intelligents, travailleurs et industrieux, qui pussent changer la face des choses et faire régner l'abondance et la richesse partout où, avant eux, ne se trouvaient que ruines, désolation, incurie et misère. Malheureusement, les nobles efforts tentés jusqu'à ce jour sont, par une fatalité incompréhensible, restés sans résultat, soit à cause de l'apathie naturelle des habitants, soit par la faute du gouvernement mexicain lui-même. Cependant de grands propriétaires, comprenant toute l'opportunité de la mesure proposée et combien il était de leur intérêt de combattre l'influence mortelle, pour leur nationalité, des invasions américaines, se sont généreusement dévoués à la réalisation de cette grande question d'économie sociale qui, malheureusement, devient de plus en plus irréalisable.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1208-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1208-6</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">aimard_gustave_-_le_chercheur_de_pistes</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture aisée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gustave Aimard&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:59.167909+00:00" name="calibre:timestamp"/>
+        <meta content="chercheur de pistes, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

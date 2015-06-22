@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1266</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aba60d83-25c6-44fb-8efd-949a270cdf03</dc:identifier>
+        <dc:title>Le collier de la reine II</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Les «Mémoires d'un médecin» est une suite romanesque qui a pour cadre la Révolution Française et qui comprend «Joseph Balsamo», «le Collier de la reine», «Ange Pitou» et la «Comtesse de Charny». Jeanne de Valois, comtesse de la Motte, descendante d'Henri III, vit dans la misère jusqu'à ce qu'elle obtienne, à force de sollicitations, la protection de Marie-Antoinette, reine de France, et du cardinal Louis de Rohan. La reine déteste le cardinal de Rohan alors que celui-ci n'a qu'une envie: lui plaire. Extrait : Reteau eût bien voulu revenir sur ses pas, mais le jeune homme à la canne, celui qui le premier s'était présenté à ses yeux, avait enfoncé la porte d'un coup de pied, l'avait suivi, et maintenant qu'il était arrêté par la vue de cette autre sentinelle, armée aussi d'une épée et d'une canne, il n'avait qu'une main à étendre pour le saisir. Reteau se trouvait pris entre deux feux, ou plutôt entre deux cannes, dans une espèce de petite cour obscure, perdue, sourde, située entre les dernières chambres de l'appartement et la bienheureuse grille qui donnait sur la rue des Vieux-Augustins, c'est-à-dire, si le passage eût été libre, sur le salut et la liberté. -~Monsieur, laissez-moi passer, je vous prie, dit Reteau au jeune homme qui gardait la grille...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0041-0</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0041-0</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1376-2</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_le_collier_de_la_reine_ii</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>jeunesse</dc:subject>
+        <dc:subject>lecture avancée</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:17:06.355029+00:00" name="calibre:timestamp"/>
+        <meta content="collier de la reine II, Le" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

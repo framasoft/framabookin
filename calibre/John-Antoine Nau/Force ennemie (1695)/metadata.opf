@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1695</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">54c32169-e87c-45fa-baa3-f55ef253c971</dc:identifier>
+        <dc:title>Force ennemie</dc:title>
+        <dc:creator opf:file-as="Nau, John-Antoine" opf:role="aut">John-Antoine Nau</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1904-12-14T23:00:00+00:00</dc:date>
+        <dc:description>Force ennemie est publié en 1903 et récompensé par le premier Prix Goncourt de l'histoire la même année. Lorsque Force ennemie fut couronné par le prix Goncourt en décembre 1903, John-Antoine Nau n'avait publié jusque-là que quelques nouvelles dans La Revue blanche et une plaquette de vers à compte d'auteur. C'est donc le livre d'un parfait inconnu qui circula parmi les membres du jury et qui finit par remporter le prix par six voix contre quatre. Le roman n'eut par la suite qu'un succès médiocre, ce qui n'empêcha pas le président de l'académie, J.-K. Huysmans, de dire bien plus tard : « C'est encore le meilleur que nous ayons couronné. »</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="SOURCE">BNF/éfélé</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1133-1</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1133-1</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">nau_john-antoine_-_force_ennemie</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Amérique</dc:subject>
+        <dc:subject>Etats-Unis</dc:subject>
+        <meta content="{&quot;John-Antoine Nau&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:33.525990+00:00" name="calibre:timestamp"/>
+        <meta content="Force ennemie" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

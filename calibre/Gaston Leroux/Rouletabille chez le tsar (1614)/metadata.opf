@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1614</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">24244aa1-5437-4693-b569-c28d33e24839</dc:identifier>
+        <dc:title>Rouletabille chez le tsar</dc:title>
+        <dc:creator opf:file-as="Leroux, Gaston" opf:role="aut">Gaston Leroux</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1913-06-02T23:00:00+00:00</dc:date>
+        <dc:description>En 1905, le journaliste Joseph Rouletabille est envoyé en Russie pour y effectuer un reportage1. Le Tsar lui demande de veiller sur le général Trébassof, menacé par des révolutionnaires. Fait prisonnier, le jeune Français échappe de justesse à l'implacable tribunal révolutionnaire... Extrait : Et, cette nuit, cette nuit où elle sent Rouletabille quelque part, autour d’elle… voilà, vraiment, qu’elle est moins inquiète… et pourtant les policiers ne sont plus là !… Aurait-il raison, ce petit ?… Il est certain (elle ne saurait se le dissimuler) qu’elle est beaucoup plus tranquille… plus tranquille maintenant que les policiers ne sont plus là… elle ne passe pas son temps à rechercher leurs ombres, dans l’ombre… à tâter l’ombre… les fauteuils… les canapés… à secouer leur torpeur… à les appeler tout bas, par leur petit nom et le petit nom de leur père… à leur promettre le natchaï important s’ils veillent bien… à les compter, pour savoir où ils sont tous… et, tout à coup, à leur jeter en plein visage le jet de lumière de sa petite lanterne sourde pour être sûre, bien sûre, qu’elle a en face d’elle, un de la police… et non point un autre… un autre avec une petite boîte infernale sous le bras !...</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0290-2</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0290-2</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-0267-4</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">leroux_gaston_-_rouletabille_chez_le_tsar</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Gaston Leroux&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:18:17.257224+00:00" name="calibre:timestamp"/>
+        <meta content="Rouletabille chez le tsar" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

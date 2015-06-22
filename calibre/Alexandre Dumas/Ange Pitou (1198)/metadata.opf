@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1198</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e47b2d45-b119-4673-b064-74ed772302e3</dc:identifier>
+        <dc:title>Ange Pitou</dc:title>
+        <dc:creator opf:file-as="Dumas, Alexandre" opf:role="aut">Alexandre Dumas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>Suite du cycle «Les mémoires d'un médecin». Écrit en 1850 et 1851 avec Auguste Maquet, le roman est consacré aux débuts de la Révolution. Gilbert, l'élève de Jean-Jacques Rousseau et l'ami de Balsamo, que l'on croyait mort revient en France après un séjour en Amérique où il a mis au service de la liberté ses talents de philosophe et de médecin. À peine arrivé au Havre,il se fait arrêter alors que dans le même temps, on vole un coffret lui appartenant et qu'il avait confié au fermier Billot de Villers-Cotterêts. Celui-ci part alors pour Paris afin de le prévenir de ce vol. Il est accompagné d'Ange Pitou, un jeune garçon de dix-huit ans, amoureux de Catherine, la fille du fermier, qui elle-même aime Isidore de Charny, un jeune noble. Ils arrivent à Paris le 13 juillet 1789 dans un climat troublé, et apprennent par Sébastien, le fils du docteur, que Gilbert est emprisonné à la Bastille. N'écoutant alors que son coeur, Billot fait preuve d'ingéniosité et de bravoure et, suivi d'Ange Pitou, aidé du peuple de Paris, il réussit l'impossible: prendre la Bastille et libérer le docteur Gilbert... Extrait : On retrouva devant la façade le même laquais qui avait reçu Gilbert. Mme de Staël lui fit un signe, et ouvrant les portes elle-même, elle conduisit Gilbert dans son cabinet -- charmante retraite, plus masculine au reste que féminine -- dont la seconde porte et les deux fenêtres donnaient sur un petit jardin, inaccessible, non seulement aux personnes étrangères, mais encore aux regards étrangers. Arrivée là, Mme de Staël referma la porte, et se tournant vers Gilbert : - Monsieur, dit-elle, au nom de l'humanité, je vous somme de me dire quel est le secret utile à mon père qui vous amène à Saint-Ouen.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-0001-4</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-0001-4</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1375-5</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">dumas_alexandre_-_ange_pitou</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>France</dc:subject>
+        <meta content="{&quot;Alexandre Dumas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:52.120797+00:00" name="calibre:timestamp"/>
+        <meta content="Ange Pitou" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>

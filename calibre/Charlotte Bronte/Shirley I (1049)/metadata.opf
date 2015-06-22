@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1049</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bc684c66-11bf-4589-bf3a-dabf30b9592c</dc:identifier>
+        <dc:title>Shirley I</dc:title>
+        <dc:creator opf:file-as="Brontë, Charlotte" opf:role="aut">Charlotte Brontë</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (1.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>C’est un tableau de mœurs, surtout du monde de la manufacture en crise sociale, mais où les vicaires (curates) anglicans jouent aussi un rôle et sont peints avec ironie et humour. Extrait : Les vicaires, pendant ce temps, buvaient à petits coups leur vin, liqueur d'un cru médiocre et modérément estimée. M. Malone eût certainement préféré du whisky ; mais M. Donne, qui était Anglais, ne tenait pas à ce breuvage. En buvant, ils argumentaient non sur la politique, ni sur la philosophie ou la littérature ; ces questions étaient alors, comme toujours, sans intérêt pour eux ; pas même sur la théologie pratique ou doctrinale ; mais sur des points insignifiants de discipline ecclésiastique, frivolités et bagatelles pour tout le monde, excepté pour eux.</dc:description>
+        <dc:publisher>Bibebook</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-2-8247-1282-6</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.bibebook.com/search/978-2-8247-1282-6</dc:identifier>
+        <dc:identifier opf:scheme="NEXT">978-2-8247-1283-3</dc:identifier>
+        <dc:identifier opf:scheme="SOURCE">BEQ</dc:identifier>
+        <dc:identifier opf:scheme="VERSION">2014-12-24</dc:identifier>
+        <dc:identifier opf:scheme="FILENAME">bronte_charlotte_-_shirley_i</dc:identifier>
+        <dc:language>fra</dc:language>
+        <dc:subject>fiction</dc:subject>
+        <dc:subject>classique</dc:subject>
+        <dc:subject>Europe</dc:subject>
+        <dc:subject>Angleterre</dc:subject>
+        <meta content="{&quot;Charlotte Brontë&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-06-03T20:16:21.573808+00:00" name="calibre:timestamp"/>
+        <meta content="Shirley I" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Couverture" type="cover"/>
+    </guide>
+</package>
